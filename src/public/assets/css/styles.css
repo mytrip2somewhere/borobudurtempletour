@@ -150,6 +150,11 @@ p { margin: 0 0 var(--s3); max-width: 64ch; }
 .keyfacts th, .keyfacts td { text-align:left; padding:.8rem 1rem; border-bottom:1px solid var(--line); vertical-align:top; }
 .keyfacts th { width:42%; font-family:var(--display); font-weight:700; color:var(--ink); background:var(--paper-2); }
 .keyfacts tr:last-child th, .keyfacts tr:last-child td { border-bottom:0; }
+/* mobile: multi-column fact tables scroll inside their own box, never the page */
+@media (max-width:640px){
+  .keyfacts { display:block; overflow-x:auto; -webkit-overflow-scrolling:touch; }
+  .keyfacts th { min-width: 9rem; }
+}
 
 /* ---- PRODUCT CARD (3.7 money component) ---- */
 .product-card { display:grid; grid-template-columns: 1fr 1.2fr; gap:0; background:#fff; border:1px solid var(--line); border-radius:var(--radius); overflow:hidden; box-shadow:var(--shadow); }
