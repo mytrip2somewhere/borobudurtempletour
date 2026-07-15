@@ -147,6 +147,52 @@ collections:
                   - { name: src, label: "Photo", widget: image }
                   - { name: alt, label: "Alt text (include a keyword)", widget: string, required: true }
 
+  # Guides: same editing model as blog (Phase 6.5c). Body is markdown + inline HTML, so
+  # tables, the infographic <figure> and the infogain <aside> stay hand-editable.
+  # NOTE: the page's FAQ schema is generated from the <details> accordion in the body at
+  # build time, so editing a question here updates the structured data automatically.
+  - name: guides
+    label: "Guides"
+    label_singular: "Guide"
+    folder: "src/content/guides"
+    extension: md
+    format: frontmatter
+    create: true
+    slug: "{{slug}}"
+    media_folder: "/src/public/images/uploaded/guides"
+    public_folder: "/images/uploaded/guides"
+    fields:
+      - { name: title, label: "Title (H1)", widget: string }
+      - { name: description, label: "Meta description (140-160 chars)", widget: text }
+      - { name: eyebrow, label: "Eyebrow (small label above the title)", widget: string, required: false }
+      - { name: lede, label: "Lede (intro line under the title)", widget: text, required: false }
+      - { name: quick_answer_label, label: "Quick answer: label", widget: string, required: false, hint: "e.g. 'Short answer'" }
+      - { name: quick_answer, label: "Quick answer: the answer box at the top", widget: text, required: false, hint: "The dark box under the title. HTML allowed. This is what AI answer engines lift, so answer the page's question completely here." }
+      - { name: hero, label: "Hero image token or path", widget: string, required: false, hint: "Leave as-is to keep the page's Sveltia image slot, or set a path. Blank = text-only header." }
+      - { name: hero_alt, label: "Hero alt text", widget: string, required: false }
+      - name: group
+        label: "Section on the Guides hub"
+        widget: select
+        options:
+          - { label: "Planning the visit", value: "planning" }
+          - { label: "Questions people ask", value: "questions" }
+      - { name: order, label: "Order on the hub (lower = first)", widget: number, required: false, value_type: int }
+      - { name: short_title, label: "Card title on the hub", widget: string, required: false }
+      - { name: card_blurb, label: "Card blurb on the hub", widget: text, required: false }
+      - { name: tag, label: "Card tag (e.g. 'Start here')", widget: string, required: false }
+      - name: related_tour
+        label: "Related tour (for the closing CTA)"
+        widget: select
+        required: false
+        options:
+          - { label: "Borobudur Sunrise Climb & Prambanan (most booked)", value: "borobudur-sunrise-climb-prambanan" }
+          - { label: "Sunrise, Merapi Volcano & Prambanan (full day)", value: "borobudur-sunrise-merapi-prambanan" }
+          - { label: "Borobudur Climb & Prambanan Day Tour (no early start)", value: "borobudur-climb-prambanan-day-tour" }
+      - { name: cta_heading, label: "Closing CTA heading", widget: string, required: false }
+      - { name: cta_blurb, label: "Closing CTA blurb", widget: text, required: false }
+      - { name: draft, label: "Draft (uncheck to publish)", widget: boolean, default: false, required: false }
+      - { name: body, label: "Body", widget: markdown, hint: "Markdown plus inline HTML. Keep <table class='keyfacts'>, <figure class='infographic'>, <aside class='infogain'> and the <details> FAQ blocks unindented, or markdown turns them into code." }
+
   # Blog: full posts. Managers write the body in a rich editor and can insert images
   # anywhere. Each post can point at a tour for the conversion call-to-action.
   - name: blog

@@ -230,7 +230,7 @@ function blogPostInner(d, bodyHtml) {
           ? `\n    <p class="small" style="margin:.7rem 0 0">Affiliate link: if you book through it we may earn a commission at no extra cost to you. <a href="/disclosure/">How this works</a>.</p>`
           : "";
         return `\n  <aside class="blog-cta">
-    <h2>Ready to drive it yourself?</h2>
+    <h2>${esc(d.related_tour_heading || "See this tour for yourself")}</h2>
     <p>${esc(d.related_tour_blurb || "Check live dates and prices on the operator's official listing.")}</p>
     <p class="blog-cta-btns">${book} ${details}</p>${disc}
   </aside>`;
@@ -341,6 +341,138 @@ function blogHubSchema(posts) {
   return `<script type="application/ld+json">\n${JSON.stringify({ "@context": "https://schema.org", "@graph": graph }, null, 2)}\n</script>`;
 }
 
+// ---- Guides (Markdown, CMS-editable like blog; Phase 6.5c) ----
+// FAQPage schema is PARSED from the body's <details><summary> accordion, so the visible
+// Q&A and the JSON-LD stay in sync no matter who edits the page (Phase 4.5 requirement).
+function faqFromBody(html) {
+  const out = [];
+  const re = /<details>\s*<summary>([\s\S]*?)<\/summary>([\s\S]*?)<\/details>/g;
+  let m;
+  while ((m = re.exec(html))) {
+    const q = m[1].replace(/<[^>]+>/g, "").trim();
+    const a = m[2].replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
+    if (q && a) out.push({ "@type": "Question", name: q, acceptedAnswer: { "@type": "Answer", text: a } });
+  }
+  return out;
+}
+
+function guideSchema(d, canonical, bodyHtml) {
+  const graph = [
+    { "@type": "TravelAgency", "@id": `${SITE}/#agency`, name: SITE_NAME, url: `${SITE}/`, areaServed: AREA_SERVED },
+    {
+      "@type": "BreadcrumbList",
+      itemListElement: [
+        { "@type": "ListItem", position: 1, name: "Home", item: `${SITE}/` },
+        { "@type": "ListItem", position: 2, name: "Guides", item: `${SITE}/guides/` },
+        { "@type": "ListItem", position: 3, name: d.title },
+      ],
+    },
+  ];
+  const faqs = faqFromBody(bodyHtml);
+  if (faqs.length) graph.push({ "@type": "FAQPage", mainEntity: faqs });
+  return `<script type="application/ld+json">\n${JSON.stringify({ "@context": "https://schema.org", "@graph": graph }, null, 2)}\n</script>`;
+}
+
+function guideInner(d, bodyHtml) {
+  const hero = d.hero
+    ? `
+    <div class="hero-media">
+      <!-- IMAGE: uploaded by content manager via Sveltia. -->
+      <img src="${esc(d.hero)}" alt="${esc(d.hero_alt || d.title)}" width="1280" height="720" fetchpriority="high">
+    </div>`
+    : "";
+  const header = d.hero
+    ? `
+  <header class="hero wrap">
+    <div>
+      <p class="eyebrow">${esc(d.eyebrow || "Guides")}</p>
+      <h1>${esc(d.title)}</h1>
+      <p class="lede">${esc(d.lede || d.description || "")}</p>
+      <div class="author-hook">
+        <img src="{{ img:${AUTHOR_THUMB_KEY} }}" alt="{{ alt:${AUTHOR_THUMB_KEY} }}" width="38" height="38">
+        <span>Written with <a href="/about/"><strong>${esc(AUTHOR_NAME)}</strong></a>, ${esc(AUTHOR_ROLE)}</span>
+      </div>
+    </div>${hero}
+  </header>`
+    : `
+  <section class="wrap" style="padding-top:var(--s5)">
+    <p class="eyebrow" style="font-family:var(--display); text-transform:uppercase; letter-spacing:.12em; color:var(--brand-deep); font-weight:700">${esc(d.eyebrow || "Guides")}</p>
+    <h1>${esc(d.title)}</h1>
+    <p class="lede" style="max-width:62ch">${esc(d.lede || d.description || "")}</p>
+    <div class="author-hook" style="display:flex; align-items:center; gap:.6rem; font-size:var(--step--1); color:var(--ink-soft); margin:var(--s3) 0">
+      <img src="{{ img:${AUTHOR_THUMB_KEY} }}" alt="{{ alt:${AUTHOR_THUMB_KEY} }}" width="38" height="38" style="border-radius:50%; object-fit:cover; border:2px solid var(--line)">
+      <span>Written with <a href="/about/"><strong>${esc(AUTHOR_NAME)}</strong></a>, ${esc(AUTHOR_ROLE)}</span>
+    </div>
+  </section>`;
+  const qa = d.quick_answer
+    ? `
+  <div class="wrap">
+    <div class="quick-answer">
+      <p class="qa-label">${esc(d.quick_answer_label || "Short answer")}</p>
+      <p>${d.quick_answer}</p>
+    </div>
+  </div>`
+    : "";
+  const t = TOURS[d.related_tour];
+  const cta = `
+  <section class="wrap" style="padding-bottom:var(--s6)">
+    <div class="cta-banner">
+      <h2>${esc(d.cta_heading || "Ready to see it for yourself?")}</h2>
+      <p>${esc(d.cta_blurb || "Every tour we list includes the climb, with hotel pickup from Yogyakarta.")}</p>
+      <p><a class="btn btn-primary" href="${t ? t.url : "/tours/"}"${t ? ' rel="sponsored noopener" target="_blank"' : ""}>${t ? `Check live availability &amp; prices on ${t.platform} &rarr;` : "Compare Borobudur tours"}</a></p>
+    </div>
+  </section>`;
+  return `
+  <div class="wrap">
+    <nav class="crumbs" aria-label="Breadcrumb">
+      <a href="/">Home</a> / <a href="/guides/">Guides</a> / <span aria-current="page">${esc(d.title)}</span>
+    </nav>
+  </div>
+${header}
+${qa}
+
+  <section class="section wrap-narrow prose">
+${bodyHtml}
+  </section>
+${cta}`;
+}
+
+function guidesHubInner(guides) {
+  const group = (name) => guides.filter((g) => (g.group || "planning") === name)
+    .map((g) => `      <article class="rcard">
+        <div class="rc-body">
+          ${g.tag ? `<p class="pc-tag">${esc(g.tag)}</p>` : ""}
+          <h3 class="mt-0"><a href="/guides/${g.slug}/">${esc(g.short_title || g.title)}</a></h3>
+          <p class="small">${esc(g.card_blurb || g.description || "")}</p>
+        </div>
+      </article>`).join("\n");
+  return `
+  <div class="wrap">
+    <nav class="crumbs" aria-label="Breadcrumb">
+      <a href="/">Home</a> / <span aria-current="page">Guides</span>
+    </nav>
+  </div>
+
+  <section class="wrap" style="padding-top:var(--s5)">
+    <p class="eyebrow" style="font-family:var(--display); text-transform:uppercase; letter-spacing:.12em; color:var(--brand-deep); font-weight:700">Borobudur guides</p>
+    <h1>Everything worth knowing before you go</h1>
+    <p class="lede" style="max-width:60ch">Straight answers on the things visitors actually ask about Borobudur, checked against the official operator rather than repeated from other blogs.</p>
+  </section>
+
+  <section class="section wrap">
+    <h2>Planning the visit</h2>
+    <div class="cards-3">
+${group("planning")}
+    </div>
+
+    <h2>Questions people ask</h2>
+    <div class="cards-3">
+${group("questions")}
+    </div>
+    <p style="margin-top:var(--s4)"><a href="/tours/">Or compare the guided tours &rarr;</a></p>
+  </section>`;
+}
+
 async function main() {
   const layout = await readFile(join(LAYOUTS, "base.html"), "utf8");
   const images = await loadImages();
@@ -372,6 +504,57 @@ async function main() {
     if (meta.canonical) canonicals.push(meta.canonical);
     built++;
     console.log("  built", relative(ROOT, out));
+  }
+
+  // ---- Guides: render Markdown guides + auto-build the /guides/ hub (Phase 6.5c) ----
+  const guidesDir = join(CONTENT, "guides");
+  const guides = [];
+  if (existsSync(guidesDir)) {
+    const gFiles = (await readdir(guidesDir)).filter((f) => f.endsWith(".md")).sort();
+    for (const file of gFiles) {
+      const raw = await readFile(join(guidesDir, file), "utf8");
+      const { data, body } = parseFrontmatter(raw);
+      if (String(data.draft).toLowerCase() === "true") { console.log("  skipped (draft)", "guides/" + file); continue; }
+      const slug = data.slug || basename(file, ".md");
+      const canonical = `${SITE}/guides/${slug}/`;
+      const bodyHtml = await resolveIncludes(marked.parse(body));
+      const html = await buildHtml(layout, images, {
+        title: data.title ? `${data.title} | ${SITE_NAME}` : SITE_NAME,
+        description: data.description || "",
+        canonical,
+        og_image: data.og_image || (data.hero ? `${SITE}${data.hero}` : ""),
+        preload: data.hero ? `<link rel="preload" as="image" href="${data.hero}">` : "",
+        schema: guideSchema(data, canonical, bodyHtml),
+      }, guideInner(data, bodyHtml));
+      const out = join(DIST, "guides", slug, "index.html");
+      await mkdir(dirname(out), { recursive: true });
+      await writeFile(out, html, "utf8");
+      canonicals.push(canonical);
+      guides.push({ slug, ...data });
+      built++;
+      console.log("  built", relative(ROOT, out));
+    }
+    guides.sort((a, b) => Number(a.order || 99) - Number(b.order || 99));
+    const canonical = `${SITE}/guides/`;
+    const html = await buildHtml(layout, images, {
+      title: `Borobudur Visitor Guides: Tickets, Climbing, Sunrise & More | ${SITE_NAME}`,
+      description: "Practical, verified guides to visiting Borobudur: what tickets really cost, how the climb works, where the sunrise is actually watched from, and when to go.",
+      canonical,
+      og_image: `${SITE}{{ img:home_hero }}`,
+      schema: `<script type="application/ld+json">\n${JSON.stringify({ "@context": "https://schema.org", "@graph": [
+        { "@type": "TravelAgency", "@id": `${SITE}/#agency`, name: SITE_NAME, url: `${SITE}/`, areaServed: AREA_SERVED },
+        { "@type": "BreadcrumbList", itemListElement: [
+          { "@type": "ListItem", position: 1, name: "Home", item: `${SITE}/` },
+          { "@type": "ListItem", position: 2, name: "Guides" },
+        ] },
+      ] }, null, 2)}\n</script>`,
+    }, guidesHubInner(guides));
+    const out = join(DIST, "guides", "index.html");
+    await mkdir(dirname(out), { recursive: true });
+    await writeFile(out, html, "utf8");
+    canonicals.push(canonical);
+    built++;
+    console.log("  built", relative(ROOT, out), `(${guides.length} guides)`);
   }
 
   // ---- Blog: render Markdown posts + auto-build the /blog/ hub ----

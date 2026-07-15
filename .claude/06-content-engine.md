@@ -101,15 +101,32 @@ Consensus facts are "cost of entry"; original/fresh numbers are the differentiat
   it is live-refreshed, so keep it honest by actually refreshing.
 
 
-## 6.5c BLOG POSTS: MANDATORY, AND FULLY MANAGER-EDITABLE (Oleg's standing rule, 2026-07-15)
-Every pipeline site ships a real blog, not an empty hub. Cambridge's 12 posts (~1,800 words
-each) are the reference standard; a new site is not finished until its blog is populated.
+## 6.5c EDITORIAL CONTENT IS MANDATORY AND FULLY MANAGER-EDITABLE (Oleg's standing rule, 2026-07-15)
+Applies to BOTH blog posts AND guides. Every pipeline site ships a real blog and a real guide
+set, not empty hubs. Cambridge's 12 posts (~1,800 words each) are the reference standard; a new
+site is not finished until both are populated.
 
-**FORMAT IS THE RULE.** Posts are markdown files in `src/content/blog/<slug>.md`, frontmatter
-+ body, and the body is **markdown with inline HTML**. This is deliberate and non-negotiable:
-Oleg edits posts as TEXT in Sveltia and adds his own elements and images, so the body must stay
-hand-editable. Never move blog content into `src/pages/` HTML, never generate posts at build
-time, and never invent a new wrapper class the CSS does not already style.
+**FORMAT IS THE RULE.** Editorial content lives as markdown files with frontmatter + body:
+`src/content/blog/<slug>.md` and `src/content/guides/<slug>.md`. The body is **markdown with
+inline HTML**. This is deliberate and non-negotiable: Oleg edits these as TEXT in Sveltia and
+adds his own elements and images, so the body must stay hand-editable. **Never author a guide
+or post as an HTML page under `src/pages/`** (guides were built that way once and had to be
+converted back), never generate them at build time, and never invent a wrapper class the CSS
+does not already style.
+
+`src/pages/` is reserved for structural/money pages only: homepage, tour pages, compare, and
+the trust pages. Everything editorial belongs in `src/content/`.
+
+**INDENTATION IS A TRAP.** Markdown treats any line indented 4+ spaces as a CODE BLOCK, so an
+indented `<table>` / `<figure>` / `<aside>` renders as escaped literal text on the page. Keep
+every inline-HTML block flush to the left margin. Check the built output for `&lt;table`
+before shipping.
+
+**DERIVED SCHEMA.** Guide FAQ schema is generated at build time by parsing the body's
+`<details><summary>` accordion, so the visible Q&A and the JSON-LD cannot drift apart when a
+manager edits a question. Prefer deriving schema from editable content over hand-writing it.
+Hub pages (`/guides/`, `/blog/`) auto-build from the markdown, so a new file appears in
+navigation with no code change; use the `group`/`order` frontmatter to place it.
 
 Frontmatter (exactly these keys, all CMS-editable):
 `title`, `date`, `description`, `hero`, `hero_alt`, `related_tour` (a real tour slug),
