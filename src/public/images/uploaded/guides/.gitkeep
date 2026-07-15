@@ -1,0 +1,3 @@
+Keeps this folder in git so Sveltia has somewhere to commit in-text images for guides.
+Git does not track empty directories; without this file the folder does not exist on
+main and an in-text image upload has no destination. Do not delete.
