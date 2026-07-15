@@ -56,7 +56,12 @@ INTEGRITY GUARDRAIL (non-negotiable, also in root):
 - Original Media / Photo Gallery: Oleg upload this by using svetlia cms - make sure all placements will be available to upload images. Add "Oleg uploads" for now under image placements
 - Map Embed Block: interactive Google Maps iframe (Phase 3.5, embed-only); real
   GeoCoordinates still feed TouristAttraction schema.
-- Information-Gain Block (`.infogain`): a visually flagged callout of 3-5 CURRENT data points
+- Information-Gain Block (`.infogain`): EXACT markup contract, because these classes are styled
+  in `styles.css` and nothing else is: `<aside class="infogain">` >
+  `<p class="infogain-h"><span class="tag">Latest data</span> Heading</p>` > `<ul><li>` >
+  `<p class="infogain-note">`. Never `<div>`, never an invented tag class. Verify against the
+  stylesheet before writing block markup.
+  A visually flagged callout of 3-5 CURRENT data points
   competitors lack (Grok-sourced, Phase 6.5b). REQUIRED on the homepage and every substantial
   article. "Latest data" tag, bulleted facts written in the site's own voice (no visible
   citations, per 6.5b; sources kept on file under research/grok/), and a freshness note.

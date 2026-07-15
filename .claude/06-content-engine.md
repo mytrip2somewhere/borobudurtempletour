@@ -101,6 +101,49 @@ Consensus facts are "cost of entry"; original/fresh numbers are the differentiat
   it is live-refreshed, so keep it honest by actually refreshing.
 
 
+## 6.5c BLOG POSTS: MANDATORY, AND FULLY MANAGER-EDITABLE (Oleg's standing rule, 2026-07-15)
+Every pipeline site ships a real blog, not an empty hub. Cambridge's 12 posts (~1,800 words
+each) are the reference standard; a new site is not finished until its blog is populated.
+
+**FORMAT IS THE RULE.** Posts are markdown files in `src/content/blog/<slug>.md`, frontmatter
++ body, and the body is **markdown with inline HTML**. This is deliberate and non-negotiable:
+Oleg edits posts as TEXT in Sveltia and adds his own elements and images, so the body must stay
+hand-editable. Never move blog content into `src/pages/` HTML, never generate posts at build
+time, and never invent a new wrapper class the CSS does not already style.
+
+Frontmatter (exactly these keys, all CMS-editable):
+`title`, `date`, `description`, `hero`, `hero_alt`, `related_tour` (a real tour slug),
+`related_tour_label`, `related_tour_blurb`, `draft`.
+
+Body pattern (matches the money/guide standard in 6.1):
+- Opening paragraph in the author's real first-person voice. Sensory, no templated opener.
+- `## H2` phrased as a real search question, then a **bold 40-60 word atomic answer**, then the
+  expansion. Island Test per section.
+- At least 3 real, non-overlapping data tables (markdown tables are fine in a post body).
+- ONE unique hand-authored infographic, referenced as a file so managers can swap it:
+  ```html
+  <figure class="infographic">
+   <img src="/images/generated/<slug>.svg" alt="descriptive, keyword-relevant" width="900" height="470" loading="lazy">
+   <figcaption class="small">One-line takeaway.</figcaption>
+  </figure>
+  ```
+- ONE information-gain block (6.5b), using the EXACT markup the CSS styles:
+  ```html
+  <aside class="infogain">
+    <p class="infogain-h"><span class="tag">Latest data</span> Heading in the site's voice</p>
+    <ul><li>3-5 current Grok-sourced facts, site voice, no visible citations</li></ul>
+    <p class="infogain-note">A current snapshot, kept refreshed. These numbers move, so treat them as recent rather than fixed.</p>
+  </aside>
+  ```
+  Classes are a CONTRACT with `styles.css`. Do not use `<div class="infogain">` or an invented
+  tag class; check the stylesheet before writing markup (this was shipped wrong once and every
+  block rendered unstyled).
+- In-text links per 2.3 and 6.3: internal cluster links, 2+ external authoritative links, and
+  one in-text affiliate link beside the matching tour link. No end-of-post link dumps.
+
+Blog posts are the ONE content type content managers fully own (8.3). Money-page text, prices
+and schema stay in code.
+
 ## 6.6 EXTERNAL AUTHORITATIVE LINKS (every article)
 Every article links out to AT LEAST TWO authoritative external sources, each woven in-text
 on the specific factual claim it supports (official bodies and primary sources first:
