@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" role="img" aria-labelledby="sh-title sh-desc">
+  <title id="sh-title">Borobudur dress code: repeated claims versus the one real rule</title>
+  <desc id="sh-desc">A split comparison. On the left, four claims repeated on travel sites that are not published rules: shoulders and knees must be covered, a free sarong is handed out at the gate, shorts get you turned away, and the same rules as Bali's temples. On the right, the two clothing rules that are real: Upanat sandals worn on the monument, included with the climb ticket, and white clothing for the Waisak ceremony only. A footer band notes the real reason travellers cover up is the equatorial sun on open stone, not a regulation.</desc>
+  <style>
+    .f{font-family:"Avenir Next",Avenir,"Segoe UI",sans-serif;}
+    .hd{font-size:20px;font-weight:700;}
+    .col{font-size:13px;font-weight:700;letter-spacing:.09em;}
+    .it{font-size:14px;font-weight:600;}
+    .sub{font-size:11.5px;}
+    .ft{font-size:13.5px;}
+  </style>
+
+  <rect x="1" y="1" width="898" height="468" rx="14" fill="#f4f5f5" stroke="#dde2e4"/>
+
+  <text x="40" y="46" class="f hd" fill="#15181b">Borobudur clothing: what is repeated vs what is required</text>
+  <text x="40" y="68" class="f sub" fill="#454e55">Two of these five statements appear in the operator's own materials. Four do not.</text>
+
+  <line x1="450" y1="88" x2="450" y2="392" stroke="#dde2e4" stroke-width="1"/>
+
+  <!-- LEFT: the myths -->
+  <rect x="40" y="94" width="376" height="30" rx="6" fill="#454e55"/>
+  <text x="54" y="114" class="f col" fill="#ffffff">REPEATED ONLINE, NOT A RULE</text>
+
+  <g>
+    <rect x="40" y="136" width="376" height="52" rx="8" fill="#ffffff" stroke="#dde2e4"/>
+    <circle cx="66" cy="162" r="11" fill="#d4552a"/>
+    <path d="M61 157 l10 10 M71 157 l-10 10" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+    <text x="88" y="160" class="f it" fill="#15181b">Shoulders and knees must be covered</text>
+    <text x="88" y="177" class="f sub" fill="#454e55">No such requirement is published, in either language</text>
+  </g>
+
+  <g>
+    <rect x="40" y="196" width="376" height="52" rx="8" fill="#ffffff" stroke="#dde2e4"/>
+    <circle cx="66" cy="222" r="11" fill="#d4552a"/>
+    <path d="M61 217 l10 10 M71 217 l-10 10" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+    <text x="88" y="220" class="f it" fill="#15181b">A free sarong is handed out at the gate</text>
+    <text x="88" y="237" class="f sub" fill="#454e55">Not among the climb ticket's stated inclusions</text>
+  </g>
+
+  <g>
+    <rect x="40" y="256" width="376" height="52" rx="8" fill="#ffffff" stroke="#dde2e4"/>
+    <circle cx="66" cy="282" r="11" fill="#d4552a"/>
+    <path d="M61 277 l10 10 M71 277 l-10 10" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+    <text x="88" y="280" class="f it" fill="#15181b">Shorts get you turned away</text>
+    <text x="88" y="297" class="f sub" fill="#454e55">No dress-based entry refusal is documented</text>
+  </g>
+
+  <g>
+    <rect x="40" y="316" width="376" height="52" rx="8" fill="#ffffff" stroke="#dde2e4"/>
+    <circle cx="66" cy="342" r="11" fill="#d4552a"/>
+    <path d="M61 337 l10 10 M71 337 l-10 10" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+    <text x="88" y="340" class="f it" fill="#15181b">The same rules as Bali's temples</text>
+    <text x="88" y="357" class="f sub" fill="#454e55">Bali's are living temples; Borobudur is a heritage park</text>
+  </g>
+
+  <!-- RIGHT: the real rules -->
+  <rect x="484" y="94" width="376" height="30" rx="6" fill="#15181b"/>
+  <text x="498" y="114" class="f col" fill="#ffffff">ACTUALLY REQUIRED</text>
+
+  <g>
+    <rect x="484" y="136" width="376" height="82" rx="8" fill="#ffffff" stroke="#a8792f" stroke-width="1.5"/>
+    <circle cx="510" cy="167" r="11" fill="#a8792f"/>
+    <path d="M505 167 l4 4 l7 -8" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <text x="532" y="165" class="f it" fill="#15181b">Upanat sandals on the monument</text>
+    <text x="532" y="183" class="f sub" fill="#454e55">Included with the climb ticket. Yours to keep.</text>
+    <text x="532" y="200" class="f sub" fill="#454e55">Woven pandan and coconut shell, to protect the stone.</text>
+  </g>
+
+  <g>
+    <rect x="484" y="228" width="376" height="70" rx="8" fill="#ffffff" stroke="#a8792f" stroke-width="1.5"/>
+    <circle cx="510" cy="255" r="11" fill="#a8792f"/>
+    <path d="M505 255 l4 4 l7 -8" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <text x="532" y="253" class="f it" fill="#15181b">White clothing at Waisak</text>
+    <text x="532" y="271" class="f sub" fill="#454e55">An event rule, for the ceremony you are joining.</text>
+    <text x="532" y="288" class="f sub" fill="#454e55">Not a standing rule for ordinary visits.</text>
+  </g>
+
+  <rect x="484" y="308" width="376" height="60" rx="8" fill="#f4f5f5" stroke="#dde2e4" stroke-dasharray="4 3"/>
+  <text x="504" y="332" class="f sub" fill="#454e55">Everything else is etiquette, not regulation. Modesty at a</text>
+  <text x="504" y="350" class="f sub" fill="#454e55">sacred Buddhist site is a courtesy worth extending anyway.</text>
+
+  <!-- FOOTER -->
+  <rect x="40" y="392" width="820" height="48" rx="8" fill="#15181b"/>
+  <text x="60" y="422" class="f ft" fill="#ffffff">The strongest reason to cover up: open stone at 7&#176; south, no shade, no shelter.</text>
+  <text x="840" y="422" class="f ft" text-anchor="end" fill="#a8792f">Comfort, not compliance.</text>
+</svg>

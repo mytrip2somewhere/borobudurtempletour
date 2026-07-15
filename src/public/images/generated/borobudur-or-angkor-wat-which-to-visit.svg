@@ -1,0 +1,68 @@
+<svg viewBox="0 0 900 470" role="img" aria-labelledby="ba-title ba-desc" xmlns="http://www.w3.org/2000/svg">
+  <title id="ba-title">Borobudur or Angkor Wat: scale and time budget compared</title>
+  <desc id="ba-desc">A comparison. Angkor Wat holds the record for largest religious monument with a walled enclosure of 162.6 hectares, sitting inside a 400 square kilometre archaeological park, and it wants two to three days with a one-day pass at 37 US dollars. Borobudur holds the record for largest Buddhist temple on a base of about 123 by 123 metres, roughly 1.5 hectares, and it is complete in a half day morning. The enclosure gap is about one hundred to one. They hold different records and are not competing for the same one.</desc>
+  <style>
+    .f{font-family:"Avenir Next",Avenir,"Segoe UI",sans-serif;}
+    .ttl{font-size:20px;font-weight:800;}
+    .sub{font-size:12.5px;}
+    .nm{font-size:17px;font-weight:800;}
+    .k{font-size:11.5px;font-weight:700;letter-spacing:.05em;}
+    .v{font-size:12.5px;}
+    .big{font-size:22px;font-weight:800;}
+    .note{font-size:12px;}
+    .cap{font-size:11px;font-weight:700;letter-spacing:.07em;}
+  </style>
+
+  <rect x="1" y="1" width="898" height="468" rx="14" fill="#f4f5f5" stroke="#dde2e4"/>
+
+  <text x="34" y="42" class="f ttl" fill="#15181b">Different records. Different trips.</text>
+  <text x="34" y="63" class="f sub" fill="#454e55">Angkor Wat is the largest religious monument. Borobudur is the largest Buddhist temple. Both are true.</text>
+
+  <!-- ============ SCALE PANEL ============ -->
+  <rect x="34" y="84" width="832" height="176" rx="12" fill="#ffffff" stroke="#dde2e4"/>
+  <text x="54" y="108" class="f cap" fill="#4a5761">FOOTPRINT, DRAWN TO SCALE</text>
+
+  <!-- Angkor big square -->
+  <rect x="54" y="120" width="126" height="126" fill="#e3e6e7" stroke="#4a5761" stroke-width="2"/>
+  <text x="117" y="176" text-anchor="middle" class="f big" fill="#15181b">162.6</text>
+  <text x="117" y="194" text-anchor="middle" class="f k" fill="#4a5761">HECTARES</text>
+  <text x="117" y="212" text-anchor="middle" class="f v" fill="#454e55">Angkor Wat</text>
+  <text x="117" y="228" text-anchor="middle" class="f v" fill="#454e55">enclosure</text>
+
+  <!-- Borobudur tiny square, to scale (1.5/162.6 by area -> ~9.6% linear) -->
+  <rect x="200" y="234" width="12" height="12" fill="#d4552a" stroke="#d4552a"/>
+  <line x1="212" y1="240" x2="252" y2="222" stroke="#4a5761" stroke-width="1.2"/>
+  <text x="258" y="218" class="f v" fill="#15181b">Borobudur's base: ~1.5 ha</text>
+  <text x="258" y="234" class="f v" fill="#454e55">(~123 x 123 m), at the same scale</text>
+  <text x="258" y="250" class="f note" fill="#d4552a">About a hundred to one on enclosure.</text>
+
+  <!-- the 400km2 framing -->
+  <rect x="560" y="120" width="286" height="126" rx="8" fill="#f4f5f5" stroke="#c9d0d3" stroke-dasharray="4 3"/>
+  <text x="703" y="146" text-anchor="middle" class="f k" fill="#4a5761">AND THEN WIDEN THE FRAME</text>
+  <text x="703" y="176" text-anchor="middle" class="f big" fill="#15181b">~400 km²</text>
+  <text x="703" y="198" text-anchor="middle" class="f v" fill="#454e55">Angkor Archaeological Park.</text>
+  <text x="703" y="216" text-anchor="middle" class="f v" fill="#454e55">Angkor Wat is one temple inside it.</text>
+  <text x="703" y="236" text-anchor="middle" class="f note" fill="#454e55">Borobudur is the whole visit.</text>
+
+  <!-- ============ TIME BUDGET PANEL ============ -->
+  <rect x="34" y="272" width="832" height="112" rx="12" fill="#ffffff" stroke="#dde2e4"/>
+  <text x="54" y="296" class="f cap" fill="#4a5761">TIME THE SITE ACTUALLY ASKS FOR</text>
+
+  <!-- Borobudur bar -->
+  <text x="54" y="322" class="f v" fill="#15181b">Borobudur</text>
+  <rect x="150" y="310" width="86" height="17" rx="4" fill="#d4552a"/>
+  <text x="246" y="323" class="f v" fill="#454e55">Half a day. One monument, one morning, finished.</text>
+
+  <!-- Angkor bar -->
+  <text x="54" y="356" class="f v" fill="#15181b">Angkor</text>
+  <rect x="150" y="344" width="516" height="17" rx="4" fill="#15181b"/>
+  <text x="676" y="357" class="f v" fill="#454e55">2 to 3 days, and it earns them.</text>
+
+  <!-- tick labels -->
+  <text x="150" y="378" class="f note" fill="#a8792f">US$37 one-day Angkor pass · US$62 for three days · the pricing tells you what the site expects</text>
+
+  <!-- ============ FOOTER ============ -->
+  <rect x="34" y="398" width="832" height="48" rx="10" fill="#ffffff" stroke="#dde2e4"/>
+  <text x="450" y="418" text-anchor="middle" class="f note" fill="#15181b">Angkor wins on hectares by any honest measure. Borobudur wins on density: 1,460 narrative panels within arm's reach.</text>
+  <text x="450" y="436" text-anchor="middle" class="f note" fill="#454e55">They are not competing for the same record, so the real question is how many days this leg of your trip has.</text>
+</svg>

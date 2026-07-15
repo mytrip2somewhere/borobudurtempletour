@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" role="img" aria-labelledby="kd-t kd-d">
+  <title id="kd-t">Borobudur with children: how much you will be carrying, and which tour to pick</title>
+  <desc id="kd-d">Left: five age bands showing roughly how much of the Borobudur structure climb a child manages alone versus how much an adult carries them. Under three is carried the whole way; three to five is about half carried; six to nine needs little carrying; ten and over climbs unaided. Right: a decision flow. If the family cannot face an 03:30 start, take the eight-hour day tour. If they can and the children are eight or older, the twelve-hour Merapi jeep tour is the one children remember. No official age rule for the climb is published; the stairs and the heat are the real limits.</desc>
+  <style>.kd-f{font-family:"Avenir Next",Avenir,"Segoe UI",sans-serif;}</style>
+  <rect x="1" y="1" width="898" height="468" rx="14" fill="#f4f5f5" stroke="#dde2e4"/>
+
+  <text x="40" y="46" class="kd-f" font-size="21" font-weight="800" fill="#15181b">Borobudur with children: the stairs decide, not a rule</text>
+  <text x="40" y="70" class="kd-f" font-size="13" fill="#454e55">No official age limit for the climb is published anywhere. This is what the ninth-century stairs actually ask of a child.</text>
+
+  <line x1="530" y1="96" x2="530" y2="440" stroke="#dde2e4" stroke-width="1"/>
+
+  <!-- LEFT: age ladder -->
+  <text x="40" y="118" class="kd-f" font-size="13.5" font-weight="800" fill="#15181b">How much of the climb you carry</text>
+
+  <text x="40" y="156" class="kd-f" font-size="13" font-weight="700" fill="#15181b">Under 3</text>
+  <rect x="150" y="142" width="280" height="20" fill="#d4552a"/>
+  <text x="510" y="157" class="kd-f" font-size="12" fill="#454e55" text-anchor="end">carried throughout</text>
+
+  <text x="40" y="202" class="kd-f" font-size="13" font-weight="700" fill="#15181b">3 to 5</text>
+  <rect x="150" y="188" width="154" height="20" fill="#d4552a"/>
+  <rect x="304" y="188" width="126" height="20" fill="#4a5761"/>
+  <text x="510" y="203" class="kd-f" font-size="12" fill="#454e55" text-anchor="end">about half carried</text>
+
+  <text x="40" y="248" class="kd-f" font-size="13" font-weight="700" fill="#15181b">6 to 9</text>
+  <rect x="150" y="234" width="42" height="20" fill="#d4552a"/>
+  <rect x="192" y="234" width="238" height="20" fill="#4a5761"/>
+  <text x="510" y="249" class="kd-f" font-size="12" fill="#454e55" text-anchor="end">pacing, not lifting</text>
+
+  <text x="40" y="294" class="kd-f" font-size="13" font-weight="700" fill="#15181b">10 to 14</text>
+  <rect x="150" y="280" width="280" height="20" fill="#4a5761"/>
+  <text x="510" y="295" class="kd-f" font-size="12" fill="#454e55" text-anchor="end">the sweet spot</text>
+
+  <text x="40" y="340" class="kd-f" font-size="13" font-weight="700" fill="#15181b">Teenagers</text>
+  <rect x="150" y="326" width="280" height="20" fill="#4a5761"/>
+  <text x="510" y="341" class="kd-f" font-size="12" fill="#454e55" text-anchor="end">easier than the adults</text>
+
+  <rect x="40" y="368" width="12" height="12" fill="#d4552a"/>
+  <text x="58" y="378" class="kd-f" font-size="11.5" fill="#454e55">You carry them</text>
+  <rect x="170" y="368" width="12" height="12" fill="#4a5761"/>
+  <text x="188" y="378" class="kd-f" font-size="11.5" fill="#454e55">They climb it themselves</text>
+
+  <rect x="40" y="396" width="470" height="44" rx="8" fill="#ffffff" stroke="#dde2e4"/>
+  <text x="54" y="415" class="kd-f" font-size="11.5" fill="#15181b">Nine platforms, about 35 m of worn ninth-century stone, and no shade at any</text>
+  <text x="54" y="431" class="kd-f" font-size="11.5" fill="#15181b">point. Magelang's October average high is around 33°C. Go at 08:30.</text>
+
+  <!-- RIGHT: decision flow -->
+  <text x="556" y="118" class="kd-f" font-size="13.5" font-weight="800" fill="#15181b">Which tour suits your family</text>
+
+  <rect x="556" y="134" width="304" height="44" rx="8" fill="#ffffff" stroke="#4a5761"/>
+  <text x="708" y="153" class="kd-f" font-size="12.5" font-weight="700" fill="#15181b" text-anchor="middle">Can everyone face a 03:30 start?</text>
+  <text x="708" y="169" class="kd-f" font-size="11" fill="#454e55" text-anchor="middle">This breaks more family days than the stairs do</text>
+
+  <path d="M634 178 L634 208" stroke="#4a5761" stroke-width="2"/>
+  <path d="M634 208 l-4 -7 h8 z" fill="#4a5761"/>
+  <text x="626" y="198" class="kd-f" font-size="11.5" font-weight="700" fill="#d4552a" text-anchor="end">No</text>
+
+  <path d="M790 178 L790 208" stroke="#4a5761" stroke-width="2"/>
+  <path d="M790 208 l-4 -7 h8 z" fill="#4a5761"/>
+  <text x="798" y="198" class="kd-f" font-size="11.5" font-weight="700" fill="#a8792f">Yes</text>
+
+  <rect x="556" y="212" width="150" height="72" rx="8" fill="#4a5761"/>
+  <text x="631" y="234" class="kd-f" font-size="12.5" font-weight="800" fill="#ffffff" text-anchor="middle">8-hour day tour</text>
+  <text x="631" y="252" class="kd-f" font-size="11" fill="#ffffff" text-anchor="middle">Civilised start, climb,</text>
+  <text x="631" y="266" class="kd-f" font-size="11" fill="#ffffff" text-anchor="middle">Mendut, Prambanan</text>
+
+  <rect x="716" y="212" width="144" height="72" rx="8" fill="#a8792f"/>
+  <text x="788" y="234" class="kd-f" font-size="12.5" font-weight="800" fill="#ffffff" text-anchor="middle">12-hour Merapi</text>
+  <text x="788" y="252" class="kd-f" font-size="11" fill="#ffffff" text-anchor="middle">Only if kids are 8+</text>
+  <text x="788" y="266" class="kd-f" font-size="11" fill="#ffffff" text-anchor="middle">and nap in cars</text>
+
+  <path d="M631 284 L631 306" stroke="#dde2e4" stroke-width="2"/>
+  <path d="M788 284 L788 306" stroke="#dde2e4" stroke-width="2"/>
+
+  <rect x="556" y="308" width="304" height="38" rx="8" fill="#ffffff" stroke="#dde2e4"/>
+  <text x="708" y="325" class="kd-f" font-size="11.5" font-weight="700" fill="#15181b" text-anchor="middle">Both climb the temple. Both include Prambanan.</text>
+  <text x="708" y="339" class="kd-f" font-size="11" fill="#454e55" text-anchor="middle">The jeep is the thing older children talk about after.</text>
+
+  <rect x="556" y="360" width="304" height="80" rx="8" fill="#ffffff" stroke="#dde2e4"/>
+  <text x="570" y="380" class="kd-f" font-size="11.5" font-weight="700" fill="#15181b">What keeps children going</text>
+  <text x="570" y="398" class="kd-f" font-size="11" fill="#454e55">Panels told as a story, not described as art</text>
+  <text x="570" y="414" class="kd-f" font-size="11" fill="#454e55">Counting the 72 stupas, and getting it wrong</text>
+  <text x="570" y="430" class="kd-f" font-size="11" fill="#454e55">Water, brimmed hats, and two hours maximum</text>
+</svg>

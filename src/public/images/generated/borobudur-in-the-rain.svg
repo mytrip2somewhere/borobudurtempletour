@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" role="img" aria-labelledby="rn-title rn-desc">
+  <title id="rn-title">What rain changes at Borobudur: what you lose against what improves</title>
+  <desc id="rn-desc">A diverging comparison around a central axis. Bars to the left show what rain costs you: the Punthuk Setumbu dawn view, which is the largest loss because no operator refunds weather; shelter and comfort, because the terraces have none; and footing, because wet stone is slick in Upanat sandals. A central marker shows that access to the temple is unchanged, with the structure open 08:30 to 17:00 every day. Bars to the right show what improves: carving legibility, as wet stone darkens and the relief reads better; crowd levels, which are far thinner than in July and August; and the atmosphere of the Kedu Plain under moving cloud.</desc>
+  <style>
+    .f{font-family:"Avenir Next",Avenir,"Segoe UI",sans-serif;}
+    .hd{font-size:20px;font-weight:700;}
+    .sub{font-size:12px;}
+    .col{font-size:12px;font-weight:700;letter-spacing:.09em;}
+    .row{font-size:12.5px;font-weight:600;}
+    .in{font-size:11.5px;}
+  </style>
+
+  <rect x="1" y="1" width="898" height="468" rx="14" fill="#f4f5f5" stroke="#dde2e4"/>
+
+  <text x="450" y="42" text-anchor="middle" class="f hd" fill="#15181b">Borobudur in the rain: what changes</text>
+  <text x="450" y="64" text-anchor="middle" class="f sub" fill="#454e55">Bar length shows how much each thing is affected. Rain is a trade, not a closure.</text>
+
+  <text x="350" y="96" text-anchor="end" class="f col" fill="#454e55">WHAT YOU LOSE</text>
+  <text x="550" y="96" class="f col" fill="#a8792f">WHAT IMPROVES</text>
+
+  <line x1="450" y1="106" x2="450" y2="396" stroke="#dde2e4" stroke-width="1"/>
+
+  <!-- LOSSES (bars extend left from x=350) -->
+  <rect x="50" y="118" width="300" height="26" rx="4" fill="#d4552a"/>
+  <text x="62" y="136" class="f in" fill="#ffffff">No operator refunds weather. Nobody.</text>
+  <text x="450" y="136" text-anchor="middle" class="f row" fill="#15181b">Setumbu dawn view</text>
+
+  <rect x="110" y="160" width="240" height="26" rx="4" fill="#4a5761"/>
+  <text x="122" y="178" class="f in" fill="#ffffff">No shade, no shelter, any level</text>
+  <text x="450" y="178" text-anchor="middle" class="f row" fill="#15181b">Comfort on the terraces</text>
+
+  <rect x="185" y="202" width="165" height="26" rx="4" fill="#4a5761"/>
+  <text x="197" y="220" class="f in" fill="#ffffff">Slick stone, thin soles</text>
+  <text x="450" y="220" text-anchor="middle" class="f row" fill="#15181b">Footing on the stairs</text>
+
+  <!-- UNCHANGED -->
+  <rect x="300" y="244" width="300" height="30" rx="6" fill="#15181b"/>
+  <text x="450" y="264" text-anchor="middle" class="f in" fill="#ffffff">UNCHANGED &#183; open every day, climb 08:30&#8211;17:00</text>
+
+  <!-- GAINS (bars extend right from x=550) -->
+  <rect x="550" y="290" width="285" height="26" rx="4" fill="#a8792f"/>
+  <text x="823" y="308" text-anchor="end" class="f in" fill="#ffffff">Wet andesite darkens; relief reads</text>
+  <text x="450" y="308" text-anchor="middle" class="f row" fill="#15181b">Carvings</text>
+
+  <rect x="550" y="332" width="255" height="26" rx="4" fill="#a8792f"/>
+  <text x="793" y="350" text-anchor="end" class="f in" fill="#ffffff">Thinnest months of the year</text>
+  <text x="450" y="350" text-anchor="middle" class="f row" fill="#15181b">Space to yourself</text>
+
+  <rect x="550" y="374" width="210" height="26" rx="4" fill="#a8792f"/>
+  <text x="748" y="392" text-anchor="end" class="f in" fill="#ffffff">The plain under cloud</text>
+  <text x="450" y="392" text-anchor="middle" class="f row" fill="#15181b">Atmosphere</text>
+
+  <!-- FOOTER -->
+  <rect x="50" y="418" width="800" height="34" rx="6" fill="#ffffff" stroke="#dde2e4"/>
+  <text x="66" y="440" class="f in" fill="#454e55">Rain arrives mostly after about 14:00, so a morning climb usually sits in the clear.</text>
+  <text x="834" y="440" text-anchor="end" class="f in" fill="#15181b">Go early. Bring a poncho, not an umbrella.</text>
+</svg>

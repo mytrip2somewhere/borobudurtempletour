@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" width="900" height="470" role="img" aria-labelledby="t d">
+  <title id="t">The Indonesian archipelago and where its people actually live</title>
+  <desc id="d">A west-to-east strip of the Indonesian archipelago from Sumatra to Papua, marking Borobudur in Central Java and Bali further east, above a proportion bar showing that 56.1 per cent of Indonesia's 285.7 million people live on Java.</desc>
+  <style>
+    .h { font-family:"Avenir Next",Avenir,"Segoe UI",sans-serif; font-weight:700; font-size:20px; }
+    .k { font-family:"Avenir Next",Avenir,"Segoe UI",sans-serif; font-weight:700; font-size:13px; letter-spacing:.06em; }
+    .l { font-family:"Avenir Next",Avenir,"Segoe UI",sans-serif; font-weight:600; font-size:13px; }
+    .s { font-family:"Avenir Next",Avenir,"Segoe UI",sans-serif; font-weight:400; font-size:12px; }
+    .n { font-family:"Avenir Next",Avenir,"Segoe UI",sans-serif; font-weight:700; font-size:15px; }
+    .big { font-family:"Avenir Next",Avenir,"Segoe UI",sans-serif; font-weight:700; font-size:26px; }
+  </style>
+
+  <rect x="1" y="1" width="898" height="468" rx="14" fill="#f4f5f5" stroke="#dde2e4"/>
+
+  <text class="k" x="40" y="42" fill="#a8792f">THE ARCHIPELAGO, WEST TO EAST</text>
+  <text class="h" x="40" y="70" fill="#15181b">17,380 islands. One of them gets the visitors.</text>
+
+  <!-- sea baseline -->
+  <line x1="40" y1="196" x2="860" y2="196" stroke="#dde2e4" stroke-width="2"/>
+  <text class="s" x="40" y="214" fill="#4a5761">roughly 5,000 km of ocean, three time zones</text>
+
+  <!-- islands -->
+  <g>
+    <path d="M60 196 L78 158 L112 150 L146 166 L160 196 Z" fill="#4a5761"/>
+    <text class="l" x="110" y="234" fill="#454e55" text-anchor="middle">Sumatra</text>
+
+    <path d="M300 196 L322 168 L392 162 L462 170 L486 196 Z" fill="#15181b"/>
+    <text class="l" x="393" y="234" fill="#15181b" text-anchor="middle">Java</text>
+
+    <path d="M516 196 L528 176 L556 174 L568 196 Z" fill="#4a5761"/>
+    <text class="l" x="542" y="234" fill="#454e55" text-anchor="middle">Bali</text>
+
+    <path d="M592 196 L604 178 L634 176 L646 196 Z" fill="#4a5761"/>
+    <text class="l" x="619" y="234" fill="#454e55" text-anchor="middle">Lombok</text>
+
+    <path d="M666 196 L682 180 L726 178 L740 196 Z" fill="#4a5761"/>
+    <text class="l" x="703" y="234" fill="#454e55" text-anchor="middle">Flores</text>
+
+    <path d="M772 196 L790 156 L840 152 L862 196 Z" fill="#4a5761"/>
+    <text class="l" x="817" y="234" fill="#454e55" text-anchor="middle">Papua</text>
+  </g>
+
+  <!-- Borobudur marker -->
+  <line x1="372" y1="166" x2="372" y2="106" stroke="#d4552a" stroke-width="2"/>
+  <circle cx="372" cy="166" r="5" fill="#d4552a"/>
+  <text class="n" x="372" y="98" fill="#d4552a" text-anchor="middle">Borobudur</text>
+
+  <!-- Bali marker -->
+  <line x1="542" y1="176" x2="542" y2="134" stroke="#a8792f" stroke-width="2"/>
+  <circle cx="542" cy="176" r="5" fill="#a8792f"/>
+  <text class="n" x="560" y="128" fill="#a8792f" text-anchor="start">Bali</text>
+
+  <text class="s" x="372" y="132" fill="#454e55" text-anchor="middle">world's largest Buddhist temple</text>
+  <text class="s" x="860" y="128" fill="#454e55" text-anchor="end">6,948,754 foreign arrivals, 2025</text>
+
+  <!-- divider -->
+  <line x1="40" y1="266" x2="860" y2="266" stroke="#dde2e4" stroke-width="1"/>
+
+  <!-- population proportion -->
+  <text class="k" x="40" y="300" fill="#a8792f">WHERE THE 285.7 MILLION LIVE</text>
+
+  <rect x="40" y="316" width="460" height="54" rx="4" fill="#15181b"/>
+  <rect x="504" y="316" width="356" height="54" rx="4" fill="#4a5761"/>
+
+  <text class="big" x="60" y="344" fill="#ffffff">56.1%</text>
+  <text class="s" x="60" y="362" fill="#ffffff">on Java alone (2020 census)</text>
+
+  <text class="big" x="840" y="344" fill="#ffffff" text-anchor="end">43.9%</text>
+  <text class="s" x="840" y="362" fill="#ffffff" text-anchor="end">across every other island</text>
+
+  <!-- footer stats -->
+  <text class="n" x="40" y="412" fill="#15181b">127</text>
+  <text class="s" x="40" y="430" fill="#454e55">active volcanoes</text>
+
+  <text class="n" x="220" y="412" fill="#15181b">10</text>
+  <text class="s" x="220" y="430" fill="#454e55">UNESCO World Heritage sites</text>
+
+  <text class="n" x="450" y="412" fill="#15181b">4th</text>
+  <text class="s" x="450" y="430" fill="#454e55">most populous country on earth</text>
+
+  <text class="s" x="860" y="430" fill="#454e55" text-anchor="end">Bali: one island of 17,380</text>
+</svg>

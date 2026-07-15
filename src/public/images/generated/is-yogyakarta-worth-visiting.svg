@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" width="900" height="470" role="img" aria-labelledby="t d">
+  <title id="t">What you can reach from Yogyakarta in a day</title>
+  <desc id="d">A hub and spoke diagram centred on Yogyakarta, showing Borobudur about one hour northwest, Prambanan on the eastern edge of the city, Merapi volcano to the north, Punthuk Setumbu sunrise hill northwest, and the Kraton and Malioboro in the city centre, with travel times and what each gives the visitor.</desc>
+  <style>
+    .k { font-family:"Avenir Next",Avenir,"Segoe UI",sans-serif; font-weight:700; font-size:13px; letter-spacing:.06em; }
+    .h { font-family:"Avenir Next",Avenir,"Segoe UI",sans-serif; font-weight:700; font-size:20px; }
+    .hub { font-family:"Avenir Next",Avenir,"Segoe UI",sans-serif; font-weight:700; font-size:17px; }
+    .n { font-family:"Avenir Next",Avenir,"Segoe UI",sans-serif; font-weight:700; font-size:15px; }
+    .s { font-family:"Avenir Next",Avenir,"Segoe UI",sans-serif; font-weight:400; font-size:12px; }
+    .t { font-family:"Avenir Next",Avenir,"Segoe UI",sans-serif; font-weight:600; font-size:12px; }
+  </style>
+
+  <rect x="1" y="1" width="898" height="468" rx="14" fill="#f4f5f5" stroke="#dde2e4"/>
+
+  <text class="k" x="40" y="40" fill="#a8792f">ONE CITY, BOTH TEMPLES</text>
+  <text class="h" x="40" y="68" fill="#15181b">What Yogyakarta puts within a day's reach</text>
+
+  <!-- spokes -->
+  <line x1="450" y1="260" x2="196" y2="164" stroke="#d4552a" stroke-width="2"/>
+  <line x1="450" y1="260" x2="660" y2="260" stroke="#d4552a" stroke-width="2"/>
+  <line x1="450" y1="260" x2="450" y2="140" stroke="#4a5761" stroke-width="2"/>
+  <line x1="450" y1="260" x2="216" y2="356" stroke="#4a5761" stroke-width="2"/>
+  <line x1="450" y1="260" x2="450" y2="386" stroke="#4a5761" stroke-width="2"/>
+
+  <!-- hub -->
+  <circle cx="450" cy="260" r="52" fill="#15181b"/>
+  <text class="hub" x="450" y="256" fill="#ffffff" text-anchor="middle">Yogyakarta</text>
+  <text class="s" x="450" y="276" fill="#ffffff" text-anchor="middle">your hotel</text>
+
+  <!-- Borobudur (NW) -->
+  <circle cx="196" cy="164" r="7" fill="#d4552a"/>
+  <text class="n" x="180" y="140" fill="#d4552a" text-anchor="end">Borobudur</text>
+  <text class="t" x="180" y="158" fill="#454e55" text-anchor="end">~1 hour northwest</text>
+  <text class="s" x="180" y="175" fill="#454e55" text-anchor="end">largest Buddhist temple</text>
+  <text class="s" x="180" y="191" fill="#454e55" text-anchor="end">UNESCO-listed 1991</text>
+
+  <!-- Punthuk Setumbu -->
+  <circle cx="216" cy="356" r="7" fill="#a8792f"/>
+  <text class="n" x="200" y="352" fill="#a8792f" text-anchor="end">Punthuk Setumbu</text>
+  <text class="t" x="200" y="370" fill="#454e55" text-anchor="end">the sunrise hill, 2.5 km out</text>
+  <text class="s" x="200" y="386" fill="#454e55" text-anchor="end">vans leave ~03:30</text>
+
+  <!-- Merapi (N) -->
+  <circle cx="450" cy="140" r="7" fill="#4a5761"/>
+  <text class="n" x="450" y="116" fill="#15181b" text-anchor="middle">Merapi</text>
+  <text class="s" x="450" y="132" fill="#454e55" text-anchor="middle">active volcano, jeep tours on the lower slopes</text>
+
+  <!-- Prambanan (E) -->
+  <circle cx="660" cy="260" r="7" fill="#d4552a"/>
+  <text class="n" x="680" y="248" fill="#d4552a" text-anchor="start">Prambanan</text>
+  <text class="t" x="680" y="266" fill="#454e55" text-anchor="start">eastern edge of the city</text>
+  <text class="s" x="680" y="282" fill="#454e55" text-anchor="start">9th-century Hindu complex</text>
+  <text class="s" x="680" y="298" fill="#454e55" text-anchor="start">3,510,750 visits, Jan-May 2025</text>
+
+  <!-- Kraton (S) -->
+  <circle cx="450" cy="386" r="7" fill="#4a5761"/>
+  <text class="n" x="450" y="410" fill="#15181b" text-anchor="middle">Kraton &amp; Malioboro</text>
+  <text class="s" x="450" y="426" fill="#454e55" text-anchor="middle">in the centre: a sultan still in residence, Rp25,000 entry</text>
+
+  <!-- footer -->
+  <line x1="40" y1="440" x2="860" y2="440" stroke="#dde2e4" stroke-width="1"/>
+  <text class="s" x="40" y="460" fill="#454e55">Borobudur northwest, Prambanan east: which is why day tours loop them.</text>
+  <text class="s" x="860" y="460" fill="#454e55" text-anchor="end">Airport (YIA): ~45 km southwest</text>
+</svg>

@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" role="img" aria-labelledby="sr-t sr-d">
+  <title id="sr-t">Two Borobudur dawns, and what each one puts in your photograph</title>
+  <desc id="sr-d">Two viewfinder frames. The left frame is the dawn from Punthuk Setumbu hill, about 2.5 kilometres west of Borobudur: the temple stands as a small silhouette above a band of mist with a volcano behind it, which is the famous photograph and the dawn the tours on this site include. The right frame is the dawn from the monument itself at 04:00, the operator's separate official product capped at 100 people a day: the frame holds the plain and the stupas around you, but never the temple, because you are standing on it.</desc>
+  <style>.sr-f{font-family:"Avenir Next",Avenir,"Segoe UI",sans-serif;}</style>
+  <rect x="1" y="1" width="898" height="468" rx="14" fill="#f4f5f5" stroke="#dde2e4"/>
+
+  <text x="40" y="46" class="sr-f" font-size="21" font-weight="800" fill="#15181b">Two dawns are sold as one. This is what you get in the frame.</text>
+  <text x="40" y="70" class="sr-f" font-size="13" fill="#454e55">The difference is not the sunrise. It is where you are standing when it happens.</text>
+
+  <!-- LEFT FRAME: Punthuk Setumbu -->
+  <rect x="40" y="96" width="395" height="196" fill="#ffffff" stroke="#dde2e4"/>
+  <path d="M250 212 L305 152 L360 212 Z" fill="#454e55" opacity="0.4"/>
+  <circle cx="388" cy="198" r="15" fill="#d4552a"/>
+  <rect x="41" y="212" width="393" height="79" fill="#dde2e4" opacity="0.6"/>
+  <rect x="140" y="204" width="70" height="8" fill="#15181b"/>
+  <rect x="150" y="196" width="50" height="8" fill="#15181b"/>
+  <rect x="160" y="189" width="30" height="7" fill="#15181b"/>
+  <circle cx="175" cy="185" r="5" fill="#15181b"/>
+  <rect x="41" y="203" width="393" height="18" fill="#ffffff" opacity="0.88"/>
+  <rect x="41" y="224" width="393" height="9" fill="#ffffff" opacity="0.6"/>
+  <text x="54" y="118" class="sr-f" font-size="12.5" font-weight="800" fill="#15181b">From Punthuk Setumbu hill</text>
+  <text x="54" y="134" class="sr-f" font-size="11" fill="#454e55">2.5 km west, looking back across the plain</text>
+  <text x="54" y="278" class="sr-f" font-size="11.5" font-weight="700" fill="#d4552a">The temple, above the mist</text>
+  <path d="M46 102 h16 M46 102 v16" stroke="#d4552a" stroke-width="2" fill="none"/>
+  <path d="M429 286 h-16 M429 286 v-16" stroke="#d4552a" stroke-width="2" fill="none"/>
+
+  <!-- RIGHT FRAME: the monument -->
+  <rect x="465" y="96" width="395" height="196" fill="#ffffff" stroke="#dde2e4"/>
+  <path d="M700 212 L745 166 L790 212 Z" fill="#454e55" opacity="0.28"/>
+  <circle cx="662" cy="198" r="15" fill="#d4552a"/>
+  <rect x="466" y="212" width="393" height="79" fill="#dde2e4" opacity="0.6"/>
+  <rect x="516" y="224" width="8" height="12" fill="#15181b"/>
+  <path d="M480 291 h80 v-14 q0 -44 -40 -44 q-40 0 -40 44 z" fill="#15181b"/>
+  <rect x="796" y="224" width="8" height="12" fill="#15181b"/>
+  <path d="M760 291 h80 v-14 q0 -44 -40 -44 q-40 0 -40 44 z" fill="#15181b"/>
+  <path d="M636 291 h56 v-10 q0 -30 -28 -30 q-28 0 -28 30 z" fill="#15181b" opacity="0.55"/>
+  <text x="479" y="118" class="sr-f" font-size="12.5" font-weight="800" fill="#15181b">From the monument itself</text>
+  <text x="479" y="134" class="sr-f" font-size="11" fill="#454e55">04:00, the operator's own separate product</text>
+  <text x="664" y="180" class="sr-f" font-size="11.5" font-weight="700" fill="#15181b" text-anchor="middle">You are standing on it</text>
+  <path d="M471 102 h16 M471 102 v16" stroke="#d4552a" stroke-width="2" fill="none"/>
+  <path d="M854 286 h-16 M854 286 v-16" stroke="#d4552a" stroke-width="2" fill="none"/>
+
+  <!-- captions -->
+  <text x="40" y="318" class="sr-f" font-size="14.5" font-weight="800" fill="#15181b">The hill dawn</text>
+  <text x="40" y="340" class="sr-f" font-size="12" fill="#454e55">What the tours on this site include</text>
+  <text x="40" y="358" class="sr-f" font-size="12" fill="#454e55">Where every famous mist photograph is taken</text>
+  <text x="40" y="376" class="sr-f" font-size="12" fill="#454e55">Borobudur reads as a silhouette, small but unmistakable</text>
+
+  <text x="465" y="318" class="sr-f" font-size="14.5" font-weight="800" fill="#15181b">The monument dawn</text>
+  <text x="465" y="340" class="sr-f" font-size="12" fill="#454e55">The operator's separate official product</text>
+  <text x="465" y="358" class="sr-f" font-size="12" fill="#454e55">04:00 start, capped at 100 people a day</text>
+  <text x="465" y="376" class="sr-f" font-size="12" fill="#454e55">We do not sell it and earn nothing from it</text>
+
+  <rect x="40" y="398" width="820" height="46" rx="8" fill="#ffffff" stroke="#dde2e4"/>
+  <text x="54" y="418" class="sr-f" font-size="12.5" font-weight="700" fill="#15181b">You cannot photograph Borobudur while standing on Borobudur.</text>
+  <text x="54" y="435" class="sr-f" font-size="11.5" fill="#454e55">Sunrise on the Kedu Plain lands near 05:30. The half hour after it usually beats the headline minute.</text>
+</svg>

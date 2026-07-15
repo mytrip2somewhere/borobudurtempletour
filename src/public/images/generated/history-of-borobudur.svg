@@ -1,0 +1,102 @@
+<svg viewBox="0 0 900 470" role="img" aria-labelledby="hb-title hb-desc" xmlns="http://www.w3.org/2000/svg">
+  <title id="hb-title">Borobudur's history from 778 AD to today</title>
+  <desc id="hb-desc">A timeline. Construction began in 778 AD and finished around 825 AD under the Sailendra dynasty. The Javanese court moved east around 929 AD under Mpu Sindok, the documented factor in the temple's decline. Borobudur fell into disuse between the 10th and 15th centuries with no single proven cause; a Merapi eruption in 1006 is an unproven hypothesis. A Javanese court poem still mentioned the site around 1365. In 1814 Raffles sent H.C. Cornelius with about 200 workers to clear it, guided by villagers who already knew it. UNESCO inscribed the site in 1991, and the climb reopened in the 2020s.</desc>
+  <style>
+    .f{font-family:"Avenir Next",Avenir,"Segoe UI",sans-serif;}
+    .yr{font-size:17px;font-weight:700;}
+    .hd{font-size:13.5px;font-weight:700;}
+    .tx{font-size:12px;}
+    .cap{font-size:11.5px;font-weight:700;letter-spacing:.08em;}
+    .ttl{font-size:20px;font-weight:800;}
+    .sub{font-size:12.5px;}
+  </style>
+
+  <rect x="1" y="1" width="898" height="468" rx="14" fill="#f4f5f5" stroke="#dde2e4"/>
+
+  <text x="34" y="44" class="f ttl" fill="#15181b">Borobudur: twelve centuries in one line</text>
+  <text x="34" y="66" class="f sub" fill="#454e55">Fifty years to build. Eight hundred years of quiet. Never actually lost.</text>
+
+  <!-- legend -->
+  <rect x="600" y="30" width="10" height="10" rx="2" fill="#15181b"/>
+  <text x="616" y="39" class="f tx" fill="#454e55">Documented</text>
+  <rect x="710" y="30" width="10" height="10" rx="2" fill="#d4552a"/>
+  <text x="726" y="39" class="f tx" fill="#454e55">Unproven hypothesis</text>
+
+  <!-- the spine -->
+  <line x1="60" y1="188" x2="866" y2="188" stroke="#4a5761" stroke-width="2.5"/>
+
+  <!-- the long dormancy band -->
+  <rect x="300" y="176" width="330" height="24" rx="12" fill="#e3e6e7" stroke="#c9d0d3"/>
+  <text x="465" y="192" text-anchor="middle" class="f cap" fill="#4a5761">DISUSE: 10th TO 15th CENTURY</text>
+
+  <!-- ============ ABOVE-LINE EVENTS ============ -->
+
+  <!-- 778 -->
+  <circle cx="86" cy="188" r="7" fill="#15181b"/>
+  <line x1="86" y1="181" x2="86" y2="132" stroke="#4a5761" stroke-width="1.5"/>
+  <text x="86" y="120" text-anchor="middle" class="f yr" fill="#15181b">778 AD</text>
+  <text x="86" y="102" text-anchor="middle" class="f hd" fill="#454e55">Ground broken</text>
+  <text x="86" y="86" text-anchor="middle" class="f tx" fill="#454e55">Sailendra dynasty</text>
+
+  <!-- 825 -->
+  <circle cx="196" cy="188" r="7" fill="#15181b"/>
+  <line x1="196" y1="195" x2="196" y2="244" stroke="#4a5761" stroke-width="1.5"/>
+  <text x="196" y="264" text-anchor="middle" class="f yr" fill="#15181b">c. 825 AD</text>
+  <text x="196" y="282" text-anchor="middle" class="f hd" fill="#454e55">Completed</text>
+  <text x="196" y="298" text-anchor="middle" class="f tx" fill="#454e55">Nine platforms, 1,460</text>
+  <text x="196" y="313" text-anchor="middle" class="f tx" fill="#454e55">narrative panels</text>
+
+  <!-- 929 -->
+  <circle cx="300" cy="188" r="7" fill="#15181b"/>
+  <line x1="300" y1="181" x2="300" y2="132" stroke="#4a5761" stroke-width="1.5"/>
+  <text x="300" y="120" text-anchor="middle" class="f yr" fill="#15181b">c. 929 AD</text>
+  <text x="300" y="102" text-anchor="middle" class="f hd" fill="#454e55">Court moves east</text>
+  <text x="300" y="86" text-anchor="middle" class="f tx" fill="#454e55">Mpu Sindok. The one</text>
+  <text x="300" y="71" text-anchor="middle" class="f tx" fill="#454e55">documented factor</text>
+
+  <!-- 1006 : the unproven one -->
+  <circle cx="392" cy="188" r="7" fill="#d4552a"/>
+  <line x1="392" y1="195" x2="392" y2="238" stroke="#d4552a" stroke-width="1.5" stroke-dasharray="3 3"/>
+  <text x="392" y="258" text-anchor="middle" class="f yr" fill="#d4552a">1006?</text>
+  <text x="392" y="276" text-anchor="middle" class="f hd" fill="#d4552a">Merapi eruption theory</text>
+  <text x="392" y="292" text-anchor="middle" class="f tx" fill="#454e55">van Bemmelen's hypothesis.</text>
+  <text x="392" y="307" text-anchor="middle" class="f tx" fill="#454e55">Never proven for Borobudur</text>
+
+  <!-- 1365 -->
+  <circle cx="588" cy="188" r="7" fill="#15181b"/>
+  <line x1="588" y1="181" x2="588" y2="132" stroke="#4a5761" stroke-width="1.5"/>
+  <text x="588" y="120" text-anchor="middle" class="f yr" fill="#15181b">c. 1365</text>
+  <text x="588" y="102" text-anchor="middle" class="f hd" fill="#454e55">Still on the record</text>
+  <text x="588" y="86" text-anchor="middle" class="f tx" fill="#454e55">A Javanese court poem</text>
+  <text x="588" y="71" text-anchor="middle" class="f tx" fill="#454e55">still names the site</text>
+
+  <!-- 1814 -->
+  <circle cx="700" cy="188" r="7" fill="#15181b"/>
+  <line x1="700" y1="195" x2="700" y2="238" stroke="#4a5761" stroke-width="1.5"/>
+  <text x="700" y="258" text-anchor="middle" class="f yr" fill="#15181b">1814</text>
+  <text x="700" y="276" text-anchor="middle" class="f hd" fill="#a8792f">Cleared, not discovered</text>
+  <text x="700" y="292" text-anchor="middle" class="f tx" fill="#454e55">Raffles sends Cornelius,</text>
+  <text x="700" y="307" text-anchor="middle" class="f tx" fill="#454e55">~200 workers. Villagers</text>
+  <text x="700" y="322" text-anchor="middle" class="f tx" fill="#454e55">show them the way</text>
+
+  <!-- 1991 -->
+  <circle cx="812" cy="188" r="7" fill="#15181b"/>
+  <line x1="812" y1="181" x2="812" y2="132" stroke="#4a5761" stroke-width="1.5"/>
+  <text x="866" y="120" text-anchor="end" class="f yr" fill="#15181b">1991</text>
+  <text x="866" y="102" text-anchor="end" class="f hd" fill="#454e55">UNESCO listing</text>
+  <text x="866" y="86" text-anchor="end" class="f tx" fill="#454e55">Borobudur Temple</text>
+  <text x="866" y="71" text-anchor="end" class="f tx" fill="#454e55">Compounds</text>
+
+  <!-- today -->
+  <circle cx="866" cy="188" r="5" fill="#a8792f"/>
+  <text x="866" y="218" text-anchor="end" class="f cap" fill="#a8792f">TODAY</text>
+
+  <!-- ============ BOTTOM SUMMARY BAR ============ -->
+  <rect x="60" y="360" width="806" height="78" rx="10" fill="#ffffff" stroke="#dde2e4"/>
+
+  <text x="80" y="384" class="f hd" fill="#15181b">The honest version</text>
+  <text x="80" y="404" class="f tx" fill="#454e55">No single proven cause of abandonment. Patronage moved east, Buddhism thinned, and Java later turned to Islam.</text>
+  <text x="80" y="421" class="f tx" fill="#454e55">The temple went quiet over generations rather than vanishing in a day, and local people knew where it stood the whole time.</text>
+
+  <line x1="60" y1="188" x2="60" y2="188" stroke="#4a5761"/>
+</svg>

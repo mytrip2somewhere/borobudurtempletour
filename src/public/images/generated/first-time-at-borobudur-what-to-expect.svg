@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" role="img" aria-labelledby="ft-t ft-d">
+  <title id="ft-t">A first visit to Borobudur, minute by minute</title>
+  <desc id="ft-d">A timed strip of a first Borobudur visit. Pickup in Yogyakarta is followed by roughly an hour's drive northwest to the park. On site, about two hours breaks down as fifteen minutes through the gardens, eight minutes for the Upanat sandal swap at the base, fifty minutes on the gallery terraces reading the relief panels, twenty-five minutes on the summit terraces among the stupas, and twenty-two minutes to walk out. A heat scale below shows the stone cool at the 08:30 opening and unshaded by noon.</desc>
+  <style>.ft-f{font-family:"Avenir Next",Avenir,"Segoe UI",sans-serif;}</style>
+  <rect x="1" y="1" width="898" height="468" rx="14" fill="#f4f5f5" stroke="#dde2e4"/>
+
+  <text x="40" y="46" class="ft-f" font-size="21" font-weight="800" fill="#15181b">Arrival to summit: how a first visit actually runs</text>
+  <text x="40" y="70" class="ft-f" font-size="13" fill="#454e55">Two hours on site does the temple justice. The early slot is the cool one.</text>
+
+  <!-- getting there chips -->
+  <rect x="40" y="94" width="176" height="34" rx="17" fill="#ffffff" stroke="#dde2e4"/>
+  <text x="128" y="116" class="ft-f" font-size="12.5" font-weight="700" fill="#15181b" text-anchor="middle">Pickup in Yogyakarta</text>
+  <path d="M224 111 L250 111" stroke="#4a5761" stroke-width="2"/>
+  <path d="M250 111 l-7 -4 v8 z" fill="#4a5761"/>
+  <rect x="258" y="94" width="212" height="34" rx="17" fill="#ffffff" stroke="#dde2e4"/>
+  <text x="364" y="116" class="ft-f" font-size="12.5" font-weight="700" fill="#15181b" text-anchor="middle">About 1 hour northwest by road</text>
+  <path d="M478 111 L504 111" stroke="#4a5761" stroke-width="2"/>
+  <path d="M504 111 l-7 -4 v8 z" fill="#4a5761"/>
+  <rect x="512" y="94" width="150" height="34" rx="17" fill="#ffffff" stroke="#dde2e4"/>
+  <text x="587" y="116" class="ft-f" font-size="12.5" font-weight="700" fill="#15181b" text-anchor="middle">Park entrance</text>
+  <text x="676" y="116" class="ft-f" font-size="12" fill="#454e55">the strip below starts here</text>
+
+  <!-- the timed strip -->
+  <rect x="60" y="170" width="100" height="46" fill="#4a5761"/>
+  <rect x="160" y="170" width="53" height="46" fill="#454e55"/>
+  <rect x="213" y="170" width="334" height="46" fill="#4a5761"/>
+  <rect x="547" y="170" width="166" height="46" fill="#a8792f"/>
+  <rect x="713" y="170" width="147" height="46" fill="#454e55"/>
+  <rect x="60" y="170" width="800" height="46" fill="none" stroke="#dde2e4"/>
+
+  <circle cx="110" cy="193" r="12" fill="#ffffff"/>
+  <text x="110" y="198" class="ft-f" font-size="13" font-weight="800" fill="#15181b" text-anchor="middle">1</text>
+  <circle cx="186" cy="193" r="12" fill="#ffffff"/>
+  <text x="186" y="198" class="ft-f" font-size="13" font-weight="800" fill="#15181b" text-anchor="middle">2</text>
+  <circle cx="380" cy="193" r="12" fill="#ffffff"/>
+  <text x="380" y="198" class="ft-f" font-size="13" font-weight="800" fill="#15181b" text-anchor="middle">3</text>
+  <circle cx="630" cy="193" r="12" fill="#ffffff"/>
+  <text x="630" y="198" class="ft-f" font-size="13" font-weight="800" fill="#15181b" text-anchor="middle">4</text>
+  <circle cx="786" cy="193" r="12" fill="#ffffff"/>
+  <text x="786" y="198" class="ft-f" font-size="13" font-weight="800" fill="#15181b" text-anchor="middle">5</text>
+
+  <!-- axis -->
+  <line x1="60" y1="228" x2="860" y2="228" stroke="#dde2e4" stroke-width="1"/>
+  <line x1="60" y1="224" x2="60" y2="232" stroke="#4a5761"/>
+  <line x1="260" y1="224" x2="260" y2="232" stroke="#4a5761"/>
+  <line x1="460" y1="224" x2="460" y2="232" stroke="#4a5761"/>
+  <line x1="660" y1="224" x2="660" y2="232" stroke="#4a5761"/>
+  <line x1="860" y1="224" x2="860" y2="232" stroke="#4a5761"/>
+  <text x="60" y="248" class="ft-f" font-size="11.5" fill="#454e55" text-anchor="middle">0</text>
+  <text x="260" y="248" class="ft-f" font-size="11.5" fill="#454e55" text-anchor="middle">30</text>
+  <text x="460" y="248" class="ft-f" font-size="11.5" fill="#454e55" text-anchor="middle">60</text>
+  <text x="660" y="248" class="ft-f" font-size="11.5" fill="#454e55" text-anchor="middle">90</text>
+  <text x="860" y="248" class="ft-f" font-size="11.5" fill="#454e55" text-anchor="end">120 min</text>
+
+  <!-- legend, two columns -->
+  <circle cx="72" cy="286" r="11" fill="#4a5761"/>
+  <text x="72" y="291" class="ft-f" font-size="12" font-weight="800" fill="#ffffff" text-anchor="middle">1</text>
+  <text x="92" y="283" class="ft-f" font-size="13.5" font-weight="700" fill="#15181b">Gardens to the base</text>
+  <text x="92" y="299" class="ft-f" font-size="11.5" fill="#454e55">The temple resolves as you walk</text>
+  <text x="430" y="291" class="ft-f" font-size="13" font-weight="700" fill="#454e55" text-anchor="end">15 min</text>
+
+  <circle cx="72" cy="330" r="11" fill="#454e55"/>
+  <text x="72" y="335" class="ft-f" font-size="12" font-weight="800" fill="#ffffff" text-anchor="middle">2</text>
+  <text x="92" y="327" class="ft-f" font-size="13.5" font-weight="700" fill="#15181b">Upanat sandal swap</text>
+  <text x="92" y="343" class="ft-f" font-size="11.5" fill="#454e55">Included with the climb ticket, yours to keep</text>
+  <text x="430" y="335" class="ft-f" font-size="13" font-weight="700" fill="#454e55" text-anchor="end">8 min</text>
+
+  <circle cx="72" cy="374" r="11" fill="#4a5761"/>
+  <text x="72" y="379" class="ft-f" font-size="12" font-weight="800" fill="#ffffff" text-anchor="middle">3</text>
+  <text x="92" y="371" class="ft-f" font-size="13.5" font-weight="700" fill="#15181b">Galleries, walked clockwise</text>
+  <text x="92" y="387" class="ft-f" font-size="11.5" fill="#454e55">1,460 relief panels, read as you rise</text>
+  <text x="430" y="379" class="ft-f" font-size="13" font-weight="700" fill="#454e55" text-anchor="end">50 min</text>
+
+  <circle cx="480" cy="286" r="11" fill="#a8792f"/>
+  <text x="480" y="291" class="ft-f" font-size="12" font-weight="800" fill="#ffffff" text-anchor="middle">4</text>
+  <text x="500" y="283" class="ft-f" font-size="13.5" font-weight="700" fill="#15181b">Summit terraces</text>
+  <text x="500" y="299" class="ft-f" font-size="11.5" fill="#454e55">Three circles, 72 stupas, no shade at all</text>
+  <text x="860" y="291" class="ft-f" font-size="13" font-weight="700" fill="#454e55" text-anchor="end">25 min</text>
+
+  <circle cx="480" cy="330" r="11" fill="#454e55"/>
+  <text x="480" y="335" class="ft-f" font-size="12" font-weight="800" fill="#ffffff" text-anchor="middle">5</text>
+  <text x="500" y="327" class="ft-f" font-size="13.5" font-weight="700" fill="#15181b">The walk out</text>
+  <text x="500" y="343" class="ft-f" font-size="11.5" fill="#454e55">Longer than anyone expects</text>
+  <text x="860" y="335" class="ft-f" font-size="13" font-weight="700" fill="#454e55" text-anchor="end">22 min</text>
+
+  <!-- heat scale -->
+  <text x="500" y="374" class="ft-f" font-size="12.5" font-weight="700" fill="#15181b">Why the first slot wins</text>
+  <rect x="500" y="384" width="72" height="14" fill="#d4552a" opacity="0.12"/>
+  <rect x="572" y="384" width="72" height="14" fill="#d4552a" opacity="0.3"/>
+  <rect x="644" y="384" width="72" height="14" fill="#d4552a" opacity="0.55"/>
+  <rect x="716" y="384" width="72" height="14" fill="#d4552a" opacity="0.78"/>
+  <rect x="788" y="384" width="72" height="14" fill="#d4552a" opacity="0.95"/>
+  <text x="500" y="414" class="ft-f" font-size="11.5" fill="#454e55">08:30 opening</text>
+  <text x="860" y="414" class="ft-f" font-size="11.5" fill="#454e55" text-anchor="end">noon, unshaded</text>
+
+  <rect x="40" y="428" width="820" height="26" rx="8" fill="#ffffff" stroke="#dde2e4"/>
+  <text x="52" y="445" class="ft-f" font-size="12" fill="#15181b">Foreign visitors buy the structure-climb ticket. A guide comes with it. The grounds-only ticket is domestic-only.</text>
+</svg>

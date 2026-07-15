@@ -1,0 +1,110 @@
+<svg viewBox="0 0 900 470" role="img" aria-labelledby="pb-title pb-desc" xmlns="http://www.w3.org/2000/svg">
+  <title id="pb-title">Prambanan and Borobudur compared: Hindu versus Buddhist</title>
+  <desc id="pb-desc">A side by side comparison. Prambanan is a Hindu compound east of Yogyakarta, dedicated to the Trimurti with its main temple to Shiva, dated to the 9th century with the builder disputed, made of 240 separate spired temples that you walk between at ground level. Borobudur is a Mahayana Buddhist monument about one hour north-west of Yogyakarta, begun in 778 AD and completed around 825 AD, a single mass of nine stacked platforms carrying 1,460 narrative relief panels and 72 perforated stupas, walked clockwise and upward. Both were inscribed by UNESCO in 1991 and stand about 40 kilometres apart on the same plain.</desc>
+  <style>
+    .f{font-family:"Avenir Next",Avenir,"Segoe UI",sans-serif;}
+    .ttl{font-size:20px;font-weight:800;}
+    .sub{font-size:12.5px;}
+    .nm{font-size:18px;font-weight:800;}
+    .fa{font-size:12px;font-weight:700;letter-spacing:.07em;}
+    .k{font-size:11.5px;font-weight:700;letter-spacing:.05em;}
+    .v{font-size:12.5px;}
+    .note{font-size:12px;}
+  </style>
+
+  <rect x="1" y="1" width="898" height="468" rx="14" fill="#f4f5f5" stroke="#dde2e4"/>
+
+  <text x="34" y="42" class="f ttl" fill="#15181b">Two faiths, one plain, one century apart</text>
+  <text x="34" y="63" class="f sub" fill="#454e55">Prambanan is Hindu. Borobudur is Buddhist. They are about 40 km and roughly 100 years apart.</text>
+
+  <!-- ================= LEFT: PRAMBANAN ================= -->
+  <rect x="34" y="84" width="400" height="300" rx="12" fill="#ffffff" stroke="#dde2e4"/>
+
+  <!-- spires: many separate towers -->
+  <g>
+    <path d="M104 178 L114 128 L124 178 Z" fill="#a8792f"/>
+    <rect x="106" y="178" width="16" height="22" fill="#a8792f"/>
+    <path d="M138 178 L154 108 L170 178 Z" fill="#15181b"/>
+    <rect x="141" y="178" width="26" height="22" fill="#15181b"/>
+    <path d="M186 178 L196 128 L206 178 Z" fill="#a8792f"/>
+    <rect x="188" y="178" width="16" height="22" fill="#a8792f"/>
+    <path d="M228 178 L238 142 L248 178 Z" fill="#4a5761"/>
+    <rect x="230" y="178" width="16" height="22" fill="#4a5761"/>
+    <path d="M266 178 L276 142 L286 178 Z" fill="#4a5761"/>
+    <rect x="268" y="178" width="16" height="22" fill="#4a5761"/>
+    <line x1="86" y1="201" x2="330" y2="201" stroke="#4a5761" stroke-width="2"/>
+  </g>
+  <text x="154" y="96" text-anchor="middle" class="f k" fill="#a8792f">SHIVA</text>
+
+  <text x="56" y="122" class="f nm" fill="#15181b">Prambanan</text>
+  <rect x="56" y="132" width="86" height="19" rx="9" fill="#d4552a"/>
+  <text x="99" y="145" text-anchor="middle" class="f fa" fill="#ffffff">HINDU</text>
+
+  <text x="56" y="232" class="f k" fill="#4a5761">DEDICATION</text>
+  <text x="414" y="232" text-anchor="end" class="f v" fill="#15181b">Trimurti, main temple to Shiva</text>
+
+  <text x="56" y="260" class="f k" fill="#4a5761">DATE</text>
+  <text x="414" y="260" text-anchor="end" class="f v" fill="#15181b">9th century, builder disputed</text>
+
+  <text x="56" y="288" class="f k" fill="#4a5761">LAYOUT</text>
+  <text x="414" y="288" text-anchor="end" class="f v" fill="#15181b">240 separate temples (UNESCO)</text>
+
+  <text x="56" y="316" class="f k" fill="#4a5761">YOU MOVE</text>
+  <text x="414" y="316" text-anchor="end" class="f v" fill="#15181b">Ground level, tower to tower</text>
+
+  <text x="56" y="344" class="f k" fill="#4a5761">YOU SEE</text>
+  <text x="414" y="344" text-anchor="end" class="f v" fill="#15181b">Spires, Ramayana reliefs, chambers</text>
+
+  <text x="56" y="372" class="f k" fill="#4a5761">FROM YOGYA</text>
+  <text x="414" y="372" text-anchor="end" class="f v" fill="#15181b">East of the city</text>
+
+  <!-- ================= RIGHT: BOROBUDUR ================= -->
+  <rect x="466" y="84" width="400" height="300" rx="12" fill="#ffffff" stroke="#dde2e4"/>
+
+  <!-- one stacked mass -->
+  <g>
+    <rect x="518" y="188" width="240" height="13" fill="#4a5761"/>
+    <rect x="530" y="175" width="216" height="13" fill="#4a5761"/>
+    <rect x="542" y="162" width="192" height="13" fill="#4a5761"/>
+    <rect x="554" y="149" width="168" height="13" fill="#454e55"/>
+    <rect x="566" y="136" width="144" height="13" fill="#454e55"/>
+    <ellipse cx="638" cy="130" rx="62" ry="7" fill="#15181b"/>
+    <ellipse cx="638" cy="121" rx="48" ry="6" fill="#15181b"/>
+    <circle cx="600" cy="116" r="4.5" fill="#a8792f"/>
+    <circle cx="638" cy="114" r="4.5" fill="#a8792f"/>
+    <circle cx="676" cy="116" r="4.5" fill="#a8792f"/>
+    <path d="M638 112 a11 11 0 1 1 -0.1 0 Z" fill="#15181b"/>
+    <circle cx="638" cy="103" r="10" fill="#15181b"/>
+    <line x1="518" y1="201" x2="762" y2="201" stroke="#4a5761" stroke-width="2"/>
+  </g>
+  <!-- clockwise arrow -->
+  <path d="M772 168 a34 34 0 1 0 -22 -30" fill="none" stroke="#d4552a" stroke-width="2" stroke-linecap="round"/>
+  <path d="M750 138 l-3 12 l12 -2 Z" fill="#d4552a"/>
+
+  <text x="488" y="122" class="f nm" fill="#15181b">Borobudur</text>
+  <rect x="488" y="132" width="102" height="19" rx="9" fill="#15181b"/>
+  <text x="539" y="145" text-anchor="middle" class="f fa" fill="#ffffff">BUDDHIST</text>
+
+  <text x="488" y="232" class="f k" fill="#4a5761">DEDICATION</text>
+  <text x="846" y="232" text-anchor="end" class="f v" fill="#15181b">Mahayana Buddhist</text>
+
+  <text x="488" y="260" class="f k" fill="#4a5761">DATE</text>
+  <text x="846" y="260" text-anchor="end" class="f v" fill="#15181b">778 to c. 825 AD, Sailendra</text>
+
+  <text x="488" y="288" class="f k" fill="#4a5761">LAYOUT</text>
+  <text x="846" y="288" text-anchor="end" class="f v" fill="#15181b">One mass, nine platforms</text>
+
+  <text x="488" y="316" class="f k" fill="#4a5761">YOU MOVE</text>
+  <text x="846" y="316" text-anchor="end" class="f v" fill="#15181b">Clockwise, and upward</text>
+
+  <text x="488" y="344" class="f k" fill="#4a5761">YOU SEE</text>
+  <text x="846" y="344" text-anchor="end" class="f v" fill="#15181b">1,460 panels, 72 open stupas</text>
+
+  <text x="488" y="372" class="f k" fill="#4a5761">FROM YOGYA</text>
+  <text x="846" y="372" text-anchor="end" class="f v" fill="#15181b">~1 hour north-west</text>
+
+  <!-- ================= SHARED FOOTER ================= -->
+  <rect x="34" y="398" width="832" height="48" rx="10" fill="#ffffff" stroke="#dde2e4"/>
+  <text x="450" y="418" text-anchor="middle" class="f note" fill="#15181b">Both inscribed by UNESCO in 1991. Near-contemporaries, same region, no evidence of one replacing the other.</text>
+  <text x="450" y="436" text-anchor="middle" class="f note" fill="#454e55">UNESCO calls Prambanan standing proof of past religious peaceful cohabitation. That is the real answer to the question.</text>
+</svg>
