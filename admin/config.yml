@@ -1,0 +1,89 @@
+# Sveltia CMS - images + blog (Phase 8.3).
+# Content managers get two things: a "Site images" screen with a labelled picker +
+# alt-text field per slot, and a "Blog posts" collection (write the body, set a hero,
+# pick a related tour). Money-page text/prices/schema stay in code. Commits auto-deploy.
+#
+# SCAFFOLD STATUS: the image slots below are a MINIMAL SHELL. The reference site's slots
+# described its own pages, so they were not carried over. Real slots get added per page as
+# the build creates those pages (one { src, alt } object per slot, grouped by page).
+
+backend:
+  name: github
+  repo: mytrip2somewhere/borobudurtempletour
+  branch: main
+  # Sveltia OAuth worker for GitHub sign-in.
+  # NOTE FOR OLEG: the existing sveltia-cms-auth worker can be REUSED across sites, but its
+  # GitHub OAuth app must be allowed to access this new repo. Confirm that, or deploy a
+  # separate worker for this site.
+  base_url: https://sveltia-cms-auth.mytrip2somewhere.workers.dev
+
+# Where uploaded files are committed, and how they resolve on the live site.
+media_folder: "src/public/images/uploaded"
+public_folder: "/images/uploaded"
+
+collections:
+  - name: site_images
+    label: "Site images"
+    description: "Replace the photos shown across the site. Slots are grouped by page; each tells you where it appears and the best shape to upload. Real Borobudur photography only (never AI-generated)."
+    files:
+      - name: images
+        label: "All site images"
+        file: "src/data/images.json"
+        description: "Open a section, open a slot, upload the photo and write its alt text. Heroes are wide (16:9), cards are 4:3, author photos are square. Alt text describes the photo for Google and screen readers, kept natural and including a keyword like 'Borobudur Temple' where it fits."
+        fields:
+          - name: homepage
+            label: "🏠 Homepage"
+            widget: object
+            fields:
+              - name: home_hero
+                label: "Hero banner (very top of the homepage)"
+                widget: object
+                hint: "The big banner visitors see first. Wide 16:9, ~1600x900px. Page: /"
+                fields:
+                  - { name: src, label: "Photo", widget: image }
+                  - { name: alt, label: "Alt text (describe it, include a keyword)", widget: string, required: true }
+          - name: author
+            label: "👤 Author"
+            widget: object
+            fields:
+              - name: author_thumb
+                label: "Author — small round photo (square)"
+                widget: object
+                hint: "Shown next to the author's name across the site and on blog posts. ~160x160px."
+                fields:
+                  - { name: src, label: "Photo", widget: image }
+                  - { name: alt, label: "Alt text (include a keyword)", widget: string, required: true }
+              - name: author_portrait
+                label: "Author — large portrait, About page (square)"
+                widget: object
+                hint: "Larger portrait on the About page. ~600x600px. Page: /about/"
+                fields:
+                  - { name: src, label: "Photo", widget: image }
+                  - { name: alt, label: "Alt text (include a keyword)", widget: string, required: true }
+
+  # Blog: full posts. Managers write the body in a rich editor and can insert images
+  # anywhere. Each post can point at a tour for the conversion call-to-action.
+  - name: blog
+    label: "Blog posts"
+    label_singular: "Blog post"
+    folder: "src/content/blog"
+    extension: md
+    format: frontmatter
+    create: true
+    slug: "{{slug}}"
+    media_folder: "/src/public/images/uploaded/blog"
+    public_folder: "/images/uploaded/blog"
+    fields:
+      - { name: title, label: "Title", widget: string }
+      - { name: date, label: "Date", widget: datetime, format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
+      - { name: description, label: "Excerpt / meta description", widget: text }
+      - { name: hero, label: "Hero image", widget: image, required: false }
+      - { name: hero_alt, label: "Hero image alt text", widget: string, required: false }
+      # NOTE FOR OLEG: the related-tour dropdown is a free-text slug until Phase 1 tour intake.
+      # Once the real tours exist, convert this back to a select with one option per tour
+      # (label + value = the tour slug).
+      - { name: related_tour, label: "Related tour slug (conversion CTA)", widget: string, required: false }
+      - { name: related_tour_label, label: "CTA tour label", widget: string, required: false }
+      - { name: related_tour_blurb, label: "CTA blurb", widget: text, required: false }
+      - { name: draft, label: "Draft (uncheck to publish)", widget: boolean, default: true, required: false }
+      - { name: body, label: "Body", widget: markdown }

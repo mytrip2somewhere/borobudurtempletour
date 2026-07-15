@@ -1,0 +1,13 @@
+# Allow all crawling, including search and AI answer engines. Maximum visibility.
+# NOTE: if AI bots still show as blocked, it is Cloudflare's "Manage AI bots /
+# AI Crawl Control" feature injecting a managed block above this file. Turn it
+# off in the Cloudflare dashboard (Security > Bots > AI Crawl Control).
+#
+# NOTE FOR OLEG: this file allows crawling, but the site is NOT indexable yet: every page
+# ships <meta name="robots" content="noindex,nofollow"> until the deploy workflow sets
+# SITE_INDEXABLE=true at launch (Phase 8.6b). That meta tag is the real gate, not this file.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://borobudurtempletour.org/sitemap.xml

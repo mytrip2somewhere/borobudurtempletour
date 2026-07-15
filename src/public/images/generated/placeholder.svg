@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" role="img" aria-label="Placeholder">
+  <rect width="1280" height="720" fill="#dfe1e2"/>
+  <rect x="2" y="2" width="1276" height="716" fill="none" stroke="#b9bec1" stroke-width="4" stroke-dasharray="14 10"/>
+  <g fill="#8a9298" font-family="Avenir Next,Segoe UI,sans-serif" text-anchor="middle">
+    <text x="640" y="352" font-size="42" font-weight="700">Photo goes here</text>
+    <text x="640" y="402" font-size="24">Oleg uploads via Sveltia CMS: /admin</text>
+  </g>
+</svg>
