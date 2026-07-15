@@ -40,9 +40,15 @@ Fields marked **[ASK OLEG]** are unknown and must not be guessed. Fields marked
     given standalone guide pages; that would drift the site off its EMD.
 
 ## MODEL
-- Affiliate links to GetYourGuide / Viator to a real operator Oleg sends traffic for and helps with SEO.
-- Operator official business name: **[ASK OLEG]**
-- Named author / expert byline: **[ASK OLEG]** (see AUTHOR)
+- Affiliate links to GetYourGuide / Viator for a real operator Oleg sends traffic to and helps with SEO.
+- **[CONFIRMED by Oleg 2026-07-15]: the three featured tours are DEWI LESTARI'S OWN tours.**
+  She is an official Borobudur guide; the tours are her inventory, listed on GetYourGuide and
+  Viator, and the site exists to grow her sales through those platforms. Site copy must never
+  describe the tours as coming from "different operators" or disclaim a relationship with her.
+  Honest framing everywhere: "these are Dewi's tours, listed on GYG/Viator; booking through our
+  links pays us a disclosed commission." The site is still NOT the temple's operator and NOT
+  the ticketing authority, and says so.
+- Named author / expert byline: Dewi Lestari (see AUTHOR)
 - Primary KPI: affiliate clicks / bookings to GetYourGuide and Viator
 
 ## AUTHOR (must be a real person)
@@ -50,8 +56,9 @@ Supplied by Oleg 2026-07-14. Per root CLAUDE.md, Oleg's real input is a trusted 
 these credentials are taken as verified and are not re-litigated.
 
 - Name: Dewi Lestari
-- Role (honest): Borobudur Temple tour guide and cultural heritage specialist, based in the
-  Yogyakarta region of Central Java, Indonesia. Guiding Borobudur since 2022.
+- Role (honest): OFFICIAL Borobudur temple guide and cultural heritage specialist, based in
+  the Yogyakarta region of Central Java, Indonesia. Guiding Borobudur since 2022. The three
+  featured tours are her own (confirmed by Oleg 2026-07-15).
 - Real credentials / firsthand experience:
   - Local Javanese guide with knowledge of Borobudur's history, Buddhist heritage, relief
     panels, and architecture.

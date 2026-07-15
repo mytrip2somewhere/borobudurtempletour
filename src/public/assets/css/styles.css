@@ -112,6 +112,24 @@ p { margin: 0 0 var(--s3); max-width: 64ch; }
 .crumbs a { color: var(--ink-soft); }
 .crumbs span[aria-current] { color: var(--ink); font-weight:600; }
 
+/* ---- HERO: FULL-SCREEN BACKGROUND (this site's first-screen signature; Phase 4 rule:
+   every pipeline site gets a visibly different first screen) ---- */
+.hero-full {
+  min-height: 88svh;
+  background-size: cover; background-position: center;
+  display: flex; align-items: flex-end;
+  color: #fff;
+}
+.hero-full-inner { padding-block: var(--s7) var(--s6); }
+.hero-full h1 { color: #fff; max-width: 17ch; }
+.hero-full .lede { color: rgba(255,255,255,.88); max-width: 56ch; font-size: var(--step-1); }
+.hero-full .author-hook { color: rgba(255,255,255,.85); display:flex; align-items:center; gap:.6rem; font-size:var(--step--1); margin: var(--s3) 0 var(--s4); }
+.hero-full .author-hook a { color: #fff; }
+.hero-full .author-hook img { width:38px; height:38px; border-radius:50%; object-fit:cover; border:2px solid rgba(255,255,255,.5); }
+.hero-full-ghost { color:#fff; border-color: rgba(255,255,255,.55); }
+.hero-full-ghost:hover { border-color:#fff; }
+@media (max-width: 640px) { .hero-full { min-height: 72svh; } }
+
 /* ---- HERO (money) - 3.3 asymmetric ---- */
 .hero { display:grid; grid-template-columns: 1.15fr .85fr; gap: var(--s5); align-items:end; padding-top: var(--s5); }
 .hero .eyebrow { font-family:var(--display); text-transform:uppercase; letter-spacing:.12em; font-size:var(--step--1); color:var(--brand-deep); font-weight:700; margin-bottom:var(--s2); }

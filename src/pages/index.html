@@ -16,7 +16,7 @@ preload: <link rel="preload" as="image" href="{{ img:home_hero }}">
       "name": "Borobudur Temple Tour",
       "url": "https://borobudurtempletour.org/",
       "logo": "https://borobudurtempletour.org/images/generated/logo.svg",
-      "description": "An independent guide to visiting and climbing Borobudur, the world's largest Buddhist temple. Compares the real tours from Yogyakarta and routes bookings to the operators' official GetYourGuide and Viator listings.",
+      "description": "The official site of Borobudur guide Dewi Lestari's tours: verified visiting guidance for the world's largest Buddhist temple, with bookings routed to her official GetYourGuide and Viator listings.",
       "areaServed": "Borobudur, Central Java, Indonesia",
       "employee": { "@type": "Person", "@id": "https://borobudurtempletour.org/about/#dewi" }
     },
@@ -46,20 +46,18 @@ preload: <link rel="preload" as="image" href="{{ img:home_hero }}">
 }
 </script>
 <!--content-->
-  <header class="hero wrap">
-    <div>
-      <p class="eyebrow">Borobudur, Central Java · UNESCO World Heritage</p>
+  <!-- Full-screen background hero (per-site first-screen differentiation, Phase 4 hero rule).
+       Background photo = the home_hero Sveltia slot; the gradient keeps text readable over
+       any upload. IMAGE: uploaded via Sveltia (Oleg uploads). -->
+  <header class="hero-full" style="background-image:linear-gradient(rgba(16,19,22,.38), rgba(16,19,22,.78)), url('{{ img:home_hero }}')">
+    <div class="wrap hero-full-inner">
       <h1>Climb the world's largest Buddhist temple, with the facts straight</h1>
-      <p class="lede">Borobudur is a 9th-century mountain of carved stone, and the internet is full of stale prices and invented rules about visiting it. This site compares the real tours from Yogyakarta and keeps the numbers verified against the official operator.</p>
+      <p class="lede">Borobudur is a 9th-century mountain of carved stone, and the internet is full of stale prices and invented rules about visiting it. These are Dewi's own tours, and the numbers here stay verified against the official operator.</p>
       <div class="author-hook">
         <img src="{{ img:author_thumb }}" alt="{{ alt:author_thumb }}" width="38" height="38">
-        <span>With <a href="/about/"><strong>Dewi Lestari</strong></a>, guiding Borobudur since 2022</span>
+        <span>With <a href="/about/"><strong>Dewi Lestari</strong></a>, official Borobudur guide since 2022</span>
       </div>
-      <p><a class="btn btn-primary" href="/tours/">Compare the tours</a> <a class="btn btn-ghost" href="/guides/borobudur-tickets-and-prices/">What tickets really cost</a></p>
-    </div>
-    <div class="hero-media">
-      <!-- IMAGE: uploaded via Sveltia (Oleg uploads). -->
-      <img src="{{ img:home_hero }}" alt="{{ alt:home_hero }}" width="1280" height="720" fetchpriority="high">
+      <p><a class="btn btn-primary" href="/tours/">Compare the tours</a> <a class="btn btn-ghost hero-full-ghost" href="/guides/borobudur-tickets-and-prices/">What tickets really cost</a></p>
     </div>
   </header>
 

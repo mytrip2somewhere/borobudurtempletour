@@ -24,6 +24,13 @@ INTEGRITY GUARDRAIL (non-negotiable, also in root):
 ## 4.2 BLOCK LIBRARY
 - Hero: headline, subheadline matching intent, optional author hook/trust signal, primary
   CTA. Variants: hub vs money. Uploaded image slot.
+  NO location/designation eyebrow line (e.g. "City, Region · UNESCO World Heritage") above
+  the H1: Oleg's standing rule (2026-07-15), it adds no user or SEO value. If an eyebrow is
+  used at all it must carry a value proposition, not a geography badge.
+  FIRST-SCREEN DIFFERENTIATION (same rule date): each pipeline site's homepage hero must use
+  a visibly DIFFERENT layout from the other sites (full-bleed background photo, split
+  editorial, offset card, etc.), chosen in Phase 3, so the portfolio never looks templated.
+  Borobudur uses a full-screen background-photo hero.
 - Quick Answer: short direct answer-first response to the page's main question; expands below.
 - Key Facts Table: duration, group size, difficulty, best-for, price range, meeting point.
   Prime spot for hyper-local data.
