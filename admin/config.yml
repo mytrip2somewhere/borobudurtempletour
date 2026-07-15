@@ -3,18 +3,16 @@
 # alt-text field per slot, and a "Blog posts" collection (write the body, set a hero,
 # pick a related tour). Money-page text/prices/schema stay in code. Commits auto-deploy.
 #
-# SCAFFOLD STATUS: the image slots below are a MINIMAL SHELL. The reference site's slots
-# described its own pages, so they were not carried over. Real slots get added per page as
-# the build creates those pages (one { src, alt } object per slot, grouped by page).
+# EVERY {{ img:KEY }} slot used by the site must appear below, or it becomes un-editable
+# for content managers. If you add an image slot to a page, add it here in the same commit.
 
 backend:
   name: github
   repo: mytrip2somewhere/borobudurtempletour
   branch: main
   # Sveltia OAuth worker for GitHub sign-in. Reused across all pipeline sites.
-  # The worker gates by DOMAIN, not repo: this site's domain must be in the worker's
-  # ALLOWED_DOMAINS variable or login fails with "Your domain is not allowed to use the
-  # authenticator" (see .claude/08-build-deploy.md > REUSING THE OAUTH WORKER).
+  # The worker gates by DOMAIN via its ALLOWED_DOMAINS *secret* (not a plain variable):
+  # this site's domains were added 2026-07-15. See .claude/08-build-deploy.md.
   base_url: https://sveltia-cms-auth.mytrip2somewhere.workers.dev
 
 # Where uploaded files are committed, and how they resolve on the live site.
@@ -29,34 +27,122 @@ collections:
       - name: images
         label: "All site images"
         file: "src/data/images.json"
-        description: "Open a section, open a slot, upload the photo and write its alt text. Heroes are wide (16:9), cards are 4:3, author photos are square. Alt text describes the photo for Google and screen readers, kept natural and including a keyword like 'Borobudur Temple' where it fits."
+        description: "Open a section, open a slot, upload the photo and write its alt text. Heroes are wide (16:9), cards are 4:3, Dewi's photos are square. Alt text describes the photo for Google and screen readers, kept natural and including a keyword like 'Borobudur temple' where it fits."
         fields:
           - name: homepage
             label: "🏠 Homepage"
             widget: object
             fields:
               - name: home_hero
-                label: "Hero banner (very top of the homepage)"
+                label: "Homepage hero (FULL-SCREEN background photo)"
                 widget: object
-                hint: "The big banner visitors see first. Wide 16:9, ~1600x900px. Page: /"
+                hint: "The full-screen background behind the headline. This one fills the whole first screen, so pick a WIDE, fairly DARK, atmospheric shot (dawn mist over the temple is ideal). Busy or bright photos fight the white text. ~2000x1200px or larger. Page: /"
                 fields:
                   - { name: src, label: "Photo", widget: image }
                   - { name: alt, label: "Alt text (describe it, include a keyword)", widget: string, required: true }
+
+          - name: tours
+            label: "🛕 Tour pages"
+            widget: object
+            fields:
+              - name: tours_hub_hero
+                label: "Tours page, hero banner (16:9)"
+                widget: object
+                hint: "Top banner on the 'all tours' page. ~1600x900px. Page: /tours/"
+                fields:
+                  - { name: src, label: "Photo", widget: image }
+                  - { name: alt, label: "Alt text (include a keyword)", widget: string, required: true }
+              - name: sunrise_climb_card
+                label: "Sunrise Climb & Prambanan, CARD photo (4:3)"
+                widget: object
+                hint: "The card shown on the homepage and the tours page. Best shot: sunrise over the temple from Punthuk Setumbu. ~600x450px. Tour: /tours/borobudur-sunrise-climb-prambanan/"
+                fields:
+                  - { name: src, label: "Photo", widget: image }
+                  - { name: alt, label: "Alt text (include a keyword)", widget: string, required: true }
+              - name: sunrise_climb_hero
+                label: "Sunrise Climb & Prambanan, HERO banner (16:9)"
+                widget: object
+                hint: "Top banner on that tour's page, and on the sunrise guide. ~1600x900px. Page: /tours/borobudur-sunrise-climb-prambanan/"
+                fields:
+                  - { name: src, label: "Photo", widget: image }
+                  - { name: alt, label: "Alt text (include a keyword)", widget: string, required: true }
+              - name: merapi_card
+                label: "Sunrise, Merapi & Prambanan, CARD photo (4:3)"
+                widget: object
+                hint: "Card on the homepage and tours page. Best shot: the jeep on Merapi's slopes. ~600x450px. Tour: /tours/borobudur-sunrise-merapi-prambanan/"
+                fields:
+                  - { name: src, label: "Photo", widget: image }
+                  - { name: alt, label: "Alt text (include a keyword)", widget: string, required: true }
+              - name: merapi_hero
+                label: "Sunrise, Merapi & Prambanan, HERO banner (16:9)"
+                widget: object
+                hint: "Top banner on that tour's page. ~1600x900px. Page: /tours/borobudur-sunrise-merapi-prambanan/"
+                fields:
+                  - { name: src, label: "Photo", widget: image }
+                  - { name: alt, label: "Alt text (include a keyword)", widget: string, required: true }
+              - name: daytour_card
+                label: "Climb & Prambanan Day Tour, CARD photo (4:3)"
+                widget: object
+                hint: "Card on the homepage and tours page. Best shot: visitors on the terraces in daylight. ~600x450px. Tour: /tours/borobudur-climb-prambanan-day-tour/"
+                fields:
+                  - { name: src, label: "Photo", widget: image }
+                  - { name: alt, label: "Alt text (include a keyword)", widget: string, required: true }
+              - name: daytour_hero
+                label: "Climb & Prambanan Day Tour, HERO banner (16:9)"
+                widget: object
+                hint: "Top banner on that tour's page. ~1600x900px. Page: /tours/borobudur-climb-prambanan-day-tour/"
+                fields:
+                  - { name: src, label: "Photo", widget: image }
+                  - { name: alt, label: "Alt text (include a keyword)", widget: string, required: true }
+
+          - name: guides
+            label: "📖 Guides"
+            widget: object
+            fields:
+              - name: tickets_hero
+                label: "Tickets & prices guide, hero banner (16:9)"
+                widget: object
+                hint: "Top banner on the tickets guide. Best shot: the entrance, ticket gate, or a wristband/Upanat sandal detail. ~1600x900px. Page: /guides/borobudur-tickets-and-prices/"
+                fields:
+                  - { name: src, label: "Photo", widget: image }
+                  - { name: alt, label: "Alt text (include a keyword)", widget: string, required: true }
+              - name: best_time_hero
+                label: "Best time to visit guide, hero banner (16:9)"
+                widget: object
+                hint: "Top banner on the best-time guide. Best shot: the temple in strong seasonal light, or wet-season cloud. ~1600x900px. Page: /guides/best-time-to-visit-borobudur/"
+                fields:
+                  - { name: src, label: "Photo", widget: image }
+                  - { name: alt, label: "Alt text (include a keyword)", widget: string, required: true }
+              - name: from_yogyakarta_hero
+                label: "Getting there from Yogyakarta guide, hero banner (16:9)"
+                widget: object
+                hint: "Top banner on the getting-there guide. Best shot: the road, the countryside, or a pickup vehicle. ~1600x900px. Page: /guides/borobudur-from-yogyakarta/"
+                fields:
+                  - { name: src, label: "Photo", widget: image }
+                  - { name: alt, label: "Alt text (include a keyword)", widget: string, required: true }
+              - name: how_long_hero
+                label: "How long do you need guide, hero banner (16:9)"
+                widget: object
+                hint: "Top banner on the how-long guide. Best shot: visitors walking the gallery terraces past the relief panels. ~1600x900px. Page: /guides/how-long-at-borobudur/"
+                fields:
+                  - { name: src, label: "Photo", widget: image }
+                  - { name: alt, label: "Alt text (include a keyword)", widget: string, required: true }
+
           - name: author
-            label: "👤 Author"
+            label: "👤 Author (Dewi)"
             widget: object
             fields:
               - name: author_thumb
-                label: "Author — small round photo (square)"
+                label: "Dewi, small round photo (square)"
                 widget: object
-                hint: "Shown next to the author's name across the site and on blog posts. ~160x160px."
+                hint: "Shown beside Dewi's name across the whole site and on every blog post. ~160x160px. A real photo only, never AI-generated."
                 fields:
                   - { name: src, label: "Photo", widget: image }
                   - { name: alt, label: "Alt text (include a keyword)", widget: string, required: true }
               - name: author_portrait
-                label: "Author — large portrait, About page (square)"
+                label: "Dewi, large portrait for the About page (square)"
                 widget: object
-                hint: "Larger portrait on the About page. ~600x600px. Page: /about/"
+                hint: "Larger portrait on the About page. ~600x600px. A real photo only, never AI-generated. Page: /about/"
                 fields:
                   - { name: src, label: "Photo", widget: image }
                   - { name: alt, label: "Alt text (include a keyword)", widget: string, required: true }
@@ -79,11 +165,15 @@ collections:
       - { name: description, label: "Excerpt / meta description", widget: text }
       - { name: hero, label: "Hero image", widget: image, required: false }
       - { name: hero_alt, label: "Hero image alt text", widget: string, required: false }
-      # NOTE FOR OLEG: the related-tour dropdown is a free-text slug until Phase 1 tour intake.
-      # Once the real tours exist, convert this back to a select with one option per tour
-      # (label + value = the tour slug).
-      - { name: related_tour, label: "Related tour slug (conversion CTA)", widget: string, required: false }
-      - { name: related_tour_label, label: "CTA tour label", widget: string, required: false }
+      - name: related_tour
+        label: "Related tour (conversion CTA)"
+        widget: select
+        required: false
+        options:
+          - { label: "Borobudur Sunrise Climb & Prambanan (most booked)", value: "borobudur-sunrise-climb-prambanan" }
+          - { label: "Sunrise, Merapi Volcano & Prambanan (full day)", value: "borobudur-sunrise-merapi-prambanan" }
+          - { label: "Borobudur Climb & Prambanan Day Tour (no early start)", value: "borobudur-climb-prambanan-day-tour" }
+      - { name: related_tour_label, label: "CTA tour label (e.g. Borobudur Sunrise Climb & Prambanan)", widget: string, required: false }
       - { name: related_tour_blurb, label: "CTA blurb", widget: text, required: false }
       - { name: draft, label: "Draft (uncheck to publish)", widget: boolean, default: true, required: false }
       - { name: body, label: "Body", widget: markdown }

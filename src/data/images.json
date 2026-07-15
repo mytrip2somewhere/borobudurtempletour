@@ -1,18 +1,66 @@
 {
   "homepage": {
-    "home_hero": { "src": "/images/generated/placeholder.svg", "alt": "PLACEHOLDER: Borobudur temple at sunrise (Oleg to upload)" }
+    "home_hero": {
+      "src": "/images/generated/placeholder.svg",
+      "alt": "PLACEHOLDER: Borobudur at dawn, full-screen homepage background (Oleg to upload)"
+    }
   },
   "tours": {
-    "tours_hub_hero": { "src": "/images/generated/placeholder.svg", "alt": "PLACEHOLDER: guided group on the Borobudur terraces (Oleg to upload)" },
-    "sunrise_climb_card": { "src": "/images/generated/placeholder.svg", "alt": "PLACEHOLDER: sunrise over Borobudur seen from Punthuk Setumbu (Oleg to upload)" },
-    "sunrise_climb_hero": { "src": "/images/generated/placeholder.svg", "alt": "PLACEHOLDER: Borobudur sunrise climb and Prambanan tour (Oleg to upload)" },
-    "merapi_card": { "src": "/images/generated/placeholder.svg", "alt": "PLACEHOLDER: jeep on the slopes of Mount Merapi (Oleg to upload)" },
-    "merapi_hero": { "src": "/images/generated/placeholder.svg", "alt": "PLACEHOLDER: sunrise, Merapi and Prambanan full-day tour (Oleg to upload)" },
-    "daytour_card": { "src": "/images/generated/placeholder.svg", "alt": "PLACEHOLDER: visitors climbing the Borobudur terraces (Oleg to upload)" },
-    "daytour_hero": { "src": "/images/generated/placeholder.svg", "alt": "PLACEHOLDER: Borobudur climb and Prambanan day tour (Oleg to upload)" }
+    "tours_hub_hero": {
+      "src": "/images/generated/placeholder.svg",
+      "alt": "PLACEHOLDER: guided group on the Borobudur terraces (Oleg to upload)"
+    },
+    "sunrise_climb_card": {
+      "src": "/images/generated/placeholder.svg",
+      "alt": "PLACEHOLDER: sunrise over Borobudur from Punthuk Setumbu (Oleg to upload)"
+    },
+    "sunrise_climb_hero": {
+      "src": "/images/generated/placeholder.svg",
+      "alt": "PLACEHOLDER: Borobudur sunrise climb and Prambanan tour (Oleg to upload)"
+    },
+    "merapi_card": {
+      "src": "/images/generated/placeholder.svg",
+      "alt": "PLACEHOLDER: jeep on the slopes of Mount Merapi (Oleg to upload)"
+    },
+    "merapi_hero": {
+      "src": "/images/generated/placeholder.svg",
+      "alt": "PLACEHOLDER: sunrise, Merapi and Prambanan full-day tour (Oleg to upload)"
+    },
+    "daytour_card": {
+      "src": "/images/generated/placeholder.svg",
+      "alt": "PLACEHOLDER: visitors climbing the Borobudur terraces (Oleg to upload)"
+    },
+    "daytour_hero": {
+      "src": "/images/generated/placeholder.svg",
+      "alt": "PLACEHOLDER: Borobudur climb and Prambanan day tour (Oleg to upload)"
+    }
+  },
+  "guides": {
+    "tickets_hero": {
+      "src": "/images/generated/placeholder.svg",
+      "alt": "PLACEHOLDER: Borobudur ticket gate or entrance (Oleg to upload)"
+    },
+    "best_time_hero": {
+      "src": "/images/generated/placeholder.svg",
+      "alt": "PLACEHOLDER: Borobudur in seasonal light (Oleg to upload)"
+    },
+    "from_yogyakarta_hero": {
+      "src": "/images/generated/placeholder.svg",
+      "alt": "PLACEHOLDER: the road or countryside between Yogyakarta and Borobudur (Oleg to upload)"
+    },
+    "how_long_hero": {
+      "src": "/images/generated/placeholder.svg",
+      "alt": "PLACEHOLDER: visitors walking the Borobudur gallery terraces (Oleg to upload)"
+    }
   },
   "author": {
-    "author_thumb": { "src": "/images/generated/placeholder.svg", "alt": "PLACEHOLDER: Dewi Lestari, Borobudur guide (real photo required, never AI-generated)" },
-    "author_portrait": { "src": "/images/generated/placeholder.svg", "alt": "PLACEHOLDER: Dewi Lestari portrait (real photo required)" }
+    "author_thumb": {
+      "src": "/images/generated/placeholder.svg",
+      "alt": "PLACEHOLDER: Dewi Lestari, Borobudur guide (real photo required, never AI-generated)"
+    },
+    "author_portrait": {
+      "src": "/images/generated/placeholder.svg",
+      "alt": "PLACEHOLDER: Dewi Lestari portrait (real photo required)"
+    }
   }
 }

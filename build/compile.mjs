@@ -429,6 +429,20 @@ async function main() {
   // copy the Sveltia CMS admin (repo-root /admin) to dist/admin so it is served at /admin
   await copyDir(join(ROOT, "admin"), join(DIST, "admin"));
 
+  // CMS COVERAGE GUARD (learned the hard way): every {{ img:KEY }} slot a page uses must be
+  // editable in admin/config.yml, or content managers silently cannot change that photo.
+  // Warns rather than fails, so a page can be built before its slot is wired.
+  try {
+    const cfg = await readFile(join(ROOT, "admin", "config.yml"), "utf8");
+    const declared = new Set([...cfg.matchAll(/^\s+- name: ([a-z0-9_]+)\s*$/gm)].map((m) => m[1]));
+    const missing = [...new Set(Object.keys(images.src))].filter((k) => !declared.has(k));
+    if (missing.length) {
+      console.log(`  ⚠ CMS: ${missing.length} image slot(s) not editable in admin/config.yml: ${missing.join(", ")}`);
+    } else {
+      console.log(`  cms: all ${Object.keys(images.src).length} image slots are editable in /admin`);
+    }
+  } catch { /* no config.yml, skip */ }
+
   // render real static route maps if a key is configured (else keep placeholders)
   await renderStaticMaps();
 
