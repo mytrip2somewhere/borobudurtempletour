@@ -21,10 +21,9 @@ const DIST = join(ROOT, "dist");
 // ---- SITE IDENTITY (mirrors site.config.md; the only per-site block in this file) ----
 const SITE = "https://borobudurtempletour.org";
 const SITE_NAME = "Borobudur Temple Tour";
-// NOTE FOR OLEG: replace placeholder data before publishing — these come from
-// site.config.md > AUTHOR once you confirm the real named author.
-const AUTHOR_NAME = "AUTHOR NAME PENDING";
-const AUTHOR_ROLE = "AUTHOR ROLE PENDING";
+// From site.config.md > AUTHOR (confirmed by Oleg 2026-07-14).
+const AUTHOR_NAME = "Dewi Lestari";
+const AUTHOR_ROLE = "Borobudur temple tour guide since 2022";
 const AUTHOR_THUMB_KEY = "author_thumb";
 const AREA_SERVED = "Borobudur, Central Java, Indonesia";
 
@@ -208,7 +207,7 @@ const esc = (s = "") =>
   String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 
 async function buildHtml(layout, images, map, content) {
-  const page = fillTokens(layout, { title: SITE_NAME, description: "", canonical: "", og_image: "", preload: "", schema: "", robots: ROBOTS, ...map, content });
+  const page = fillTokens(layout, { title: SITE_NAME, description: "", canonical: "", og_image: "", og_type: "article", preload: "", schema: "", robots: ROBOTS, ...map, content });
   let resolved = await resolveIncludes(page);
   return resolveImageTokens(resolved, images);
 }
@@ -359,6 +358,7 @@ async function main() {
       description: meta.description || "",
       canonical: meta.canonical || "",
       og_image: meta.og_image || "",
+      og_type: meta.og_type || "article",
       preload: meta.preload || "",
       robots: ROBOTS,
       schema,
