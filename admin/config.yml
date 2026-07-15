@@ -11,10 +11,10 @@ backend:
   name: github
   repo: mytrip2somewhere/borobudurtempletour
   branch: main
-  # Sveltia OAuth worker for GitHub sign-in.
-  # NOTE FOR OLEG: the existing sveltia-cms-auth worker can be REUSED across sites, but its
-  # GitHub OAuth app must be allowed to access this new repo. Confirm that, or deploy a
-  # separate worker for this site.
+  # Sveltia OAuth worker for GitHub sign-in. Reused across all pipeline sites.
+  # The worker gates by DOMAIN, not repo: this site's domain must be in the worker's
+  # ALLOWED_DOMAINS variable or login fails with "Your domain is not allowed to use the
+  # authenticator" (see .claude/08-build-deploy.md > REUSING THE OAUTH WORKER).
   base_url: https://sveltia-cms-auth.mytrip2somewhere.workers.dev
 
 # Where uploaded files are committed, and how they resolve on the live site.

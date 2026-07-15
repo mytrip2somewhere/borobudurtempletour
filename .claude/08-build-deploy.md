@@ -75,6 +75,17 @@ stay in code; changing that reopens the raw-HTML choice, not a silent config twe
 Cloudflare OAuth worker deployed for the GitHub authorization-code login (not PATs), so
 managers "sign in with GitHub."
 
+REUSING THE OAUTH WORKER ACROSS SITES (learned launching Borobudur): one `sveltia-cms-auth`
+worker serves every pipeline site, BUT it gates callers by domain, not by repo. A new site's
+first login fails with "Your domain is not allowed to use the authenticator" until the
+worker's `ALLOWED_DOMAINS` variable (Workers & Pages > sveltia-cms-auth > Settings >
+Variables and Secrets) includes the new domain. Set it once to a comma-separated list with a
+wildcard for previews, e.g. `site1.com,site2.org,*.pages.dev`, and future sites need no edit
+at the preview stage (only the custom domain added at launch). Editing the variable redeploys
+the worker automatically. The GitHub OAuth app needs NO per-site change (its callback is the
+worker URL), and the Pages-scoped API token CANNOT edit Workers variables, so this is a
+dashboard step.
+
 ## 8.4 IMAGE OPTIMIZATION PIPELINE (both sources)
 Both sources run through optimization: uploaded photography AND generated assets (logo,
 favicon, infographics; maps are interactive embeds, not images). Target WebP/AVIF with fixed
