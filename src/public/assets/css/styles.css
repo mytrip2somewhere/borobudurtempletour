@@ -121,7 +121,7 @@ p { margin: 0 0 var(--s3); max-width: 64ch; }
   color: #fff;
 }
 .hero-full-inner { padding-block: var(--s7) var(--s6); }
-.hero-full h1 { color: #fff; max-width: 17ch; }
+.hero-full h1 { color: #fff; max-width: 21ch; }
 .hero-full .lede { color: rgba(255,255,255,.88); max-width: 56ch; font-size: var(--step-1); }
 .hero-full .author-hook { color: rgba(255,255,255,.85); display:flex; align-items:center; gap:.6rem; font-size:var(--step--1); margin: var(--s3) 0 var(--s4); }
 .hero-full .author-hook a { color: #fff; }
