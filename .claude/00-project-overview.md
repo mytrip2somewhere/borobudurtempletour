@@ -36,6 +36,15 @@ Independent local-knowledge guide, not the operator and not a generic listicle f
 Honest, specific, a little opinionated, genuinely helpful. Affiliate links live inside
 useful content, never shouting.
 
+## INVENTORY BEFORE SCOPE (learned launching Borobudur, 2026-07)
+Do not lock the destination scope before the real tour links are in hand. Borobudur's scope
+was confirmed as "temple only" first; then every one of the three real tours turned out to be
+a Yogyakarta-departing combo including Prambanan, forcing a re-decision. Order of operations:
+tour-link intake (1.0) -> read the real itineraries -> THEN present the scope question, showing
+how the inventory constrains it. Also: combo keywords ("X and Y tour") polled ~10/mo in every
+market tested; describing the combo honestly on money pages is an honesty requirement, not a
+keyword strategy — do not build pages targeting combo terms without volume evidence.
+
 ## EMD NOTE
 If the domain is an exact-match domain (see `site.config.md` > IDENTITY), the domain
 already owns the head term. Weight pages toward specific long-tail terms rather than

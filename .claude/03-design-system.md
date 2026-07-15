@@ -14,10 +14,22 @@ Uneven visual rhythm. Symmetry/repetition only when content calls for it.
 Skill stack: Anthropic's frontend-design skill (base), TypeUI (project spec layer),
 optionally UI/UX Pro Max for font/palette. Vet any third-party skill before use.
 
-## 3.2 REFERENCE FEEL (match, don't copy)
+## 3.2 REFERENCE FEEL (match, don't copy) — BINDING, not decorative
 Nomadic Matt: trusted personal voice, content-first, author-led, affiliate links inside
 useful content. Plus any references Oleg supplies (point Claude Code at them to match the
 design language, never clone).
+
+CONCRETELY (learned launching Borobudur, 2026-07, after a wrong first pass): the NM feel
+means a WHITE or near-white content-first ground and SANS-FORWARD typography — bold sans
+display for H1/H2 with contrast coming from weight and size, neutral sans body. Do not
+invent an uninvited "heritage" serif/museum look because the destination is historic; the
+reference wins. Two standing bans:
+- **No warm-cream page grounds** (#F0E9DC / #F4F1EA family) on any site — Oleg's explicit
+  rule; recycled cream makes the portfolio look templated. Pick the neutral from the
+  subject's own material, tinted cool or unexpected.
+- **Check the OTHER pipeline sites before choosing** palette and first screen. Each site's
+  palette AND hero layout must be visibly different from the existing sites (hero rule
+  detailed in 04). Borobudur = cool andesite grey-white + full-screen photo hero.
 
 ## 3.3 THREE CORE BLUEPRINTS
 - Asymmetric layout anchoring: break the perfect grid (e.g. large heading left, offset
@@ -41,6 +53,19 @@ design language, never clone).
   (alt), resolved from `src/data/images.json` at build. Seed good defaults so alt is never empty.
 Never invent a tour photo or editorial image. Maps are embeds, not generated images (3.5).
 
+## 3.3b ENGINE CSS IS A DOM CONTRACT (learned launching Borobudur, 2026-07)
+`styles.css` components expect EXACT DOM shapes. Mixing them shreds layout silently:
+- `.product-card` is a 2-column grid expecting `.pc-media` + `.pc-body` children.
+- `.cards-3 .rcard` is a stacked card expecting `.rc-media` + `.rc-body`.
+- `.stars` is an overlay-fill component: `<span class="stars"><span class="stars-fill"
+  style="width:98%"></span></span>` (width = rating/5). Putting literal stars inside renders
+  a doubled row.
+- `.infogain` structure is pinned in Phase 4.
+Before writing any component markup, READ the stylesheet's selector for it and match the DOM
+exactly. A hybrid ("product-card" wrapper with rc-* children) shipped once and looked broken
+on every card grid. Also: captions under full-width media (maps, video grids) need the
+`.embed + p` full-width rule, or the global 64ch paragraph cap makes them look half-screen.
+
 ## 3.4b INFOGRAPHIC SVG CRAFT (hand-authored, not AI-generated)
 Data infographics are hand-authored SVG, never AI-image-generated: AI image models garble
 text and exact numbers (a fabrication risk on the very figures the graphic exists to show)
@@ -55,6 +80,16 @@ and output blurry raster. SVG stays crisp at any size, tiny, accessible, and edi
   contrast: light text on dark fills, dark text on light.
 - Keep all content inside the viewBox and within the rounded background border; leave margin
   so text never runs to the edge. Validate each SVG parses as XML before shipping.
+- RIGHT-EDGE TEXT GOTCHA (learned launching Borobudur): default (start-anchored) text placed
+  near the right edge overflows the viewBox and clips. Right-column labels must use
+  `text-anchor="end"` anchored at ~x=viewBoxWidth-14. Leader lines must never cross through
+  label text. XML validity is NOT visual validity: render the SVG standalone in headless
+  Chrome and LOOK at it before shipping.
+- MOBILE QA METHOD: headless Chrome clamps windows to a 500px minimum width, so "390px"
+  screenshots silently render at 500 and crop — layouts look broken that are fine. To QA a
+  true narrow viewport, load the page inside a 390px-wide `<iframe>` in a 500px window and
+  screenshot that. Multi-column `.keyfacts` tables scroll in place on small screens via the
+  engine's media query; keep it.
 - Real data only (Phase 1 / Grok / operator), with descriptive keyword-rich alt + a caption.
 
 ## 3.5 MAPS: EMBED-ONLY (Oleg's standing rule, 2026-06-23)

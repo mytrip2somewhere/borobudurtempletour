@@ -44,6 +44,14 @@ informed rationale, not confirmed fact. If the community reading is wrong, the r
 
 ## 5.4 BASELINE TECHNICAL ARCHITECTURE & VALIDATION
 - Heading cascade: exactly one H1 mapping to the core entity; H2→H3 without skipping.
+  FOOTER GOTCHA (learned launching Borobudur): footer nav labels as `<h4>` break the cascade
+  on EVERY page (h2→h4 skip sitewide). Use styled `<p class="footer-h">`, never a heading.
+- og:type: `website` on the homepage, `article` elsewhere. The compiler exposes an `og_type`
+  meta key; the homepage sets `og_type: website`. Do not hardcode `article` in the layout.
+- HOMEPAGE HEADINGS (Oleg's standing directive, 2026-07-15): the primary keyword appears
+  naturally in ~80% of the homepage's h1/h2 headings, H1 mandatory. Leave 1-2 headings clean
+  so the pattern doesn't read robotic, and NEVER rename real tour titles (card h3s) to fit
+  the keyword — listing titles stay verbatim.
 - Image SEO: descriptive lowercase hyphenated filenames; explicit alt text (no stuffing);
   fixed width/height (no layout shift). Applies to uploaded and generated assets.
 - Social graph: full Open Graph (og:type/title/description/image) + Twitter Cards.
@@ -68,6 +76,10 @@ informed rationale, not confirmed fact. If the community reading is wrong, the r
     for 2026 but not yet confirmed in Google docs. Confirm before adding any VSI rule.
 - Validation: build rejects unclosed HTML or invalid/malformed JSON-LD. CWV failures at the
   gate flag for fix; the 80% tier warns but does not reject.
+- SWEEP EVERYTHING THAT SHIPS (learned launching Borobudur): the em-dash/banned-vocab sweep
+  must cover NON-HTML shipped files too — robots.txt, llms.txt, images.json alt text, SVG
+  `<text>` content — and remember HTML comments ship in page source. Run the sweep against
+  `dist/`, not just page sources.
 
 ## 5.5 DELIVERABLES (handoff to Phase 8 and 10)
 Top-20 title/meta procedure with human-cadence guard; connected JSON-LD graph spec with the

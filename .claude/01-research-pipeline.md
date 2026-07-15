@@ -52,6 +52,35 @@ into many sub-queries. Capture that layer so pages answer what LLMs actually ret
   gap-vs-existing-content. Save the source record under `research/`.
 This whole flow is packaged as the `/keyword-fanout` skill (`.claude/skills/keyword-fanout`).
 
+## 1.1c SOURCE RELIABILITY RULES (learned launching Borobudur, 2026-07)
+Hard-won calibration of the research tools. These override optimism:
+- **Grok over-claims.** It labels news-sourced figures "CONFIRMED" and will return a
+  COMPETITOR AFFILIATE'S numbers as fact (it served us a rival's stale daily quota, an
+  unpublished foreign price, and child prices traced to a competitor domain). Demand source
+  URLs per claim; treat its labels as leads. Downgrade to REPORTED anything not from an
+  official/primary page, and filter every returned figure against the site's verified fact
+  sheet before use. Keep raw responses under `research/grok/`.
+- **Google Knowledge Graph goes stale.** Its price panel for Borobudur was provably out of
+  date against the operator's own ticketing page (old domestic price). Never publish a KG
+  figure without confirming it on the primary source; once one KG figure is proven stale,
+  distrust its siblings.
+- **VERIFIED vs REPORTED price discipline.** If an operator shows a price only inside a
+  booking flow, DO NOT print third-party figures for it. Write "shown in the booking flow"
+  and explain the vacuum — that honesty is itself differentiating content, and the invented
+  figures rivals print become something to debunk.
+- **HTTP status literacy.** 403 from UNESCO/Britannica-class sites is bot-blocking, not a
+  dead link (they load in browsers; Grok can read them). A 000/timeout can be self-inflicted
+  rate-limiting from a tight curl loop — retry spaced with a browser User-Agent before
+  declaring a link dead. Only 404s from the canonical host mean gone.
+- **Seasonality trap.** A long-tail seed's `yearly` trend can read as market collapse (ours
+  showed -84%) when it is peak-vs-trough seasonality. Always pull the HEAD term's 12-month
+  series before concluding anything about demand direction; plan launch timing around the
+  real peak.
+- **Two demand universes.** Google demand (commercial: "X tours", "X tickets") and AI/LLM
+  demand (adjacent: "what is <country> famous for", dress-code questions) barely overlap —
+  the exact product term can return ZERO LLM questions while adjacent questions carry 100x
+  the volume. Plan two page tracks and judge them by different metrics (see 07).
+
 ## 1.2 REAL-USER-LANGUAGE LAYER (manual + forums)
 Add human texture the API misses: manual PAA branching, and forum/community mining
 (sources in `site.config.md` > REAL-USER-LANGUAGE SOURCES, e.g. relevant subreddits and

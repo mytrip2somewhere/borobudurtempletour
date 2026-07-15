@@ -37,6 +37,21 @@ over; this file records the affiliate-site adaptations.
 From `site.config.md`: site name, URL, the real author (real photo, honest role, genuine
 credentials, no invented awards), and standing data limited to real verifiable figures.
 
+SUPPLIED BIOS ARE FACT SOURCES, NOT SHIPPABLE COPY (learned launching Borobudur): the bio the
+operator sends arrives in marketing register and typically contains banned vocabulary
+("ensures", "magical", templated closers). Rewrite it to house rules keeping EVERY fact and
+adding none, record the before/after in site.config.md, and get the named person's sign-off
+before the /about/ page ships — it is their name on it.
+
+PRODUCT-NAME vs PRODUCT-REALITY GAPS (same launch): when a tour's marketing title implies
+something the itinerary does not deliver (e.g. "X Sunrise Tour" that watches sunrise from a
+hill 2.5 km away, while a separate official on-site sunrise product exists), this is a
+standing honesty hazard. Surface it to Oleg as a decision (full disclosure page vs minimal
+disclosure), then write his choice into site.config.md as BINDING copy rules (e.g. name the
+real viewpoint at every mention; disclose the official product briefly and factually). Every
+writer and subagent gets those rules verbatim; audit output against them — one agent draft
+still implied the on-monument dawn and was caught only by a grep for unqualified mentions.
+
 ## 6.3 BUSINESS-MODEL RECONCILIATION (affiliate for a real operator selling via GetYourGuide + Viator)
 - CTAs route to affiliate links ("here's where to book it," "check live
   availability and prices on GetYourGuide"), varied language; never an interruption.

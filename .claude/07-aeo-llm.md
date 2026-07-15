@@ -29,6 +29,20 @@ Accordion-hub filter: if the answer is a straightforward factual confirmation fu
 resolvable in under 150 words without a comparison table, it stays as an accordion block in
 the global FAQ hub.
 
+## 7.1b TWO-TRACK SCORING (learned launching Borobudur, 2026-07)
+Google demand and AI/LLM demand are two barely-overlapping universes (measured: the exact
+product keyword had ~1,000/mo Google and ZERO LLM questions; the top LLM question about the
+destination had no measurable Google volume at all). So build and JUDGE two tracks:
+- **Track A, money pages** target the Google commercial cluster. They will earn ~no AI
+  citations. Judge by rankings and affiliate CTR.
+- **Track B, AEO/citation pages** target AI-native adjacent questions. They will earn ~no
+  Google traffic because there is none to earn. Judge by AI citations, NEVER by rankings —
+  a rankings dashboard will falsely condemn them.
+Do not blend the scorecards or score pages by a single "search volume" number; that kills
+Track B at birth. Expect the biggest AI cluster to be adjacent (destination-level or
+country-level questions where the product is the answer), and expect encyclopedias to own
+those citations — the opening is practical, verified visitor questions they answer badly.
+
 ## 7.2 SINGLE-QUESTION AEO PAGES
 For questions passing the standalone filter: lean and focused (Phase 4 AEO mapping):
 prominent answer-first atomic block, supporting detail, relevant Key Facts/Infographic,
