@@ -287,15 +287,17 @@ account later by editing this file.
   operator's own current listing figures; check the live listing for today's price."
 
 ## ANALYTICS
-- Google Analytics 4 measurement ID (unique per site, e.g. G-XXXXXXXXXX): **[ASK OLEG —
-  BLANK. Create a NEW GA4 property for this domain; do not reuse Cambridge's G-79J8R6V91Q.]**
+- Google Analytics 4 measurement ID: G-G4EY7H0LVC (supplied by Oleg 2026-07-16, unique to
+  this site)
 
 ## VERIFICATION (search-engine ownership; placed in base layout <head>, same on every page)
-- Google Search Console (google-site-verification content): **[ASK OLEG — BLANK. Unique per
-  domain; this site needs its own token, or verify tokenlessly via the GA4 method.]**
-- Bing Webmaster Tools (msvalidate.01 content): **[ASK OLEG — BLANK. Per Phase 8.6, Bing's
-  token is ACCOUNT-level, so the same value as Cambridge will work here. Deliberately left
-  blank pending your go-ahead rather than copied across.]**
+- Google Search Console (google-site-verification content):
+  iz6NpKqVqRx7pMxqz4h9nlLl50MSCV0OT2ZClIMhGgE (supplied 2026-07-16)
+- Bing Webmaster Tools (msvalidate.01 content): EB425C374ABF63F3582C19891DDD900A
+  (account-level token, same across Oleg's sites per Phase 8.6; supplied 2026-07-16)
+- LAUNCHED: SITE_INDEXABLE=true set in deploy.yml on 2026-07-16. Prices re-verified against
+  ticket.injourneydestination.id the same day (150k domestic climb / 1M-750k sunrise, 100/day
+  cap / grounds domestic-only / hours unchanged); record in research/grok/ + transcript.
 
 ## CLOUDFLARE / REPO (infrastructure identity)
 - Cloudflare Pages project name: `borobudur-temple-tour` **[PROPOSED — new, distinct from

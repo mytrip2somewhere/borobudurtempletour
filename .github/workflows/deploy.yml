@@ -15,11 +15,9 @@ jobs:
         with:
           node-version: '20'
       - run: npm ci
-      # PRE-LAUNCH: no SITE_INDEXABLE, so the compiler emits noindex,nofollow on every page
-      # (Phase 8.6b). AT LAUNCH, once the domain, GA4 and verification tags are wired and the
-      # placeholder images/copy are gone, change this line to:
-      #     - run: SITE_INDEXABLE=true npm run build
-      - run: npm run build
+      # LAUNCHED 2026-07-16: production build is indexable (index,follow). To temporarily
+      # pull the site out of search, drop `SITE_INDEXABLE=true` so it builds noindex again.
+      - run: SITE_INDEXABLE=true npm run build
       # Create the Pages project on first deploy (wrangler `pages deploy` does NOT
       # auto-create it in CI). Idempotent: a no-op once the project exists.
       - name: Ensure Pages project exists
