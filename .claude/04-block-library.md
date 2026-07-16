@@ -34,7 +34,14 @@ INTEGRITY GUARDRAIL (non-negotiable, also in root):
 - Quick Answer: short direct answer-first response to the page's main question; expands below.
 - Key Facts Table: duration, group size, difficulty, best-for, price range, meeting point.
   Prime spot for hyper-local data.
-- Tour / Product Card: real data only (title, rating, review count, price, duration,
+- Tour / Product Card: DISPLAY NAMES MUST BE DISTINCTIVE (Oleg's standing rule, 2026-07-15).
+  When the real listings share words (all "X & Y Tour"), give each card an editorial display
+  name with its own identity (e.g. "The Classic Sunrise Morning" / "The Volcano Everything
+  Day" / "The No-Alarm Day Trip") so a visitor instantly sees which fits them. Every card
+  body carries DURATION (bold) + who-it-is-for + why, and each card uses a DIFFERENT
+  sentence structure (no parallel triplets). Real listing titles stay verbatim in schema,
+  keyfacts tables and tour-page context; the editorial name is display-level only.
+  Real data only (title, rating, review count, price, duration,
   highlights, honest description, affiliate link). Variants: grid/list, honest "Best
   Seller/Top Rated" tags driven by real booking volume. Primary money component.
 - Comparison Table: side-by-side with honest pros/cons; must add unique value.
