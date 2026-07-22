@@ -93,7 +93,7 @@ listing, so every tactic optimizes: land on any page -> 1-2 scrolls -> big butto
   BUILT output for the new rule (count>0) after patching.
 - **Proof-line restraint (Oleg's call after seeing v1):** the full proof line (rating +
   count + recommend% + cancellation) appears ONLY under the hero CTA; the sticky bar carries
-  the compact form (star rating + count + from-price); all other CTAs stay clean, with
+  ONLY star rating + review count; all other CTAs stay clean, with
   reassurance living in adjacent prose. Stacking proof under every button reads congested.
 - **Sticky bar on article pages:** desktop gets the full-width bottom bar too (not the
   floating pill) via a `body.article` class set by the compiler for blog/guide renders.
@@ -101,6 +101,20 @@ listing, so every tactic optimizes: land on any page -> 1-2 scrolls -> big butto
   (`display:block; overflow-x:auto` under 640px) or a wide table widens the page.
 - **Mid-article box:** centered text, roomy padding, top accent border, full-width button on
   mobile, an `id` (e.g. cta-mid) so it can be deep-linked and screenshot-verified.
+
+
+## PROOF-LENGTH HARD RULES (Oleg, 2026-07-22, after Borobudur repeat of old bugs)
+- **Sticky bar proof is ONLY "★ 4.9 · N reviews". Nothing else.** No cancellation text, no
+  from-price unless it provably fits at 360px with the button. Anything longer clips.
+- **Flex text nodes cannot ellipsize.** The proof text must live in its own span
+  (`.sp-text { flex:0 1 auto; min-width:0; overflow:hidden; text-overflow:ellipsis;
+  white-space:nowrap }`); raw text directly inside the flex container hard-clips mid-letter.
+- **Mid-article cta-box: NO microproof line, ever.** "No proof clutter" means no
+  `.cta-microproof` under the button; the long "4.9 · N Platform reviews · free
+  cancellation up to 24 hours" line wrecks the box layout. Reassurance is ONE sentence
+  inside the box body ("Free cancellation up to 24 hours, reserve now and pay later:
+  booking takes 2 minutes and costs nothing today."). Rating proof lives on the hero and
+  sticky bar only.
 
 ## MEASUREMENT
 GA4 `affiliate_click` events are the KPI. Read them per page_path to find weak pages; test

@@ -192,8 +192,9 @@ MINIMAL.]** Meet the honesty rule precisely; do not build the comparison into a 
   source exists.
 - Review counts refreshed in the same pass: flagship GYG 4.9 / 1,723; Viator Merapi 4.9 /
   1,095; Viator day tour 4.9 / 674 (combined 3,492).
-- Sticky-bar button wording (destination-neutral per the skill): "Book a Borobudur tour ->",
-  linking the flagship GYG sunrise-climb listing.
+- Sticky-bar button wording (destination-neutral per the skill): "Book a tour ->" (the
+  longer "Book a Borobudur tour ->" clipped the proof at 390px), linking the flagship GYG
+  sunrise-climb listing.
 
 ## COMPLIANCE MODULE
 - Status: **ON [CONFIRMED by Oleg]**

@@ -31,10 +31,11 @@ after launch; on every new site it is part of Phases 3-8, so nothing needs a sec
   line (rating x count x recommend% x free cancellation). The hero is the only place the
   full proof line appears.
 - Standard buttons: "Check Live Availability & Prices on <Platform> ->".
-- Sticky bar: destination-neutral short verb phrase (e.g. "Book Exotic Car ->") + compact
-  proof (star rating + review count + from-price). Appears after first-screen scroll.
-- Mid-article box: heading question + 2-minute/pay-later reassurance sentence + standard
-  button. No proof clutter.
+- Sticky bar: destination-neutral short verb phrase (e.g. "Book Exotic Car ->") + proof of
+  ONLY star rating + review count (longer clips; the text needs its own ellipsizing span,
+  raw flex text hard-clips). Appears after first-screen scroll.
+- Mid-article box: heading question + ONE reassurance sentence (cancellation + pay-later)
+  + standard button. NO microproof/rating line in the box, ever (hard rule 2026-07-22).
 - Closing banner/CTA: reassurance (pay later, free cancellation) + honest urgency line.
 
 ## 9.3 CADENCE RULE
