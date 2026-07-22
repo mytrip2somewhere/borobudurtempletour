@@ -5,8 +5,8 @@ eyebrow: "Guides · Comparison"
 lede: "Two monuments, two different \"largest\" titles, and a comparison most articles get wrong by mixing up a temple with a 400-square-kilometre park."
 quick_answer_label: "Short answer"
 quick_answer: "<strong>Angkor Wat is bigger.</strong> Its walled enclosure covers about <strong>162.6 hectares</strong>; Borobudur's base is roughly <strong>123 by 123 metres</strong>, about 1.5 hectares. Yet both hold a genuine \"largest\" title. Angkor Wat is the <strong>largest religious monument in the world</strong>, but it was built as a Hindu temple dedicated to Vishnu and became Buddhist later. Borobudur, Buddhist from its first stone, is the <strong>largest Buddhist temple in the world</strong>. Neither record cancels the other."
-hero: ""
-hero_alt: ""
+hero: "/images/generated/photos/borobudur-vs-angkor-wat-hero.jpg"
+hero_alt: "Angkor Wat in Cambodia, the classic comparison to Borobudur"
 group: "questions"
 order: 9
 short_title: "Borobudur vs Angkor Wat"
@@ -18,6 +18,8 @@ draft: "false"
 ## Why the comparison usually goes wrong
 
 Most sloppy answers compare the wrong things. "Angkor" can mean the single temple of Angkor Wat, whose moated enclosure covers about <a href="https://en.wikipedia.org/wiki/Angkor_Wat" rel="noopener" target="_blank">162.6 hectares</a>, or the whole Angkor Archaeological Park, a <a href="https://whc.unesco.org/en/list/668/" rel="noopener" target="_blank">UNESCO zone of roughly 400 square kilometres</a> holding dozens of temples, Angkor Thom and the Bayon among them. Borobudur is one monument on one hill-shaped plan. Put the single temple against the single temple and Angkor Wat still wins on ground covered, comfortably. Put Borobudur against the whole park and the comparison stops meaning anything.
+
+<img src="/images/generated/photos/borobudur-vs-angkor-wat-why-the-comparison-usually-goes-wrong.jpg" alt="The stone causeway into Angkor Wat" width="1100" height="733" loading="lazy">
 
 The religion detail is what rescues Borobudur's claim from marketing fluff. Angkor Wat was raised in the early 12th century by the Khmer king Suryavarman II as a Hindu temple for Vishnu; Buddhist worship took it over from around the late 12th century. Borobudur was conceived and built as a Mahayana Buddhist monument, three centuries earlier. So "largest religious monument" belongs to Angkor Wat, and "largest Buddhist temple" belongs to Borobudur, the title <a href="https://whc.unesco.org/en/list/592/" rel="noopener" target="_blank">UNESCO uses in its World Heritage listing</a>. Both statements are precise, and both are true.
 
@@ -32,6 +34,8 @@ The religion detail is what rescues Borobudur's claim from marketing fluff. Angk
 <tr><th>Foreign entry</th><td>Structure-climb ticket, price shown in the booking flow</td><td>US$37 one-day Angkor pass</td></tr>
 <tr><th>Time it deserves</th><td>One morning covers it well</td><td>The temple takes a morning; the park invites days</td></tr>
 </table>
+
+<img src="/images/generated/photos/borobudur-vs-angkor-wat-the-two-temples-side-by-side.jpg" alt="Tree roots overtaking a gallery at the Angkor temples" width="1100" height="733" loading="lazy">
 
 Footprint figures follow UNESCO and standard archaeological references; the Angkor pass price is the official Angkor Enterprise rate at the time of writing.
 {: .small}
@@ -48,6 +52,8 @@ Footprint figures follow UNESCO and standard archaeological references; the Angk
 ## Which one to visit, honestly
 
 These are both magnificent, and if your trip allows both, take both. The traveller-relevant differences are about shape, not quality.
+
+<img src="/images/generated/photos/borobudur-vs-angkor-wat-which-one-to-visit-honestly.jpg" alt="A relief gallery inside Angkor Wat" width="1100" height="733" loading="lazy">
 
 **Borobudur is the more concentrated experience.** One monument, one route up, 1,460 relief panels read in sequence from base to summit, and a guide included with the [climb ticket](/guides/climbing-borobudur/). You can arrive from Yogyakarta at dawn and be done, properly done, by lunch; the [Sunrise Climb &amp; Prambanan tour](/tours/borobudur-sunrise-climb-prambanan/) packages exactly that morning, and you can <a href="https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher" rel="sponsored noopener" target="_blank">check live availability &amp; prices on GetYourGuide</a>. Whether that trip repays the effort is a fair question, and we answer it plainly in [is Borobudur worth visiting](/guides/is-borobudur-worth-visiting/).
 

@@ -5,8 +5,8 @@ eyebrow: "Guides · What to wear"
 lede: "A hundred blogs will tell you Borobudur requires covered shoulders and knees and hands you a sarong at the gate. We went looking for that rule in the operator's published materials, in English and Indonesian, and it is not there. Here is what is."
 quick_answer_label: "Short answer"
 quick_answer: "Borobudur publishes <strong>no general dress code</strong>. Shorts are not banned; shoulders are not policed; no sarong is issued at the gate. The one firm clothing rule is on your feet: everyone climbing the monument wears the <strong>Upanat sandals</strong> that come with the climb ticket. Modest dress is a courtesy at a sacred Buddhist site, and the strongest practical argument for covering up is the equatorial sun, not any regulation."
-hero: ""
-hero_alt: ""
+hero: "/images/generated/photos/what-to-wear-at-borobudur-hero.jpg"
+hero_alt: "Visitors in light tropical clothing on the terraces of Borobudur"
 group: "questions"
 order: 7
 short_title: "What to wear"
@@ -18,6 +18,8 @@ draft: "false"
 ## The rule that exists
 
 **Upanat sandals are the one published clothing rule at Borobudur. They come with the climb ticket, every climber wears them on the structure, and you keep the pair afterward. They exist to protect ninth-century stone from shoe abrasion, and they are made in the villages around the temple.**
+
+<img src="/images/generated/photos/what-to-wear-at-borobudur-the-rule-that-exists.jpg" alt="Woven sandals on the worn stone of Borobudur" width="1100" height="733" loading="lazy">
 
 One clothing requirement at Borobudur is real, published, and enforced: **Upanat sandals** on the structure. They are woven footwear designed to protect the ninth-century stone from shoe abrasion, they are included with the [climb ticket](/guides/borobudur-tickets-and-prices/), and the operator's own wording is that all visitors on the monument wear them. You hand over nothing and change nothing else; you swap your shoes at the base and keep the sandals afterward as the ticket's built-in souvenir. That, in its entirety, is the official dress code of Borobudur.
 
@@ -32,6 +34,8 @@ One clothing requirement at Borobudur is real, published, and enforced: **Upanat
 
 **No covered-shoulders rule, no knee rule, no sarong handed out at the gate. The claim traces to third-party ticket resellers, and no general dress requirement appears on the operator's ticketing pages or in its Indonesian-language visitor rules, the places a real rule would live.**
 
+<img src="/images/generated/photos/what-to-wear-at-borobudur-the-rule-that-does-not.jpg" alt="A visitor adjusting a sarong at Borobudur" width="1100" height="733" loading="lazy">
+
 The covered-shoulders-and-knees rule, complete with the free sarong at the entrance, appears on travel blogs with total confidence. Trace it and it leads to resellers, not to the operator. We checked the <a href="https://ticket.injourneydestination.id/en/borobudur-temple/" rel="noopener" target="_blank">operator's ticketing pages</a> and visitor information in English, then searched the Indonesian equivalents. No general dress requirement appears in any of it.
 
 The confusion has an understandable source. Bali's temples, where most Indonesia itineraries begin, are living places of worship where sarongs genuinely are required and provided. Visitors carry that expectation to Java. But Borobudur operates as an archaeological park and UNESCO site; worship happens there on specific occasions rather than continuously, and on those occasions the rules are event rules. During **Waisak**, the Buddhist festival, participants are asked to wear white. That is the pattern: specific requirements attach to specific ceremonies, not to Tuesday afternoon tourism.
@@ -39,6 +43,8 @@ The confusion has an understandable source. Bali's temples, where most Indonesia
 ## So, can you wear shorts?
 
 **Yes. No published rule forbids shorts or bare shoulders for anyone. The two real considerations are courtesy, because Borobudur is a sacred Buddhist site, and the equatorial sun, which punishes bare skin on open stone far more reliably than any rulebook.**
+
+<img src="/images/generated/photos/what-to-wear-at-borobudur-so-can-you-wear-shorts.jpg" alt="Visitors dressed for the heat walking toward Borobudur" width="1100" height="733" loading="lazy">
 
 Nobody at the gate measures hemlines, and on any given morning the terraces hold every clothing choice a planeload of tourists can produce. The real question is the one etiquette asks: this is one of the sacred places of Buddhism, monks and pilgrims do visit, and a courtesy toward that costs you nothing. Many travellers, Dewi among them when she is asked, land on knee-length or longer simply because it reads as respect in every culture that will be standing next to you.
 
@@ -58,6 +64,8 @@ Then there is the argument that settles it for most people once they arrive: the
 </style>
 <rect x="1" y="1" width="718" height="428" rx="14" fill="#f4f5f5" stroke="#d0d4d6"/>
 <text x="360" y="44" text-anchor="middle" class="wr-f" font-size="20" font-weight="700" fill="#15181b">What is actually required at Borobudur</text>
+
+<img src="/images/generated/photos/what-to-wear-at-borobudur-rule-or-etiquette-the-whole-picture.jpg" alt="What visitors carry onto Borobudur: hat, daypack, water" width="1100" height="733" loading="lazy">
 
 <rect x="40" y="70" width="640" height="100" rx="10" fill="#15181b"/>
 <text x="64" y="100" class="wr-f wr-h" fill="#a8792f">OFFICIAL RULE</text>
@@ -99,13 +107,19 @@ Then there is the argument that settles it for most people once they arrive: the
 <tr><th>Hat, sunscreen, water</th><td>**No rule, near-mandatory in practice.** Open stone, no shade, seven degrees south</td></tr>
 </table>
 
+<img src="/images/generated/photos/what-to-wear-at-borobudur-item-by-item-rule-etiquette-or-just-sense.jpg" alt="Two visitors dressed differently climbing Borobudur" width="1100" height="733" loading="lazy">
+
 ## What Dewi tells her guests
 
 Asked what to wear, she gives the same answer most mornings: dress for the sun and the stairs, keep it modest because the place deserves it, and put your energy into footwear you can climb steep, uneven, nine-hundred-year-old steps in, right up until you trade them for the Upanat at the base. The visitors who struggle are never the ones in shorts. They are the ones with no hat, no water, and a phone that overheats before the top terrace.
 
+<img src="/images/generated/photos/what-to-wear-at-borobudur-what-dewi-tells-her-guests.jpg" alt="Shading from the sun on the open terrace of Borobudur" width="1100" height="733" loading="lazy">
+
 ## What to bring, by time slot
 
 **The kit changes more by hour than by rule: a warm layer for any dawn start, sun cover and water for everything after 09:00, and stair-friendly shoes all day, traded for Upanat at the base.**
+
+<img src="/images/generated/photos/what-to-wear-at-borobudur-what-to-bring-by-time-slot.jpg" alt="Visitors in light tropical clothing on the terraces of Borobudur" width="1100" height="733" loading="lazy">
 
 <table class="keyfacts">
 <tr><th>04:00 official sunrise</th><td>Warm layer for the dark wait, flashlight is provided, Upanat provided</td></tr>

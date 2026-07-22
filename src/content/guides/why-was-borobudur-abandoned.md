@@ -5,8 +5,8 @@ eyebrow: "Guides · History"
 lede: "The honest answer starts with an admission most articles skip: historians are not certain. Here is what the evidence supports, and where it runs out."
 quick_answer_label: "Short answer"
 quick_answer: "Borobudur fell out of use sometime <strong>between the 10th and 15th centuries</strong>, and no single proven cause explains it. The strongest documented factor is political: around <strong>929 AD</strong> the Javanese court of Mataram moved from Central to East Java under King Mpu Sindok, draining the region around the temple of royal patronage. Java's later turn toward <strong>Islam</strong>, from the 13th century onward, sealed the decline. A <strong>Mount Merapi eruption</strong> around 1006 is often blamed, but that remains an unproven hypothesis. The temple was never wholly forgotten; it was cleared of earth and jungle in <strong>1814</strong> after Thomas Stamford Raffles sent the engineer H.C. Cornelius to find it."
-hero: ""
-hero_alt: ""
+hero: "/images/generated/photos/why-was-borobudur-abandoned-hero.jpg"
+hero_alt: "Bas-relief panels along a gallery corridor of Borobudur temple"
 group: "questions"
 order: 10
 short_title: "Why was it abandoned?"
@@ -19,13 +19,19 @@ draft: "false"
 
 Borobudur opened around 825 AD as the ceremonial heart of a Buddhist kingdom on the Kedu Plain. Roughly a century later, that kingdom left. Inscriptions record that <a href="https://en.wikipedia.org/wiki/Mpu_Sindok" rel="noopener" target="_blank">Mpu Sindok moved the Mataram court east</a> to the Brantas River valley around 929 AD, and Central Java's great temple-building age simply stopped. Why the court moved is itself debated: volcanic activity and pressure from the rival Srivijaya empire are both proposed, neither settled. What is not debated is the effect. A monument on Borobudur's scale needed a royal engine of money, monks and maintenance, and after the move that engine was hundreds of kilometres away.
 
+<img src="/images/generated/photos/why-was-borobudur-abandoned-the-one-thing-the-sources-actually-document.jpg" alt="The famous ship relief carved on Borobudur temple" width="1100" height="733" loading="lazy">
+
 ## The volcano theory, labelled honestly
 
 You will read that a Merapi eruption in 1006 buried the temple and drove the population out. The idea goes back to the geologist van Bemmelen in the mid-20th century, and it has never graduated from hypothesis to fact. <a href="https://en.wikipedia.org/wiki/Mount_Merapi" rel="noopener" target="_blank">Merapi did erupt repeatedly across those centuries</a>, ash did settle on the monument, and the volcano still dusts it today, as in 2010. But no stratigraphic layer has been shown to prove a single catastrophic burial that emptied the region. Treat any page that states the 1006 eruption as the confirmed cause as a page that has rounded a maybe up to a fact.
 
+<img src="/images/generated/photos/why-was-borobudur-abandoned-the-volcano-theory-labelled-honestly.jpg" alt="A jeep tour climbing the volcanic slopes of Mount Merapi" width="1100" height="733" loading="lazy">
+
 ## Islam, and a slow fading rather than an exodus
 
 The final factor arrived slowly. Islam spread through Java from the 13th century onward, gathering pace in the 14th to 16th centuries as the Hindu-Buddhist kingdoms declined. A Buddhist monument without a Buddhist court had already lost its congregation; Java's conversion removed the possibility of one returning. There was no dramatic abandonment day. The likeliest picture is a temple sliding from sacred centre to local landmark to overgrown hill across several centuries, which is exactly why no chronicle records "the end".
+
+<img src="/images/generated/photos/why-was-borobudur-abandoned-islam-and-a-slow-fading-rather-than-an-exodu.jpg" alt="Carved kala head above a gateway of Borobudur temple" width="1100" height="733" loading="lazy">
 
 
 <div class="cta-box" id="cta-mid">
@@ -40,9 +46,13 @@ The final factor arrived slowly. Islam spread through Java from the 13th century
 
 The romantic version says the jungle swallowed Borobudur and everyone forgot. The record says otherwise. The Javanese court poem Nagarakretagama, written around 1365, still mentions "the vihara in Budur". Later Javanese chronicles knew the site too, though by then as a place of bad luck: they tell of a rebel meeting his fate there in 1709 and a crown prince who fell ill and died after visiting in 1757, taboo defied. Local memory kept the temple's location alive even as its meaning inverted from holy to haunted.
 
+<img src="/images/generated/photos/why-was-borobudur-abandoned-forgotten-not-quite.jpg" alt="A shaded relief gallery on Borobudur temple" width="1100" height="733" loading="lazy">
+
 ## 1814: cleared, not "discovered"
 
 During Britain's brief rule of Java, Thomas Stamford Raffles was told in 1814 of a huge monument buried near the village of Bumisegoro. He sent the Dutch engineer H.C. Cornelius, who brought some 200 workers and spent two months cutting vegetation and digging away earth until the galleries emerged. "Rediscovery" flatters the colonial record, since Javanese villagers had guided the party to a site they already knew. Still, 1814 is the year Borobudur re-entered world attention, beginning the long chain of restorations that leads to the monument you can [climb today](/guides/climbing-borobudur/), and eventually to its modern designations, which are [less grand than the "seven wonders" label but real](/guides/borobudur-seven-wonders/).
+
+<img src="/images/generated/photos/why-was-borobudur-abandoned-1814-cleared-not-discovered.jpg" alt="A guide pointing out figures on a Borobudur relief panel" width="1100" height="733" loading="lazy">
 
 ## The timeline at a glance
 
@@ -55,6 +65,8 @@ During Britain's brief rule of Java, Thomas Stamford Raffles was told in 1814 of
 <tr><th>1814</th><td>Raffles sends H.C. Cornelius; two months of clearing expose the temple</td></tr>
 <tr><th>1991</th><td>UNESCO inscribes the Borobudur Temple Compounds</td></tr>
 </table>
+
+<img src="/images/generated/photos/why-was-borobudur-abandoned-the-timeline-at-a-glance.jpg" alt="Carved makara balustrade on Borobudur temple" width="1100" height="733" loading="lazy">
 
 Dating follows UNESCO and the epigraphic record; where scholars disagree, we say so above rather than pick a side.
 {: .small}

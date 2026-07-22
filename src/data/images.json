@@ -37,20 +37,20 @@
   },
   "guides": {
     "tickets_hero": {
-      "src": "/images/generated/placeholder.svg",
-      "alt": "PLACEHOLDER: Borobudur ticket gate or entrance (Oleg to upload)"
+      "src": "/images/generated/photos/borobudur-tickets-and-prices-hero.jpg",
+      "alt": "The garden approach walk toward Borobudur temple"
     },
     "best_time_hero": {
-      "src": "/images/generated/placeholder.svg",
-      "alt": "PLACEHOLDER: Borobudur in seasonal light (Oleg to upload)"
+      "src": "/images/generated/photos/best-time-to-visit-borobudur-hero.jpg",
+      "alt": "Latticed stupas on the upper terraces of Borobudur temple"
     },
     "from_yogyakarta_hero": {
-      "src": "/images/generated/placeholder.svg",
-      "alt": "PLACEHOLDER: the road or countryside between Yogyakarta and Borobudur (Oleg to upload)"
+      "src": "/images/generated/photos/borobudur-from-yogyakarta-hero.jpg",
+      "alt": "The countryside road from Yogyakarta toward Borobudur"
     },
     "how_long_hero": {
-      "src": "/images/generated/placeholder.svg",
-      "alt": "PLACEHOLDER: visitors walking the Borobudur gallery terraces (Oleg to upload)"
+      "src": "/images/generated/photos/how-long-at-borobudur-hero.jpg",
+      "alt": "Latticed stupas on the upper terraces of Borobudur temple"
     }
   },
   "author": {

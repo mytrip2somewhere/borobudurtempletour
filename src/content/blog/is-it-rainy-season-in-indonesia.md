@@ -2,8 +2,8 @@
 title: "Is It Rainy Season in Indonesia Right Now? A Month-by-Month Answer"
 date: "2026-07-07"
 description: "Central Java is dry May to October and wet November to April. The rain arrives in afternoon downpours, not all day, which is why an early Borobudur visit works year round."
-hero: ""
-hero_alt: ""
+hero: "/images/generated/photos/is-it-rainy-season-in-indonesia-hero.jpg"
+hero_alt: "Rain on the stone terraces of Borobudur temple"
 related_tour: "borobudur-climb-prambanan-day-tour"
 related_tour_label: "Borobudur Climb & Prambanan Day Tour"
 related_tour_blurb: "An eight-hour day tour that finishes its outdoor work before the wet-season afternoon has a chance to open up."
@@ -16,6 +16,8 @@ The rain here has a schedule, and after a few seasons you stop checking the fore
 
 **That depends on the date you are reading this, and I cannot know it, so here is the pattern instead. Central Java, where Borobudur sits, is dry from May to October and wet from November to April. July and August are the driest months. December to February are the wettest. Those two seasons are reliable enough to plan against.**
 
+<img src="/images/generated/photos/is-it-rainy-season-in-indonesia-is-it-rainy-season-in-indonesia-right-now.jpg" alt="Sheltering from a downpour under a gateway of Borobudur" width="1100" height="733" loading="lazy">
+
 I want to be honest about the limits of this page. Anything claiming to tell you today's weather in an article written months ago is guessing at you. What I can give you is the seasonal machinery, which barely changes: two monsoons, a dry half and a wet half, with the transitions blurring at the edges in April and November.
 
 Indonesia straddles the equator, so it has no spring or autumn in any sense you would recognise. It has a wet season and a dry one, and their timing shifts across the archipelago. Central Java's version is the one that matters for a [Borobudur trip](/guides/best-time-to-visit-borobudur/).
@@ -23,6 +25,8 @@ Indonesia straddles the equator, so it has no spring or autumn in any sense you 
 ## Which months are dry and which are wet in Central Java?
 
 **Dry season runs May through October, with July and August the driest and the most settled. Wet season runs November through April, peaking December to February. April and November are transition months that can behave like either. Java's dry season is genuinely dry, not merely "less rainy".**
+
+<img src="/images/generated/photos/is-it-rainy-season-in-indonesia-which-months-are-dry-and-which-are-wet-in-ce.jpg" alt="Storm clouds building over Borobudur temple" width="1100" height="733" loading="lazy">
 
 Here is the year as I actually experience it guiding, month by month.
 
@@ -46,6 +50,8 @@ Notice that the crowd column runs almost exactly opposite the rain column. That 
 ## What time of day does it rain in Indonesia?
 
 **Afternoon and evening, overwhelmingly. Even in the wettest weeks the rain tends to build through the day and break after about two in the afternoon, as heat pushes moisture up over the volcanoes. Mornings in the wet season are frequently clear. This single fact rescues a wet-season Borobudur visit.**
+
+<img src="/images/generated/photos/is-it-rainy-season-in-indonesia-what-time-of-day-does-it-rain-in-indonesia.jpg" alt="Steaming stone and puddle reflections after rain at Borobudur" width="1100" height="733" loading="lazy">
 
 This is the most useful thing on this page and the thing travel sites most consistently omit. "Rainy season" gets read as "it rains all day", and so people cancel Java trips over it. That is not the pattern. The pattern is convective: the sun heats the plain through the morning, moisture rises, cloud towers stack up over Merapi and Merbabu, and the whole thing collapses into a downpour in the afternoon. It is often over within an hour or two.
 
@@ -90,6 +96,8 @@ Those forecasts come from Indonesia's climatology service via the <a href="https
 
 **No, provided you go early. Borobudur opens every day of the year and rain is not a closure. The structure climb runs 08:30 to 17:00, so a wet-season morning climb sits almost entirely inside the clear window. What the rain genuinely threatens is the dawn view from Punthuk Setumbu, which is a different product.**
 
+<img src="/images/generated/photos/is-it-rainy-season-in-indonesia-does-rainy-season-ruin-a-borobudur-visit.jpg" alt="A rain squall crossing the plain toward Borobudur" width="1100" height="733" loading="lazy">
+
 Split the risk honestly, because the two things behave differently.
 
 A daytime climb in the wet season is a low-risk proposition. You are on the terraces from mid-morning, the rain is not usually due for hours, and if it arrives you have already seen the monument. The [climb guide](/guides/climbing-borobudur/) covers what the ticket includes and how long the ascent takes.
@@ -111,6 +119,8 @@ If the dawn view is the reason you are coming to Java, book it in the dry season
 
 **May, June and September, in that order. They sit inside the dry season without carrying the July and August crowd peak or August's haze. If you can only travel in the wet season, come anyway and go early, because a wet-season morning is usually clearer than the internet lets you believe.**
 
+<img src="/images/generated/photos/is-it-rainy-season-in-indonesia-which-months-are-best-for-borobudur.jpg" alt="Climbing Borobudur's wet steps in rain ponchos" width="1100" height="733" loading="lazy">
+
 The received wisdom says July and August, and it is not wrong about the weather. It is just incomplete. Those are the driest months and also the busiest, which are two ways of saying the same thing about who else booked. Borobudur drew about 1.3 million visitors in 2024, and they are not spread evenly across the calendar.
 
 May and September are the honest sweet spots. You get dry-season reliability at the shoulder, with the plain still green in May from the rain that just left, and thinning crowds in September. June is the safest all-round choice if you want no complications at all.
@@ -118,6 +128,8 @@ May and September are the honest sweet spots. You get dry-season reliability at 
 ## How should you plan a Borobudur day around the rain?
 
 **Book the earliest start you can and treat the afternoon as flexible. Both of my day itineraries are built this way already: outdoor work in the morning, and by the time the wet-season sky is thinking about opening up, the climbing is behind you.**
+
+<img src="/images/generated/photos/is-it-rainy-season-in-indonesia-how-should-you-plan-a-borobudur-day-around-t.jpg" alt="Driving toward Borobudur through tropical rain" width="1100" height="733" loading="lazy">
 
 The mechanics are simple. In the wet season, front-load. Do Borobudur first, keep Prambanan for after, and accept that if the sky breaks at three you will be looking at a Hindu temple complex in the rain, which is a considerably better outcome than being on a slick stone terrace in it.
 

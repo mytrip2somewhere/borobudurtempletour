@@ -2,8 +2,8 @@
 title: "Borobudur or Angkor Wat: Which One Should You Actually Visit?"
 date: "2026-06-09"
 description: "Angkor Wat is the largest religious monument; Borobudur is the largest Buddhist temple. Different records, different trips. An honest guide's comparison."
-hero: ""
-hero_alt: ""
+hero: "/images/generated/photos/borobudur-or-angkor-wat-which-to-visit-hero.jpg"
+hero_alt: "Angkor Wat in Cambodia, the classic comparison to Borobudur"
 related_tour: "borobudur-sunrise-climb-prambanan"
 related_tour_label: "Borobudur Sunrise Climb & Prambanan"
 related_tour_blurb: "If Borobudur is the half-day in your itinerary rather than the whole trip, this is the version that gets you the dawn, the guaranteed climb and Prambanan without losing a second day."
@@ -17,6 +17,8 @@ I guide at Borobudur. You should read what follows knowing that. I am also not g
 ## Which is bigger, Borobudur or Angkor Wat?
 
 **Angkor Wat, and it is not close. But the two hold different records and are not competing for the same one. Angkor Wat is the largest religious monument in the world, with a walled enclosure of 162.6 hectares. Borobudur is the largest Buddhist temple, on a base of roughly 123 by 123 metres.**
+
+<img src="/images/generated/photos/borobudur-or-angkor-wat-which-to-visit-which-is-bigger-borobudur-or-angkor-wat.jpg" alt="The stone causeway into Angkor Wat" width="1100" height="733" loading="lazy">
 
 This is where almost every comparison online falls over, so it is worth slowing down. Those two superlatives are not rival claims to the same title. One is about total religious monuments, of any faith, measured by enclosure. The other is a category record within Buddhism. Both are true at once. A page that says "Borobudur is bigger than Angkor Wat" and a page that says "Angkor Wat is bigger" are usually both quoting real facts and both leaving out the qualifier that makes them make sense.
 
@@ -39,6 +41,8 @@ So Angkor wins on size by any honest measure. What Borobudur has is density, and
 
 **Borobudur, by roughly three hundred years. Borobudur was begun in 778 AD and finished around 825 AD. Angkor Wat went up in the early 12th century under Suryavarman II. Borobudur was already four centuries old and long out of court favour before the first Angkor Wat stone was cut.**
 
+<img src="/images/generated/photos/borobudur-or-angkor-wat-which-to-visit-which-is-older-borobudur-or-angkor-wat.jpg" alt="Tree roots overtaking a gallery at the Angkor temples" width="1100" height="733" loading="lazy">
+
 <a href="https://www.britannica.com/topic/Angkor-Wat" rel="noopener" target="_blank">Britannica</a> places Angkor Wat in the 12th century under Suryavarman II, built as a Hindu temple to Vishnu and turned to Buddhist use later. Borobudur went the other way round in a sense: it was Mahayana Buddhist from the first stone and never converted, it was simply left.
 
 The three-century gap changes how you should read them. These are not two expressions of one moment in Southeast Asian religious architecture. Borobudur belongs to a 9th-century Javanese world that also built Prambanan; Angkor Wat belongs to a Khmer empire at its 12th-century height, in a different country, a different language, and a different political order. Comparing them is a bit like comparing Chartres with the Parthenon. Both are stone, both are sacred, and the interesting part is the distance between them.
@@ -48,6 +52,8 @@ There is a nice irony in the timing, too. By the time Angkor Wat was being built
 ## How much time does each one actually need?
 
 **This is the real difference, and it decides the question. Borobudur is a half-day: one monument, a morning, done properly. Angkor wants two to three days minimum, because the park is 400 square kilometres and the temple is the beginning of it. One fits inside a trip; the other is the trip.**
+
+<img src="/images/generated/photos/borobudur-or-angkor-wat-which-to-visit-how-much-time-does-each-one-actually-need.jpg" alt="A relief gallery inside Angkor Wat" width="1100" height="733" loading="lazy">
 
 I think the time budget is a more useful lens than the size record, and nobody frames it that way.
 
@@ -96,6 +102,8 @@ Those visitor figures are worth a second look, because they say something the si
 
 **Angkor Wat is an approach: a causeway, a moat, towers resolving as you walk, a building that performs at distance. Borobudur has no approach and no facade. It is a mass you climb into, and the experience is close-range and sequential. One overwhelms you; the other slows you down.**
 
+<img src="/images/generated/photos/borobudur-or-angkor-wat-which-to-visit-what-does-each-one-actually-feel-like.jpg" alt="Angkor Wat across its moat under monsoon clouds" width="1100" height="733" loading="lazy">
+
 That guest of mine had it exactly right, so I will use his words rather than invent better ones. Small, versus slow.
 
 Angkor Wat is built to be seen. The moat, the causeway, the long walk with the five towers arranging themselves against the sky: that is architecture as arrival, and it is one of the great sights on earth. Photographs work there, because the building is composed for a viewer at a distance.
@@ -108,6 +116,8 @@ This is why the half-day is not a consolation prize. Borobudur gives you more ca
 
 **Yes, and plenty of people do, but they are separate countries and separate flights, so treat them as two legs rather than a day trip apart. The usual shape is Siem Reap for three days and Yogyakarta for two, and the order matters less than giving Angkor the days it needs.**
 
+<img src="/images/generated/photos/borobudur-or-angkor-wat-which-to-visit-can-you-visit-both-on-the-same-trip.jpg" alt="The steep stairs of Angkor Wat's central sanctuary" width="1100" height="733" loading="lazy">
+
 Nobody is choosing between these two on a Tuesday morning. They are in different countries, and the real decision is almost always about which one earns a slot in a Southeast Asia itinerary that already has too much in it.
 
 If both are in, the asymmetry works in your favour. Angkor is the anchor: three days, a pass, a base in Siem Reap, and no attempt to do anything else. Yogyakarta is the lighter leg, because Borobudur is a morning and Prambanan is an afternoon, and you can be back in the city for dinner having seen two world-class monuments of two different faiths. Two nights in Yogyakarta genuinely covers it.
@@ -117,6 +127,8 @@ The mistake I see is people budgeting them equally, giving each two days, and ge
 ## Which should you visit, honestly?
 
 **Both, if the trip allows, since they are different enough that neither substitutes for the other. If you must choose: Angkor if you have three days and want scale, ruin and empire. Borobudur if you have a morning, are already in Java, and want narrative density and a monument you can finish.**
+
+<img src="/images/generated/photos/borobudur-or-angkor-wat-which-to-visit-which-should-you-visit-honestly.jpg" alt="Dawn over the towers of Angkor Wat" width="1100" height="733" loading="lazy">
 
 Let me be as fair as I can while telling you what I think.
 

@@ -19,6 +19,8 @@ draft: "false"
 
 **Yogyakarta is the practical answer: the visitor hub with the airport, the hotels and every tour departure point, about an hour southeast of the temple by road. The monument itself stands in Magelang Regency, Central Java, near the small town of Muntilan, but almost every visitor stays in Yogyakarta and travels out for the day.**
 
+<img src="/images/generated/photos/borobudur-from-yogyakarta-what-is-the-closest-city-to-borobudur.jpg" alt="A street scene in Yogyakarta, the departure city for Borobudur tours" width="1100" height="733" loading="lazy">
+
 Yogyakarta. The temple is not in the city, despite what a lot of tour marketing implies, but Yogyakarta is where the airport, the hotels and every tour departure point are, about an hour southeast of the monument by road. The temple itself stands in <a href="https://en.wikipedia.org/wiki/Borobudur" rel="noopener" target="_blank">Magelang Regency, Central Java</a>, and the nearest town of any size is Muntilan, which you pass on the drive up. In practice nobody plans around Muntilan. You stay in Yogyakarta and travel out for the day, or you sleep at one of the handful of hotels near the temple park if a dawn start matters to you.
 
 That geography shapes everything below. Whatever option you choose, you are committing to roughly two hours of round-trip travel, so it makes sense to decide [how long you want at Borobudur itself](/guides/how-long-at-borobudur/) before you pick how to get there.
@@ -27,6 +29,8 @@ That geography shapes everything below. Whatever option you choose, you are comm
 
 **A guided tour is the no-logistics option: a driver collects you from your Yogyakarta hotel, the climb ticket and a guide are included, and the day usually adds Prambanan on the way back. It costs the most in money and the least in planning, and it is the only realistic route to a sunrise start without your own car.**
 
+<img src="/images/generated/photos/borobudur-from-yogyakarta-option-one-a-tour-with-hotel-pickup.jpg" alt="Riding through the rice fields toward Borobudur" width="1100" height="733" loading="lazy">
+
 This is the option most visitors end up choosing, and not because it is heavily advertised. It removes every logistical step at once. A driver collects you from your Yogyakarta hotel, the climb ticket is arranged for you, a guide walks the monument with you, and the same day usually covers Prambanan on the way back. The [tours we list](/tours/) all work this way, and all three carry 4.9 ratings across hundreds to thousands of reviews on GetYourGuide and Viator.
 
 One thing to read carefully before booking: the popular [sunrise version](/tours/borobudur-sunrise-climb-prambanan/) (<a href="https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher" rel="sponsored noopener" target="_blank">check live availability &amp; prices on GetYourGuide</a>) watches dawn from Punthuk Setumbu, a hill viewpoint about 2.5 km from the monument, and then climbs the temple after it opens. Sunrise from the monument itself is a separate official product with a 04:00 start, capped at 100 people a day. Our [sunrise guide](/guides/borobudur-sunrise/) lays out that difference in full so you book the dawn you are picturing.
@@ -34,6 +38,8 @@ One thing to read carefully before booking: the popular [sunrise version](/tours
 ## Option two: a private driver
 
 **A private driver keeps the door-to-door convenience but puts the schedule in your hands, at roughly US$25 to 45 per vehicle for the round trip, usually for up to four people with waiting time included. The temple ticket is on top, and the full price and waiting arrangement should be agreed before you set off.**
+
+<img src="/images/generated/photos/borobudur-from-yogyakarta-option-two-a-private-driver.jpg" alt="In the minivan from Yogyakarta to Borobudur" width="1100" height="733" loading="lazy">
 
 Hiring a car with a driver for the day is the middle path. You keep the door-to-door convenience but set your own schedule: leave when you like, stay as long as the panels hold your attention, add Prambanan or skip it. Any Yogyakarta hotel can arrange one, and driver services around the city advertise Borobudur round trips at roughly US$25 to US$45 per vehicle, usually for up to four people with waiting time included. Treat those advertised figures as a starting point, agree the full price and the waiting arrangement before you set off, and remember the temple ticket is on top. As a foreign visitor that means the structure-climb ticket, which our [tickets and prices guide](/guides/borobudur-tickets-and-prices/) explains in detail.
 
@@ -51,6 +57,8 @@ A driver beats ride-hailing for one practical reason. Grab and Gojek will happil
 ## Option three: the public bus
 
 **The public bus is the cheapest route: Trans Jogja to Jombor terminal for about IDR 3,600, then a regional bus or DAMRI shuttle on to Borobudur for roughly IDR 20,000 to 50,000. Budget 90 minutes to two hours each way, and remember the last buses back leave in the afternoon.**
+
+<img src="/images/generated/photos/borobudur-from-yogyakarta-option-three-the-public-bus.jpg" alt="A village road on the way to Borobudur" width="1100" height="733" loading="lazy">
 
 Cheap, slow, and genuinely doable. The classic route has two legs. First, a Trans Jogja city bus to Jombor terminal on the northern edge of Yogyakarta; the flat fare was about IDR 3,600 at the time of writing. From Jombor, regional buses and DAMRI shuttles run on toward Borobudur, with recent traveler reports putting that leg anywhere from IDR 20,000 to 50,000 depending on the service. Some DAMRI departures also leave from central points near Malioboro, which skips the Jombor transfer entirely.
 
@@ -146,6 +154,8 @@ Whichever way you travel, the clock that matters is the temple's own. The struct
 ## Which one should you pick?
 
 **Take the bus if the budget rules and a daytime visit is enough. Hire a driver if there are two or more of you and you want control of the clock. Book a tour if you want the whole day solved in one booking: pickup, climb ticket, guide and Prambanan, which is why most first-time visitors choose it.**
+
+<img src="/images/generated/photos/borobudur-from-yogyakarta-which-one-should-you-pick.jpg" alt="Batik being dyed by hand in a Yogyakarta workshop" width="1100" height="733" loading="lazy">
 
 <table class="keyfacts">
 <tr><th></th><td>**Guided tour**</td><td>**Independent, driver or bus**</td></tr>

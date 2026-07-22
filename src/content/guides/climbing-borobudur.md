@@ -5,8 +5,8 @@ eyebrow: "Guides · The climb"
 lede: "The climb closed, reopened, changed rules, and left the internet a museum of outdated advice. Here is the current system, checked against the operator, including what actually happened to the famous 1,200-a-day quota."
 quick_answer_label: "Short answer"
 quick_answer: "Yes, you can climb Borobudur, <strong>every day of the week</strong>, 08:30 to 17:00. You need the structure-climb ticket rather than grounds entry, and it comes with two things that are not optional: a <strong>guide</strong> and the <strong>Upanat sandals</strong> that protect the stone. No official daily quota exists for the regular climb; only the 04:00 sunrise slot is capped, at 100 people."
-hero: ""
-hero_alt: ""
+hero: "/images/generated/photos/climbing-borobudur-hero.jpg"
+hero_alt: "Visitors in light tropical clothing on the terraces of Borobudur"
 group: "planning"
 order: 2
 short_title: "Climbing Borobudur"
@@ -19,6 +19,8 @@ draft: "false"
 
 **The climb went through restricted years, capped years, and a staged reopening, and each phase left its own layer of blog advice behind. Since the third week of July 2025 the climb runs every day of the week, on a dedicated structure ticket, and most of what you will read elsewhere describes an earlier phase.**
 
+<img src="/images/generated/photos/climbing-borobudur-why-the-internet-is-so-confused-about-this.jpg" alt="Climbing the steep stone stairway of Borobudur temple" width="1100" height="733" loading="lazy">
+
 Borobudur's climb access genuinely did change several times in recent years, including a long stretch of restricted access during conservation work. Every phase of that history left a layer of blog posts behind it, each describing rules that were true when written. The result is that a 2026 search still surfaces pages saying the top is closed, pages saying Mondays are off, and pages quoting a strict daily cap. All three were once true-ish. None survives contact with the operator's current published rules.
 
 Two changes matter most. Since the third week of **July 2025, the climb runs every day**, Mondays included; the operator's director said in the <a href="https://injourneydestination.id/en/2025/07/22/naik-candi-borobudur-bisa-tiap-hari/" rel="noopener" target="_blank">official announcement</a> that "there are no longer any restrictions on the day". And access is organised through a dedicated [structure-climb ticket](/guides/borobudur-tickets-and-prices/) rather than general admission, which is what the tour listings mean when they sell confirmed climb access.
@@ -26,6 +28,8 @@ Two changes matter most. Since the third week of **July 2025, the climb runs eve
 ## What the climb ticket gets you
 
 **One ticket covers the four things the climb requires: access to the upper structure, a wristband, the mandatory Upanat sandals you keep afterward, and a tour guide. The inclusions are published verbatim on the <a href="https://ticket.injourneydestination.id/en/borobudur-temple/" rel="noopener" target="_blank">operator's ticketing page</a>.**
+
+<img src="/images/generated/photos/climbing-borobudur-what-the-climb-ticket-gets-you.jpg" alt="The garden approach walk toward Borobudur temple" width="1100" height="733" loading="lazy">
 
 <table class="keyfacts">
 <tr><th>Access</th><td>The temple's upper structure: the gallery terraces, the relief panels, the stupa platforms at the top</td></tr>
@@ -41,6 +45,8 @@ Inclusions quoted from the operator's ticketing pages, July 2026. The [tickets g
 ## When you can actually be on the monument
 
 **Three access products, three windows: the 04:00 sunrise slot on the monument, the ordinary structure climb from 08:30 to 17:00, and the grounds from 06:30 to 16:30, every day of the week.**
+
+<img src="/images/generated/photos/climbing-borobudur-when-you-can-actually-be-on-the-monument.jpg" alt="Latticed stupas on the upper terraces of Borobudur temple" width="1100" height="733" loading="lazy">
 
 <table class="keyfacts">
 <tr><th>04:00</th><td>Official sunrise product, on the structure. Capped at 100 people, flashlight and Manohara breakfast included</td></tr>
@@ -61,9 +67,13 @@ Inclusions quoted from the operator's ticketing pages, July 2026. The [tickets g
 
 The one rule every climber meets is on their feet. Upanat are woven sandals issued with the climb ticket, and the operator's language is unambiguous: all visitors on the structure wear them. The reason is conservation arithmetic. A ninth-century staircase and a few thousand pairs of hiking boots a day are a bad combination, and the soft-soled Upanat cut the abrasion. You keep the pair afterward, which makes them the only souvenir at Borobudur that is also a rule. What you wear above the ankles is genuinely up to you; there is no official dress code, a fact odd enough that we gave it [its own page](/guides/what-to-wear-at-borobudur/).
 
+<img src="/images/generated/photos/climbing-borobudur-the-upanat-sandals-and-why-they-exist.jpg" alt="Woven sandals on the worn stone of Borobudur" width="1100" height="733" loading="lazy">
+
 ## The 1,200-a-day quota: real once, not published now
 
 **The famous 1,200-per-day climb cap was a real rule as recently as 2024, when reporting described weekend demand hitting the cap while ordinary weekdays drew 300 to 500 climbers. It is not in force as a published rule today: the operator's July 2025 announcement removed day restrictions and reported Monday trials of 3,000 to 4,000 climbers.**
+
+<img src="/images/generated/photos/climbing-borobudur-the-1-200-a-day-quota-real-once-not-publishe.jpg" alt="Visitors arriving at the Borobudur park entrance" width="1100" height="733" loading="lazy">
 
 That history explains the mess you will read. Tour listings still market a "climb up guarantee" against a strict daily cap, and pages written during the capped years repeat 1,200 as if it were current. Both were right once. What matters for your trip is the current state, so here is the documented sequence.
 
@@ -102,6 +112,8 @@ So the scarcity framing survives because it used to be true and because it sells
 </svg>
 <figcaption class="small">The climb stage by stage, from the shoe swap at the base to the summit platform.</figcaption>
 </figure>
+
+<img src="/images/generated/photos/climbing-borobudur-what-the-climb-is-like.jpg" alt="Ascending through a carved gateway arch at Borobudur" width="1100" height="733" loading="lazy">
 
 **Short, steep, and hot rather than hard: worn ninth-century stairs up through six square gallery terraces and three round platforms, with your guide alongside and the Upanat sandals on your feet. Fitness is rarely the limit; sun, water, and footing are the real variables.**
 

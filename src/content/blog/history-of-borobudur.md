@@ -2,8 +2,8 @@
 title: "The History of Borobudur, Told from the Terraces"
 date: "2026-07-14"
 description: "Borobudur's history read off the stone: begun 778 AD, finished around 825, abandoned for reasons nobody proved, and cleared in 1814 by locals who never forgot."
-hero: ""
-hero_alt: ""
+hero: "/images/generated/photos/history-of-borobudur-hero.jpg"
+hero_alt: "Bas-relief panels along a gallery corridor of Borobudur temple"
 related_tour: "borobudur-sunrise-climb-prambanan"
 related_tour_label: "Borobudur Sunrise Climb & Prambanan"
 related_tour_blurb: "The guaranteed climb ticket is what puts you on the gallery terraces where the reliefs actually are, and a guide is the difference between walking past the panels and reading them."
@@ -18,6 +18,8 @@ I have guided here since 2022, and this is the part of the job I care about most
 
 **Construction began in 778 AD and finished around 825 AD, under the Sailendra dynasty, in the Kedu Plain of Central Java. That is roughly fifty years of work, three or four generations of masons, and it makes Borobudur older than Angkor Wat by some three hundred years and older than most of Europe's great cathedrals.**
 
+<img src="/images/generated/photos/history-of-borobudur-when-was-borobudur-built-and-who-built-it.jpg" alt="The famous ship relief carved on Borobudur temple" width="1100" height="733" loading="lazy">
+
 Fifty years is the number worth sitting with. Nobody who broke ground in 778 saw the main stupa closed. The Sailendras were a Mahayana Buddhist ruling house, and they were building at a moment when Central Java had the surplus, the rice, and the political will to spend half a century on a single religious object.
 
 <a href="https://whc.unesco.org/en/list/592/" rel="noopener" target="_blank">UNESCO inscribed the site in 1991</a> as the Borobudur Temple Compounds, a listing that also takes in the smaller temples of Mendut and Pawon a few kilometres east. Those three sit on a line. Whether that alignment was designed as a pilgrimage route is argued about rather than settled, and I would rather tell you it is argued about than sell you a certainty.
@@ -27,6 +29,8 @@ What is not argued about is that the same century, in the same region, produced 
 ## Why does Borobudur have nine levels?
 
 **Nine platforms rise from the base: square gallery terraces below, three circular terraces above, and a main stupa about 35 metres above the ground. The shape is a Buddhist cosmology you climb. Square levels are the world of form; the circles above are formlessness; the closed stupa at the summit is what cannot be depicted at all.**
+
+<img src="/images/generated/photos/history-of-borobudur-why-does-borobudur-have-nine-levels.jpg" alt="Carved kala head above a gateway of Borobudur temple" width="1100" height="733" loading="lazy">
 
 Here is a place where honest sources disagree, and I would rather you heard it from me. Everyone counts nine levels. Nobody counts the square ones the same way. <a href="https://www.britannica.com/topic/Borobudur" rel="noopener" target="_blank">Britannica</a> and UNESCO both describe five square terraces sitting on an encased base; the count of six that you will see widely, including in Indonesian material, folds that hidden base in as a square level of its own. It is a counting convention, not a factual dispute. Both descriptions are of the same building.
 
@@ -44,6 +48,8 @@ Walk it and the architecture does something no diagram conveys. The galleries ar
 ## What do Borobudur's relief panels actually tell you?
 
 **The six gallery terraces carry 1,460 narrative relief panels, meant to be read clockwise and upward, starting at the eastern stairway. They are a sequence, not decoration. Walked in order they run from ordinary human appetite at the bottom to a bodhisattva's path at the top, which is the same journey your legs are making.**
+
+<img src="/images/generated/photos/history-of-borobudur-what-do-borobudur-s-relief-panels-actually-t.jpg" alt="A shaded relief gallery on Borobudur temple" width="1100" height="733" loading="lazy">
 
 Britannica puts it plainly: a pilgrim starts at the eastern stairway and walks clockwise around each level before going up. The word for that circling is pradakshina, and it is not a suggestion the building makes. It is the only way the panels are in order.
 
@@ -81,6 +87,8 @@ You do not need to know the story cycles by name to get this. Walk one full gall
 
 **Borobudur fell into disuse somewhere between the 10th and 15th centuries, and no single cause has ever been proved. The one properly documented factor is political: the Javanese court moved east around 929 AD under Mpu Sindok, taking the patronage with it. Java's later turn to Islam finished what the move started.**
 
+<img src="/images/generated/photos/history-of-borobudur-why-was-borobudur-abandoned.jpg" alt="A guide pointing out figures on a Borobudur relief panel" width="1100" height="733" loading="lazy">
+
 I want to be careful here, because this is where most writing about Borobudur goes soft. "Mysteriously abandoned" is a good sentence and a bad summary. The honest position is that a monument this size does not need a catastrophe to be left alone. It needs the money and the court to go somewhere else, slowly, over generations.
 
 That part is documented. <a href="https://en.wikipedia.org/wiki/Mpu_Sindok" rel="noopener" target="_blank">Mpu Sindok</a> shifted the seat of power from Central Java to East Java around 929 AD, a move attested in inscriptions. Central Java stopped being where decisions were made. A building that runs on royal patronage and pilgrim traffic does not fall down when that happens. It just gets quieter, and then quiet becomes normal, and then a few centuries pass.
@@ -99,6 +107,8 @@ There is more on this, including the sources, in the [why was Borobudur abandone
 
 **Probably not in the way the story is usually told. The idea that a Mount Merapi eruption around 1006 AD buried Borobudur is a hypothesis put forward by the geologist van Bemmelen in the mid-20th century. It is not proven. The stratigraphic evidence has never been enough to hang the abandonment on a single eruption.**
 
+<img src="/images/generated/photos/history-of-borobudur-did-a-volcano-bury-borobudur.jpg" alt="A jeep tour climbing the volcanic slopes of Mount Merapi" width="1100" height="733" loading="lazy">
+
 I flag this on the terraces because it is the most repeated untrue-ish thing about my temple. Blogs state it flat: a volcano erupted, ash buried the monument, Java forgot. It is a tidy story and it has a villain, and Merapi is right there on the horizon being photogenic, which does not help.
 
 What is true is that <a href="https://en.wikipedia.org/wiki/Mount_Merapi" rel="noopener" target="_blank">Merapi</a> is one of the most active volcanoes on earth and has thrown ash across this plain repeatedly, including in 2010, when Borobudur was closed and cleaned. Volcanic activity is part of this landscape's story. What has not been demonstrated is that one eruption in 1006 did the specific work of burying and ending Borobudur. A hypothesis is not a finding. Saying so out loud is not pedantry; it is the difference between history and folklore, and you deserve the first one.
@@ -106,6 +116,8 @@ What is true is that <a href="https://en.wikipedia.org/wiki/Mount_Merapi" rel="n
 ## Was Borobudur really rediscovered in 1814?
 
 **No, and the word is worth pushing back on. In 1814 Thomas Stamford Raffles sent H.C. Cornelius with around 200 workers to clear vegetation and soil from a site local villagers already knew about and led them to. That is a clearing, and a documentation. Nobody in the Kedu Plain needed to be told the temple was there.**
+
+<img src="/images/generated/photos/history-of-borobudur-was-borobudur-really-rediscovered-in-1814.jpg" alt="Carved makara balustrade on Borobudur temple" width="1100" height="733" loading="lazy">
 
 Think about the geography for a second. This is a stone hill 35 metres high in the middle of a farmed plain, in one of the most densely populated agricultural regions of Java. The idea that it vanished from local knowledge does not survive contact with the landscape. It was overgrown, not absent.
 
@@ -116,6 +128,8 @@ So "rediscovery" describes a European arrival, not the temple's status. Corneliu
 ## How long do you actually need on the terraces?
 
 **Most visitors get about 45 minutes on the structure and spend it climbing. Reading even one gallery properly takes that long on its own. If the reliefs are why you came, budget 90 minutes minimum on the monument itself, start at the eastern stairway, and go clockwise.**
+
+<img src="/images/generated/photos/history-of-borobudur-how-long-do-you-actually-need-on-the-terrace.jpg" alt="Latticed stupas on the upper terraces of Borobudur temple" width="1100" height="733" loading="lazy">
 
 The practical constraint is real: the structure is open 08:30 to 17:00, the climb is ticketed and guided, and a group has a schedule. I am not going to pretend you can spend a day up there. But the difference between a rushed visit and a good one is mostly about the order you do things in, not the hours you have.
 

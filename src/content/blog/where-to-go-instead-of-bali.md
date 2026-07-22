@@ -2,8 +2,8 @@
 title: "Where to Go Instead of Bali (From Someone Who Lives Next Door)"
 date: "2026-07-03"
 description: "An honest look at the alternatives to Bali: Java, Lombok, Flores and Sumatra, what each one actually gives you, and why Yogyakarta is the easiest swap of all."
-hero: ""
-hero_alt: ""
+hero: "/images/generated/photos/where-to-go-instead-of-bali-hero.jpg"
+hero_alt: "Rice terraces at Tegallalang near Ubud, Bali"
 related_tour: "borobudur-sunrise-climb-prambanan"
 related_tour_blurb: "The clearest single argument for Java in one morning: dawn from Punthuk Setumbu, the climb up Borobudur, then Prambanan on the way back."
 related_tour_label: "Borobudur Sunrise Climb & Prambanan"
@@ -17,6 +17,8 @@ So let me try to hand you a better one. And let me start by defending the island
 ## Is Bali actually overrated?
 
 **No. Bali is popular for reasons that hold up: excellent beaches, a living Hindu temple culture, world-class food and hotels, and fifty years of practice at looking after visitors. The problem is not quality. It is concentration. Nearly seven million foreign visitors landed on one island in 2025.**
+
+<img src="/images/generated/photos/where-to-go-instead-of-bali-is-bali-actually-overrated.jpg" alt="A path through the rice paddies near Ubud" width="1100" height="733" loading="lazy">
 
 I want to be straight about this, because guides from Java have a habit of running Bali down and it is unearned. If you want warm water, a good bed, a proper cocktail and someone who speaks your language, Bali does all of that better than anywhere else in Indonesia. That is not an accident and it is not a con.
 
@@ -45,6 +47,8 @@ So the honest framing is not "go somewhere better than Bali". It is: work out wh
 
 **Match the destination to the reason. Java for temples, culture and cost. Lombok for Bali-style beaches with fewer people. Flores and Komodo for dragons and diving. Sumatra for jungle and orangutans. Java is the cheapest and shortest swap, at a direct flight of about 1h35 from Denpasar.**
 
+<img src="/images/generated/photos/where-to-go-instead-of-bali-what-should-i-do-instead-of-bali.jpg" alt="Rice terraces at Tegallalang near Ubud, Bali" width="1100" height="733" loading="lazy">
+
 The four real alternatives, with what each actually delivers and what it costs you in effort:
 
 | Instead of Bali | What you get | Effort from Bali | Skip it if |
@@ -60,6 +64,8 @@ Note the pattern. Three of those four are more effort than Bali, not less. That 
 
 **Yogyakarta gives you what Bali structurally cannot: two 9th-century UNESCO temple complexes within an hour of the city, a living sultan's court, hand-drawn batik, and street food at a fraction of Seminyak prices. It is a direct flight of roughly 1h35 from Denpasar, so it costs you a morning, not a holiday.**
 
+<img src="/images/generated/photos/where-to-go-instead-of-bali-why-yogyakarta-instead-of-bali.jpg" alt="A path through the rice paddies near Ubud" width="1100" height="733" loading="lazy">
+
 Here is the pitch I would make in the van. Bali's temples are alive and Balinese Hindu, which is wonderful, but they are small, active places of worship. Java's are archaeological monuments on a scale that has no equivalent in Bali or anywhere else in Southeast Asia outside Angkor.
 
 Borobudur is the largest Buddhist temple in the world. It is a 9th-century Mahayana monument in Magelang Regency, roughly an hour northwest of Yogyakarta, built from around 778 to 825 AD: nine stacked platforms, six square and three circular, the main stupa about 35 metres above the base, and 1,460 narrative relief panels you read by walking clockwise. It has been <a href="https://whc.unesco.org/en/list/592/" rel="noopener" target="_blank">on the UNESCO World Heritage List since 1991</a> as the Borobudur Temple Compounds.
@@ -71,6 +77,8 @@ The other half of it is cost. Yogyakarta is a Javanese university city, not a re
 ## What does Java have that Bali doesn't?
 
 **Scale and age. Java holds 56.1% of Indonesia's population, the country's oldest surviving court traditions, its two greatest temple complexes, and the volcano-fed plain that made all of it possible. It is where Indonesian history happened, and where most Indonesians actually are.**
+
+<img src="/images/generated/photos/where-to-go-instead-of-bali-what-does-java-have-that-bali-doesn-t.jpg" alt="Borobudur temple rising over the Kedu Plain treeline" width="1100" height="733" loading="lazy">
 
 The thing that surprises visitors most is not the temples. It is realising that Bali, for all its fame, is a small island at the edge of the story rather than the centre of it. Java is where the kingdoms rose, where the courts wrote the poems, where the Dutch built the colony, where independence was declared, and where more than half the country still lives.
 
@@ -98,6 +106,8 @@ Read that last row carefully. I am not proposing you replace a two-week Bali hol
 
 **Yes, if you have the days. Komodo National Park drew around 432,000 visitors in 2025 and remains genuinely wild. But it needs a flight to Labuan Bajo plus multi-day boat trips, so it is an addition to a trip rather than a swap for a weekend.**
 
+<img src="/images/generated/photos/where-to-go-instead-of-bali-is-komodo-or-flores-a-good-bali-alternative.jpg" alt="Island landscape of Komodo National Park, Flores" width="1100" height="733" loading="lazy">
+
 The dragons are real and the diving around Komodo is among the best in Asia. Nobody who goes regrets it. What people underestimate is the logistics: this is not a day out from Bali, whatever the booking sites imply. You fly east to Labuan Bajo, then you live on a boat for two or three days, and the good sites are further out than the cheap tours go.
 
 Park authorities have also been tightening visitor limits in recent years, which is the right call for the dragons and something to check before you plan around it. If you have four spare days and you love wildlife, go. If you have a spare weekend, this is not your answer.
@@ -105,6 +115,8 @@ Park authorities have also been tightening visitor limits in recent years, which
 ## Is Lombok better than Bali?
 
 **Not better, quieter. Lombok gives you comparable beaches, the Gili islands and Rinjani trekking with roughly 430,000 international arrivals in 2024 against Bali's near-seven million. The trade is a thinner restaurant, hotel and nightlife scene.**
+
+<img src="/images/generated/photos/where-to-go-instead-of-bali-is-lombok-better-than-bali.jpg" alt="A quiet bay with outrigger boats in south Lombok" width="1100" height="733" loading="lazy">
 
 Lombok is the honest choice for the traveller whose real complaint about Bali is the crowds rather than Bali itself. It is a short hop east, the water is good, the Gilis are car-free, and Rinjani is a serious volcano trek if you want one.
 
@@ -125,6 +137,8 @@ What you give up is the infrastructure. Bali's density is also what pays for its
 
 **Sumatra is the biggest reward and the biggest commitment: jungle, wild orangutans, Lake Toba, and Padang food that is arguably Indonesia's best. It needs a long flight and long overland legs, so it suits two-week trips and travellers who genuinely enjoy moving.**
 
+<img src="/images/generated/photos/where-to-go-instead-of-bali-what-about-sumatra.jpg" alt="Lake Toba seen from the shoreline hills, North Sumatra" width="1100" height="733" loading="lazy">
+
 Rendang, the dish most often named as Indonesia's greatest, is Minangkabau, from West Sumatra. Orangutans in the wild are in Sumatra and Kalimantan, nowhere near Bali or Java. Lake Toba is a volcanic caldera lake so large it does not read as a lake.
 
 It is also far, the roads are slow, and a week is not enough. I mention it because leaving it out would make this list dishonest, not because it is the swap most readers should make.
@@ -132,6 +146,8 @@ It is also far, the roads are slow, and a week is not enough. I mention it becau
 ## So what would you actually book?
 
 **For most people: keep Bali, and take two days in Yogyakarta out of the middle of it. It is a 1h35 direct flight, it costs you one morning of travel, and it puts the world's largest Buddhist temple and a UNESCO Hindu complex within an hour of your hotel.**
+
+<img src="/images/generated/photos/where-to-go-instead-of-bali-so-what-would-you-actually-book.jpg" alt="The garden approach walk toward Borobudur temple" width="1100" height="733" loading="lazy">
 
 That is my real recommendation, and note that it is not "instead of Bali" at all. The framing of the question is usually wrong. Almost nobody needs to cancel Bali. Plenty of people need to stop treating it as the whole country, which is the argument I made at more length in [what Indonesia is actually famous for](/blog/what-is-indonesia-famous-for/).
 

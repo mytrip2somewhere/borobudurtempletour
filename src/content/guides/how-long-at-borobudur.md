@@ -19,6 +19,8 @@ draft: "false"
 
 **Two hours covers the climb, a proper walk of the relief galleries and time among the summit stupas without rushing. Compress the visit into one hour and the carved panels get cut; stretch the monument alone past three and the midday heat wins. Two hours is the shortest visit that lets you read the place.**
 
+<img src="/images/generated/photos/how-long-at-borobudur-why-two-hours-is-the-right-baseline.jpg" alt="Bas-relief panels along a gallery corridor of Borobudur temple" width="1100" height="733" loading="lazy">
+
 Borobudur is a <a href="https://whc.unesco.org/en/list/592/" rel="noopener" target="_blank">9th-century monument</a> with <a href="https://en.wikipedia.org/wiki/Borobudur" rel="noopener" target="_blank">1,460 narrative relief panels</a> carved along its galleries, and the panels are the point. Anyone can walk up stairs. What separates a real visit from a photo stop is time spent moving along the carvings while a guide unpacks what the scenes show, and a guide comes with the structure-climb ticket, along with the Upanat sandals every climber wears. Our [climbing guide](/guides/climbing-borobudur/) covers what the ascent itself involves.
 
 Two hours lets that happen at a human pace. You climb, you walk a good stretch of the galleries rather than sprinting them, you stand at the summit among the stupas long enough for the place to register, and you come down without checking your watch. Compress it into one hour and something gets cut, and it is always the panels. Stretch the monument alone past three hours and, in the midday heat especially, most people are done before the temple is.
@@ -33,6 +35,8 @@ Two hours lets that happen at a human pace. You climb, you walk a good stretch o
 ## When half a day makes sense
 
 **Budget four to five hours if you want the setting as well as the summit: two hours on the monument, then the museum inside the park and a slow circuit of the grounds. It suits photographers waiting on light and anyone who would rather do one place properly than three at a trot.**
+
+<img src="/images/generated/photos/how-long-at-borobudur-when-half-a-day-makes-sense.jpg" alt="Borobudur temple rising over the Kedu Plain treeline" width="1100" height="733" loading="lazy">
 
 Give it four to five hours if you want the setting, not just the summit. That budget covers the two hours on the monument, then the museum inside the park and a slow circuit of the grounds, where the views back at the temple against the volcanoes are half the photography anyway. It suits photographers waiting on light, anyone who got hooked by the carvings' stories, and travelers who would rather do one place properly than three at a trot.
 
@@ -50,6 +54,8 @@ Two timing notes make a half day work better. Heat builds toward midday, though 
 ## How tours turn it into a full day
 
 **The guided days from Yogyakarta run roughly 8 to 12 hours door to door, but the temple itself stays a two-hour stop inside them. The rest is hotel pickup, Prambanan, and extras like a Punthuk Setumbu sunrise, a Merapi jeep ride or a Candi Mendut stop, with transport and tickets handled throughout.**
+
+<img src="/images/generated/photos/how-long-at-borobudur-how-tours-turn-it-into-a-full-day.jpg" alt="Climbing the steep stone stairway of Borobudur temple" width="1100" height="733" loading="lazy">
 
 The guided days from Yogyakarta do not spend eight hours at Borobudur, and it would be a strange itinerary if they did. They spend about two hours at the temple and build a full Central Java day around it, transport and tickets handled. All three tours we list depart with hotel pickup, include the climb, and pair the temple with Prambanan.
 
@@ -142,6 +148,8 @@ The [day tour](/tours/borobudur-climb-prambanan-day-tour/) is the compact versio
 ## Fitting the hours into your day
 
 **Add the travel to the temple time. Borobudur is about an hour northwest of Yogyakarta by road, so even the leanest independent visit is a four-hour undertaking door to door, and the public bus stretches it further. Settle the time budget first, then pick the transport that fits it.**
+
+<img src="/images/generated/photos/how-long-at-borobudur-fitting-the-hours-into-your-day.jpg" alt="Stone Buddha statue in an opened stupa on Borobudur temple" width="1100" height="733" loading="lazy">
 
 The travel adds its own block of time. Borobudur is about an hour northwest of Yogyakarta by road, so even the leanest independent visit is a four-hour undertaking door to door, and the public bus stretches that further. The full arithmetic of tour versus driver versus bus lives in our guide to [getting to Borobudur from Yogyakarta](/guides/borobudur-from-yogyakarta/), and once you know your time budget, the [comparison page](/compare/) points to which of the three tours fits it. Budget-wise, remember the time budget and the money budget are separate questions: the [tickets guide](/guides/borobudur-tickets-and-prices/) covers what the entry itself costs.
 

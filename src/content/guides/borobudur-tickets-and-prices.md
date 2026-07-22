@@ -19,6 +19,8 @@ draft: "false"
 
 **Borobudur sells a grounds ticket (Pelataran) and a structure-climb ticket (Naik Struktur), and the operator's own ticketing site lists the grounds ticket as domestic-only. A foreign visitor's entry is the climb ticket or a timed sunrise or sunset product, so the cheapest published prices you see online do not apply to you.**
 
+<img src="/images/generated/photos/borobudur-tickets-and-prices-the-two-tickets-and-which-one-you-can-actual.jpg" alt="Visitors arriving at the Borobudur park entrance" width="1100" height="733" loading="lazy">
+
 Almost every confusing thing about Borobudur pricing comes from that one fact: two separate tickets, two price tiers, not interchangeable, and only one of them sold to everyone. The split is stated plainly on the operator's <a href="https://ticket.injourneydestination.id/en/borobudur-temple/" rel="noopener" target="_blank">official ticketing page</a>.
 
 <table class="keyfacts">
@@ -36,6 +38,8 @@ That is not a loophole to work around. It is simply how the operator has structu
 ## What each ticket costs in 2026
 
 **The domestic climb ticket is listed at IDR 150,000, the official sunrise product costs IDR 1,000,000 international and 750,000 domestic, and the foreign climb price appears only inside the official booking flow. Grounds-only entry is not sold to foreign visitors at any price.**
+
+<img src="/images/generated/photos/borobudur-tickets-and-prices-what-each-ticket-costs-in-2026.jpg" alt="The wristband worn for the Borobudur structure climb" width="1100" height="733" loading="lazy">
 
 These are the figures published by the official operator, InJourney, at the time of writing. Prices move, and the foreign climb price in particular is shown only once you start a booking, so treat the confirmed number in the booking flow as final.
 
@@ -65,11 +69,15 @@ USD figures are rough conversions and move with the exchange rate; the operator 
 
 **Most Borobudur prices circulating online are from the 2024 and 2025 price lists. The commonly quoted IDR 120,000 domestic climb figure is out of date against the operator's current 150,000, and the foreign grounds prices you will see quoted are for a ticket the operator no longer offers foreigners at all.**
 
+<img src="/images/generated/photos/borobudur-tickets-and-prices-why-the-price-you-saw-elsewhere-is-probably.jpg" alt="The gardens inside the Borobudur temple park" width="1100" height="733" loading="lazy">
+
 Two stale numbers dominate the search results. The first is a foreign grounds-entry price of around IDR 400,000, which cannot be right, because foreign visitors are not sold a grounds ticket at all. The second is a domestic climb price of IDR 120,000, which is the old figure; the current listed price is IDR 150,000. When a source gets the number you *can* check wrong, it is worth doubting the number you cannot.
 
 ## What you get for the climb ticket
 
 **The climb ticket includes four things by the operator's own published list: access to the temple's upper structure, a wristband, the Upanat sandals you must wear on the stone and keep afterward, and a tour guide. Breakfast is not among them; that belongs to the separate sunrise product.**
+
+<img src="/images/generated/photos/borobudur-tickets-and-prices-what-you-get-for-the-climb-ticket.jpg" alt="Early morning at the entrance plaza of Borobudur" width="1100" height="733" loading="lazy">
 
 The inclusions below are quoted directly from the <a href="https://ticket.injourneydestination.id/en/borobudur-temple/" rel="noopener" target="_blank">operator's ticketing page</a>.
 
@@ -154,9 +162,13 @@ The [Upanat sandals](/guides/what-to-wear-at-borobudur/) are not optional. Every
 <figcaption class="small">Which Borobudur ticket you can buy, by where you are visiting from. Foreign visitors cannot buy the grounds-only ticket.</figcaption>
 </figure>
 
+<img src="/images/generated/photos/borobudur-tickets-and-prices-which-ticket-applies-to-you.jpg" alt="Travellers planning their route into Borobudur temple park" width="1100" height="733" loading="lazy">
+
 ## The sunrise ticket is a different, pricier thing
 
 **The official 04:00 sunrise slot on the monument costs IDR 1,000,000 for international visitors, is capped at 100 people a day, and includes a flashlight, Upanat sandals, a guide, and breakfast at Manohara. Third-party packages resell that same dawn for far more, so know the base price before you pay a markup.**
+
+<img src="/images/generated/photos/borobudur-tickets-and-prices-the-sunrise-ticket-is-a-different-pricier-th.jpg" alt="Dawn from Punthuk Setumbu hill: Borobudur temple silhouetted above the mist across the Kedu Plain" width="1100" height="733" loading="lazy">
 
 <table class="keyfacts">
 <tr><th>Official sunrise, international</th><td>IDR 1,000,000 (about US$62), direct from the operator</td></tr>
@@ -172,6 +184,8 @@ Most tours advertised as a "Borobudur sunrise tour", including the ones we send 
 ## How the tour price compares to the ticket
 
 Worth doing the arithmetic before you book anything. A guided [Borobudur tour from Yogyakarta](/tours/) bundles the ticket, hotel pickup, a guide, and usually Prambanan into one price. If you want the standard first-visit package, the most-booked option is the [Sunrise Climb &amp; Prambanan tour](/tours/borobudur-sunrise-climb-prambanan/); <a href="https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher" rel="sponsored noopener" target="_blank">check live availability &amp; prices on GetYourGuide</a> for your date. That convenience is real, and for most visitors without their own transport it is the sensible option. But you are paying for the package, not just the entry, so compare it against the ticket figures above rather than assuming the tour price *is* the ticket price. On the premium end, several operators sell temple-sunrise packages at US$95 to US$136, against an official sunrise ticket of about US$62; that gap is the service, the transport, and the markup, not the entry.
+
+<img src="/images/generated/photos/borobudur-tickets-and-prices-how-the-tour-price-compares-to-the-ticket.jpg" alt="The garden approach walk toward Borobudur temple" width="1100" height="733" loading="lazy">
 
 ## Common questions
 

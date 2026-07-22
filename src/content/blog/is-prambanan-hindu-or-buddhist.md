@@ -2,8 +2,8 @@
 title: "Is Prambanan Hindu or Buddhist? And Why Borobudur Is the Opposite"
 date: "2026-06-16"
 description: "Prambanan is Hindu and Borobudur is Buddhist, built in the same region within about a century of each other. What that overlap says about 9th-century Java."
-hero: ""
-hero_alt: ""
+hero: "/images/generated/photos/is-prambanan-hindu-or-buddhist-hero.jpg"
+hero_alt: "The spires of Prambanan temple complex near Yogyakarta"
 related_tour: "borobudur-sunrise-merapi-prambanan"
 related_tour_label: "Sunrise, Merapi Volcano & Prambanan"
 related_tour_blurb: "A long day that puts the Buddhist monument, the volcano that shaped the plain, and the Hindu complex in the same twelve hours, which is the only way to feel how close together they really are."
@@ -18,6 +18,8 @@ Yes. And that question is not a mistake. It is the most useful thing a visitor a
 
 **Prambanan is Hindu. The 9th-century compound east of Yogyakarta is dedicated to the Trimurti (Shiva, Vishnu and Brahma), with the main and largest temple given to Shiva. Borobudur, an hour to the west, is Mahayana Buddhist. They are different faiths, roughly a century apart, about forty kilometres from each other.**
 
+<img src="/images/generated/photos/is-prambanan-hindu-or-buddhist-is-prambanan-hindu-or-buddhist.jpg" alt="Looking up a tower of Prambanan temple" width="1100" height="733" loading="lazy">
+
 Both <a href="https://whc.unesco.org/en/list/642/" rel="noopener" target="_blank">UNESCO</a> and <a href="https://www.britannica.com/place/Prambanan" rel="noopener" target="_blank">Britannica</a> describe Prambanan the same way: a Hindu compound, Trimurti dedication, the central temple to Shiva. Locally it also carries the name Loro Jonggrang, from the legend of the slender maiden, which is worth knowing because you will hear it on site more than you will hear "Trimurti".
 
 I should be straight with you about my own footing here. Borobudur is my temple. I guide there, I have read around it for years, and I will argue about its relief sequence with anyone. Prambanan I guide too, and I know it well as a working guide knows a site, but I am not going to perform expertise on Hindu iconography that I do not have. So what follows is a guide reporting what the sources say and what I can show you on the ground, and where the scholarship is unsettled I will tell you it is unsettled rather than pick the version that sounds tidiest.
@@ -25,6 +27,8 @@ I should be straight with you about my own footing here. Borobudur is my temple.
 ## Why do people think Prambanan is Buddhist?
 
 **Mostly because of company it keeps. Nearly every Yogyakarta day tour, including all three of ours, visits Borobudur and Prambanan together, so the two arrive in a visitor's head as one bundled experience. Add similar dark volcanic stone, a similar century, and the same plain, and the faiths blur.**
+
+<img src="/images/generated/photos/is-prambanan-hindu-or-buddhist-why-do-people-think-prambanan-is-buddhist.jpg" alt="Golden hour across the lawns of Prambanan" width="1100" height="733" loading="lazy">
 
 The confusion is manufactured by the itinerary, not by the buildings. If you saw them a week apart you would never mix them up. Seen in one day, they are "the temples", and the second one inherits the label of the first.
 
@@ -44,6 +48,8 @@ There is a second reason, and it is more interesting. Central Java genuinely doe
 ## When was Prambanan built, and by whom?
 
 **This is genuinely unsettled, and anyone who gives you one confident answer is overselling. The compound is 9th century. Beyond that, sources disagree: Britannica attributes it to Daksha in the early 10th century, UNESCO frames the compounds within the Sailendra period, and much scholarship credits the Sanjaya ruler Rakai Pikatan around 850 AD.**
+
+<img src="/images/generated/photos/is-prambanan-hindu-or-buddhist-when-was-prambanan-built-and-by-whom.jpg" alt="A guardian statue at the steps of Prambanan" width="1100" height="733" loading="lazy">
 
 I find this the honest bit worth stopping on, because Prambanan pages online tend to state a builder and a year as though it were a settled matter. It is not. The disagreement is real and it sits between sources that are each perfectly respectable.
 
@@ -87,6 +93,8 @@ One more honest gap. You will see a height in metres for the main Shiva temple q
 
 **The evidence points the other way. UNESCO's own assessment of Prambanan calls the site standing proof of past religious peaceful cohabitation. Borobudur and Prambanan are near-contemporaries in the same small region, built by a society that had room for both, which is the genuinely remarkable fact underneath this whole question.**
 
+<img src="/images/generated/photos/is-prambanan-hindu-or-buddhist-did-hindus-and-buddhists-fight-over-java.jpg" alt="The spires of Prambanan temple complex near Yogyakarta" width="1100" height="733" loading="lazy">
+
 Here is why the Hindu-or-Buddhist question is better than the person asking it realises. The intuitive model of religious history is replacement: faith A rules, faith B arrives, faith A goes. Java in the 9th century did not do that. Within about a hundred years, on one plain, the same civilisation raised the largest Buddhist temple on earth and a Hindu compound of 240 temples, and there is no evidence of one erasing the other.
 
 The political story is not simple, and I will not flatten it into a fable of harmony. The Sailendra and Sanjaya lines are usually discussed in terms of rivalry and transition, and scholars have argued for generations about alliances, intermarriage and who actually held what when. Power changed hands. But the buildings do not record a religious war. They record a plain where both were worth spending fifty years and a treasury on.
@@ -97,6 +105,8 @@ Stand on Borobudur's third gallery on a clear morning and you are looking across
 
 **Borobudur is one object you climb; Prambanan is a field of buildings you walk between. Borobudur's story is carved in sequence along enclosed galleries. Prambanan's is in Ramayana reliefs and in the shrines themselves, and the experience is vertical, spiky and open rather than enclosed and spiralling.**
 
+<img src="/images/generated/photos/is-prambanan-hindu-or-buddhist-what-do-you-actually-see-at-each-one.jpg" alt="Looking up a tower of Prambanan temple" width="1100" height="733" loading="lazy">
+
 The difference in how your body moves is the thing photographs never carry. At Borobudur you are in a corridor for an hour, walking clockwise with carved walls either side and a strip of sky above, and the reliefs only make sense in order. It is a route. I have written about why that sequence is the whole point in [the history of Borobudur told from the terraces](/blog/history-of-borobudur/).
 
 Prambanan does not route you. You cross open ground between towers, choose a doorway, climb a few steep steps into a dim chamber, come out, and cross to the next. The Shiva temple's chambers are the anchor, and the Ramayana panels reward the same slow clockwise reading Borobudur trains you for, but nothing forces the order. It is a place you wander; Borobudur is a place you follow.
@@ -106,6 +116,8 @@ Practically, that also means Prambanan is more forgiving. There is shade to duck
 ## Should you visit both, or pick one?
 
 **Both, and on the same day if that is the time you have. They are close, every Yogyakarta tour pairs them, and the comparison is the point: one day gives you two religions, one plain, one century, and a piece of history that neither temple explains on its own.**
+
+<img src="/images/generated/photos/is-prambanan-hindu-or-buddhist-should-you-visit-both-or-pick-one.jpg" alt="Golden hour across the lawns of Prambanan" width="1100" height="733" loading="lazy">
 
 I would genuinely argue against picking. Not because the tours bundle them, but because Prambanan is what makes Borobudur legible. Seeing only the Buddhist monument leaves you with a story about Buddhism in Java. Seeing both leaves you with a story about Java, which is the better story and the true one.
 

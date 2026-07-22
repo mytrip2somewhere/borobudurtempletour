@@ -19,6 +19,8 @@ draft: "false"
 
 **Dry season, comfortably. May to October brings the reliable skies, with July and August the driest months around Yogyakarta and Magelang. The November to April rainy season still works for morning visits, because the rain mostly falls as afternoon downpours, but December through February stacks up the wettest weather of the year.**
 
+<img src="/images/generated/photos/best-time-to-visit-borobudur-dry-season-or-rainy-season.jpg" alt="Rain on the stone terraces of Borobudur temple" width="1100" height="733" loading="lazy">
+
 Central Java runs on a monsoon clock. The dry season stretches from roughly May to October, and the rainy season from November to April, with December through February the wettest months of the year around Yogyakarta and Magelang. July and August sit at the dry end of the scale, often with only a handful of rainy days in the whole month.
 
 The word "rainy" needs unpacking, though, because it does not mean six months of grey. Wet-season rain here is convective: the morning is often clear, heat and humidity build through the day, and the downpour lands in the afternoon or evening, frequently as a short, violent thunderstorm rather than all-day drizzle. For a temple you would visit in the morning anyway, that pattern is forgiving. A wet-season climb at 08:30 usually happens under workable skies, with the bonus that the rice terraces and the Kedu Plain around the monument are at their greenest.
@@ -28,6 +30,8 @@ So the honest ranking is this. May to October is the safe bet, July and August t
 ## Is it rainy season in Indonesia right now?
 
 **For Java, the calendar answers it: November to April is the rainy season, May to October the dry. The onset shifts a little each year with El Niño and La Niña, and other Indonesian regions run on different rhythms, but for a Borobudur trip the November-to-April wet rule is the one to plan by.**
+
+<img src="/images/generated/photos/best-time-to-visit-borobudur-is-it-rainy-season-in-indonesia-right-now.jpg" alt="Sheltering from a downpour under a gateway of Borobudur" width="1100" height="733" loading="lazy">
 
 People ask this as if it needed a live weather feed, but for Java the calendar answers it. If your visit falls between November and April, plan for rainy-season conditions: clear-ish mornings, building clouds, an afternoon downpour more days than not. Between May and October, plan for dry-season conditions and the occasional stray shower. The exact onset shifts a little each year with El Niño and La Niña, which is why Indonesia's meteorological agency BMKG publishes seasonal forecasts, but the broad November-to-April wet pattern for Java holds. One caveat for island-hoppers: Indonesia is enormous, and other regions run on different rhythms, so this rule of thumb is for Java, not for the whole country.
 
@@ -43,6 +47,8 @@ People ask this as if it needed a live weather feed, but for Java the calendar a
 ## What time of day is best at the temple?
 
 **Arrive at the 08:30 opening for the coolest climbing air, accept the midday heat if you want the crispest light on the relief carvings, or come late for warm light on the west face before the 17:00 close. The 04:00 sunrise slot on the monument itself is a separate product capped at 100 people a day.**
+
+<img src="/images/generated/photos/best-time-to-visit-borobudur-what-time-of-day-is-best-at-the-temple.jpg" alt="Bas-relief panels along a gallery corridor of Borobudur temple" width="1100" height="733" loading="lazy">
 
 The verified windows first. The structure climb, the ticket foreign visitors actually buy, runs 08:30 to 17:00 every day. The wider grounds open 06:30 to 16:30, but the grounds-only ticket is sold to domestic visitors only, a quirk our [tickets guide](/guides/borobudur-tickets-and-prices/) explains. Before all of that, at 04:00, there is the official sunrise product on the monument itself: IDR 1,000,000 for international visitors and capped at 100 people a day.
 
@@ -167,6 +173,8 @@ And sunrise? Most "sunrise" tours from Yogyakarta, including the [top-rated one 
 ## Does Borobudur ever close?
 
 **Not on a weekly basis, not any more. The old Monday closure of the structure ended in the third week of July 2025, and the temple now opens every day: grounds from 06:30 to 16:30, structure climb from 08:30 to 17:00. Monday-closure warnings still circulating on older travel pages are out of date.**
+
+<img src="/images/generated/photos/best-time-to-visit-borobudur-does-borobudur-ever-close.jpg" alt="Borobudur temple rising over the Kedu Plain treeline" width="1100" height="733" loading="lazy">
 
 Not any more, on a weekly basis. For a period the operator shut the structure to climbers on Mondays for maintenance, and stale copies of that rule still circulate on older travel pages. The Monday closure ended in the third week of July 2025, a change the operator <a href="https://injourneydestination.id/en/2025/07/22/naik-candi-borobudur-bisa-tiap-hari/" rel="noopener" target="_blank">announced on its own site</a>, and the temple has been open every day since, structure from 08:30, grounds from 06:30. If your only free day in Yogyakarta is a Monday, you can climb.
 
