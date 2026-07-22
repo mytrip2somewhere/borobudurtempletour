@@ -50,7 +50,7 @@ site's own.
 
 ## SOCIAL LINKS (footer icons: Instagram, TikTok, Facebook, YouTube)
 For each platform, use the real account URL if you have one. If not, use the
-platform-search fallback pointing at the brand name (like the krabiboat.tours
+hashtag/tag fallback (WORKING logged-out forms ONLY, verified 2026-07-22: facebook.com/hashtag/<tag>, tiktok.com/tag/<tag>, instagram.com/explore/search/keyword/?q=<term>, youtube.com/results?search_query=<term>; NEVER facebook.com/search/top which 404s logged-out, NEVER instagram.com/explore/tags which no longer exists) pointing at the brand name (like the krabiboat.tours
 pattern), which can be swapped for a real account later by editing this file.
 - Instagram:
 - TikTok:
