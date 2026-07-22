@@ -31,6 +31,15 @@ So the honest ranking is this. May to October is the safe bet, July and August t
 
 People ask this as if it needed a live weather feed, but for Java the calendar answers it. If your visit falls between November and April, plan for rainy-season conditions: clear-ish mornings, building clouds, an afternoon downpour more days than not. Between May and October, plan for dry-season conditions and the occasional stray shower. The exact onset shifts a little each year with El Niño and La Niña, which is why Indonesia's meteorological agency BMKG publishes seasonal forecasts, but the broad November-to-April wet pattern for Java holds. One caveat for island-hoppers: Indonesia is enormous, and other regions run on different rhythms, so this rule of thumb is for Java, not for the whole country.
 
+
+<div class="cta-box" id="cta-mid">
+<p class="cta-eyebrow">Book the sunrise climb</p>
+<h3>Ready to book the sunrise climb?</h3>
+<p>Dawn from Punthuk Setumbu, then the Borobudur climb itself, with hotel pickup from Yogyakarta. You can reserve now and pay later, so booking takes about 2 minutes and costs nothing today.</p>
+<a class="btn btn-primary" href="https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher" rel="sponsored noopener" target="_blank">Check live availability &amp; prices &rarr;</a>
+<p class="cta-microproof"><span class="stars" role="img" aria-label="Rated 4.9 out of 5"><span class="stars-fill" style="width:98%"></span></span> <strong>4.9</strong> &middot; 1,700+ GetYourGuide reviews &middot; free cancellation up to 24 hours</p>
+</div>
+
 ## What time of day is best at the temple?
 
 **Arrive at the 08:30 opening for the coolest climbing air, accept the midday heat if you want the crispest light on the relief carvings, or come late for warm light on the west face before the 17:00 close. The 04:00 sunrise slot on the monument itself is a separate product capped at 100 people a day.**

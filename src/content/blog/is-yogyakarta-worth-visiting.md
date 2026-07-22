@@ -84,6 +84,15 @@ Most of my guests arrive with a day and a half carved out of a Bali fortnight, w
 
 Two is the number I would defend. One day is a raid. Three is comfortable. If you are debating whether the detour is worth making at all, I have argued that case at length in [where to go instead of Bali](/blog/where-to-go-instead-of-bali/).
 
+
+<div class="cta-box" id="cta-mid">
+<p class="cta-eyebrow">Book the day tour</p>
+<h3>Rather skip the 3am alarm?</h3>
+<p>The daytime Borobudur climb with Candi Mendut and Prambanan, no pre-dawn start, hotel pickup included. You can reserve now and pay later, so booking takes about 2 minutes and costs nothing today.</p>
+<a class="btn btn-primary" href="https://www.viator.com/tours/Yogyakarta/Budha-Voyage/d22560-214335P5?pid=P00062370&mcid=42383&medium=link" rel="sponsored noopener" target="_blank">Check live availability &amp; prices &rarr;</a>
+<p class="cta-microproof"><span class="stars" role="img" aria-label="Rated 4.9 out of 5"><span class="stars-fill" style="width:98%"></span></span> <strong>4.9</strong> &middot; 674 Viator reviews &middot; free cancellation up to 24 hours</p>
+</div>
+
 ## What are the honest reasons not to come?
 
 **Three: there is no beach, the traffic in the city centre is genuinely bad, and it is hot and humid year-round with real downpours from November to April. If a lie-down holiday is what you are after, Yogyakarta will feel like work.**

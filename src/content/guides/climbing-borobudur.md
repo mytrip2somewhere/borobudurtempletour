@@ -48,6 +48,15 @@ Inclusions quoted from the operator's ticketing pages, July 2026. The [tickets g
 <tr><th>08:30–17:00</th><td>Structure climb for all climb-ticket holders, every day including Monday</td></tr>
 </table>
 
+
+<div class="cta-box" id="cta-mid">
+<p class="cta-eyebrow">Book the sunrise climb</p>
+<h3>Ready to book the sunrise climb?</h3>
+<p>Dawn from Punthuk Setumbu, then the Borobudur climb itself, with hotel pickup from Yogyakarta. You can reserve now and pay later, so booking takes about 2 minutes and costs nothing today.</p>
+<a class="btn btn-primary" href="https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher" rel="sponsored noopener" target="_blank">Check live availability &amp; prices &rarr;</a>
+<p class="cta-microproof"><span class="stars" role="img" aria-label="Rated 4.9 out of 5"><span class="stars-fill" style="width:98%"></span></span> <strong>4.9</strong> &middot; 1,700+ GetYourGuide reviews &middot; free cancellation up to 24 hours</p>
+</div>
+
 ## The Upanat sandals, and why they exist
 
 The one rule every climber meets is on their feet. Upanat are woven sandals issued with the climb ticket, and the operator's language is unambiguous: all visitors on the structure wear them. The reason is conservation arithmetic. A ninth-century staircase and a few thousand pairs of hiking boots a day are a bad combination, and the soft-soled Upanat cut the abrasion. You keep the pair afterward, which makes them the only souvenir at Borobudur that is also a rule. What you wear above the ankles is genuinely up to you; there is no official dress code, a fact odd enough that we gave it [its own page](/guides/what-to-wear-at-borobudur/).

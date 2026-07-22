@@ -23,6 +23,15 @@ Ask around Indonesia and you will hear, with total confidence, that Borobudur is
 
 The New7Wonders Foundation <a href="https://world.new7wonders.com/lisbon-on-07-07-2007/" rel="noopener" target="_blank">announced its winners in Lisbon on 7 July 2007</a>: the Great Wall of China, Petra, Chichen Itza, Christ the Redeemer, the Colosseum, Machu Picchu, and the Taj Mahal, with the Pyramids of Giza granted honorary status. The foundation's own records also list the <a href="https://en.wikipedia.org/wiki/New_7_Wonders_of_the_World" rel="noopener" target="_blank">21 finalists the world voted on</a>. Borobudur is not among the winners and was not among the finalists. [Angkor Wat](/guides/borobudur-vs-angkor-wat/), its frequent point of comparison, did make that finalist list; Borobudur did not. Pages claiming it was "nominated" or "reached the final round" are contradicted by the official roster.
 
+
+<div class="cta-box" id="cta-mid">
+<p class="cta-eyebrow">Book the sunrise climb</p>
+<h3>Ready to book the sunrise climb?</h3>
+<p>Dawn from Punthuk Setumbu, then the Borobudur climb itself, with hotel pickup from Yogyakarta. You can reserve now and pay later, so booking takes about 2 minutes and costs nothing today.</p>
+<a class="btn btn-primary" href="https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher" rel="sponsored noopener" target="_blank">Check live availability &amp; prices &rarr;</a>
+<p class="cta-microproof"><span class="stars" role="img" aria-label="Rated 4.9 out of 5"><span class="stars-fill" style="width:98%"></span></span> <strong>4.9</strong> &middot; 1,700+ GetYourGuide reviews &middot; free cancellation up to 24 hours</p>
+</div>
+
 ## What Borobudur actually holds
 
 <table class="keyfacts">

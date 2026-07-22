@@ -66,6 +66,15 @@ The sandals are woven from pandan leaf and coconut shell over a sponge sole, and
   <p class="infogain-note">A current snapshot, kept refreshed. These numbers move, so treat them as recent rather than fixed.</p>
 </aside>
 
+
+<div class="cta-box" id="cta-mid">
+<p class="cta-eyebrow">Book the sunrise climb</p>
+<h3>Ready to book the sunrise climb?</h3>
+<p>Dawn from Punthuk Setumbu, then the Borobudur climb itself, with hotel pickup from Yogyakarta. You can reserve now and pay later, so booking takes about 2 minutes and costs nothing today.</p>
+<a class="btn btn-primary" href="https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher" rel="sponsored noopener" target="_blank">Check live availability &amp; prices &rarr;</a>
+<p class="cta-microproof"><span class="stars" role="img" aria-label="Rated 4.9 out of 5"><span class="stars-fill" style="width:98%"></span></span> <strong>4.9</strong> &middot; 1,700+ GetYourGuide reviews &middot; free cancellation up to 24 hours</p>
+</div>
+
 ## Why do people think Borobudur has a sarong rule? Blame Bali
 
 **Because Bali's temples genuinely do require a sarong and sash, and most travellers meet Bali first. Bali's are living Hindu temples in daily ceremonial use. Borobudur is an archaeological park and a heritage monument. The rules travel with the traveller, even when they should not.**

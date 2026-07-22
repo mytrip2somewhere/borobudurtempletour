@@ -229,10 +229,13 @@ function blogPostInner(d, bodyHtml) {
         const disc = t
           ? `\n    <p class="small" style="margin:.7rem 0 0">Affiliate link: if you book through it we may earn a commission at no extra cost to you. <a href="/disclosure/">How this works</a>.</p>`
           : "";
+        const reassure = t
+          ? `\n    <p class="small" style="margin:.7rem 0 0">Free cancellation up to 24 hours before, and you can reserve now and pay later on ${t.platform}, so booking early costs nothing. It takes about 2 minutes.</p>`
+          : "";
         return `\n  <aside class="blog-cta">
     <h2>${esc(d.related_tour_heading || "See this tour for yourself")}</h2>
     <p>${esc(d.related_tour_blurb || "Check live dates and prices on the operator's official listing.")}</p>
-    <p class="blog-cta-btns">${book} ${details}</p>${disc}
+    <p class="blog-cta-btns">${book} ${details}</p>${reassure}${disc}
   </aside>`;
       })()
     : "";
@@ -420,6 +423,7 @@ function guideInner(d, bodyHtml) {
       <h2>${esc(d.cta_heading || "Ready to see it for yourself?")}</h2>
       <p>${esc(d.cta_blurb || "Every tour we list includes the climb, with hotel pickup from Yogyakarta.")}</p>
       <p><a class="btn btn-primary" href="${t ? t.url : "/tours/"}"${t ? ' rel="sponsored noopener" target="_blank"' : ""}>${t ? `Check live availability &amp; prices on ${t.platform} &rarr;` : "Compare Borobudur tours"}</a></p>
+      <p class="small" style="margin:.7rem 0 0; color:#ffe">Every tour here has free cancellation up to 24 hours before, and lets you reserve now and pay later, so booking early costs nothing.</p>
     </div>
   </section>`;
   return `

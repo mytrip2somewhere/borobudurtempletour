@@ -74,6 +74,15 @@ One more honest gap. You will see a height in metres for the main Shiva temple q
   <p class="infogain-note">A current snapshot, kept refreshed. These numbers move, so treat them as recent rather than fixed.</p>
 </aside>
 
+
+<div class="cta-box" id="cta-mid">
+<p class="cta-eyebrow">Book the volcano day</p>
+<h3>Ready for the full volcano day?</h3>
+<p>Setumbu sunrise, the Borobudur climb, a Merapi jeep ride, and Prambanan in one long day with hotel pickup. You can reserve now and pay later, so booking takes about 2 minutes and costs nothing today.</p>
+<a class="btn btn-primary" href="https://www.viator.com/tours/Yogyakarta/Borobudur-Sunrise-Merapi-Volcano-lava-tour-and-Prambanan-Full-Day-Tour/d22560-214335P1?pid=P00062370&mcid=42383&medium=link" rel="sponsored noopener" target="_blank">Check live availability &amp; prices &rarr;</a>
+<p class="cta-microproof"><span class="stars" role="img" aria-label="Rated 4.9 out of 5"><span class="stars-fill" style="width:98%"></span></span> <strong>4.9</strong> &middot; 1,095 Viator reviews &middot; free cancellation up to 24 hours</p>
+</div>
+
 ## Did Hindus and Buddhists fight over Java?
 
 **The evidence points the other way. UNESCO's own assessment of Prambanan calls the site standing proof of past religious peaceful cohabitation. Borobudur and Prambanan are near-contemporaries in the same small region, built by a society that had room for both, which is the genuinely remarkable fact underneath this whole question.**

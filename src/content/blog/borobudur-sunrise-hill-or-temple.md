@@ -43,6 +43,15 @@ Traveller reports put the hill's own gate fee at around IDR 50,000 for foreign v
 
 That is the whole of it, and the reason the question needs asking is that the phrase got detached from the place years ago. "Borobudur sunrise" attached itself to the Punthuk Setumbu hill dawn because the hill is where the photographs come from, and the name stuck to the picture rather than to the ground you stand on. So the word in an itinerary that tells you what you are actually buying is Setumbu. If it is there, you are on the hill, looking across the plain at a temple you will climb later that morning.
 
+
+<div class="cta-box" id="cta-mid">
+<p class="cta-eyebrow">Book the sunrise climb</p>
+<h3>Ready to book the sunrise climb?</h3>
+<p>Dawn from Punthuk Setumbu, then the Borobudur climb itself, with hotel pickup from Yogyakarta. You can reserve now and pay later, so booking takes about 2 minutes and costs nothing today.</p>
+<a class="btn btn-primary" href="https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher" rel="sponsored noopener" target="_blank">Check live availability &amp; prices &rarr;</a>
+<p class="cta-microproof"><span class="stars" role="img" aria-label="Rated 4.9 out of 5"><span class="stars-fill" style="width:98%"></span></span> <strong>4.9</strong> &middot; 1,700+ GetYourGuide reviews &middot; free cancellation up to 24 hours</p>
+</div>
+
 ## Will you actually get the mist?
 
 **Mist is weather, not a feature. Nobody can promise it and any listing that does is selling you something it does not control. It forms on cool, still, humid mornings after a wet night, which makes the shoulder of the wet season better for mist than the depths of the dry season, and the dry season better for simply seeing anything at all.**

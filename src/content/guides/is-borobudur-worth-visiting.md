@@ -31,6 +31,15 @@ Borobudur is not a stroll from your hotel. It sits in Magelang Regency, about an
 
 None of these are reasons to skip it. They are reasons to go early, carry water, and know the cost before you commit.
 
+
+<div class="cta-box" id="cta-mid">
+<p class="cta-eyebrow">Book the sunrise climb</p>
+<h3>Ready to book the sunrise climb?</h3>
+<p>Dawn from Punthuk Setumbu, then the Borobudur climb itself, with hotel pickup from Yogyakarta. You can reserve now and pay later, so booking takes about 2 minutes and costs nothing today.</p>
+<a class="btn btn-primary" href="https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher" rel="sponsored noopener" target="_blank">Check live availability &amp; prices &rarr;</a>
+<p class="cta-microproof"><span class="stars" role="img" aria-label="Rated 4.9 out of 5"><span class="stars-fill" style="width:98%"></span></span> <strong>4.9</strong> &middot; 1,700+ GetYourGuide reviews &middot; free cancellation up to 24 hours</p>
+</div>
+
 ## What the visit looks like in practice
 
 <table class="keyfacts">
@@ -42,7 +51,7 @@ None of these are reasons to skip it. They are reasons to go early, carry water,
 <tr><th>Sunrise option</th><td>Tour sunrise is from Punthuk Setumbu, a hill ~2.5 km away, then the climb after opening</td></tr>
 </table>
 
-The classic first-timer shape is a dawn start: the [Punthuk Setumbu sunrise](/guides/borobudur-sunrise/), then the temple as it opens, before the heat and the crowds arrive together. That is precisely the itinerary of the most-booked tour we list, the [Sunrise Climb &amp; Prambanan](/tours/borobudur-sunrise-climb-prambanan/), rated 4.9 across 1,682 GetYourGuide reviews; <a href="https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher" rel="sponsored noopener" target="_blank">check live availability &amp; prices on GetYourGuide</a>. Prefer a normal wake-up? A day tour covers the same monument in kinder light for your sleep schedule, if not for your photographs.
+The classic first-timer shape is a dawn start: the [Punthuk Setumbu sunrise](/guides/borobudur-sunrise/), then the temple as it opens, before the heat and the crowds arrive together. That is precisely the itinerary of the most-booked tour we list, the [Sunrise Climb &amp; Prambanan](/tours/borobudur-sunrise-climb-prambanan/), rated 4.9 across 1,723 GetYourGuide reviews; <a href="https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher" rel="sponsored noopener" target="_blank">check live availability &amp; prices on GetYourGuide</a>. Prefer a normal wake-up? A day tour covers the same monument in kinder light for your sleep schedule, if not for your photographs.
 
 ## Who should think twice
 

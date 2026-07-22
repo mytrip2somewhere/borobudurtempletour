@@ -83,6 +83,15 @@ Angkor does not slot into anything. Angkor Wat itself takes a morning, much like
 
 Those visitor figures are worth a second look, because they say something the size record does not. Borobudur takes more people per year than Angkor and is overwhelmingly domestic. Angkor takes fewer and is almost entirely foreign. Borobudur is a monument a nation visits; Angkor is a monument the world flies to. Neither is better. But if you want a site where most of the people around you are there for their own history rather than yours, that is a real difference in the feel of a morning, and it is one reason I would not trade my galleries for anyone's causeway.
 
+
+<div class="cta-box" id="cta-mid">
+<p class="cta-eyebrow">Book the sunrise climb</p>
+<h3>Ready to book the sunrise climb?</h3>
+<p>Dawn from Punthuk Setumbu, then the Borobudur climb itself, with hotel pickup from Yogyakarta. You can reserve now and pay later, so booking takes about 2 minutes and costs nothing today.</p>
+<a class="btn btn-primary" href="https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher" rel="sponsored noopener" target="_blank">Check live availability &amp; prices &rarr;</a>
+<p class="cta-microproof"><span class="stars" role="img" aria-label="Rated 4.9 out of 5"><span class="stars-fill" style="width:98%"></span></span> <strong>4.9</strong> &middot; 1,700+ GetYourGuide reviews &middot; free cancellation up to 24 hours</p>
+</div>
+
 ## What does each one actually feel like?
 
 **Angkor Wat is an approach: a causeway, a moat, towers resolving as you walk, a building that performs at distance. Borobudur has no approach and no facade. It is a mass you climb into, and the experience is close-range and sequential. One overwhelms you; the other slows you down.**

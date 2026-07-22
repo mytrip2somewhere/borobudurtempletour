@@ -39,6 +39,15 @@ Hiring a car with a driver for the day is the middle path. You keep the door-to-
 
 A driver beats ride-hailing for one practical reason. Grab and Gojek will happily take you out, with travelers in 2025 reporting one-way fares around IDR 200,000 to 300,000, but the temple sits in farmland and finding a car for the return can mean a long wait in the midday heat.
 
+
+<div class="cta-box" id="cta-mid">
+<p class="cta-eyebrow">Book the sunrise climb</p>
+<h3>Ready to book the sunrise climb?</h3>
+<p>Dawn from Punthuk Setumbu, then the Borobudur climb itself, with hotel pickup from Yogyakarta. You can reserve now and pay later, so booking takes about 2 minutes and costs nothing today.</p>
+<a class="btn btn-primary" href="https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher" rel="sponsored noopener" target="_blank">Check live availability &amp; prices &rarr;</a>
+<p class="cta-microproof"><span class="stars" role="img" aria-label="Rated 4.9 out of 5"><span class="stars-fill" style="width:98%"></span></span> <strong>4.9</strong> &middot; 1,700+ GetYourGuide reviews &middot; free cancellation up to 24 hours</p>
+</div>
+
 ## Option three: the public bus
 
 **The public bus is the cheapest route: Trans Jogja to Jombor terminal for about IDR 3,600, then a regional bus or DAMRI shuttle on to Borobudur for roughly IDR 20,000 to 50,000. Budget 90 minutes to two hours each way, and remember the last buses back leave in the afternoon.**

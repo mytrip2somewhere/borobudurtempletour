@@ -38,13 +38,22 @@ Give it four to five hours if you want the setting, not just the summit. That bu
 
 Two timing notes make a half day work better. Heat builds toward midday, though midday sun is also the crispest light on the relief carvings, a trade-off our [best-time guide](/guides/best-time-to-visit-borobudur/) maps out hour by hour. And the daily windows are fixed: the structure is climbable 08:30 to 17:00, per the <a href="https://ticket.injourneydestination.id/en/borobudur-temple/" rel="noopener" target="_blank">operator's official ticketing page</a>, so a half day starting at opening beats one that collides with the afternoon close.
 
+
+<div class="cta-box" id="cta-mid">
+<p class="cta-eyebrow">Book the sunrise climb</p>
+<h3>Ready to book the sunrise climb?</h3>
+<p>Dawn from Punthuk Setumbu, then the Borobudur climb itself, with hotel pickup from Yogyakarta. You can reserve now and pay later, so booking takes about 2 minutes and costs nothing today.</p>
+<a class="btn btn-primary" href="https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher" rel="sponsored noopener" target="_blank">Check live availability &amp; prices &rarr;</a>
+<p class="cta-microproof"><span class="stars" role="img" aria-label="Rated 4.9 out of 5"><span class="stars-fill" style="width:98%"></span></span> <strong>4.9</strong> &middot; 1,700+ GetYourGuide reviews &middot; free cancellation up to 24 hours</p>
+</div>
+
 ## How tours turn it into a full day
 
 **The guided days from Yogyakarta run roughly 8 to 12 hours door to door, but the temple itself stays a two-hour stop inside them. The rest is hotel pickup, Prambanan, and extras like a Punthuk Setumbu sunrise, a Merapi jeep ride or a Candi Mendut stop, with transport and tickets handled throughout.**
 
 The guided days from Yogyakarta do not spend eight hours at Borobudur, and it would be a strange itinerary if they did. They spend about two hours at the temple and build a full Central Java day around it, transport and tickets handled. All three tours we list depart with hotel pickup, include the climb, and pair the temple with Prambanan.
 
-The [day tour](/tours/borobudur-climb-prambanan-day-tour/) is the compact version, around 8 hours, adding a stop at Candi Mendut on the way. The [sunrise climb tour](/tours/borobudur-sunrise-climb-prambanan/), the most-reviewed of the three with 1,682 GetYourGuide reviews at 4.9 (<a href="https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher" rel="sponsored noopener" target="_blank">check live availability &amp; prices on GetYourGuide</a>), starts pre-dawn with sunrise from Punthuk Setumbu, the hill viewpoint about 2.5 km from the monument, before the climb itself. The [longest day](/tours/borobudur-sunrise-merapi-prambanan/), around 12 hours, keeps the Punthuk Setumbu sunrise and adds a Merapi jeep ride between the temples. If you want dawn on the monument itself rather than from the hill, that is a separate official product with a 04:00 start, capped at 100 people a day.
+The [day tour](/tours/borobudur-climb-prambanan-day-tour/) is the compact version, around 8 hours, adding a stop at Candi Mendut on the way. The [sunrise climb tour](/tours/borobudur-sunrise-climb-prambanan/), the most-reviewed of the three with 1,723 GetYourGuide reviews at 4.9 (<a href="https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher" rel="sponsored noopener" target="_blank">check live availability &amp; prices on GetYourGuide</a>), starts pre-dawn with sunrise from Punthuk Setumbu, the hill viewpoint about 2.5 km from the monument, before the climb itself. The [longest day](/tours/borobudur-sunrise-merapi-prambanan/), around 12 hours, keeps the Punthuk Setumbu sunrise and adds a Merapi jeep ride between the temples. If you want dawn on the monument itself rather than from the hill, that is a separate official product with a 04:00 start, capped at 100 people a day.
 
 <table class="keyfacts">
 <tr><th></th><td>**Length**</td><td>**What fills the extra hours**</td></tr>

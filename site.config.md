@@ -170,6 +170,31 @@ MINIMAL.]** Meet the honesty rule precisely; do not build the comparison into a 
 5. Commercial gap (premium official product we do not carry) is being raised with the operator
    separately, not solved in copy.
 
+## IMAGERY (AI photography, 3.4c)
+- **APPROVED by Oleg 2026-07-21:** apply the exoticcarrentallasvegas/Tokyo AI-photography
+  standard to this site: every blog post and guide gets a unique AI-generated featured hero
+  plus one image after each content H2 (FAQ sections skipped), produced ONLY via the 3.4c
+  pipeline (newest gpt-image-* model + mandatory AI-detector critique loop + EXIF GPS geotag
+  with the real coordinates of the scene depicted). Homepage and tour pages keep uploaded
+  photos; Dewi's author photo stays real-only (none shipped yet, see AUTHOR).
+- Site-specific prompt guards (from the sunrise honesty rules above): a "sunrise" scene is
+  ALWAYS the view from Punthuk Setumbu hill looking toward a distant Borobudur across the
+  misted plain, never people watching dawn from the monument terraces; no recognizable
+  faces; no text, signage, or logos anywhere; respectful framing of a sacred site (no one
+  standing on stupas, no drone-impossible angles presented as ground photos).
+
+## CRO / CONVERSION LAYER (Phase 9, applied 2026-07-21)
+- Reassurance verified live via Grok on 2026-07-21 for ALL THREE listings (record:
+  `research/grok/2026-07-21-cro-reassurance-verify.json`): free cancellation up to 24 hours
+  AND "reserve now, pay later" shown on the GYG flagship and both Viator listings. Both may
+  be printed. No persistent demand badge on any listing (a transient "Booked 2 times today"
+  on listing 3 is not printable); NO scarcity/urgency claims ship until a durable verified
+  source exists.
+- Review counts refreshed in the same pass: flagship GYG 4.9 / 1,723; Viator Merapi 4.9 /
+  1,095; Viator day tour 4.9 / 674 (combined 3,492).
+- Sticky-bar button wording (destination-neutral per the skill): "Book a Borobudur tour ->",
+  linking the flagship GYG sunrise-climb listing.
+
 ## COMPLIANCE MODULE
 - Status: **ON [CONFIRMED by Oleg]**
 - Items to research (verified, each with source + "last verified" date). The list below is a

@@ -68,6 +68,15 @@ You do not need to know the story cycles by name to get this. Walk one full gall
   <p class="infogain-note">A current snapshot, kept refreshed. These numbers move, so treat them as recent rather than fixed.</p>
 </aside>
 
+
+<div class="cta-box" id="cta-mid">
+<p class="cta-eyebrow">Book the sunrise climb</p>
+<h3>Ready to book the sunrise climb?</h3>
+<p>Dawn from Punthuk Setumbu, then the Borobudur climb itself, with hotel pickup from Yogyakarta. You can reserve now and pay later, so booking takes about 2 minutes and costs nothing today.</p>
+<a class="btn btn-primary" href="https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher" rel="sponsored noopener" target="_blank">Check live availability &amp; prices &rarr;</a>
+<p class="cta-microproof"><span class="stars" role="img" aria-label="Rated 4.9 out of 5"><span class="stars-fill" style="width:98%"></span></span> <strong>4.9</strong> &middot; 1,700+ GetYourGuide reviews &middot; free cancellation up to 24 hours</p>
+</div>
+
 ## Why was Borobudur abandoned?
 
 **Borobudur fell into disuse somewhere between the 10th and 15th centuries, and no single cause has ever been proved. The one properly documented factor is political: the Javanese court moved east around 929 AD under Mpu Sindok, taking the patronage with it. Java's later turn to Islam finished what the move started.**

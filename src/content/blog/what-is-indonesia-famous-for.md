@@ -85,6 +85,15 @@ The volcanoes are also why Java is Java. The ash makes the soil absurdly fertile
 | Volcanic soil | Rice terraces, tobacco, coffee, and the reason Java fed the courts that built the temples. |
 | Ash and eruption history | One unproven theory ties Borobudur's abandonment to Merapi's 1006 eruption. Treat it as a hypothesis. |
 
+
+<div class="cta-box" id="cta-mid">
+<p class="cta-eyebrow">Book the sunrise climb</p>
+<h3>Ready to book the sunrise climb?</h3>
+<p>Dawn from Punthuk Setumbu, then the Borobudur climb itself, with hotel pickup from Yogyakarta. You can reserve now and pay later, so booking takes about 2 minutes and costs nothing today.</p>
+<a class="btn btn-primary" href="https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher" rel="sponsored noopener" target="_blank">Check live availability &amp; prices &rarr;</a>
+<p class="cta-microproof"><span class="stars" role="img" aria-label="Rated 4.9 out of 5"><span class="stars-fill" style="width:98%"></span></span> <strong>4.9</strong> &middot; 1,700+ GetYourGuide reviews &middot; free cancellation up to 24 hours</p>
+</div>
+
 ## What is Indonesian food known for?
 
 **Indonesian food is known for rendang, nasi goreng, satay, gado-gado and sambal, built on chilli, coconut milk, palm sugar, shrimp paste and slow cooking. It is regional rather than national: rendang is Sumatran, gudeg is Yogyakarta's, and what most tourists eat in Bali was invented elsewhere.**

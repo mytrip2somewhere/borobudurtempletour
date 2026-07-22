@@ -77,6 +77,15 @@ Read that table as an instruction, not a description. If you are visiting Centra
 
 Those forecasts come from Indonesia's climatology service via the <a href="https://bpbd.jogjaprov.go.id/berita/bmkg-musim-hujan-2025-2026-di-diy-diprakirakan-lebih-cepat-puncak-pada-januari-februari" rel="noopener" target="_blank">Yogyakarta provincial disaster agency</a>, and they are worth reading for what they confirm rather than what they surprise you with. An early onset and a January peak is the ordinary pattern arriving a fortnight ahead of schedule. The season did not change shape.
 
+
+<div class="cta-box" id="cta-mid">
+<p class="cta-eyebrow">Book the day tour</p>
+<h3>Rather skip the 3am alarm?</h3>
+<p>The daytime Borobudur climb with Candi Mendut and Prambanan, no pre-dawn start, hotel pickup included. You can reserve now and pay later, so booking takes about 2 minutes and costs nothing today.</p>
+<a class="btn btn-primary" href="https://www.viator.com/tours/Yogyakarta/Budha-Voyage/d22560-214335P5?pid=P00062370&mcid=42383&medium=link" rel="sponsored noopener" target="_blank">Check live availability &amp; prices &rarr;</a>
+<p class="cta-microproof"><span class="stars" role="img" aria-label="Rated 4.9 out of 5"><span class="stars-fill" style="width:98%"></span></span> <strong>4.9</strong> &middot; 674 Viator reviews &middot; free cancellation up to 24 hours</p>
+</div>
+
 ## Does rainy season ruin a Borobudur visit?
 
 **No, provided you go early. Borobudur opens every day of the year and rain is not a closure. The structure climb runs 08:30 to 17:00, so a wet-season morning climb sits almost entirely inside the clear window. What the rain genuinely threatens is the dawn view from Punthuk Setumbu, which is a different product.**

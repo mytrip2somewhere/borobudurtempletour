@@ -345,3 +345,54 @@ p { margin: 0 0 var(--s3); max-width: 64ch; }
 .lede { font-size:var(--step-1); color:var(--ink-soft); }
 .small { font-size:var(--step--1); color:var(--ink-soft); }
 .mt-0{margin-top:0}.mb-0{margin-bottom:0}.text-center{text-align:center}
+
+/* ============ Phase 9 CRO: sticky bar, proof microline, cta-box, button fix ============ */
+/* Invisible-button-trap fix: .prose a (0,1,1) out-specifies .btn-* (0,1,0). MUST stay. */
+.prose a.btn, .prose a.btn-primary, .prose a.btn-primary:hover,
+.prose a.btn-brand, .prose a.btn-brand:hover { color:#fff; }
+.prose a.btn-ghost { color:var(--ink); }
+
+/* Wide prose tables scroll in place on small screens instead of widening the page. */
+@media (max-width:640px) {
+  .prose table { display:block; overflow-x:auto; -webkit-overflow-scrolling:touch; }
+}
+
+/* Proof microline under a hero/primary CTA: plain flowing text, wraps naturally. */
+.cta-proof { font-size:var(--step--1); color:var(--ink-soft); margin-top:.6rem; line-height:1.5; max-width:52ch; }
+.cta-proof .stars { font-size:.95em; vertical-align:-.12em; margin-right:.15rem; }
+.cta-proof strong { color:var(--ink); }
+.hero-full .cta-proof, .hero-full .cta-proof strong { color:#fff; }
+
+/* Sticky conversion bar: fixed overlay (zero CLS). Button NEVER shrinks; proof truncates. */
+.sticky-cta { position:fixed; left:0; right:0; bottom:0; z-index:60;
+  transform:translateY(130%); transition:transform .25s ease; pointer-events:none; }
+.sticky-cta.visible { transform:none; pointer-events:auto; }
+.sticky-inner { background:#fff; border-top:1px solid var(--line);
+  box-shadow:0 -6px 20px rgba(0,0,0,.12); display:flex; align-items:center;
+  gap:.9rem; padding:.55rem var(--s4);
+  padding-bottom:calc(.55rem + env(safe-area-inset-bottom)); }
+.sticky-proof { flex:1 1 auto; min-width:0; display:flex; align-items:center; gap:.4rem;
+  font-size:var(--step--1); color:var(--ink); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+.sticky-proof .stars { flex:0 0 auto; }
+.sticky-cta .btn { flex:0 0 auto; white-space:nowrap; padding:.7rem 1.2rem; min-height:44px; }
+@media (min-width:821px) {
+  .sticky-cta { left:auto; right:1.25rem; bottom:1.25rem; width:max-content; max-width:min(94vw,600px); transform:translateY(220%); }
+  .sticky-cta.visible { transform:none; }
+  .sticky-inner { border:1px solid var(--line); border-radius:999px; padding:.45rem .45rem .45rem 1.2rem;
+    box-shadow:0 12px 30px rgba(0,0,0,.18); }
+}
+@media (max-width:400px) { .sticky-proof .stars { display:none; } }
+
+/* Mid-article / closing conversion box: centred, top accent border, full-width btn on mobile. */
+.cta-box { background:var(--paper-2); border:1px solid var(--line); border-top:4px solid var(--accent);
+  border-radius:var(--radius); padding:var(--s5) var(--s4); margin:var(--s6) 0; text-align:center; }
+.cta-box .cta-eyebrow { font-family:var(--display); text-transform:uppercase; letter-spacing:.1em;
+  font-size:.72rem; font-weight:700; color:var(--accent-deep); margin:0 0 var(--s2); }
+.cta-box h2, .cta-box h3 { margin:0 0 var(--s2); }
+.cta-box > p { max-width:52ch; margin-inline:auto; margin-bottom:var(--s4); color:var(--ink-soft); }
+.cta-box .btn { min-width:min(100%, 22rem); }
+.cta-box .cta-microproof { margin:var(--s3) 0 0; font-size:var(--step--1); color:var(--ink-soft); }
+.cta-box .cta-microproof .stars { vertical-align:-.12em; margin-right:.2rem; }
+.prose .cta-box, .prose .cta-box > p { max-width:none; }
+.prose .cta-box > p { max-width:52ch; }
+@media (max-width:520px){ .cta-box .btn { min-width:100%; } }

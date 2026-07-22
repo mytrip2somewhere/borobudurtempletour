@@ -61,6 +61,16 @@
 
   {{ include "components/footer.html" }}
 
+  <!-- Sticky conversion bar (Phase 9 CRO): thin fixed overlay, reveals after first screen,
+       zero CLS, one button to the flagship tour's official listing. Compact real proof
+       (refreshed 2026-07-21, research/grok/2026-07-21-cro-reassurance-verify.json). -->
+  <div class="sticky-cta" id="stickyCta" role="region" aria-label="Book a Borobudur tour">
+    <div class="sticky-inner">
+      <span class="sticky-proof"><span class="stars" role="img" aria-label="Rated 4.9 out of 5"><span class="stars-fill" style="width:98%"></span></span> <strong>4.9</strong> &middot; 1,700+ reviews &middot; free cancellation</span>
+      <a class="btn btn-primary" href="https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher" rel="sponsored noopener" target="_blank">Book a Borobudur tour &rarr;</a>
+    </div>
+  </div>
+
   <script>
     /* mobile menu toggle - minimal, no dependency (Phase 5 zero-heavy-JS) */
     (function () {
@@ -91,6 +101,26 @@
           b.textContent = 'Check the price for ' + fmt(d.value) + ' →';
           b.hidden = false; c.hidden = true;
           if (msg) msg.hidden = false;
+        });
+      });
+    })();
+    /* Sticky CTA reveal after the first screen (fixed overlay, no CLS). */
+    (function () {
+      var sc = document.getElementById('stickyCta');
+      if (!sc) return;
+      var on = function () { sc.classList.toggle('visible', window.scrollY > 600); };
+      window.addEventListener('scroll', on, { passive: true }); on();
+    })();
+    /* GA4 outbound affiliate-click tracking (the KPI). Delegated: covers every GYG/Viator
+       link, including the sticky bar. */
+    (function () {
+      document.addEventListener('click', function (e) {
+        var a = e.target.closest && e.target.closest('a[href*="getyourguide.com"], a[href*="viator.com"]');
+        if (!a || typeof window.gtag !== 'function') return;
+        window.gtag('event', 'affiliate_click', {
+          link_url: a.href,
+          page_path: location.pathname,
+          link_text: (a.textContent || '').trim().slice(0, 80)
         });
       });
     })();

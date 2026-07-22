@@ -77,6 +77,15 @@ The Merapi tour deserves an honest word, because it is the exception that keeps 
   <p class="infogain-note">A current snapshot, kept refreshed. These numbers move, so treat them as recent rather than fixed.</p>
 </aside>
 
+
+<div class="cta-box" id="cta-mid">
+<p class="cta-eyebrow">Book the day tour</p>
+<h3>Rather skip the 3am alarm?</h3>
+<p>The daytime Borobudur climb with Candi Mendut and Prambanan, no pre-dawn start, hotel pickup included. You can reserve now and pay later, so booking takes about 2 minutes and costs nothing today.</p>
+<a class="btn btn-primary" href="https://www.viator.com/tours/Yogyakarta/Budha-Voyage/d22560-214335P5?pid=P00062370&mcid=42383&medium=link" rel="sponsored noopener" target="_blank">Check live availability &amp; prices &rarr;</a>
+<p class="cta-microproof"><span class="stars" role="img" aria-label="Rated 4.9 out of 5"><span class="stars-fill" style="width:98%"></span></span> <strong>4.9</strong> &middot; 674 Viator reviews &middot; free cancellation up to 24 hours</p>
+</div>
+
 ## Do children need their own ticket for Borobudur?
 
 **Child pricing exists at the domestic tier. For foreign families, the operator does not publish a child price for the structure climb on any public page, and it does not publish the foreign adult price either. Both appear only in the booking flow or on your tour's listing, which is why a tour that bundles entry removes a real headache.**
