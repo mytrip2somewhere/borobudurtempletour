@@ -107,7 +107,7 @@ Read that last row carefully. I am not proposing you replace a two-week Bali hol
 
 <img src="/images/generated/photos/where-to-go-instead-of-bali-is-komodo-or-flores-a-good-bali-alternative.jpg" alt="Island landscape of Komodo National Park, Flores" width="1100" height="733" loading="lazy">
 
-The dragons are real and the diving around Komodo is among the best in Asia. Nobody who goes regrets it. What people underestimate is the logistics: this is not a day out from Bali, whatever the booking sites imply. You fly east to Labuan Bajo, then you live on a boat for two or three days, and the good sites are further out than the cheap tours go.
+The dragons are real and the diving around Komodo is among the best in Asia. Nobody who goes regrets it. What people underestimate is the logistics: this is not a day out from Bali, whatever the booking sites imply. You fly east to Labuan Bajo, then you live on a boat for two or three days, and the good sites are further out than the cheap tours go. If your dates only allow a single day, a full-day boat run from Labuan Bajo that covers the Padar climb, the pink beach and the dragons is the honest compromise; <a href="{{ tour_url:komodo-day-tour }}" rel="sponsored noopener" target="_blank">make sure to book here</a> because the small boats cap their numbers.
 
 Park authorities have also been tightening visitor limits in recent years, which is the right call for the dragons and something to check before you plan around it. If you have four spare days and you love wildlife, go. If you have a spare weekend, this is not your answer.
 

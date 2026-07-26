@@ -119,7 +119,7 @@ This is why the half-day is not a consolation prize. Borobudur gives you more ca
 
 Nobody is choosing between these two on a Tuesday morning. They are in different countries, and the real decision is almost always about which one earns a slot in a Southeast Asia itinerary that already has too much in it.
 
-If both are in, the asymmetry works in your favour. Angkor is the anchor: three days, a pass, a base in Siem Reap, and no attempt to do anything else. Yogyakarta is the lighter leg, because Borobudur is a morning and Prambanan is an afternoon, and you can be back in the city for dinner having seen two world-class monuments of two different faiths. Two nights in Yogyakarta genuinely covers it.
+If both are in, the asymmetry works in your favour. Angkor is the anchor: three days, a pass, a base in Siem Reap, and no attempt to do anything else. Most first-timers spend one of those days on a guided sunrise-to-afternoon loop of the main temples to sort the geography out; <a href="{{ tour_url:angkor-wat-day-tour }}" rel="sponsored noopener" target="_blank">check price and dates here</a>, then wander looser on your own pass after. Yogyakarta is the lighter leg, because Borobudur is a morning and Prambanan is an afternoon, and you can be back in the city for dinner having seen two world-class monuments of two different faiths. Two nights in Yogyakarta genuinely covers it.
 
 The mistake I see is people budgeting them equally, giving each two days, and getting a rushed Angkor and a padded Java. Angkor is hungrier. Feed it the extra day and let Borobudur be efficient, because being efficient is what Borobudur is unusually good at.
 

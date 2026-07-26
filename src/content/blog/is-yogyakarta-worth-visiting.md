@@ -71,7 +71,7 @@ This is the practical heart of the city's case. Look at a map and the logic is i
 
 Borobudur is a 9th-century Mahayana Buddhist monument, built from around 778 to 825 AD, nine stacked platforms with six square terraces and three circular ones, the main stupa about 35 metres above the base, and 1,460 narrative relief panels running clockwise around the terraces. It is <a href="https://whc.unesco.org/en/list/592/" rel="noopener" target="_blank">UNESCO-listed as the Borobudur Temple Compounds</a>, together with Mendut and Pawon.
 
-Prambanan is the Hindu counterpart and the visitor numbers show it is no minor stop: <a href="https://injourneydestination.id/en/2025/06/10/destinasi-candi-prambanan-dipadati-wisatawan-saat-libur-panjang-kenaikan-yesus-kristus/" rel="noopener" target="_blank">the operator reported 3,510,750 visits in the first five months of 2025 alone</a>. Its spires are carved with the Ramayana, the same story the shadow puppets tell all night in Javanese villages.
+Prambanan is the Hindu counterpart and the visitor numbers show it is no minor stop: <a href="https://injourneydestination.id/en/2025/06/10/destinasi-candi-prambanan-dipadati-wisatawan-saat-libur-panjang-kenaikan-yesus-kristus/" rel="noopener" target="_blank">the operator reported 3,510,750 visits in the first five months of 2025 alone</a>. Its spires are carved with the Ramayana, the same story the shadow puppets tell all night in Javanese villages. You can watch that story danced at full scale on the open-air stage beside the lit temple at the evening Ramayana Ballet; <a href="{{ tour_url:ramayana-ballet-prambanan }}" rel="sponsored noopener" target="_blank">check dates and tickets here</a>. It is an evening on its own, separate from the temple day tours.
 
 The practical mechanics of getting out to the temple are in the [Borobudur from Yogyakarta guide](/guides/borobudur-from-yogyakarta/), and how much time to allow once you are there is in [how long at Borobudur](/guides/how-long-at-borobudur/).
 
@@ -89,6 +89,12 @@ Most of my guests arrive with a day and a half carved out of a Bali fortnight, w
 | Two days | The temple loop, plus Kraton, batik and Malioboro | Merapi, the beaches to the south |
 | Three days | Add Merapi jeeps or a sunrise start, at a human pace | Not much that matters |
 | A week | Solo, the south coast, deeper batik workshops | You are now on a Java trip, not a detour |
+
+Where you sleep matters less than people fear, because tours pick up across the city. Three bases my guests keep being happy with: The Phoenix, the city's colonial-era heritage hotel, now run under Accor's Handwritten Collection; the Hyatt Regency, the gardens-and-pool resort option on the city's edge; and Adhisthana in Prawirotaman, the guesthouse-budget pick in the cafe quarter. Rooms for all three are on Expedia:
+
+<p class="hotel-row"><span class="hr-name">The Phoenix Hotel Yogyakarta</span> <a class="hotel-cta" href="{{ hotel_url:phoenix-yogyakarta }}" rel="sponsored noopener" target="_blank">Check rates &rsaquo;</a></p>
+<p class="hotel-row"><span class="hr-name">Hyatt Regency Yogyakarta</span> <a class="hotel-cta" href="{{ hotel_url:hyatt-regency-yogyakarta }}" rel="sponsored noopener" target="_blank">Check rates &rsaquo;</a></p>
+<p class="hotel-row"><span class="hr-name">Adhisthana Hotel Yogyakarta</span> <a class="hotel-cta" href="{{ hotel_url:adhisthana-yogyakarta }}" rel="sponsored noopener" target="_blank">Check rates &rsaquo;</a></p>
 
 Two is the number I would defend. One day is a raid. Three is comfortable. If you are debating whether the detour is worth making at all, I have argued that case at length in [where to go instead of Bali](/blog/where-to-go-instead-of-bali/).
 

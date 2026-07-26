@@ -42,6 +42,40 @@ const TOURS = {
   "borobudur-climb-prambanan-day-tour": { platform: "Viator", url: "https://www.viator.com/tours/Yogyakarta/Budha-Voyage/d22560-214335P5?pid=P00062370&mcid=42383&medium=link" },
 };
 
+// Secondary experience tours (extra-monetization pass, Grok-verified 2026-07-25;
+// research/grok/2026-07-25-secondary-tours-verify.json). Higher-reviewed platform wins.
+// Content references {{ tour_url:<slug> }}; never paste raw affiliate URLs in articles.
+const SECONDARY_TOURS = {
+  "prambanan-sunset-tour": "https://www.getyourguide.com/yogyakarta-l349/yogyakarta-prambanan-temple-sunset-tour-t138848/?partner_id=MME1WGW&utm_medium=online_publisher",   // GYG 4.8 / 93 (Viator alt had 6)
+  "ramayana-ballet-prambanan": "https://www.getyourguide.com/yogyakarta-l349/sunset-at-prambanan-including-ticket-ramayana-ballet-show-t573785/?partner_id=MME1WGW&utm_medium=online_publisher", // GYG 4.9 / 89 (Viator 42)
+  "yogyakarta-batik-class": "https://www.viator.com/tours/Yogyakarta/Batik-Master-Class-with-Full-Process/d22560-189399P8?pid=P00062370&mcid=42383&medium=link",           // Viator 5.0 / 107 (GYG 88)
+  "angkor-wat-day-tour": "https://www.viator.com/tours/Siem-Reap/Full-Day-Angkor-Wat-Sunrise-Small-Group-Tour/d5480-68746P15?pid=P00062370&mcid=42383&medium=link",        // Viator 5.0 / 13,297 (GYG 742)
+  "komodo-day-tour": "https://www.getyourguide.com/labuan-bajo-l106237/labuan-bajo-a-day-tour-of-komodo-island-with-6-destinations-t599722/?partner_id=MME1WGW&utm_medium=online_publisher", // GYG 4.8 / 1,630 (Viator 333)
+};
+function resolveTourTokens(html) {
+  return html.replace(/\{\{\s*tour_url:([a-z0-9-]+)\s*\}\}/g, (m, slug) =>
+    SECONDARY_TOURS[slug] ? SECONDARY_TOURS[slug] : (TOURS[slug] ? TOURS[slug].url : m));
+}
+
+// Hotel affiliate links (Travelpayouts marker 453147). Values are either TP-minted
+// tpk.ro short links (preferred, Oleg mints them) or the CJ Expedia deeplink fallback
+// (marker rides in sid=<slug>-453147). Content references {{ hotel_url:<slug> }}.
+// NOTE FOR OLEG: these are the CJ Expedia fallback deeplinks (A3): valid CJ tracking, but
+// Travelpayouts attribution is guaranteed only for TP-minted links. To upgrade, paste each
+// Expedia URL (research/grok/2026-07-25-hotel-listings-verify.json) through the TP link tool
+// and replace the value with the expedia.tpk.ro short link, keeping the same slug.
+const HOTELS = {
+  "manohara-borobudur": "https://www.jdoqocy.com/click-100877410-15042831?sid=manohara-borobudur-453147&url=https%3A%2F%2Fwww.expedia.com%2FBorobudur-Hotels-Manohara.h6845327.Hotel-Information",
+  "plataran-borobudur": "https://www.jdoqocy.com/click-100877410-15042831?sid=plataran-borobudur-453147&url=https%3A%2F%2Fwww.expedia.com%2FYogyakarta-Hotels-Plataran-Borobudur-Resort-Spa.h6845222.Hotel-Information",
+  "phoenix-yogyakarta": "https://www.jdoqocy.com/click-100877410-15042831?sid=phoenix-yogyakarta-453147&url=https%3A%2F%2Fwww.expedia.com%2FYogyakarta-Hotels-The-Phoenix-Hotel-Yogyakarta-MGallery-Collection.h1077271.Hotel-Information",
+  "hyatt-regency-yogyakarta": "https://www.jdoqocy.com/click-100877410-15042831?sid=hyatt-regency-yogyakarta-453147&url=https%3A%2F%2Fwww.expedia.com%2FYogyakarta-Hotels-Hyatt-Regency-Yogyakarta.h68600.Hotel-Information",
+  "adhisthana-yogyakarta": "https://www.jdoqocy.com/click-100877410-15042831?sid=adhisthana-yogyakarta-453147&url=https%3A%2F%2Fwww.expedia.com%2FYogyakarta-Hotels-Adhisthana-Hotel.h12516869.Hotel-Information",
+};
+function resolveHotelTokens(html) {
+  return html.replace(/\{\{\s*hotel_url:([a-z0-9-]+)\s*\}\}/g, (m, slug) =>
+    HOTELS[slug] ? HOTELS[slug] : m);
+}
+
 // Static maps (Phase 3.5). Each entry renders to /images/generated/<file> at build time
 // IF a Google Static Maps key is present (env GOOGLE_MAPS_STATIC_KEY). Without a key the
 // build skips them and the flagged placeholder stays. Coordinates match the JSON-LD geo.
@@ -209,7 +243,7 @@ const esc = (s = "") =>
 async function buildHtml(layout, images, map, content) {
   const page = fillTokens(layout, { title: SITE_NAME, description: "", canonical: "", og_image: "", og_type: "article", preload: "", schema: "", robots: ROBOTS, ...map, content });
   let resolved = await resolveIncludes(page);
-  return resolveImageTokens(resolved, images);
+  return resolveHotelTokens(resolveTourTokens(resolveImageTokens(resolved, images)));
 }
 
 function blogPostInner(d, bodyHtml) {
@@ -501,7 +535,7 @@ async function main() {
       content: body,
     });
     let resolved = await resolveIncludes(page); // resolve includes inside the layout too
-    resolved = resolveImageTokens(resolved, images); // bind manager-uploaded image slots
+    resolved = resolveHotelTokens(resolveTourTokens(resolveImageTokens(resolved, images))); // image slots + tour + hotel affiliate URLs
     const out = outPath(pf);
     await mkdir(dirname(out), { recursive: true });
     await writeFile(out, resolved, "utf8");

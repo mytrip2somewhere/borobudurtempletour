@@ -398,3 +398,14 @@ p { margin: 0 0 var(--s3); max-width: 64ch; }
 .prose .cta-box, .prose .cta-box > p { max-width:none; }
 .prose .cta-box > p { max-width:52ch; }
 @media (max-width:520px){ .cta-box .btn { min-width:100%; } }
+
+/* ============ Extra monetization: hotel "Check rates" CTA (amber = --gold, distinct from tour buttons) ============ */
+.hotel-cta, .prose a.hotel-cta { display:inline-flex; align-items:center; gap:.35rem;
+  font-family:var(--display); font-weight:800; font-size:var(--step--1); line-height:1;
+  padding:.6rem 1.1rem; border-radius:10px; border:1px solid var(--gold);
+  color:#fff; background:var(--gold); text-decoration:none; white-space:nowrap; box-shadow:var(--shadow); }
+.hotel-cta:hover, .prose a.hotel-cta:hover { background:#8f6526; color:#fff; text-decoration:none; }
+.hotel-row { display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between;
+  gap:.6rem .9rem; margin:.2rem 0 var(--s3); padding:.7rem .95rem; background:var(--paper-2);
+  border:1px solid var(--line); border-radius:var(--radius-sm); }
+.hotel-row .hr-name { font-weight:700; color:var(--ink); }

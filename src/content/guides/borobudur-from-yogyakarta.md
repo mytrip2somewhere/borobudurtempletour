@@ -23,6 +23,11 @@ draft: "false"
 
 Yogyakarta. The temple is not in the city, despite what a lot of tour marketing implies, but Yogyakarta is where the airport, the hotels and every tour departure point are, about an hour southeast of the monument by road. The temple itself stands in <a href="https://en.wikipedia.org/wiki/Borobudur" rel="noopener" target="_blank">Magelang Regency, Central Java</a>, and the nearest town of any size is Muntilan, which you pass on the drive up. In practice nobody plans around Muntilan. You stay in Yogyakarta and travel out for the day, or you sleep at one of the handful of hotels near the temple park if a dawn start matters to you.
 
+Two of those temple-side addresses are worth naming. Manohara sits inside the park itself, the only hotel from which the monument is a walk rather than a drive, and Plataran Borobudur is the resort option in the hills just outside it. Neither is the budget pick; both replace the 03:30 alarm with something far kinder.
+
+<p class="hotel-row"><span class="hr-name">Manohara Borobudur</span> <a class="hotel-cta" href="{{ hotel_url:manohara-borobudur }}" rel="sponsored noopener" target="_blank">Check rates &rsaquo;</a></p>
+<p class="hotel-row"><span class="hr-name">Plataran Borobudur Resort & Spa</span> <a class="hotel-cta" href="{{ hotel_url:plataran-borobudur }}" rel="sponsored noopener" target="_blank">Check rates &rsaquo;</a></p>
+
 That geography shapes everything below. Whatever option you choose, you are committing to roughly two hours of round-trip travel, so it makes sense to decide [how long you want at Borobudur itself](/guides/how-long-at-borobudur/) before you pick how to get there.
 
 ## Option one: a tour with hotel pickup

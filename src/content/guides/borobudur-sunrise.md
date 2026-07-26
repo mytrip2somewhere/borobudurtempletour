@@ -131,6 +131,10 @@ If this is your one visit and you want the classic experience, the hill dawn plu
 
 Whichever you choose, know what part of the price is entry itself; the [tickets guide](/guides/borobudur-tickets-and-prices/) breaks that down.
 
+There is one more lever nobody mentions: sleep next to the temple instead of in Yogyakarta. Manohara, the hotel inside the park itself, exists for exactly this, and it turns the dawn logistics into a short walk.
+
+<p class="hotel-row"><span class="hr-name">Manohara Borobudur</span> <a class="hotel-cta" href="{{ hotel_url:manohara-borobudur }}" rel="sponsored noopener" target="_blank">Check rates &rsaquo;</a></p>
+
 ## Common questions
 
 <div class="faq">
