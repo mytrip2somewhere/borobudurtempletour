@@ -60,16 +60,15 @@ function resolveTourTokens(html) {
 // Hotel affiliate links (Travelpayouts marker 453147). Values are either TP-minted
 // tpk.ro short links (preferred, Oleg mints them) or the CJ Expedia deeplink fallback
 // (marker rides in sid=<slug>-453147). Content references {{ hotel_url:<slug> }}.
-// NOTE FOR OLEG: these are the CJ Expedia fallback deeplinks (A3): valid CJ tracking, but
-// Travelpayouts attribution is guaranteed only for TP-minted links. To upgrade, paste each
-// Expedia URL (research/grok/2026-07-25-hotel-listings-verify.json) through the TP link tool
-// and replace the value with the expedia.tpk.ro short link, keeping the same slug.
+// TP-minted expedia.tpk.ro short links (Oleg generated 2026-07-25 through the Travelpayouts
+// link tool -> attribution to marker 453147 is guaranteed by construction). Source Expedia
+// URLs: research/grok/2026-07-25-hotel-listings-verify.json.
 const HOTELS = {
-  "manohara-borobudur": "https://www.jdoqocy.com/click-100877410-15042831?sid=manohara-borobudur-453147&url=https%3A%2F%2Fwww.expedia.com%2FBorobudur-Hotels-Manohara.h6845327.Hotel-Information",
-  "plataran-borobudur": "https://www.jdoqocy.com/click-100877410-15042831?sid=plataran-borobudur-453147&url=https%3A%2F%2Fwww.expedia.com%2FYogyakarta-Hotels-Plataran-Borobudur-Resort-Spa.h6845222.Hotel-Information",
-  "phoenix-yogyakarta": "https://www.jdoqocy.com/click-100877410-15042831?sid=phoenix-yogyakarta-453147&url=https%3A%2F%2Fwww.expedia.com%2FYogyakarta-Hotels-The-Phoenix-Hotel-Yogyakarta-MGallery-Collection.h1077271.Hotel-Information",
-  "hyatt-regency-yogyakarta": "https://www.jdoqocy.com/click-100877410-15042831?sid=hyatt-regency-yogyakarta-453147&url=https%3A%2F%2Fwww.expedia.com%2FYogyakarta-Hotels-Hyatt-Regency-Yogyakarta.h68600.Hotel-Information",
-  "adhisthana-yogyakarta": "https://www.jdoqocy.com/click-100877410-15042831?sid=adhisthana-yogyakarta-453147&url=https%3A%2F%2Fwww.expedia.com%2FYogyakarta-Hotels-Adhisthana-Hotel.h12516869.Hotel-Information",
+  "manohara-borobudur": "https://expedia.tpk.ro/jgpcw85Z",
+  "plataran-borobudur": "https://expedia.tpk.ro/dGLRptET",
+  "phoenix-yogyakarta": "https://expedia.tpk.ro/wPLfBKxN",
+  "hyatt-regency-yogyakarta": "https://expedia.tpk.ro/rT8GhyzV",
+  "adhisthana-yogyakarta": "https://expedia.tpk.ro/oXTNasyU",
 };
 function resolveHotelTokens(html) {
   return html.replace(/\{\{\s*hotel_url:([a-z0-9-]+)\s*\}\}/g, (m, slug) =>
