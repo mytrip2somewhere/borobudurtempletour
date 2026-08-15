@@ -135,6 +135,8 @@ There is one more lever nobody mentions: sleep next to the temple instead of in 
 
 <p class="hotel-row"><span class="hr-name">Manohara Borobudur</span> <a class="hotel-cta" href="{{ hotel_url:manohara-borobudur }}" rel="sponsored noopener" target="_blank">Check rates &rsaquo;</a></p>
 
+{{ tour_picks:sunrise-climb-prambanan,climb-day-tour,prambanan-sunset }}
+
 ## Common questions
 
 <div class="faq">

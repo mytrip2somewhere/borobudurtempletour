@@ -123,6 +123,9 @@ If both are in, the asymmetry works in your favour. Angkor is the anchor: three 
 
 The mistake I see is people budgeting them equally, giving each two days, and getting a rushed Angkor and a padded Java. Angkor is hungrier. Feed it the extra day and let Borobudur be efficient, because being efficient is what Borobudur is unusually good at.
 
+
+{{ tour_picks:sunrise-climb-prambanan,climb-day-tour,angkor-day }}
+
 ## Which should you visit, honestly?
 
 **Both, if the trip allows, since they are different enough that neither substitutes for the other. If you must choose: Angkor if you have three days and want scale, ruin and empire. Borobudur if you have a morning, are already in Java, and want narrative density and a monument you can finish.**

@@ -60,6 +60,9 @@ These are both magnificent, and if your trip allows both, take both. The travell
 
 Crowd patterns differ too. Angkor draws a famously dense sunrise scrum at the temple's reflecting pond. Borobudur's dawn crowd splits between the [Punthuk Setumbu viewpoint](/guides/borobudur-sunrise/), a hill about 2.5 km from the monument, and the temple's own capped 100-person sunrise product, so the monument itself at opening time feels calmer than its fame suggests.
 
+
+{{ tour_picks:sunrise-climb-prambanan,climb-day-tour,angkor-day }}
+
 ## Common questions
 
 <div class="faq">

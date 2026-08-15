@@ -131,6 +131,9 @@ Physically, budget for heat and height rather than difficulty. The climb itself 
 <p class="infogain-note">A current snapshot, kept refreshed. These numbers move, so treat them as recent rather than fixed.</p>
 </aside>
 
+
+{{ tour_picks:sunrise-climb-prambanan,climb-day-tour,merapi-full-day }}
+
 ## Common questions
 
 <div class="faq">

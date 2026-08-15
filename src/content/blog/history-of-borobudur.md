@@ -124,6 +124,9 @@ The written trail backs the villagers up. A Javanese court poem still mentions t
 
 So "rediscovery" describes a European arrival, not the temple's status. Cornelius and his workers did real and valuable labour, and the 1814 clearing is genuinely the start of the site's modern documented life. But the honest sentence is that outsiders were shown something locals had never lost. I use the word "cleared" on tour, and I would encourage you to notice which word a source picks. It tells you whose knowledge that source counts.
 
+
+{{ tour_picks:sunrise-climb-prambanan,climb-day-tour,prambanan-sunset }}
+
 ## How long do you actually need on the terraces?
 
 **Most visitors get about 45 minutes on the structure and spend it climbing. Reading even one gallery properly takes that long on its own. If the reliefs are why you came, budget 90 minutes minimum on the monument itself, start at the eastern stairway, and go clockwise.**

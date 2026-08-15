@@ -123,6 +123,9 @@ Here is the honest time budget, which is the thing tour listings never show you.
 
 If you are on a combined tour, Prambanan comes after, usually in the afternoon. It is a ninth-century Hindu complex on the other side of Yogyakarta, tall and spiky where Borobudur is broad and solid, and that contrast is why the two are sold together. There is more on pacing in our [guide to how long a visit takes](/guides/how-long-at-borobudur/).
 
+
+{{ tour_picks:sunrise-climb-prambanan,climb-day-tour,merapi-full-day }}
+
 ## What surprises first-time visitors most?
 
 **Four things, in order: the total absence of shade, the fact that a guide is already included with the climb ticket, how steep the original stairs are, and that a foreign visitor cannot buy the cheap grounds ticket. None of these appear in the photographs.**

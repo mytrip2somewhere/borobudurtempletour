@@ -131,6 +131,9 @@ Two hours is the number. Fifteen minutes through the gardens, a few minutes at t
 
 Prambanan comes in the afternoon on all three tours, and it lands differently with children: taller, spikier, more obviously dramatic, and Hindu rather than Buddhist. Some children who shrugged at Borobudur wake up at Prambanan.
 
+
+{{ tour_picks:climb-day-tour,sunrise-climb-prambanan,prambanan-sunset }}
+
 ## So is Borobudur worth it with children?
 
 **Yes, above about six, without much hesitation. Below three, take the gardens and skip the structure, and no one will have wasted the trip. Between three and five it comes down to how much carrying you are willing to do in the heat, which is a question only you can answer honestly.**

@@ -152,6 +152,9 @@ The train is the option people forget and often the nicer one. Java's rail netwo
 | City to Borobudur | Road, northwest | ~1 hour |
 | City to Prambanan | Road, east | Eastern edge of the city |
 
+
+{{ tour_picks:sunrise-climb-prambanan,batik-class,ramayana-ballet }}
+
 ## What is the best way to see both temples in a day?
 
 **Take a tour that loops them, because the geography punishes doing it yourself. Borobudur is an hour northwest, Prambanan is east, and a self-drive day means two return trips through city traffic. A guided loop runs them in sequence with one vehicle and one driver.**

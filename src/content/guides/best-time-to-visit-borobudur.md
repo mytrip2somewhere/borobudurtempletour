@@ -1,5 +1,5 @@
 ---
-title: "Best Time to Visit Borobudur: Season, Month and Time of Day"
+title: "Best Time to Visit Borobudur in 2026: Season, Month and Time of Day"
 description: "The best time to visit Borobudur: Central Java's May to October dry season, the rainy months to plan around, and the temple's verified opening hours."
 eyebrow: "Guides · Best time"
 lede: "Central Java has two seasons, and the temple has a daily rhythm of light and heat inside them. Here is when to come, month by month and hour by hour, using the operator's verified opening times rather than guesswork."
@@ -178,6 +178,9 @@ And sunrise? Most "sunrise" tours from Yogyakarta, including the [top-rated one 
 Not any more, on a weekly basis. For a period the operator shut the structure to climbers on Mondays for maintenance, and stale copies of that rule still circulate on older travel pages. The Monday closure ended in the third week of July 2025, a change the operator <a href="https://injourneydestination.id/en/2025/07/22/naik-candi-borobudur-bisa-tiap-hari/" rel="noopener" target="_blank">announced on its own site</a>, and the temple has been open every day since, structure from 08:30, grounds from 06:30. If your only free day in Yogyakarta is a Monday, you can climb.
 
 Timing sorted, the remaining questions are practical: [how to get there from Yogyakarta](/guides/borobudur-from-yogyakarta/) and [how long to budget at the temple](/guides/how-long-at-borobudur/). Both have short, honest answers.
+
+
+{{ tour_picks:sunrise-climb-prambanan,climb-day-tour,merapi-full-day }}
 
 ## Common questions
 

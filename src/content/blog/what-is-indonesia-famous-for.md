@@ -142,6 +142,9 @@ Komodo National Park drew around 432,000 visitors in 2025, and Lombok recorded r
 
 Java is the one I push hardest, and not only because I live here. It is the cheapest to add, the shortest detour, and the biggest single jump in what you actually see. Two of Indonesia's ten UNESCO World Heritage properties sit within an hour of each other outside Yogyakarta, which you can check on <a href="https://whc.unesco.org/en/statesparties/id" rel="noopener" target="_blank">UNESCO's list of Indonesian sites</a>.
 
+
+{{ tour_picks:sunrise-climb-prambanan,batik-class,komodo-day }}
+
 ## Where does Borobudur fit into all this?
 
 **Borobudur is the world's largest Buddhist temple, a 9th-century Mahayana monument in Magelang Regency, Central Java, about an hour northwest of Yogyakarta. It carries 1,460 narrative relief panels and has been UNESCO-listed since 1991. Roughly 200,000 of its 1.3 million annual visitors in 2024 came from abroad.**

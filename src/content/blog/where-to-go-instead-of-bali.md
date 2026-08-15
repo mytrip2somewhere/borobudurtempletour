@@ -142,6 +142,9 @@ Rendang, the dish most often named as Indonesia's greatest, is Minangkabau, from
 
 It is also far, the roads are slow, and a week is not enough. I mention it because leaving it out would make this list dishonest, not because it is the swap most readers should make.
 
+
+{{ tour_picks:sunrise-climb-prambanan,komodo-day,batik-class }}
+
 ## So what would you actually book?
 
 **For most people: keep Bali, and take two days in Yogyakarta out of the middle of it. It is a 1h35 direct flight, it costs you one morning of travel, and it puts the world's largest Buddhist temple and a UNESCO Hindu complex within an hour of your hotel.**

@@ -152,6 +152,9 @@ The [day tour](/tours/borobudur-climb-prambanan-day-tour/) is the compact versio
 
 The travel adds its own block of time. Borobudur is about an hour northwest of Yogyakarta by road, so even the leanest independent visit is a four-hour undertaking door to door, and the public bus stretches that further. The full arithmetic of tour versus driver versus bus lives in our guide to [getting to Borobudur from Yogyakarta](/guides/borobudur-from-yogyakarta/), and once you know your time budget, the [comparison page](/compare/) points to which of the three tours fits it. Budget-wise, remember the time budget and the money budget are separate questions: the [tickets guide](/guides/borobudur-tickets-and-prices/) covers what the entry itself costs.
 
+
+{{ tour_picks:sunrise-climb-prambanan,climb-day-tour,merapi-full-day }}
+
 ## Common questions
 
 **The short answers: one hour is possible but skips the panels, a half day of four to five hours fills comfortably with the museum and grounds, the guided tours run 8 to 12 hours door to door, and the two-hour baseline does not include ticket queues or the walk in from the gate.**

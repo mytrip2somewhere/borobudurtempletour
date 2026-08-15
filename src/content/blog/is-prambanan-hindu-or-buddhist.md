@@ -112,6 +112,9 @@ Prambanan does not route you. You cross open ground between towers, choose a doo
 
 Practically, that also means Prambanan is more forgiving. There is shade to duck into and no ticketed climb window to hit. After the discipline of the Borobudur galleries, most of my groups visibly relax there.
 
+
+{{ tour_picks:sunrise-climb-prambanan,prambanan-sunset,ramayana-ballet }}
+
 ## Should you visit both, or pick one?
 
 **Both, and on the same day if that is the time you have. They are close, every Yogyakarta tour pairs them, and the comparison is the point: one day gives you two religions, one plain, one century, and a piece of history that neither temple explains on its own.**

@@ -172,6 +172,9 @@ Whichever way you travel, the clock that matters is the temple's own. The struct
 
 Take the bus if the budget is tight, you enjoy the getting-there as part of the trip, and a daytime visit is all you want. Hire a driver if there are two or more of you and you value control of the clock, because per person it often lands close to the bus-plus-hassle math anyway. Book a tour if you want the day solved: pickup, ticket, guide, Prambanan, done. Our [comparison page](/compare/) matches the three tours we list to different traveler types, and whichever way you travel, the entry itself works the same at the gate. Foreign visitors buy the structure-climb ticket, sandals and guide included.
 
+
+{{ tour_picks:sunrise-climb-prambanan,climb-day-tour,merapi-full-day }}
+
 ## Common questions
 
 **The short answers: Borobudur sits about an hour from Yogyakarta by road, Yogyakarta is the hub city to base yourself in, the public bus runs via Jombor terminal on limited timetables, and ride-hailing works for the outbound trip but is unreliable for the return from the rural temple area.**

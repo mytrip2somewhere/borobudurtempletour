@@ -121,6 +121,9 @@ If a package quotes you US$120 for "Borobudur sunrise" and the thing it is resel
 
 Read the itinerary, not the title. If the word Setumbu appears anywhere in it, you are buying the hill, and that is fine as long as you know. If it promises sunrise "at" or "from" the temple for less than the official ticket costs, something is wrong with the sentence.
 
+
+{{ tour_picks:sunrise-climb-prambanan,merapi-full-day,climb-day-tour }}
+
 ## So which dawn should you choose?
 
 **Take the Punthuk Setumbu hill dawn if you want the famous photograph, the plain, the volcanoes and a full day that continues into the temple. Take the official monument dawn if standing among the stupas in the dark is specifically what you came for and the price is not the issue. They are not competing versions of one thing.**

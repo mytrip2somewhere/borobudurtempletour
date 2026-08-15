@@ -186,6 +186,9 @@ Worth doing the arithmetic before you book anything. A guided [Borobudur tour fr
 
 <img src="/images/generated/photos/borobudur-tickets-and-prices-how-the-tour-price-compares-to-the-ticket.jpg" alt="The garden approach walk toward Borobudur temple" width="1100" height="733" loading="lazy">
 
+
+{{ tour_picks:sunrise-climb-prambanan,climb-day-tour,merapi-full-day }}
+
 ## Common questions
 
 <div class="faq">

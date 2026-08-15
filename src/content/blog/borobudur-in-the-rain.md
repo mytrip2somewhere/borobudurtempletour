@@ -125,6 +125,9 @@ I would rather be straight about this than sell you the wrong trip. My [Borobudu
 
 If that gamble does not appeal in the wet months, take the [Borobudur Climb & Prambanan Day Tour](/tours/borobudur-climb-prambanan-day-tour/) instead. About eight hours, a start you can face, Candi Mendut and its seated Buddha added, and Prambanan after. Nothing in it depends on a clear horizon at 05:30. That is not a lesser trip in December. It is the better-matched one.
 
+
+{{ tour_picks:climb-day-tour,sunrise-climb-prambanan,merapi-full-day }}
+
 ## Is Borobudur worth visiting in the rain?
 
 **Yes, and I would go further: a wet-season morning is one of the better ways to see it. You lose a view you were never guaranteed and gain a monument that looks the way it was carved to look, with a fraction of the crowd.**

@@ -53,8 +53,55 @@ const SECONDARY_TOURS = {
   "komodo-day-tour": "https://www.getyourguide.com/labuan-bajo-l106237/labuan-bajo-a-day-tour-of-komodo-island-with-6-destinations-t599722/?partner_id=MME1WGW&utm_medium=online_publisher", // GYG 4.8 / 1,630 (Viator 333)
 };
 function resolveTourTokens(html) {
-  return html.replace(/\{\{\s*tour_url:([a-z0-9-]+)\s*\}\}/g, (m, slug) =>
-    SECONDARY_TOURS[slug] ? SECONDARY_TOURS[slug] : (TOURS[slug] ? TOURS[slug].url : m));
+  return html
+    .replace(/(?:<p>\s*)?\{\{\s*tour_picks:([a-z0-9,-]+)\s*\}\}(?:\s*<\/p>)?/g,
+      (m, slugs) => renderTourPicks(slugs.split(",")))
+    .replace(/\{\{\s*tour_url:([a-z0-9-]+)\s*\}\}/g, (m, slug) =>
+      SECONDARY_TOURS[slug] ? SECONDARY_TOURS[slug] : (TOURS[slug] ? TOURS[slug].url : m));
+}
+
+// Tour-picks conversion grid (depth-cro layer, ported from niagarafallsboattours.org 2026-08-15).
+// {{ tour_picks:slug,slug,slug }} renders a 3-card grid: image + chips + title + verified proof
+// + reassurance + sponsored CTA. Every anchor is rel="sponsored". Ratings/reviews are the real
+// listing figures (Grok-verified 2026-07-25); cards emit direct image paths so the grid resolves
+// after the image pass. No heading above the grid, no per-block disclaimer (footer FTC covers it).
+const PICKS = {
+  // ---- main featured tours (uploaded card images, resolved+encoded paths) ----
+  "sunrise-climb-prambanan": { url: TOURS["borobudur-sunrise-climb-prambanan"].url, platform: "GetYourGuide", title: "Borobudur Sunrise Climb & Prambanan from Yogyakarta", rating: 4.9, reviews: 1723, c1: "Setumbu sunrise + climb", c2: "From Yogyakarta", cancel: "Free cancellation up to 24 hours; reserve now, pay later", img: "/images/uploaded/photo%20from%20borobudur%20temple%20sunrise%20tour.png" },
+  "merapi-full-day": { url: TOURS["borobudur-sunrise-merapi-prambanan"].url, platform: "Viator", title: "Borobudur Sunrise, Merapi Volcano & Prambanan Full Day", rating: 4.9, reviews: 1095, c1: "12-hour full day", c2: "Jeep + two temples", cancel: "Free cancellation up to 24 hours; reserve now, pay later", img: "/images/uploaded/photo%20from%20borobudur%20temple%20tour%20%28Borobudur%20Sunrise%20from%20setumbu%20Hill%29.jpg" },
+  "climb-day-tour": { url: TOURS["borobudur-climb-prambanan-day-tour"].url, platform: "Viator", title: "Borobudur Climb & Prambanan Day Tour, no dawn start", rating: 4.9, reviews: 674, c1: "No 3am alarm", c2: "About 8 hours", cancel: "Free cancellation up to 24 hours; reserve now, pay later", img: "/images/uploaded/photo%20from%20borobudur%20sunset%20tour.jpg" },
+  // ---- secondary experiences (reuse existing 3.4c photos as card images) ----
+  "prambanan-sunset": { url: SECONDARY_TOURS["prambanan-sunset-tour"], platform: "GetYourGuide", title: "Prambanan Temple Sunset Tour from Yogyakarta", rating: 4.8, reviews: 93, c1: "Late afternoon", c2: "Prambanan only", cancel: "Free cancellation up to 24 hours on GetYourGuide", img: "/images/generated/photos/is-prambanan-hindu-or-buddhist-hero.jpg" },
+  "ramayana-ballet": { url: SECONDARY_TOURS["ramayana-ballet-prambanan"], platform: "GetYourGuide", title: "Ramayana Ballet at Prambanan, evening performance", rating: 4.9, reviews: 89, c1: "Evening show", c2: "Open-air stage", cancel: "Free cancellation up to 24 hours on GetYourGuide", img: "/images/generated/photos/is-prambanan-hindu-or-buddhist-should-you-visit-both-or-pick-one.jpg" },
+  "batik-class": { url: SECONDARY_TOURS["yogyakarta-batik-class"], platform: "Viator", title: "Batik Master Class in Yogyakarta, full process", rating: 5.0, reviews: 107, c1: "Hands-on workshop", c2: "Half day", cancel: "Free cancellation up to 24 hours on Viator", img: "/images/generated/photos/is-yogyakarta-worth-visiting-is-yogyakarta-worth-visiting.jpg" },
+  "angkor-day": { url: SECONDARY_TOURS["angkor-wat-day-tour"], platform: "Viator", title: "Angkor Wat Full-Day Small-Group Tour from Siem Reap", rating: 5.0, reviews: 13297, c1: "Siem Reap, Cambodia", c2: "Full day", cancel: "Free cancellation up to 24 hours on Viator", img: "/images/generated/photos/borobudur-or-angkor-wat-which-to-visit-hero.jpg" },
+  "komodo-day": { url: SECONDARY_TOURS["komodo-day-tour"], platform: "GetYourGuide", title: "Komodo Island Day Tour from Labuan Bajo, 6 stops", rating: 4.8, reviews: 1630, c1: "Labuan Bajo, Flores", c2: "Speedboat day", cancel: "Free cancellation up to 24 hours on GetYourGuide", img: "/images/generated/photos/where-to-go-instead-of-bali-is-komodo-or-flores-a-good-bali-alternative.jpg" },
+};
+function renderTourPicks(slugs) {
+  const cards = slugs.map((slug) => {
+    const t = PICKS[slug];
+    if (!t) throw new Error(`unknown tour slug in {{ tour_picks }}: ${slug}`);
+    const proof = t.rating != null && t.reviews != null
+      ? `<p class="tp-proof"><span class="gold">&#9733; ${t.rating}</span> &middot; ${t.reviews.toLocaleString("en-US")} ${t.platform} reviews</p>`
+      : `<p class="tp-proof tp-proof-none">On ${t.platform}; we only show ratings read off the live listing</p>`;
+    return `    <article class="tp-card">
+      <a class="tp-media" href="${t.url}" rel="sponsored noopener" target="_blank" tabindex="-1" aria-hidden="true">
+        <img src="${t.img}" alt="${esc(t.title)}" width="600" height="450" loading="lazy">
+      </a>
+      <div class="tp-body">
+        <p class="tp-chips"><span class="pc-chip">${esc(t.c1)}</span> <span class="pc-chip">${esc(t.c2)}</span></p>
+        <p class="tp-title"><a href="${t.url}" rel="sponsored noopener" target="_blank">${esc(t.title)}</a></p>
+${proof}
+        <p class="tp-reassure">${esc(t.cancel)}</p>
+        <a class="btn btn-primary" href="${t.url}" rel="sponsored noopener" target="_blank">Check dates &amp; prices &rarr;</a>
+      </div>
+    </article>`;
+  }).join("\n");
+  return `<aside class="tour-picks">
+  <div class="tp-grid">
+${cards}
+  </div>
+</aside>`;
 }
 
 // Hotel affiliate links (Travelpayouts marker 453147). Values are either TP-minted

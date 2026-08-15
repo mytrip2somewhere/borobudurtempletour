@@ -1,5 +1,5 @@
 ---
-title: "Is It Rainy Season in Indonesia Right Now? A Month-by-Month Answer"
+title: "Is It Rainy Season in Indonesia Right Now? A 2026 Month-by-Month Answer"
 date: "2026-07-07"
 description: "Central Java is dry May to October and wet November to April. The rain arrives in afternoon downpours, not all day, which is why an early Borobudur visit works year round."
 hero: "/images/generated/photos/is-it-rainy-season-in-indonesia-hero.jpg"
@@ -123,6 +123,9 @@ If the dawn view is the reason you are coming to Java, book it in the dry season
 The received wisdom says July and August, and it is not wrong about the weather. It is just incomplete. Those are the driest months and also the busiest, which are two ways of saying the same thing about who else booked. Borobudur drew about 1.3 million visitors in 2024, and they are not spread evenly across the calendar.
 
 May and September are the honest sweet spots. You get dry-season reliability at the shoulder, with the plain still green in May from the rain that just left, and thinning crowds in September. June is the safest all-round choice if you want no complications at all.
+
+
+{{ tour_picks:climb-day-tour,sunrise-climb-prambanan,merapi-full-day }}
 
 ## How should you plan a Borobudur day around the rain?
 

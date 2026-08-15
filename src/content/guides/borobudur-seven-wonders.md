@@ -53,6 +53,9 @@ Losing the "seven wonders" label costs Borobudur nothing that matters. A <a href
 
 <img src="/images/generated/photos/borobudur-seven-wonders-why-the-honest-version-is-still-impressive.jpg" alt="A guide pointing out figures on a Borobudur relief panel" width="1100" height="733" loading="lazy">
 
+
+{{ tour_picks:sunrise-climb-prambanan,climb-day-tour,prambanan-sunset }}
+
 ## Common questions
 
 <div class="faq">

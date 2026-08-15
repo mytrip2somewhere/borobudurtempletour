@@ -70,6 +70,9 @@ During Britain's brief rule of Java, Thomas Stamford Raffles was told in 1814 of
 Dating follows UNESCO and the epigraphic record; where scholars disagree, we say so above rather than pick a side.
 {: .small}
 
+
+{{ tour_picks:sunrise-climb-prambanan,climb-day-tour,prambanan-sunset }}
+
 ## Common questions
 
 <div class="faq">

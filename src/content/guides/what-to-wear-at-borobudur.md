@@ -140,6 +140,9 @@ Most visitors meet all of this inside a tour, where the timing is set for you; t
 <p class="infogain-note">A current snapshot, kept refreshed. These numbers move, so treat them as recent rather than fixed.</p>
 </aside>
 
+
+{{ tour_picks:sunrise-climb-prambanan,climb-day-tour,merapi-full-day }}
+
 ## Common questions
 
 <div class="faq">

@@ -131,6 +131,9 @@ That last row surprises people. If you are on a dawn tour, you leave Yogyakarta 
 
 The courtesy argument still stands alongside the sun. This is one of Buddhism's great sites, monks do visit, and knee-length or longer costs you nothing and reads as respect in every culture standing next to you on that terrace. I am not going to dress it up as a regulation to make you do it. It is simply a decent instinct, and it happens to coincide with the smart one.
 
+
+{{ tour_picks:sunrise-climb-prambanan,climb-day-tour,merapi-full-day }}
+
 ## Do the tours have their own dress requirements?
 
 **No. Any licensed Borobudur climb tour works to the site's rules, which means the sandals and nothing else. What a good tour does is remove the decisions around the clothing: the ticket, the timing, the sandals and a guide are all handled before you arrive.**

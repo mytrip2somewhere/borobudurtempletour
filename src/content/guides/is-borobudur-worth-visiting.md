@@ -64,6 +64,9 @@ Travellers with one day in Yogyakarta and no appetite for temples should weigh B
 
 <img src="/images/generated/photos/is-borobudur-worth-visiting-who-should-think-twice.jpg" alt="Stone Buddha statue in an opened stupa on Borobudur temple" width="1100" height="733" loading="lazy">
 
+
+{{ tour_picks:sunrise-climb-prambanan,climb-day-tour,merapi-full-day }}
+
 ## Common questions
 
 <div class="faq">
