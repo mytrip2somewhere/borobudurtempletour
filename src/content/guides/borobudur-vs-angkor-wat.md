@@ -61,6 +61,78 @@ These are both magnificent, and if your trip allows both, take both. The travell
 Crowd patterns differ too. Angkor draws a famously dense sunrise scrum at the temple's reflecting pond. Borobudur's dawn crowd splits between the [Punthuk Setumbu viewpoint](/guides/borobudur-sunrise/), a hill about 2.5 km from the monument, and the temple's own capped 100-person sunrise product, so the monument itself at opening time feels calmer than its fame suggests.
 
 
+
+## Which should you visit if you can only do one?
+
+**Pick by trip shape, not by prestige. If you have a single free morning near Yogyakarta, Borobudur is the efficient choice: one climb, one guided story, done by lunch. If you have two or three days and want a destination to sink into, Angkor and Siem Reap reward the longer stay.**
+
+The honest split comes down to how much time you are giving a temple, and what you want out of it.
+
+| If you are a... | Lean toward | Why |
+|---|---|---|
+| First-timer with one free day | Borobudur | A half-day arrives, climbs and finishes without eating a travel day |
+| Temple lover with a week to give | Angkor | A whole park of temples rewards slow, repeated visits |
+| Photographer chasing one iconic frame | Either, differently | Angkor's reflecting pond at dawn; Borobudur's stupas above the mist |
+| Short on time, based near Yogyakarta | Borobudur | Roughly an hour out, and it fits inside a morning |
+| Traveller already in Cambodia | Angkor | It is minutes from your hotel, so distance never argues against it |
+
+Angkor holds a structural advantage that Borobudur cannot match: it sits on the doorstep of a full tourist city. Siem Reap grew up around the temples, so you can base yourself fifteen minutes away, roll out at 4:30am, and come back for a nap. Borobudur does not have its own hub city of that size. Yogyakarta is the base, about an hour off, which makes the pre-dawn start earlier and the day more of a committed excursion.
+
+That distance cuts the other way, though. Borobudur's whole appeal is that it is finishable. One monument, one route, one guided read of the panels, and you are back in Yogyakarta with your afternoon intact for Prambanan or the city. Angkor asks for more of you and gives more back, but only if you have the days to spend.
+
+## What does each one cost to visit?
+
+**Treat both as a day allowance rather than a single ticket. Angkor Wat's entry is a set park pass; Borobudur's structure-climb ticket price shows inside the booking flow. On top of entry, budget for a guide and local transport at each, and for Angkor, plan the cost across the two or three days it really wants.**
+
+Prices move, and operators set their own rates, so the figures below are planning categories, not quotes. Check the live booking flow or the official ticket office for the current number before you go.
+
+| Cost line | Borobudur | Angkor Wat |
+|---|---|---|
+| Foreign entry | Structure-climb ticket, price shown at booking | Angkor pass, sold as one-day, three-day or seven-day |
+| Guide | Included with the climb ticket | Hired separately, usually by the day |
+| Local transport | Yogyakarta transfer or tour pickup | Tuk-tuk or car around the park, often per day |
+| Realistic time to budget for | One morning | Two to three days for the wider park |
+| Typical day cost driver | The single climb slot | The multi-day pass plus daily transport |
+
+The number that surprises people is not entry, it is duration. Borobudur's cost is essentially one morning: the ticket, the transfer, and a guide already bundled in. Angkor's headline pass looks like a single line, but the park is built to be explored over several days, so the honest cost includes the extra pass days, the tuk-tuk that carries you between temples, and the nights in Siem Reap while you do it.
+
+For Borobudur specifically, the climb is sold as a timed, capped product, and a guide comes with it, so the guiding you would pay extra for at Angkor is already in the price. That bundling is part of why a Borobudur morning can feel like better value per hour, even before you compare the raw ticket figures.
+
+## How do you actually get to each?
+
+**Angkor is the easier arrival by far. Siem Reap sits about fifteen minutes from the temples, so access is almost incidental. Borobudur is roughly an hour from Yogyakarta by road, which means an early alarm for sunrise and a planned transfer rather than a quick hop from your hotel.**
+
+Getting there shapes the day more than the ticket does, so it is worth mapping before you commit.
+
+| Access detail | Borobudur | Angkor Wat |
+|---|---|---|
+| Nearest hub | Yogyakarta | Siem Reap |
+| Distance from hub | About 1 hour by road | About 15 to 20 minutes |
+| Getting in | Fly to Yogyakarta, then transfer or a booked tour | Fly to Siem Reap, then tuk-tuk or car |
+| Sunrise logistics | Pre-dawn start from the city or a nearby stay | Short pre-dawn ride from town |
+| Days it deserves | One morning does it well | Two to three days for the full park |
+| How most people do it | A guided sunrise-and-climb tour from Yogyakarta | A guided first day, then a self-paced pass |
+
+Yogyakarta is a real city with its own airport and train links, so reaching the region is straightforward. The hour on the road at the end is the part to plan around. Sunrise seekers either leave the city very early or stay closer to the monument the night before, and most visitors let a tour handle the pickup so the timing is somebody else's problem.
+
+Siem Reap is designed around the temples in a way few places are. The airport, the hotels and the park all sit within a short ride of each other, which is why so many people manage a dawn visit, breakfast, a midday break, and a second temple run in the same day. The logistics almost disappear, and the real planning question becomes how many days of pass to buy.
+
+## Can you visit both on one trip?
+
+**Yes, but treat them as two separate journeys. Borobudur is in central Java, Indonesia; Angkor Wat is in Cambodia. They sit in different countries with no single easy overland link, so a combined trip means a regional flight and two distinct bases, not a side excursion.**
+
+Plenty of Southeast Asia itineraries fold in both, and the pairing works well because the two experiences barely overlap. The shape that tends to run smoothly: give Yogyakarta a couple of nights, do Borobudur at dawn and Prambanan the same day, then fly on toward Cambodia and give Siem Reap two or three nights so Angkor gets the room it needs.
+
+Order matters less than pacing. Some travellers like doing Borobudur first, the tighter, more contained monument, then arriving at Angkor ready for its scale. Others do the reverse and enjoy how Borobudur's single carved climb feels like a focused coda after the sprawl of the park. Either way, build in the connecting flight and a buffer day, because the two are not close and the transfer is a real travel leg, not an afternoon drive.
+
+## What does Java offer that Angkor does not?
+
+**Borobudur is a single Buddhist monument you climb like a story, and its 1,460 relief panels are meant to be read in order from the base upward. I guide visitors through those panels most weeks, and watching a wall of carved stone turn into a narrative they can actually follow is the thing Angkor's scale does not replicate.**
+
+I am a Borobudur guide, so I will speak to what I know first-hand. The monument is laid out as a path. You start at the bottom and walk clockwise, gallery by gallery, and the carvings tell the tale in sequence: the world of desire, then the Buddhist scriptures, then the open upper terraces with their bell-shaped stupas. It is one continuous reading, not a scattering of separate buildings, and a guide walking the panels with you changes it from pretty stone into a story you leave understanding.
+
+Angkor's gift is different, and I say this as an admirer rather than an expert on it: breadth. It is a landscape of temples to wander over days, with Angkor Wat, Angkor Thom, the Bayon's faces and the root-wrapped ruins of Ta Prohm spread across a park. That sprawl is exactly what Borobudur does not try to be. Java gives you one intact, legible monument that a single guided morning can genuinely complete, and that concentration is its own kind of rarity.
+
 {{ tour_picks:sunrise-climb-prambanan,climb-day-tour,angkor-day }}
 
 ## Common questions

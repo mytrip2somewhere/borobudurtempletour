@@ -141,6 +141,47 @@ Most visitors meet all of this inside a tour, where the timing is set for you; t
 </aside>
 
 
+
+## What should you actually wear, item by item?
+
+**Dress for equatorial heat and steep old stone, not for a rulebook that does not exist. A breathable top, knee-length or longer bottoms, stair-steady shoes you swap for Upanat at the base, plus a hat, sunscreen and a light layer, covers every real consideration Borobudur throws at you.**
+
+None of the below is a requirement. There is no published general dress code to obey, so read this as comfort-and-courtesy advice from someone who climbs the monument most weeks, not a checklist the gate enforces.
+
+| Item | What works | Why |
+|---|---|---|
+| Top | Loose, breathable cotton or linen; light long sleeves beat bare shoulders | Sun on open stone is the real threat, and modest cover reads as respect at a sacred site |
+| Bottoms | Knee-length or longer, with enough give for steep steps | No rule bans shorts, but longer fabric shades your legs and suits the place |
+| Footwear | Closed, grippy shoes for the grounds; traded for Upanat on the structure | Uneven ninth-century stone and stairs; your own sandals get sweaty and slip |
+| Sun protection | Wide-brim hat and sunscreen, reapplied | Seven degrees south, no shade anywhere on the terraces |
+| Light layer | A thin cover-up or rain shell that packs small | Pre-dawn cool or a wet-season downpour, both arrive without much warning |
+
+The pattern behind the table is simple. Where a choice is contested online, it is almost never contested by an actual rule. Shorts, shoulders, hemlines: the operator says nothing about any of them. What the terraces do say, loudly, is that they are hot, bright and unshaded, so the clothing that keeps you comfortable happens to be the clothing that also reads as respectful. That overlap is why the advice looks like a dress code even though it is not one. Pick fabrics that breathe, cover enough to keep the sun off, and save your real decision-making for shoes.
+
+## How does the season change what you wear?
+
+**More than the temple rules do. Dry season, roughly May to October, is hot, bright and cloudless, so sun cover does the heavy lifting. Wet season, roughly November to April, stays warm but brings sharp afternoon downpours, so a packable rain layer earns its place in your bag.**
+
+Java sits close to the equator, so the temperature barely shifts across the year. What shifts is the sky. That single variable, sun versus rain, is what should nudge your packing, and it matters far more than any question of what is or is not allowed on the monument.
+
+| Season | What the weather does | What to add |
+|---|---|---|
+| Dry (May to October) | Hot, strong sun, little cloud, dusty by midday | Extra sun cover, more water, sunglasses; leave the rain shell behind |
+| Shoulder months (April, November) | Unsettled, can swing either way inside a day | Pack both a sun hat and a thin rain layer |
+| Wet (November to April) | Warm mornings, heavy afternoon rain, humid air | Light rain shell or poncho, quick-dry fabrics, grippier shoes for slick stone |
+
+A few things stay constant whatever the calendar says. Mornings are the coolest, kindest window in every season, which is part of why the sunrise and early-climb slots are worth the alarm. The humidity is real year-round, so quick-dry beats heavy cotton if you sweat easily. And in the wet months the rain tends to hold off until afternoon rather than ruining the morning, so an early visit often dodges the downpour entirely. The [best-time guide](/guides/best-time-to-visit-borobudur/) goes deeper on which weeks and hours line up best.
+
+## What should you skip or leave behind?
+
+**Leave the sarong plan at home. No one issues one at Borobudur and no rule asks for it; that claim came from ticket resellers borrowing Bali's temple etiquette. Skip heels and stiff dress shoes too, because old uneven stone punishes them, and check the separate rules before you pack a tripod or drone.**
+
+The sarong myth is worth stating flatly one more time, because it drives real packing decisions. Travellers arrive clutching a scarf they were told they would need at the gate, and they never need it. The free-sarong-and-covered-shoulders line traces back to affiliate reseller pages, not to the operator's published materials, which say nothing of the kind in English or Indonesian. Bali's living temples do require and lend sarongs; Borobudur, an archaeological park and UNESCO site, does not. Carry a light layer if you want one for the sun, but do not build your outfit around a rule that is not there.
+
+Footwear is where poor choices actually cost you. Heels sink and catch on worn stone, and stiff dress shoes turn the grounds walk and base stairs into a chore before you ever reach the Upanat swap. Flip-flops sit at the other extreme, fine for the car and a nuisance on the climb. Something closed, flat and grippy is the sweet spot.
+
+Two categories sit outside the clothing question entirely. Tripods and drones fall under separate photography and heritage-site permissions, not under anything you wear, and those permissions can differ from the ordinary visitor rules. If either is part of your plan, treat it as its own item to check ahead of time rather than assuming a climb ticket covers it. And the umbrella you might reach for in the wet season is easier as a packable poncho, since your hands are busy on the stairs.
+
 {{ tour_picks:sunrise-climb-prambanan,climb-day-tour,merapi-full-day }}
 
 ## Common questions

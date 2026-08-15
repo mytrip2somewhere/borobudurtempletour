@@ -135,6 +135,50 @@ There is one more lever nobody mentions: sleep next to the temple instead of in 
 
 <p class="hotel-row"><span class="hr-name">Manohara Borobudur</span> <a class="hotel-cta" href="{{ hotel_url:manohara-borobudur }}" rel="sponsored noopener" target="_blank">Check rates &rsaquo;</a></p>
 
+
+## What does a sunrise morning look like, hour by hour?
+
+**A hill-dawn tour runs on a tight pre-light clock. Pickup lands around 03:30 in Yogyakarta, you climb Punthuk Setumbu in the dark, the sun clears the plain near 05:30, and only then do you transfer to Borobudur for the climb itself. Treat every time below as a planning allowance, not a promise.**
+
+The exact minutes shift with the season, your hotel's distance from the plain, and how the group moves, so read this as the shape of the morning rather than a timetable you can set a watch by. What does not move is the order: you watch dawn from the hill first, then you go to the temple.
+
+| Roughly when | What is happening |
+|---|---|
+| ~03:30 | Hotel pickup in Yogyakarta. Coffee if you are lucky, darkness either way |
+| ~04:15 | Drive out to the Kedu Plain, about an hour depending on where you sleep |
+| ~04:45 | Short walk up the paved Punthuk Setumbu path with a flashlight, then standing room facing east |
+| ~05:30 | Sunrise over the plain, give or take by season. The temple sits between you and the light, about 2.5 km away |
+| ~06:00 | The underrated half hour: light burns the mist off in patches. Dewi keeps guests here for it |
+| ~06:30 | Transfer to Borobudur, roughly ten minutes down off the hill |
+| ~07:00 | The climb itself, up onto the monument while the morning is still cool and the carvings read well |
+
+Note what that last line is and is not. The climb puts you on the structure after full daylight, not at the monument's own 04:00 sunrise, which is a separate official ticket entirely. The hill gave you the famous view; the climb gives you the temple up close. Two different moments, one morning, and both are inside the tour price.
+
+## How does the hill dawn compare with the official monument dawn, side by side?
+
+**Two dawns get sold under one phrase, and they put you in two different places. The featured tours watch first light from Punthuk Setumbu hill, looking toward Borobudur across the plain. The monument dawn is a separate official ticket that stands 100 people on the structure itself at 04:00. Same sun, different tickets.**
+
+If you have read this far you already know the distinction, so here it is in one grid you can decide from. The left column is what the tours on this site include. The right column is the operator's own product, which we do not sell and do not bundle.
+
+| Viewpoint | What you see | Who sells it | Rough cost tier | Who it suits |
+|---|---|---|---|---|
+| Punthuk Setumbu hill (~2.5 km away) | The classic photograph: stupas rising from mist, volcanoes behind, the temple as a dark island on the plain | The featured tours, via GetYourGuide and Viator | Bundled inside the tour price | First-time visitors who want the famous view and the climb in one morning |
+| Borobudur's upper structure | First light from between the stupas, standing on the ninth-century summit in the dark | The site operator only, on its official sunrise page | Official ~IDR 1,000,000 international (about US$62); resellers push it far higher | Visitors for whom standing on the monument at dawn is the one specific goal |
+
+Read the cost column carefully before you book anything labelled "temple sunrise". The official monument ticket is roughly US$62 for international visitors at IDR 1,000,000, capped at 100 people a day, and it includes the wristband, the Upanat sandals, a guide, and breakfast at Manohara afterward. When a third party advertises a "sunrise at Borobudur" well above that number, you are usually paying a markup on the same access. Buy the monument dawn at the source if that is the dawn you want. The featured tours are the hill dawn, and they never grant you a place on the structure at 04:00.
+
+## Who should skip the dawn start altogether?
+
+**Skip it if sleep matters more than mist, if you are travelling with young children, or if your whole reason for coming is the relief panels. Light sleepers rarely enjoy a 03:30 pickup, small kids struggle with the dark climb, and the carvings read far better in later, flatter morning light than they do at dawn.**
+
+A dawn morning costs you sleep, and it costs everyone the same roughly 03:30 wake-up whether you take the hill or the monument. For some travellers that trade is easy. For others it quietly ruins the day that follows, because the afternoon on a dawn schedule tends to sag by two in the afternoon. Be honest with yourself about which kind of traveller you are before you book.
+
+Families with young children are the clearest case for skipping. A pre-dawn drive, a dark walk up a hill, and standing room in the cold ask a lot of a five-year-old, and a tired child on a temple climb is nobody's good morning. The [day tour](/tours/borobudur-climb-prambanan-day-tour/) starts at a humane hour and still gets you onto the monument.
+
+There is a second, less obvious group: people who came for the stone. If the carved relief panels are the reason Borobudur is on your list, dawn is not doing you any favours. Low, raking dawn light throws deep shadow across the reliefs and the whole plain is often still under mist. Mid-morning light, flatter and more even, is when the narrative panels actually read, when you can follow the story cut into the galleries level by level. The [best-time guide](/guides/best-time-to-visit-borobudur/) covers the seasonal side of this, but the daily version is simpler: for the carvings, later beats earlier.
+
+One honest caveat on all of this. Skipping dawn means skipping the famous photograph, the one from the hill, and no amount of good afternoon light gives that back. If the misty-stupas image is the picture in your head, you want the hill dawn and you should accept the early alarm as the price of it. If it is not, sleep in with a clear conscience. Neither choice is wrong; they are just different mornings, bought for different reasons.
+
 {{ tour_picks:sunrise-climb-prambanan,climb-day-tour,prambanan-sunset }}
 
 ## Common questions
