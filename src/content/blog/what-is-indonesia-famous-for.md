@@ -134,7 +134,7 @@ Ranked honestly by effort against reward, for someone who has already committed 
 | Where | What it gives you | Effort from Bali | Worth it if |
 |---|---|---|---|
 | Yogyakarta, Java | Borobudur, Prambanan, batik, court culture, street food | Direct flight, around 1h35 | You want the culture Bali does not have. |
-| Flores / Komodo | Komodo dragons, some of Asia's best diving | Flight to Labuan Bajo, then boats, multi-day | You want wildlife and will give it real days. |
+| Flores / Komodo | Komodo dragons, some of Asia's best diving | Flight to Labuan Bajo, then day boats or multi-day cruises | You want wildlife and will give it real days. |
 | Lombok | Beaches without the Bali density, Rinjani trekking | Short flight or fast boat | You liked Bali but wanted it quieter. |
 | Sumatra | Jungle, orangutans, Lake Toba, Padang food | Long flight, long overland | You have two weeks and real appetite. |
 

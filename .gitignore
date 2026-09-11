@@ -14,3 +14,8 @@ dist/
 
 # Claude Code local settings (may contain tokens)
 .claude/settings.local.json
+
+# Local CRO audit snapshots and raw provider responses; compact registry stays versioned.
+research/cro-2026-09/baseline-dist/
+research/cro-2026-09/*-products.json
+research/cro-2026-09/*-availability.json

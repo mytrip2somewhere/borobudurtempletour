@@ -4,7 +4,7 @@ description: "The Borobudur sunrise explained straight: tours watch dawn from Pu
 eyebrow: "Guides · Sunrise"
 lede: "\"Borobudur sunrise tour\" is the most blurred phrase in Javanese tourism, because two different dawns get sold under it. Here is exactly what each one is, where you stand, and what you are paying for."
 quick_answer_label: "Short answer"
-quick_answer: "Nearly every \"Borobudur sunrise tour\", including the ones we feature, watches dawn <strong>from Punthuk Setumbu</strong>, a hill facing the temple across the plain, then drives over for the climb. Watching sunrise <strong>from the monument itself</strong> is a separate official ticket: 04:00 entry, 100 people a day, IDR 1,000,000 international. We do not sell that one, and any page that lets you confuse the two is doing it on purpose."
+quick_answer: "Nearly every \"Borobudur sunrise tour\", watches dawn <strong>from Punthuk Setumbu</strong>, a hill facing the temple across the plain, then drives over for the climb. Watching sunrise <strong>from the monument itself</strong> is a separate official ticket: 04:00 entry, 100 people a day, IDR 1,000,000 international. The VIP temple-sunrise option linked here is separate from the Setumbu hill outing; select the exact variant before booking."
 hero: "{{ img:sunrise_climb_hero }}"
 hero_alt: ""
 group: "planning"
@@ -150,7 +150,7 @@ The exact minutes shift with the season, your hotel's distance from the plain, a
 | ~05:30 | Sunrise over the plain, give or take by season. The temple sits between you and the light, about 2.5 km away |
 | ~06:00 | The underrated half hour: light burns the mist off in patches. Dewi keeps guests here for it |
 | ~06:30 | Transfer to Borobudur, roughly ten minutes down off the hill |
-| ~07:00 | The climb itself, up onto the monument while the morning is still cool and the carvings read well |
+| 08:30 or later | The climb itself, up onto the monument while the morning is still cool and the carvings read well |
 
 Note what that last line is and is not. The climb puts you on the structure after full daylight, not at the monument's own 04:00 sunrise, which is a separate official ticket entirely. The hill gave you the famous view; the climb gives you the temple up close. Two different moments, one morning, and both are inside the tour price.
 
@@ -158,7 +158,7 @@ Note what that last line is and is not. The climb puts you on the structure afte
 
 **Two dawns get sold under one phrase, and they put you in two different places. The featured tours watch first light from Punthuk Setumbu hill, looking toward Borobudur across the plain. The monument dawn is a separate official ticket that stands 100 people on the structure itself at 04:00. Same sun, different tickets.**
 
-If you have read this far you already know the distinction, so here it is in one grid you can decide from. The left column is what the tours on this site include. The right column is the operator's own product, which we do not sell and do not bundle.
+If you have read this far you already know the distinction, so here it is in one grid you can decide from. The left column is the Setumbu hill experience. The right column is the separate monument-sunrise ticket; the VIP option linked here bundles temple dawn with private transport.
 
 | Viewpoint | What you see | Who sells it | Rough cost tier | Who it suits |
 |---|---|---|---|---|
@@ -199,7 +199,7 @@ Around 03:30, give or take by season and hotel location. Sunrise on the plain la
 <details>
 <summary>What if it is cloudy?</summary>
 
-Then it is cloudy. No operator refunds weather, and the honest framing is that the climb afterward, which is most of the morning, does not depend on the mist at all.
+Then it is cloudy. Weather refunds depend on the booking terms, and the honest framing is that the climb afterward, which is most of the morning, does not depend on the mist at all.
 
 </details>
 </div>

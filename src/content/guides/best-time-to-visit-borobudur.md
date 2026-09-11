@@ -73,7 +73,7 @@ Day of the week is the other lever. Hard current numbers do not exist because th
 </table>
 
 The 1,200 figure is historical, from the capped era that ended when daily climbing resumed in July 2025. It is not a current limit; the weekday-versus-weekend spread is the useful part.
-{: .small}
+
 
 And sunrise? Most "sunrise" tours from Yogyakarta, including the [top-rated one we list](/tours/borobudur-sunrise-climb-prambanan/) (<a href="https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher" rel="sponsored noopener" target="_blank">check live availability &amp; prices on GetYourGuide</a>), watch dawn from Punthuk Setumbu, a hill about 2.5 km from the monument that looks across the mist toward it, then climb the temple after 08:30. It is a beautiful morning, but it is a viewpoint, not the terraces, and our [sunrise guide](/guides/borobudur-sunrise/) walks through which dawn suits which visitor.
 

@@ -1,0 +1,26 @@
+{
+  "reason": "Outside English article/guide scope",
+  "urls": [
+    "https://borobudurtempletour.org/",
+    "https://borobudurtempletour.org/about/",
+    "https://borobudurtempletour.org/ai-learn-about-us/",
+    "https://borobudurtempletour.org/blog/",
+    "https://borobudurtempletour.org/compare/",
+    "https://borobudurtempletour.org/contact/",
+    "https://borobudurtempletour.org/disclosure/",
+    "https://borobudurtempletour.org/guides/",
+    "https://borobudurtempletour.org/privacy/",
+    "https://borobudurtempletour.org/sitemap/",
+    "https://borobudurtempletour.org/tours/",
+    "https://borobudurtempletour.org/tours/borobudur-climb-prambanan-day-tour/",
+    "https://borobudurtempletour.org/tours/borobudur-sunrise-climb-prambanan/",
+    "https://borobudurtempletour.org/tours/borobudur-sunrise-merapi-prambanan/"
+  ],
+  "translations": [],
+  "templates": [
+    "blog",
+    "guide with hero",
+    "guide without hero"
+  ],
+  "baseline": "11d20b029c20222c46f884bdd6685f687d4413d3"
+}

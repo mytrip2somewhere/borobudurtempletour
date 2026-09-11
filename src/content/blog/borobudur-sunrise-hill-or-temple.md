@@ -43,7 +43,7 @@ Traveller reports put the hill's own gate fee at around IDR 50,000 for foreign v
 
 ## Can you watch sunrise from the temple itself?
 
-**Yes, but not on our tours: the site operator sells its own official Borobudur Sunrise product at 04:00, capped at 100 people a day, at IDR 1,000,000 for international visitors and 750,000 domestic, with a flashlight, Upanat sandals, a guide and breakfast at Manohara included. It is separate from everything sold here, we earn nothing from it, and it is booked on the operator's <a href="https://ticket.injourneydestination.id/en/borobudur-sunrise/" rel="noopener" target="_blank">official sunrise page</a>.**
+**Yes, through a separate temple-sunrise option: the site operator sells its own official Borobudur Sunrise product at 04:00, capped at 100 people a day, at IDR 1,000,000 for international visitors and 750,000 domestic, with a flashlight, Upanat sandals, a guide and breakfast at Manohara included. It is separate from the hill dawn. The VIP tour option linked below bundles this experience with private transport; the standalone ticket is also offered on the operator's <a href="https://ticket.injourneydestination.id/en/borobudur-sunrise/" rel="noopener" target="_blank">official sunrise page</a>.**
 
 <img src="/images/generated/photos/borobudur-sunrise-hill-or-temple-can-you-watch-sunrise-from-the-temple-itself.jpg" alt="The pre-dawn forest path up Punthuk Setumbu hill" width="1100" height="733" loading="lazy">
 

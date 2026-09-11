@@ -55,7 +55,7 @@ The four real alternatives, with what each actually delivers and what it costs y
 |---|---|---|---|
 | Yogyakarta, Java | Borobudur, Prambanan, batik, court culture, street food | Direct flight, around 1h35 | You came for a beach. There isn't one worth the drive. |
 | Lombok | Quieter beaches, Gili islands, Rinjani trekking | Short flight or fast boat | You want the restaurant and nightlife scene. |
-| Flores / Komodo | Komodo dragons, some of Asia's best diving | Flight to Labuan Bajo, then multi-day boats | You have fewer than four spare days. |
+| Flores / Komodo | Komodo dragons, some of Asia's best diving | Flight to Labuan Bajo, then a day boat trip or multi-day cruise | You have fewer than four spare days. |
 | Sumatra | Jungle, orangutans, Lake Toba, Padang food | Long flight plus long overland legs | You are on a one-week trip. |
 
 Note the pattern. Three of those four are more effort than Bali, not less. That is the honest trade, and anyone selling you an alternative without mentioning it is selling. The exception is Java, which is genuinely easy, and that is why I lead with it.
@@ -103,7 +103,7 @@ Read that last row carefully. I am not proposing you replace a two-week Bali hol
 
 ## Is Komodo or Flores a good Bali alternative?
 
-**Yes, if you have the days. Komodo National Park drew around 432,000 visitors in 2025 and remains genuinely wild. But it needs a flight to Labuan Bajo plus multi-day boat trips, so it is an addition to a trip rather than a swap for a weekend.**
+**Yes, if you have the days. Komodo National Park drew around 432,000 visitors in 2025 and remains genuinely wild. But it needs a flight to Labuan Bajo plus an island boat outing, available as a day trip or a multi-day cruise, so it is an addition to a trip rather than a swap for a weekend.**
 
 <img src="/images/generated/photos/where-to-go-instead-of-bali-is-komodo-or-flores-a-good-bali-alternative.jpg" alt="Island landscape of Komodo National Park, Flores" width="1100" height="733" loading="lazy">
 

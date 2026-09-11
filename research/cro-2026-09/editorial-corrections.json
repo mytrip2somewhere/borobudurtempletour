@@ -1,0 +1,182 @@
+[
+  {
+    "source": "src/content/blog/where-to-go-instead-of-bali.md",
+    "before": "plus multi-day boat trips",
+    "after": "plus an island boat outing, available as a day trip or a multi-day cruise",
+    "reason": "Pass 1: reconcile itinerary, weather terms or rendering with current provider evidence"
+  },
+  {
+    "source": "src/content/blog/where-to-go-instead-of-bali.md",
+    "before": "then multi-day boats",
+    "after": "then a day boat trip or multi-day cruise",
+    "reason": "Pass 1: reconcile itinerary, weather terms or rendering with current provider evidence"
+  },
+  {
+    "source": "src/content/blog/can-you-wear-shorts-at-borobudur.md",
+    "before": "adds Candi Mendut.",
+    "after": "includes a Mendut monastery substitute during temple renovation.",
+    "reason": "Pass 1: reconcile itinerary, weather terms or rendering with current provider evidence"
+  },
+  {
+    "source": "src/content/blog/borobudur-in-the-rain.md",
+    "before": "No operator refunds weather, including mine.",
+    "after": "Cloud alone does not establish a refund entitlement; check the cancellation and weather terms of your selected booking.",
+    "reason": "Pass 1: reconcile itinerary, weather terms or rendering with current provider evidence"
+  },
+  {
+    "source": "src/content/blog/borobudur-in-the-rain.md",
+    "before": "and nobody will give you your money back for the difference. That is standard across the industry",
+    "after": "and a disappointing view does not itself establish a refund. Check the terms for the selected booking; that distinction",
+    "reason": "Pass 1: reconcile itinerary, weather terms or rendering with current provider evidence"
+  },
+  {
+    "source": "src/content/blog/borobudur-in-the-rain.md",
+    "before": "in any weather",
+    "after": "subject to weather-related safety decisions",
+    "reason": "Pass 1: reconcile itinerary, weather terms or rendering with current provider evidence"
+  },
+  {
+    "source": "src/content/blog/borobudur-in-the-rain.md",
+    "before": "What changes in the rain is comfort and visibility, not access.",
+    "after": "Rain chiefly changes comfort and visibility; severe conditions can also interrupt access.",
+    "reason": "Pass 1: reconcile itinerary, weather terms or rendering with current provider evidence"
+  },
+  {
+    "source": "src/content/blog/borobudur-in-the-rain.md",
+    "before": "Access to the monument | None. Open every day, climb runs 08:30 to 17:00",
+    "after": "Access to the monument | Usually open; severe conditions can interrupt the published 08:30 to 17:00 climb schedule",
+    "reason": "Pass 1: reconcile itinerary, weather terms or rendering with current provider evidence"
+  },
+  {
+    "source": "src/content/blog/borobudur-in-the-rain.md",
+    "before": "Candi Mendut and its seated Buddha added",
+    "after": "a Mendut monastery stop during the temple renovation",
+    "reason": "Pass 1: reconcile itinerary, weather terms or rendering with current provider evidence"
+  },
+  {
+    "source": "src/content/blog/what-is-indonesia-famous-for.md",
+    "before": "then boats, multi-day",
+    "after": "then day boats or multi-day cruises",
+    "reason": "Pass 1: reconcile itinerary, weather terms or rendering with current provider evidence"
+  },
+  {
+    "source": "src/content/blog/is-yogyakarta-worth-visiting.md",
+    "before": "Candi Mendut with its famous seated Buddha",
+    "after": "Mendut monastery while the temple is under renovation",
+    "reason": "Pass 1: reconcile itinerary, weather terms or rendering with current provider evidence"
+  },
+  {
+    "source": "src/content/blog/is-it-rainy-season-in-indonesia.md",
+    "before": "Candi Mendut added",
+    "after": "Mendut monastery substituted during temple renovation",
+    "reason": "Pass 1: reconcile itinerary, weather terms or rendering with current provider evidence"
+  },
+  {
+    "source": "src/content/blog/borobudur-with-kids.md",
+    "before": "Adds Candi Mendut.",
+    "after": "Includes a Mendut monastery substitute during temple renovation.",
+    "reason": "Pass 1: reconcile itinerary, weather terms or rendering with current provider evidence"
+  },
+  {
+    "source": "src/content/guides/how-long-at-borobudur.md",
+    "before": "a stop at Candi Mendut on the way",
+    "after": "a stop at Mendut monastery while the temple is under renovation",
+    "reason": "Pass 1: reconcile itinerary, weather terms or rendering with current provider evidence"
+  },
+  {
+    "source": "src/content/guides/how-long-at-borobudur.md",
+    "before": "a Candi Mendut stop",
+    "after": "a Mendut monastery stop during temple renovation",
+    "reason": "Pass 1: reconcile itinerary, weather terms or rendering with current provider evidence"
+  },
+  {
+    "source": "src/content/guides/how-long-at-borobudur.md",
+    "before": "stops at Candi Mendut",
+    "after": "uses Mendut monastery during the temple renovation",
+    "reason": "Pass 1: reconcile itinerary, weather terms or rendering with current provider evidence"
+  },
+  {
+    "source": "src/content/guides/how-long-at-borobudur.md",
+    "before": "with transport and tickets handled throughout",
+    "after": "with transport and the inclusions of the selected ticket bundle arranged together",
+    "reason": "Pass 1: reconcile itinerary, weather terms or rendering with current provider evidence"
+  },
+  {
+    "source": "src/content/guides/how-long-at-borobudur.md",
+    "before": "All three tours we list include the climb and Prambanan;",
+    "after": "Choose the full two-temple, admission-inclusive variant: the listings also sell shorter or transport-only options;",
+    "reason": "Pass 1: reconcile itinerary, weather terms or rendering with current provider evidence"
+  },
+  {
+    "source": "src/content/guides/why-was-borobudur-abandoned.md",
+    "before": "{: .small}",
+    "after": "",
+    "reason": "Pass 1: reconcile itinerary, weather terms or rendering with current provider evidence"
+  },
+  {
+    "source": "src/content/guides/borobudur-sunrise.md",
+    "before": "including the ones we feature, ",
+    "after": "",
+    "reason": "Pass 1: reconcile itinerary, weather terms or rendering with current provider evidence"
+  },
+  {
+    "source": "src/content/guides/borobudur-sunrise.md",
+    "before": "We do not sell that one, and any page that lets you confuse the two is doing it on purpose.",
+    "after": "The VIP temple-sunrise option linked here is separate from the Setumbu hill outing; select the exact variant before booking.",
+    "reason": "Pass 1: reconcile itinerary, weather terms or rendering with current provider evidence"
+  },
+  {
+    "source": "src/content/guides/borobudur-sunrise.md",
+    "before": "No operator refunds weather,",
+    "after": "Weather refunds depend on the booking terms,",
+    "reason": "Pass 1: reconcile itinerary, weather terms or rendering with current provider evidence"
+  },
+  {
+    "source": "src/content/guides/borobudur-sunrise.md",
+    "before": "| ~07:00 | The climb itself",
+    "after": "| 08:30 or later | The climb itself",
+    "reason": "Pass 1: reconcile itinerary, weather terms or rendering with current provider evidence"
+  },
+  {
+    "source": "src/content/guides/borobudur-from-yogyakarta.md",
+    "before": "{: .small}",
+    "after": "",
+    "reason": "Pass 1: reconcile itinerary, weather terms or rendering with current provider evidence"
+  },
+  {
+    "source": "src/content/guides/borobudur-vs-angkor-wat.md",
+    "before": "{: .small}",
+    "after": "",
+    "reason": "Pass 1: reconcile itinerary, weather terms or rendering with current provider evidence"
+  },
+  {
+    "source": "src/content/guides/borobudur-tickets-and-prices.md",
+    "before": "including the ones we send bookings to, ",
+    "after": "",
+    "reason": "Pass 1: reconcile itinerary, weather terms or rendering with current provider evidence"
+  },
+  {
+    "source": "src/content/guides/borobudur-tickets-and-prices.md",
+    "before": "{: .small}",
+    "after": "",
+    "reason": "Pass 1: reconcile itinerary, weather terms or rendering with current provider evidence"
+  },
+  {
+    "source": "src/content/guides/climbing-borobudur.md",
+    "before": "{: .small}",
+    "after": "",
+    "reason": "Pass 1: reconcile itinerary, weather terms or rendering with current provider evidence"
+  },
+  {
+    "source": "src/content/guides/is-borobudur-worth-visiting.md",
+    "before": "| 07:00 | Guided climb",
+    "after": "| 08:30 or later | Guided climb",
+    "reason": "Pass 1: reconcile itinerary, weather terms or rendering with current provider evidence"
+  },
+  {
+    "source": "src/content/guides/best-time-to-visit-borobudur.md",
+    "before": "{: .small}",
+    "after": "",
+    "reason": "Pass 1: reconcile itinerary, weather terms or rendering with current provider evidence"
+  }
+]

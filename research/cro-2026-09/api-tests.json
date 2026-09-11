@@ -1,0 +1,10 @@
+{
+  "method": "server handler tests with recorded provider schedule fixture",
+  "whitelist": true,
+  "missingSecret": 503,
+  "providerFailure": 502,
+  "success": 200,
+  "cacheSeconds": 900,
+  "onlyScheduleFieldsReturned": true,
+  "result": "passed"
+}

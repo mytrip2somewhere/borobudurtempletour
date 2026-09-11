@@ -52,7 +52,7 @@ These are the figures published by the official operator, InJourney, at the time
 </table>
 
 USD figures are rough conversions and move with the exchange rate; the operator charges in rupiah. We deliberately do not publish a foreign climb price because the operator does not publish one on a public page, and the third-party figures floating around (you will see IDR 455,000 quoted) come from a source whose companion numbers we already found to be out of date. Confirming the live figure in the booking flow is the honest way to get it.
-{: .small}
+
 
 <aside class="infogain">
 <p class="infogain-h"><span class="tag">Latest data</span> What the numbers say right now</p>
@@ -178,7 +178,7 @@ The [Upanat sandals](/guides/what-to-wear-at-borobudur/) are not optional. Every
 
 If you have seen photographs of Borobudur emerging from mist at dawn and want that, read carefully, because two different products get sold under the word "sunrise". The official operator runs a genuine [sunrise from the monument itself](/guides/borobudur-sunrise/): a 04:00 start, capped at 100 people a day, at IDR 1,000,000 for international visitors. It includes a flashlight, the Upanat sandals, a guide, and breakfast at the Manohara restaurant.
 
-Most tours advertised as a "Borobudur sunrise tour", including the ones we send bookings to, are a different experience: sunrise watched from Punthuk Setumbu, a hill about 2.5 km away that looks toward the temple. It is a fine morning and much cheaper, but it is a hill viewpoint, not the terraces. We spell out that difference on the [sunrise guide](/guides/borobudur-sunrise/) so nobody books the wrong dawn.
+Most tours advertised as a "Borobudur sunrise tour", are a different experience: sunrise watched from Punthuk Setumbu, a hill about 2.5 km away that looks toward the temple. It is a fine morning and much cheaper, but it is a hill viewpoint, not the terraces. We spell out that difference on the [sunrise guide](/guides/borobudur-sunrise/) so nobody books the wrong dawn.
 
 ## How the tour price compares to the ticket
 

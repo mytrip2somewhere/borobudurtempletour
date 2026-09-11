@@ -1,0 +1,11 @@
+{
+  "method": "jsdom DOM and handler simulations; geometry, provider response and dialog APIs mocked",
+  "articles": 23,
+  "viewports": [
+    1280,
+    390
+  ],
+  "assertions": 1437,
+  "result": "passed",
+  "at": "2026-09-11T02:05:29.075Z"
+}

@@ -94,9 +94,9 @@ Here is the shape I set expectations around when I meet a group in the dark. Tim
 | 04:45 | Short uphill walk to Punthuk Setumbu | Cool air, a path of phone-torches, anticipation |
 | 05:15 | Dawn from the hill, Borobudur emerging from mist | The postcard moment, temple small on the plain with Merapi behind |
 | 06:30 | Drive to the monument as it opens | Light climbing, first heat of the day arriving |
-| 07:00 | Guided climb, reliefs read base upward | The story unfolds, panel by panel, the part people remember |
-| 08:15 | Upper terraces, stupas, open sky | Space opens out, the crowd thins if you moved early |
-| 09:00 | Descent and grounds | Warmth building, shade running short, good time to leave |
+| 08:30 or later | Guided climb, reliefs read base upward | The story unfolds, panel by panel, the part people remember |
+| Around 09:15 | Upper terraces, stupas, open sky | Space opens out, the crowd thins if you moved early |
+| Around 10:00 | Descent and grounds | Warmth building, shade running short, good time to leave |
 
 The thing that surprises people is how much the reliefs slow you down once you understand you are reading, not just looking. A visitor rushing the lower galleries covers them in ten minutes. A visitor who knows the base panels show earthly desire and the summit shows release covers them in forty, and remembers them for years. The climb itself is steep in places, real stone steps, and the included Upanat sandals protect the ancient stone rather than your knees, so a slow pace is the honest pace.
 
@@ -110,7 +110,7 @@ The other two downsides are more mundane and more fixable.
 
 | Downside | Reality | How to handle it |
 |---|---|---|
-| Heat | Terraces are open stone with almost no shade; late morning is punishing | Start at dawn, be descending by 09:00, carry more water than feels necessary |
+| Heat | Terraces are open stone with almost no shade; late morning is punishing | Choose an early daytime climb slot, avoid lingering into midday, carry more water than feels necessary |
 | Crowds at peak | Tour groups and weekend domestic visitors cluster from mid-morning | The early climb slot puts you ahead of the wave; move upward, not laterally |
 | Sunrise expectation | Hill viewpoint, not monument top, on standard tours | Book the hill for the photo, or arrange the capped 04:00 monument ticket separately if you want the terrace at dawn |
 

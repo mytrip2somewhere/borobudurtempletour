@@ -1,0 +1,163 @@
+{
+  "productCode": "214335P5",
+  "bookableItems": [
+    {
+      "productOptionCode": "TG1",
+      "seasons": [
+        {
+          "startDate": "2020-02-25",
+          "pricingRecords": [
+            {
+              "daysOfWeek": [
+                "TUESDAY",
+                "WEDNESDAY",
+                "THURSDAY",
+                "FRIDAY",
+                "SATURDAY",
+                "SUNDAY"
+              ],
+              "timedEntries": [
+                {
+                  "startTime": "09:00"
+                },
+                {
+                  "startTime": "07:00"
+                },
+                {
+                  "startTime": "08:00"
+                },
+                {
+                  "startTime": "06:00"
+                },
+                {
+                  "startTime": "10:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "productOptionCode": "TG2",
+      "seasons": [
+        {
+          "startDate": "2024-05-12",
+          "pricingRecords": [
+            {
+              "daysOfWeek": [
+                "MONDAY"
+              ],
+              "timedEntries": [
+                {
+                  "startTime": "06:00"
+                },
+                {
+                  "startTime": "07:00"
+                },
+                {
+                  "startTime": "08:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "productOptionCode": "TG3",
+      "seasons": [
+        {
+          "startDate": "2025-07-25",
+          "pricingRecords": [
+            {
+              "daysOfWeek": [
+                "MONDAY",
+                "TUESDAY",
+                "WEDNESDAY",
+                "THURSDAY",
+                "FRIDAY",
+                "SATURDAY",
+                "SUNDAY"
+              ],
+              "timedEntries": [
+                {
+                  "startTime": "03:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "productOptionCode": "TG4",
+      "seasons": [
+        {
+          "startDate": "2026-06-19",
+          "pricingRecords": [
+            {
+              "daysOfWeek": [
+                "MONDAY",
+                "TUESDAY",
+                "WEDNESDAY",
+                "THURSDAY",
+                "FRIDAY",
+                "SATURDAY",
+                "SUNDAY"
+              ],
+              "timedEntries": [
+                {
+                  "startTime": "07:00"
+                },
+                {
+                  "startTime": "08:00"
+                },
+                {
+                  "startTime": "09:00"
+                },
+                {
+                  "startTime": "10:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "productOptionCode": "TG5",
+      "seasons": [
+        {
+          "startDate": "2026-06-19",
+          "pricingRecords": [
+            {
+              "daysOfWeek": [
+                "TUESDAY",
+                "WEDNESDAY",
+                "THURSDAY",
+                "FRIDAY",
+                "SATURDAY",
+                "SUNDAY"
+              ],
+              "timedEntries": [
+                {
+                  "startTime": "09:00"
+                },
+                {
+                  "startTime": "08:00"
+                },
+                {
+                  "startTime": "07:00"
+                },
+                {
+                  "startTime": "10:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

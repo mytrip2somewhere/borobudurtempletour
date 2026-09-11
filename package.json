@@ -5,10 +5,15 @@
   "type": "module",
   "description": "Affiliate tour-content site (Borobudur Temple Tour) built on the reusable pipeline.",
   "scripts": {
-    "build": "node build/compile.mjs",
-    "serve": "node build/compile.mjs && cd dist && python3 -m http.server 8080"
+    "build": "node build/compile.mjs && node build/cro/render.mjs && node build/cro/regressions.mjs",
+    "serve": "node build/compile.mjs && cd dist && python3 -m http.server 8080",
+    "test": "node build/cro/behavior-tests.mjs && node build/cro/api-tests.mjs"
   },
   "dependencies": {
     "marked": "^18.0.5"
+  },
+  "devDependencies": {
+    "cheerio": "^1.2.0",
+    "jsdom": "^29.1.1"
   }
 }

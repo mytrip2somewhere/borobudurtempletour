@@ -1,0 +1,347 @@
+[
+  {
+    "requirement": "Preserve answers and full editorial; original heading inventory",
+    "applies": "All 23 English articles",
+    "implementation": [
+      "build/cro/render.mjs",
+      "build/cro/copy.mjs",
+      "build/cro/products.mjs",
+      "src/public/assets/cro/article.js",
+      "src/public/assets/cro/article.css"
+    ],
+    "acceptance": "Preserve answers and full editorial; original heading inventory",
+    "evidence": [
+      "locked-plans.json",
+      "review.md",
+      "build-tests.json",
+      "behavior-tests.json"
+    ],
+    "status": "passed structural/editorial and simulated checks; observed browser checks as detailed in review.md"
+  },
+  {
+    "requirement": "Intro bridge and actionable TLDR",
+    "applies": "All 23 English articles",
+    "implementation": [
+      "build/cro/render.mjs",
+      "build/cro/copy.mjs",
+      "build/cro/products.mjs",
+      "src/public/assets/cro/article.js",
+      "src/public/assets/cro/article.css"
+    ],
+    "acceptance": "Intro bridge and actionable TLDR",
+    "evidence": [
+      "locked-plans.json",
+      "review.md",
+      "build-tests.json",
+      "behavior-tests.json"
+    ],
+    "status": "passed structural/editorial and simulated checks; observed browser checks as detailed in review.md"
+  },
+  {
+    "requirement": "Every H2/H3/deeper covered, FAQ controls excluded",
+    "applies": "All 23 English articles",
+    "implementation": [
+      "build/cro/render.mjs",
+      "build/cro/copy.mjs",
+      "build/cro/products.mjs",
+      "src/public/assets/cro/article.js",
+      "src/public/assets/cro/article.css"
+    ],
+    "acceptance": "Every H2/H3/deeper covered, FAQ controls excluded",
+    "evidence": [
+      "locked-plans.json",
+      "review.md",
+      "build-tests.json",
+      "behavior-tests.json"
+    ],
+    "status": "passed structural/editorial and simulated checks; observed browser checks as detailed in review.md"
+  },
+  {
+    "requirement": "Alternating curiosity urgency, exact action registry",
+    "applies": "All 23 English articles",
+    "implementation": [
+      "build/cro/render.mjs",
+      "build/cro/copy.mjs",
+      "build/cro/products.mjs",
+      "src/public/assets/cro/article.js",
+      "src/public/assets/cro/article.css"
+    ],
+    "acceptance": "Alternating curiosity urgency, exact action registry",
+    "evidence": [
+      "locked-plans.json",
+      "review.md",
+      "build-tests.json",
+      "behavior-tests.json"
+    ],
+    "status": "passed structural/editorial and simulated checks; observed browser checks as detailed in review.md"
+  },
+  {
+    "requirement": "Contextual image cards separate from widgets",
+    "applies": "All 23 English articles",
+    "implementation": [
+      "build/cro/render.mjs",
+      "build/cro/copy.mjs",
+      "build/cro/products.mjs",
+      "src/public/assets/cro/article.js",
+      "src/public/assets/cro/article.css"
+    ],
+    "acceptance": "Contextual image cards separate from widgets",
+    "evidence": [
+      "locked-plans.json",
+      "review.md",
+      "build-tests.json",
+      "behavior-tests.json"
+    ],
+    "status": "passed structural/editorial and simulated checks; observed browser checks as detailed in review.md"
+  },
+  {
+    "requirement": "Verified intent-matched product registry, targeted discovery for weak fit",
+    "applies": "All 23 English articles",
+    "implementation": [
+      "build/cro/render.mjs",
+      "build/cro/copy.mjs",
+      "build/cro/products.mjs",
+      "src/public/assets/cro/article.js",
+      "src/public/assets/cro/article.css"
+    ],
+    "acceptance": "Verified intent-matched product registry, targeted discovery for weak fit",
+    "evidence": [
+      "locked-plans.json",
+      "review.md",
+      "build-tests.json",
+      "behavior-tests.json"
+    ],
+    "status": "passed structural/editorial and simulated checks; observed browser checks as detailed in review.md"
+  },
+  {
+    "requirement": "Single end module after all editorial FAQ, initial recommendation alternatives selector",
+    "applies": "All 23 English articles",
+    "implementation": [
+      "build/cro/render.mjs",
+      "build/cro/copy.mjs",
+      "build/cro/products.mjs",
+      "src/public/assets/cro/article.js",
+      "src/public/assets/cro/article.css"
+    ],
+    "acceptance": "Single end module after all editorial FAQ, initial recommendation alternatives selector",
+    "evidence": [
+      "locked-plans.json",
+      "review.md",
+      "build-tests.json",
+      "behavior-tests.json"
+    ],
+    "status": "passed structural/editorial and simulated checks; observed browser checks as detailed in review.md"
+  },
+  {
+    "requirement": "Cost calculator for cost/value discussions",
+    "applies": "All 23 English articles",
+    "implementation": [
+      "build/cro/render.mjs",
+      "build/cro/copy.mjs",
+      "build/cro/products.mjs",
+      "src/public/assets/cro/article.js",
+      "src/public/assets/cro/article.css"
+    ],
+    "acceptance": "Cost calculator for cost/value discussions",
+    "evidence": [
+      "locked-plans.json",
+      "review.md",
+      "build-tests.json",
+      "behavior-tests.json"
+    ],
+    "status": "passed structural/editorial and simulated checks; observed browser checks as detailed in review.md"
+  },
+  {
+    "requirement": "Desktop sticky/mobile 30 percent, dismissal per article",
+    "applies": "All 23 English articles",
+    "implementation": [
+      "build/cro/render.mjs",
+      "build/cro/copy.mjs",
+      "build/cro/products.mjs",
+      "src/public/assets/cro/article.js",
+      "src/public/assets/cro/article.css"
+    ],
+    "acceptance": "Desktop sticky/mobile 30 percent, dismissal per article",
+    "evidence": [
+      "locked-plans.json",
+      "review.md",
+      "build-tests.json",
+      "behavior-tests.json"
+    ],
+    "status": "passed structural/editorial and simulated checks; observed browser checks as detailed in review.md"
+  },
+  {
+    "requirement": "Engaged desktop exit once session, focus Escape restoration",
+    "applies": "All 23 English articles",
+    "implementation": [
+      "build/cro/render.mjs",
+      "build/cro/copy.mjs",
+      "build/cro/products.mjs",
+      "src/public/assets/cro/article.js",
+      "src/public/assets/cro/article.css"
+    ],
+    "acceptance": "Engaged desktop exit once session, focus Escape restoration",
+    "evidence": [
+      "locked-plans.json",
+      "review.md",
+      "build-tests.json",
+      "behavior-tests.json"
+    ],
+    "status": "simulation passed; physical pointer departure and native dialog keyboard behavior unverified"
+  },
+  {
+    "requirement": "Two genuine provider widgets distinct points, both providers if supported",
+    "applies": "All 23 English articles",
+    "implementation": [
+      "build/cro/render.mjs",
+      "build/cro/copy.mjs",
+      "build/cro/products.mjs",
+      "src/public/assets/cro/article.js",
+      "src/public/assets/cro/article.css"
+    ],
+    "acceptance": "Two genuine provider widgets distinct points, both providers if supported",
+    "evidence": [
+      "locked-plans.json",
+      "review.md",
+      "build-tests.json",
+      "behavior-tests.json",
+      "api-tests.json"
+    ],
+    "status": "blocked: Viator production secret requires explicit approval; native GYG observed, Viator fallback tested"
+  },
+  {
+    "requirement": "Affiliate-only exact destinations including old and dynamic links, narrow GYG footer exception",
+    "applies": "All 23 English articles",
+    "implementation": [
+      "build/cro/render.mjs",
+      "build/cro/copy.mjs",
+      "build/cro/products.mjs",
+      "src/public/assets/cro/article.js",
+      "src/public/assets/cro/article.css"
+    ],
+    "acceptance": "Affiliate-only exact destinations including old and dynamic links, narrow GYG footer exception",
+    "evidence": [
+      "locked-plans.json",
+      "review.md",
+      "build-tests.json",
+      "behavior-tests.json"
+    ],
+    "status": "passed structural/editorial and simulated checks; observed browser checks as detailed in review.md"
+  },
+  {
+    "requirement": "Selection no-match reset synchronization and accurate eligibility",
+    "applies": "All 23 English articles",
+    "implementation": [
+      "build/cro/render.mjs",
+      "build/cro/copy.mjs",
+      "build/cro/products.mjs",
+      "src/public/assets/cro/article.js",
+      "src/public/assets/cro/article.css"
+    ],
+    "acceptance": "Selection no-match reset synchronization and accurate eligibility",
+    "evidence": [
+      "locked-plans.json",
+      "review.md",
+      "build-tests.json",
+      "behavior-tests.json"
+    ],
+    "status": "passed structural/editorial and simulated checks; observed browser checks as detailed in review.md"
+  },
+  {
+    "requirement": "Preserve analytics, placement events",
+    "applies": "All 23 English articles",
+    "implementation": [
+      "build/cro/render.mjs",
+      "build/cro/copy.mjs",
+      "build/cro/products.mjs",
+      "src/public/assets/cro/article.js",
+      "src/public/assets/cro/article.css"
+    ],
+    "acceptance": "Preserve analytics, placement events",
+    "evidence": [
+      "locked-plans.json",
+      "review.md",
+      "build-tests.json",
+      "behavior-tests.json"
+    ],
+    "status": "passed structural/editorial and simulated checks; observed browser checks as detailed in review.md"
+  },
+  {
+    "requirement": "Two actual improvement passes",
+    "applies": "All 23 English articles",
+    "implementation": [
+      "build/cro/render.mjs",
+      "build/cro/copy.mjs",
+      "build/cro/products.mjs",
+      "src/public/assets/cro/article.js",
+      "src/public/assets/cro/article.css"
+    ],
+    "acceptance": "Two actual improvement passes",
+    "evidence": [
+      "locked-plans.json",
+      "review.md",
+      "build-tests.json",
+      "behavior-tests.json"
+    ],
+    "status": "passed structural/editorial and simulated checks; observed browser checks as detailed in review.md"
+  },
+  {
+    "requirement": "Build omission negative DOM-order action link duplicate tests",
+    "applies": "All 23 English articles",
+    "implementation": [
+      "build/cro/render.mjs",
+      "build/cro/copy.mjs",
+      "build/cro/products.mjs",
+      "src/public/assets/cro/article.js",
+      "src/public/assets/cro/article.css"
+    ],
+    "acceptance": "Build omission negative DOM-order action link duplicate tests",
+    "evidence": [
+      "locked-plans.json",
+      "review.md",
+      "build-tests.json",
+      "behavior-tests.json"
+    ],
+    "status": "passed structural/editorial and simulated checks; observed browser checks as detailed in review.md"
+  },
+  {
+    "requirement": "Desktop/mobile render and interactions; distinguish simulation",
+    "applies": "All 23 English articles",
+    "implementation": [
+      "build/cro/render.mjs",
+      "build/cro/copy.mjs",
+      "build/cro/products.mjs",
+      "src/public/assets/cro/article.js",
+      "src/public/assets/cro/article.css"
+    ],
+    "acceptance": "Desktop/mobile render and interactions; distinguish simulation",
+    "evidence": [
+      "locked-plans.json",
+      "review.md",
+      "build-tests.json",
+      "behavior-tests.json"
+    ],
+    "status": "all 23 desktop/mobile DOM layouts checked; representative physical actions observed; remaining browser actions unavailable after Mac lock"
+  },
+  {
+    "requirement": "Scope guard release rollback and live verification",
+    "applies": "All 23 English articles",
+    "implementation": [
+      "build/cro/render.mjs",
+      "build/cro/copy.mjs",
+      "build/cro/products.mjs",
+      "src/public/assets/cro/article.js",
+      "src/public/assets/cro/article.css"
+    ],
+    "acceptance": "Scope guard release rollback and live verification",
+    "evidence": [
+      "locked-plans.json",
+      "review.md",
+      "build-tests.json",
+      "behavior-tests.json",
+      "scope-and-links.json",
+      "cloudflare-before.json"
+    ],
+    "status": "scope guard passed; deployment pending"
+  }
+]

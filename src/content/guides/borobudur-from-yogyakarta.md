@@ -77,7 +77,7 @@ Count on 90 minutes to two hours each way once transfers and waiting are include
 </table>
 
 Bus and ride-hailing figures come from traveler reports and operator listings from 2024 and 2025, not from a published official fare table, so confirm current prices in the apps or at the terminal. Rupiah fares in particular move often.
-{: .small}
+
 
 Whichever way you travel, the clock that matters is the temple's own. The structure climb runs 08:30 to 17:00, per the <a href="https://ticket.injourneydestination.id/en/borobudur-temple/" rel="noopener" target="_blank">operator's official ticketing page</a>, so working backward from an 08:30 arrival gives you a departure time for each option.
 

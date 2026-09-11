@@ -68,7 +68,7 @@ During Britain's brief rule of Java, Thomas Stamford Raffles was told in 1814 of
 <img src="/images/generated/photos/why-was-borobudur-abandoned-the-timeline-at-a-glance.jpg" alt="Carved makara balustrade on Borobudur temple" width="1100" height="733" loading="lazy">
 
 Dating follows UNESCO and the epigraphic record; where scholars disagree, we say so above rather than pick a side.
-{: .small}
+
 
 
 

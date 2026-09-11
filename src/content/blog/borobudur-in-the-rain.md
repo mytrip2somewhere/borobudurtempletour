@@ -14,7 +14,7 @@ Wet andesite is a different colour. That is the thing I never manage to explain 
 
 ## Does Borobudur close when it rains?
 
-**No. Borobudur opens every day of the year and rain is not a closure. The structure climb runs 08:30 to 17:00 and the grounds open at 06:30, in any weather. Tours run. What changes in the rain is comfort and visibility, not access.**
+**No. Borobudur opens every day of the year and rain is not a closure. The structure climb runs 08:30 to 17:00 and the grounds open at 06:30, subject to weather-related safety decisions. Tours run. Rain chiefly changes comfort and visibility; severe conditions can also interrupt access.**
 
 <img src="/images/generated/photos/borobudur-in-the-rain-does-borobudur-close-when-it-rains.jpg" alt="Sheltering from a downpour under a gateway of Borobudur" width="1100" height="733" loading="lazy">
 
@@ -24,16 +24,16 @@ If the rain is violent enough that staff hold people off the terraces for a whil
 
 ## What does the rain take away from a Borobudur visit?
 
-**One thing, mainly: the dawn view. Sunrise tours watch from Punthuk Setumbu, a hill about 2.5 km from the monument, and that view lives or dies on cloud. No operator refunds weather, including mine. The rest of what rain costs you is discomfort rather than loss.**
+**One thing, mainly: the dawn view. Sunrise tours watch from Punthuk Setumbu, a hill about 2.5 km from the monument, and that view lives or dies on cloud. Cloud alone does not establish a refund entitlement; check the cancellation and weather terms of your selected booking. The rest of what rain costs you is discomfort rather than loss.**
 
 <img src="/images/generated/photos/borobudur-in-the-rain-what-does-the-rain-take-away-from-a-borobudu.jpg" alt="Storm clouds building over Borobudur temple" width="1100" height="733" loading="lazy">
 
-I would rather say this bluntly than have you find out on a hill at half past five. Punthuk Setumbu in the wet season is a gamble. You leave Yogyakarta around 03:30, you climb the hill in the dark, and sunrise on the Kedu Plain lands near 05:30. Some wet-season mornings hand you the thing you came for: mist pooling on the plain, the stupa breaking through it, the whole postcard. Other mornings hand you a wall of grey and a wet bench. Nobody can tell you in advance which one you have booked, and nobody will give you your money back for the difference. That is standard across the industry and it is worth knowing before you book rather than after.
+I would rather say this bluntly than have you find out on a hill at half past five. Punthuk Setumbu in the wet season is a gamble. You leave Yogyakarta around 03:30, you climb the hill in the dark, and sunrise on the Kedu Plain lands near 05:30. Some wet-season mornings hand you the thing you came for: mist pooling on the plain, the stupa breaking through it, the whole postcard. Other mornings hand you a wall of grey and a wet bench. Nobody can tell you in advance which one you have booked, and a disappointing view does not itself establish a refund. Check the terms for the selected booking; that distinction and it is worth knowing before you book rather than after.
 
 | What rain affects | How much it matters |
 | --- | --- |
 | Setumbu dawn view | High. The view is the product, and cloud can erase it |
-| Access to the monument | None. Open every day, climb runs 08:30 to 17:00 |
+| Access to the monument | Usually open; severe conditions can interrupt the published 08:30 to 17:00 climb schedule |
 | Shelter on the terraces | High for comfort. There is none, at any level |
 | Footing on the stone | Moderate. Wet andesite in Upanat sandals is slick |
 | Seeing the reliefs | Improves. Wet stone reads better than dry |
@@ -59,7 +59,7 @@ Then there is who else is there. Borobudur took roughly 1.3 million visitors in 
 <aside class="infogain">
   <p class="infogain-h"><span class="tag">Latest data</span> What a wet-season visit actually looks like now</p>
   <ul>
-    <li>The climb runs every day of the week, in any weather. The last day-of-week restriction was dropped in the third week of July 2025.</li>
+    <li>The climb runs every day of the week, subject to weather-related safety decisions. The last day-of-week restriction was dropped in the third week of July 2025.</li>
     <li>Published hours do not change with the season: the structure is open 08:30 to 17:00, the grounds from 06:30 to 16:30.</li>
     <li>Wet season across Central Java runs November to April, peaking December to February, with rain arriving mostly as afternoon and evening downpours.</li>
     <li>Around 1.3 million people visited in 2024, roughly 200,000 of them international, and they concentrate in the dry months, so the wet season is the thin one.</li>
@@ -123,7 +123,7 @@ The sandals are not optional, by the way. They are the one genuine clothing rule
 
 I would rather be straight about this than sell you the wrong trip. My [Borobudur Sunrise Climb & Prambanan](/tours/borobudur-sunrise-climb-prambanan/) is the most-booked thing I run and it is a wonderful morning when the sky cooperates. In February, the sky cooperates sometimes. If you understand that going in, and the early start and the guaranteed climb still appeal, you can <a href="https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher" rel="sponsored noopener" target="_blank">check live availability &amp; prices on GetYourGuide</a>. The [sunrise guide](/guides/borobudur-sunrise/) explains exactly what the hill does and does not deliver.
 
-If that gamble does not appeal in the wet months, take the [Borobudur Climb & Prambanan Day Tour](/tours/borobudur-climb-prambanan-day-tour/) instead. About eight hours, a start you can face, Candi Mendut and its seated Buddha added, and Prambanan after. Nothing in it depends on a clear horizon at 05:30. That is not a lesser trip in December. It is the better-matched one.
+If that gamble does not appeal in the wet months, take the [Borobudur Climb & Prambanan Day Tour](/tours/borobudur-climb-prambanan-day-tour/) instead. About eight hours, a start you can face, a Mendut monastery stop during the temple renovation, and Prambanan after. Nothing in it depends on a clear horizon at 05:30. That is not a lesser trip in December. It is the better-matched one.
 
 
 {{ tour_picks:climb-day-tour,sunrise-climb-prambanan,merapi-full-day }}

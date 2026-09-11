@@ -38,7 +38,7 @@ The religion detail is what rescues Borobudur's claim from marketing fluff. Angk
 <img src="/images/generated/photos/borobudur-vs-angkor-wat-the-two-temples-side-by-side.jpg" alt="Tree roots overtaking a gallery at the Angkor temples" width="1100" height="733" loading="lazy">
 
 Footprint figures follow UNESCO and standard archaeological references; the Angkor pass price is the official Angkor Enterprise rate at the time of writing.
-{: .small}
+
 
 
 <div class="cta-box" id="cta-mid">

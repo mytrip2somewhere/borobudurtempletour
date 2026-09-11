@@ -67,7 +67,7 @@ This is the part where I am supposed to sell you the most popular tour, and I am
 
 | Tour | Start | Length | Family reality |
 |---|---|---|---|
-| [Borobudur Climb & Prambanan Day Tour](/tours/borobudur-climb-prambanan-day-tour/) | Civilised morning | ~8 hours | The default for families. Adds Candi Mendut. No 03:00 alarm |
+| [Borobudur Climb & Prambanan Day Tour](/tours/borobudur-climb-prambanan-day-tour/) | Civilised morning | ~8 hours | The default for families. Includes a Mendut monastery substitute during temple renovation. No 03:00 alarm |
 | [Sunrise, Merapi Volcano & Prambanan](/tours/borobudur-sunrise-merapi-prambanan/) | ~03:30 | ~12 hours | Brutal start, but the Merapi jeep is the bit older kids talk about for years |
 | [Borobudur Sunrise Climb & Prambanan](/tours/borobudur-sunrise-climb-prambanan/) | ~03:30 | Half to full day | Best for couples and photographers, hardest sell to a nine-year-old |
 

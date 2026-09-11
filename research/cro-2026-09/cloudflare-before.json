@@ -1,0 +1,45 @@
+{
+  "name": "borobudur-temple-tour",
+  "production_branch": "main",
+  "domains": [
+    "borobudur-temple-tour.pages.dev",
+    "borobudurtempletour.org",
+    "www.borobudurtempletour.org"
+  ],
+  "deploymentId": "c2a20d8d-4d85-4278-8fc4-f12324bd74be",
+  "url": "https://c2a20d8d.borobudur-temple-tour.pages.dev",
+  "created_on": "2026-08-15T16:07:24.314844Z",
+  "stages": [
+    {
+      "name": "queued",
+      "started_on": "2026-08-15T16:07:24.314844Z",
+      "ended_on": null,
+      "status": "active"
+    },
+    {
+      "name": "initialize",
+      "started_on": null,
+      "ended_on": null,
+      "status": "idle"
+    },
+    {
+      "name": "clone_repo",
+      "started_on": null,
+      "ended_on": null,
+      "status": "idle"
+    },
+    {
+      "name": "build",
+      "started_on": null,
+      "ended_on": null,
+      "status": "idle"
+    },
+    {
+      "name": "deploy",
+      "started_on": null,
+      "ended_on": "2026-08-15T16:07:25.432237Z",
+      "status": "success"
+    }
+  ],
+  "source": null
+}

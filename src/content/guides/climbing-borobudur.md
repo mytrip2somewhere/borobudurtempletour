@@ -40,7 +40,7 @@ Two changes matter most. Since the third week of **July 2025, the climb runs eve
 </table>
 
 Inclusions quoted from the operator's ticketing pages, July 2026. The [tickets guide](/guides/borobudur-tickets-and-prices/) has the full pricing picture.
-{: .small}
+
 
 ## When you can actually be on the monument
 
