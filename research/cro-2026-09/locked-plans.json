@@ -6,7 +6,7 @@
     "url": "https://borobudurtempletour.org/blog/borobudur-in-the-rain/",
     "sourceHash": "94732bb09dbd7ed1d9b217070ba98e755e02a0ab18c8f4dda7432de795074d25",
     "outputHash": "805f579925d0f9ab3ebc1a43a2025a478d85176b02cf6529d67901d9f4c82dc1",
-    "status": "rendered",
+    "status": "deployed with documented Viator provider fallback",
     "originalIntro": "\nWet andesite is a different colour. That is the thing I never manage to explain to people before they see it, and the thing they always mention afterwards. Dry stone in August glare goes flat and pale and the carvings sink into it. Add rain and the same panel turns nearly black in its hollows, the relief jumps forward, and a queue of ninth-century figures you would have walked straight past suddenly has faces. I have taken shelter under my own arms on that top terrace more times than I can count, and I have never once thought the day was wasted.\n\n",
     "headings": [
       {
@@ -92,6 +92,16 @@
         ],
         "disposition": "REPLACE",
         "reason": "Replace repeated promotion with section-specific or single final booking module; sticky replaced"
+      },
+      {
+        "id": "legacy-mid",
+        "locator": "#cta-mid",
+        "text": "Book the day tour\nRather skip the 3am alarm?\nThe daytime Borobudur climb with Candi Mendut and Prambanan, no pre-dawn start, hotel pickup included. Free cancellation up to 24 hours, reserve now and pay later: booking takes 2 minutes and costs nothing today.\nCheck live availability & prices →",
+        "links": [
+          "https://www.viator.com/tours/Yogyakarta/Budha-Voyage/d22560-214335P5?pid=P00062370&mcid=42383&medium=link"
+        ],
+        "disposition": "REPLACE",
+        "reason": "Generic mid-article pitch replaced by section-specific coverage; no editorial children removed"
       }
     ],
     "oldLinks": [
@@ -379,6 +389,16 @@
         ],
         "disposition": "REPLACE",
         "reason": "Replace repeated promotion with section-specific or single final booking module; sticky replaced"
+      },
+      {
+        "id": "legacy-mid",
+        "locator": "#cta-mid",
+        "text": "Book the day tour\nRather skip the 3am alarm?\nThe daytime Borobudur climb with Candi Mendut and Prambanan, no pre-dawn start, hotel pickup included. Free cancellation up to 24 hours, reserve now and pay later: booking takes 2 minutes and costs nothing today.\nCheck live availability & prices →",
+        "links": [
+          "https://www.viator.com/tours/Yogyakarta/Budha-Voyage/d22560-214335P5?pid=P00062370&mcid=42383&medium=link"
+        ],
+        "disposition": "REPLACE",
+        "reason": "Generic mid-article pitch replaced by section-specific coverage; no editorial children removed"
       }
     ]
   },
@@ -389,7 +409,7 @@
     "url": "https://borobudurtempletour.org/blog/borobudur-or-angkor-wat-which-to-visit/",
     "sourceHash": "5ee821b6ee474e00875bc70e7f91d61593f4ee944775817f5fc0efbad6c786ae",
     "outputHash": "afe98fd8dd9d5caf0c271d24623c3418abd245987ae3fc43cb9d1840784e0746",
-    "status": "rendered",
+    "status": "deployed with documented Viator provider fallback",
     "originalIntro": "\nA man on my tour last dry season had been to Angkor three times. He said it apologetically, the way people do when they think they are about to insult your temple, and then he spent forty minutes on the second gallery not saying anything at all. At the bottom he told me the thing I have been quoting ever since: Angkor made him feel small, and this made him feel slow. He meant it as a compliment to both.\n\nI guide at Borobudur. You should read what follows knowing that. I am also not going to tell you Angkor Wat is overrated, because it is not, and because you would be right to stop trusting me the moment I did.\n\n",
     "headings": [
       {
@@ -469,6 +489,16 @@
         ],
         "disposition": "REPLACE",
         "reason": "Replace repeated promotion with section-specific or single final booking module; sticky replaced"
+      },
+      {
+        "id": "legacy-mid",
+        "locator": "#cta-mid",
+        "text": "Book the sunrise climb\nReady to book the sunrise climb?\nDawn from Punthuk Setumbu, then the Borobudur climb itself, with hotel pickup from Yogyakarta. Free cancellation up to 24 hours, reserve now and pay later: booking takes 2 minutes and costs nothing today.\nCheck live availability & prices →",
+        "links": [
+          "https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher"
+        ],
+        "disposition": "REPLACE",
+        "reason": "Generic mid-article pitch replaced by section-specific coverage; no editorial children removed"
       }
     ],
     "oldLinks": [
@@ -732,6 +762,16 @@
         ],
         "disposition": "REPLACE",
         "reason": "Replace repeated promotion with section-specific or single final booking module; sticky replaced"
+      },
+      {
+        "id": "legacy-mid",
+        "locator": "#cta-mid",
+        "text": "Book the sunrise climb\nReady to book the sunrise climb?\nDawn from Punthuk Setumbu, then the Borobudur climb itself, with hotel pickup from Yogyakarta. Free cancellation up to 24 hours, reserve now and pay later: booking takes 2 minutes and costs nothing today.\nCheck live availability & prices →",
+        "links": [
+          "https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher"
+        ],
+        "disposition": "REPLACE",
+        "reason": "Generic mid-article pitch replaced by section-specific coverage; no editorial children removed"
       }
     ]
   },
@@ -742,7 +782,7 @@
     "url": "https://borobudurtempletour.org/blog/borobudur-sunrise-hill-or-temple/",
     "sourceHash": "68d5e5d897d5795a7306ba4914920786636cb3f8642ce1e48fc2b83025ddd932",
     "outputHash": "2acf0ad737dfd99850169b1f227510b7a43d8804b5c6e7dc7e9977cb3809ef7c",
-    "status": "rendered",
+    "status": "deployed with documented Viator provider fallback",
     "originalIntro": "\nAt about ten past five on a good morning, standing on a hill called Punthuk Setumbu, you watch a grey sea turn gold and a single dark shape push up through it. That shape is Borobudur, two and a half kilometres away across the plain, and the photograph you are about to take is the one you have already seen a hundred times before you ever booked anything. Here is the thing that catches people. On that morning, you are not at the temple. You are looking at it. And a lot of travellers only work that out when the sun is already up.\n\nTwo completely different experiences are sold under the same three words. Nobody explains the difference, so I will.\n\n",
     "headings": [
       {
@@ -828,6 +868,16 @@
         ],
         "disposition": "REPLACE",
         "reason": "Replace repeated promotion with section-specific or single final booking module; sticky replaced"
+      },
+      {
+        "id": "legacy-mid",
+        "locator": "#cta-mid",
+        "text": "Book the sunrise climb\nReady to book the sunrise climb?\nDawn from Punthuk Setumbu, then the Borobudur climb itself, with hotel pickup from Yogyakarta. Free cancellation up to 24 hours, reserve now and pay later: booking takes 2 minutes and costs nothing today.\nCheck live availability & prices →",
+        "links": [
+          "https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher"
+        ],
+        "disposition": "REPLACE",
+        "reason": "Generic mid-article pitch replaced by section-specific coverage; no editorial children removed"
       }
     ],
     "oldLinks": [
@@ -1107,6 +1157,16 @@
         ],
         "disposition": "REPLACE",
         "reason": "Replace repeated promotion with section-specific or single final booking module; sticky replaced"
+      },
+      {
+        "id": "legacy-mid",
+        "locator": "#cta-mid",
+        "text": "Book the sunrise climb\nReady to book the sunrise climb?\nDawn from Punthuk Setumbu, then the Borobudur climb itself, with hotel pickup from Yogyakarta. Free cancellation up to 24 hours, reserve now and pay later: booking takes 2 minutes and costs nothing today.\nCheck live availability & prices →",
+        "links": [
+          "https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher"
+        ],
+        "disposition": "REPLACE",
+        "reason": "Generic mid-article pitch replaced by section-specific coverage; no editorial children removed"
       }
     ]
   },
@@ -1117,7 +1177,7 @@
     "url": "https://borobudurtempletour.org/blog/borobudur-with-kids/",
     "sourceHash": "11fd990f5bb63595fb6344b37d4441d28fad3662a3216307f63588cdbdc24793",
     "outputHash": "1b82928d9915a7e159688993185828ef4bcdd6319a2e5ebff068b26c873aa38f",
-    "status": "rendered",
+    "status": "deployed with documented Viator provider fallback",
     "originalIntro": "\nA father handed me his four-year-old on the fifth gallery once, without a word, because his arms had given out and the boy had fallen asleep in the heat with his cheek against a relief panel of a shipwreck. We got them both down fine. But I have thought about that morning a lot, because everything that made it hard was predictable, and none of it was in anything they had read beforehand.\n\nSo here is the version I would want if I were flying my own children halfway around the world to look at a ninth-century Buddhist monument.\n\n",
     "headings": [
       {
@@ -1209,6 +1269,16 @@
         ],
         "disposition": "REPLACE",
         "reason": "Replace repeated promotion with section-specific or single final booking module; sticky replaced"
+      },
+      {
+        "id": "legacy-mid",
+        "locator": "#cta-mid",
+        "text": "Book the day tour\nRather skip the 3am alarm?\nThe daytime Borobudur climb with Candi Mendut and Prambanan, no pre-dawn start, hotel pickup included. Free cancellation up to 24 hours, reserve now and pay later: booking takes 2 minutes and costs nothing today.\nCheck live availability & prices →",
+        "links": [
+          "https://www.viator.com/tours/Yogyakarta/Budha-Voyage/d22560-214335P5?pid=P00062370&mcid=42383&medium=link"
+        ],
+        "disposition": "REPLACE",
+        "reason": "Generic mid-article pitch replaced by section-specific coverage; no editorial children removed"
       }
     ],
     "oldLinks": [
@@ -1511,6 +1581,16 @@
         ],
         "disposition": "REPLACE",
         "reason": "Replace repeated promotion with section-specific or single final booking module; sticky replaced"
+      },
+      {
+        "id": "legacy-mid",
+        "locator": "#cta-mid",
+        "text": "Book the day tour\nRather skip the 3am alarm?\nThe daytime Borobudur climb with Candi Mendut and Prambanan, no pre-dawn start, hotel pickup included. Free cancellation up to 24 hours, reserve now and pay later: booking takes 2 minutes and costs nothing today.\nCheck live availability & prices →",
+        "links": [
+          "https://www.viator.com/tours/Yogyakarta/Budha-Voyage/d22560-214335P5?pid=P00062370&mcid=42383&medium=link"
+        ],
+        "disposition": "REPLACE",
+        "reason": "Generic mid-article pitch replaced by section-specific coverage; no editorial children removed"
       }
     ]
   },
@@ -1521,7 +1601,7 @@
     "url": "https://borobudurtempletour.org/blog/can-you-wear-shorts-at-borobudur/",
     "sourceHash": "01ab5fa57490d876fb026061ed0a2a797e74701c4fb1e48f1797fbd1542582fc",
     "outputHash": "5c65167a8659c08448a22d2b241039ac9a4f58d08b7305fb284ff5b6b5c5b895",
-    "status": "rendered",
+    "status": "deployed with documented Viator provider fallback",
     "originalIntro": "\nMost mornings someone in my group asks it at the gate, usually quietly, usually after a long look at what everyone else is wearing. They have read that they will be turned away in shorts. They are standing there in shorts. And nothing happens, because nothing was ever going to happen. The wristband goes on, the sandals come out of the box, and we walk up onto stone that by nine o'clock is already throwing heat back at us. The clothing question at Borobudur has a real answer. It is just not the one the search results give you.\n\n",
     "headings": [
       {
@@ -1613,6 +1693,16 @@
         ],
         "disposition": "REPLACE",
         "reason": "Replace repeated promotion with section-specific or single final booking module; sticky replaced"
+      },
+      {
+        "id": "legacy-mid",
+        "locator": "#cta-mid",
+        "text": "Book the sunrise climb\nReady to book the sunrise climb?\nDawn from Punthuk Setumbu, then the Borobudur climb itself, with hotel pickup from Yogyakarta. Free cancellation up to 24 hours, reserve now and pay later: booking takes 2 minutes and costs nothing today.\nCheck live availability & prices →",
+        "links": [
+          "https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher"
+        ],
+        "disposition": "REPLACE",
+        "reason": "Generic mid-article pitch replaced by section-specific coverage; no editorial children removed"
       }
     ],
     "oldLinks": [
@@ -1907,6 +1997,16 @@
         ],
         "disposition": "REPLACE",
         "reason": "Replace repeated promotion with section-specific or single final booking module; sticky replaced"
+      },
+      {
+        "id": "legacy-mid",
+        "locator": "#cta-mid",
+        "text": "Book the sunrise climb\nReady to book the sunrise climb?\nDawn from Punthuk Setumbu, then the Borobudur climb itself, with hotel pickup from Yogyakarta. Free cancellation up to 24 hours, reserve now and pay later: booking takes 2 minutes and costs nothing today.\nCheck live availability & prices →",
+        "links": [
+          "https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher"
+        ],
+        "disposition": "REPLACE",
+        "reason": "Generic mid-article pitch replaced by section-specific coverage; no editorial children removed"
       }
     ]
   },
@@ -1917,7 +2017,7 @@
     "url": "https://borobudurtempletour.org/blog/first-time-at-borobudur-what-to-expect/",
     "sourceHash": "78765995157c11e3c119e6787cb982f4130ea8d244427ded01840391619e5494",
     "outputHash": "7f3f56d993c2c864bb6629caae123b36db905a780414a31bfe396e8da13196c6",
-    "status": "rendered",
+    "status": "deployed with documented Viator provider fallback",
     "originalIntro": "\nThe thing nobody warns you about is the light. You come up the last flight of stairs onto the circular terraces, and the stone goes from grey to a kind of warm bone colour, and there is nothing above you at all. No trees. No roof. Just volcanoes on the horizon and about seventy-two stupas sitting there in the heat like they have been waiting. I have watched more than a thousand travellers make that turn since 2022, and most of them stop talking for a moment. Then, almost always, the first thing they say is that it is bigger than they thought, and hotter.\n\nLet me walk you through the whole morning, in order, the way it actually goes.\n\n",
     "headings": [
       {
@@ -2009,6 +2109,16 @@
         ],
         "disposition": "REPLACE",
         "reason": "Replace repeated promotion with section-specific or single final booking module; sticky replaced"
+      },
+      {
+        "id": "legacy-mid",
+        "locator": "#cta-mid",
+        "text": "Book the sunrise climb\nReady to book the sunrise climb?\nDawn from Punthuk Setumbu, then the Borobudur climb itself, with hotel pickup from Yogyakarta. Free cancellation up to 24 hours, reserve now and pay later: booking takes 2 minutes and costs nothing today.\nCheck live availability & prices →",
+        "links": [
+          "https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher"
+        ],
+        "disposition": "REPLACE",
+        "reason": "Generic mid-article pitch replaced by section-specific coverage; no editorial children removed"
       }
     ],
     "oldLinks": [
@@ -2315,6 +2425,16 @@
         ],
         "disposition": "REPLACE",
         "reason": "Replace repeated promotion with section-specific or single final booking module; sticky replaced"
+      },
+      {
+        "id": "legacy-mid",
+        "locator": "#cta-mid",
+        "text": "Book the sunrise climb\nReady to book the sunrise climb?\nDawn from Punthuk Setumbu, then the Borobudur climb itself, with hotel pickup from Yogyakarta. Free cancellation up to 24 hours, reserve now and pay later: booking takes 2 minutes and costs nothing today.\nCheck live availability & prices →",
+        "links": [
+          "https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher"
+        ],
+        "disposition": "REPLACE",
+        "reason": "Generic mid-article pitch replaced by section-specific coverage; no editorial children removed"
       }
     ]
   },
@@ -2325,7 +2445,7 @@
     "url": "https://borobudurtempletour.org/blog/history-of-borobudur/",
     "sourceHash": "80adb19358a63b477822a72e69943091e8ce89a5e9dd8b6d6fc3781750242cde",
     "outputHash": "8d2049355eec4de525cd42d6b454dfb3b06360e74a3a0e8d70d46a5b5cd607e1",
-    "status": "rendered",
+    "status": "deployed with documented Viator provider fallback",
     "originalIntro": "\nThere is a panel at the foot of the eastern stairway that I stop at with every group, and almost nobody has looked at it before I point. It is warm by half past eight, the andesite gives back the heat it took yesterday, and the carving shows a man with a cooking pot. That is it. A pot. Twelve centuries of weather and the pot is still there, and above it, four galleries up and a long walk away, is the thing everyone photographs. Most people meet Borobudur in the wrong order. They arrive at the top and work out afterwards that they missed the story.\n\nI have guided here since 2022, and this is the part of the job I care about most. Not the dates, which you can read anywhere. The way the building itself carries the argument.\n\n",
     "headings": [
       {
@@ -2411,6 +2531,16 @@
         ],
         "disposition": "REPLACE",
         "reason": "Replace repeated promotion with section-specific or single final booking module; sticky replaced"
+      },
+      {
+        "id": "legacy-mid",
+        "locator": "#cta-mid",
+        "text": "Book the sunrise climb\nReady to book the sunrise climb?\nDawn from Punthuk Setumbu, then the Borobudur climb itself, with hotel pickup from Yogyakarta. Free cancellation up to 24 hours, reserve now and pay later: booking takes 2 minutes and costs nothing today.\nCheck live availability & prices →",
+        "links": [
+          "https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher"
+        ],
+        "disposition": "REPLACE",
+        "reason": "Generic mid-article pitch replaced by section-specific coverage; no editorial children removed"
       }
     ],
     "oldLinks": [
@@ -2698,6 +2828,16 @@
         ],
         "disposition": "REPLACE",
         "reason": "Replace repeated promotion with section-specific or single final booking module; sticky replaced"
+      },
+      {
+        "id": "legacy-mid",
+        "locator": "#cta-mid",
+        "text": "Book the sunrise climb\nReady to book the sunrise climb?\nDawn from Punthuk Setumbu, then the Borobudur climb itself, with hotel pickup from Yogyakarta. Free cancellation up to 24 hours, reserve now and pay later: booking takes 2 minutes and costs nothing today.\nCheck live availability & prices →",
+        "links": [
+          "https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher"
+        ],
+        "disposition": "REPLACE",
+        "reason": "Generic mid-article pitch replaced by section-specific coverage; no editorial children removed"
       }
     ]
   },
@@ -2708,7 +2848,7 @@
     "url": "https://borobudurtempletour.org/blog/is-it-rainy-season-in-indonesia/",
     "sourceHash": "76bc5534ff7e1106525544e855d8fa44a2119e97f7695c84019521a1e2e93983",
     "outputHash": "fd8d7da041043454955eaa7cd22372b4e169e45b4a9176f85c0724d9f4fa4c6e",
-    "status": "rendered",
+    "status": "deployed with documented Viator provider fallback",
     "originalIntro": "\nThe rain here has a schedule, and after a few seasons you stop checking the forecast and start checking the clock. In December I have walked the terraces at eight in the morning under a sky so clean it hurts to look at, and by half past two the whole Kedu Plain has vanished behind a grey wall moving in from Merapi. Nobody who lives here calls that a rained-out day. They call it Tuesday. The question travellers ask, whether it is rainy season right now, has an answer, but it is a calendar answer rather than a weather report.\n\n",
     "headings": [
       {
@@ -2788,6 +2928,16 @@
         ],
         "disposition": "REPLACE",
         "reason": "Replace repeated promotion with section-specific or single final booking module; sticky replaced"
+      },
+      {
+        "id": "legacy-mid",
+        "locator": "#cta-mid",
+        "text": "Book the day tour\nRather skip the 3am alarm?\nThe daytime Borobudur climb with Candi Mendut and Prambanan, no pre-dawn start, hotel pickup included. Free cancellation up to 24 hours, reserve now and pay later: booking takes 2 minutes and costs nothing today.\nCheck live availability & prices →",
+        "links": [
+          "https://www.viator.com/tours/Yogyakarta/Budha-Voyage/d22560-214335P5?pid=P00062370&mcid=42383&medium=link"
+        ],
+        "disposition": "REPLACE",
+        "reason": "Generic mid-article pitch replaced by section-specific coverage; no editorial children removed"
       }
     ],
     "oldLinks": [
@@ -3054,6 +3204,16 @@
         ],
         "disposition": "REPLACE",
         "reason": "Replace repeated promotion with section-specific or single final booking module; sticky replaced"
+      },
+      {
+        "id": "legacy-mid",
+        "locator": "#cta-mid",
+        "text": "Book the day tour\nRather skip the 3am alarm?\nThe daytime Borobudur climb with Candi Mendut and Prambanan, no pre-dawn start, hotel pickup included. Free cancellation up to 24 hours, reserve now and pay later: booking takes 2 minutes and costs nothing today.\nCheck live availability & prices →",
+        "links": [
+          "https://www.viator.com/tours/Yogyakarta/Budha-Voyage/d22560-214335P5?pid=P00062370&mcid=42383&medium=link"
+        ],
+        "disposition": "REPLACE",
+        "reason": "Generic mid-article pitch replaced by section-specific coverage; no editorial children removed"
       }
     ]
   },
@@ -3064,7 +3224,7 @@
     "url": "https://borobudurtempletour.org/blog/is-prambanan-hindu-or-buddhist/",
     "sourceHash": "cdc5d4fd4775942e6947d40e4b439b09f0a7a1797b89c64666f7d0c478d9a510",
     "outputHash": "672fa4741cd7ca607d795c3c0c045c39742038955d9dfbd118d831c2f431d89d",
-    "status": "rendered",
+    "status": "deployed with documented Viator provider fallback",
     "originalIntro": "\nBy four in the afternoon Prambanan's stone has gone the colour of weak tea and the spires look taller than they measured at noon. I have spent the morning of that same day on a Buddhist monument forty kilometres west, talking about desire and formlessness, and now I am standing in front of Shiva with a group who are quietly working out whether I have contradicted myself. Somebody usually asks it out loud on the walk back to the car park. Wait. Is this one Hindu?\n\nYes. And that question is not a mistake. It is the most useful thing a visitor asks me all day.\n\n",
     "headings": [
       {
@@ -3144,6 +3304,16 @@
         ],
         "disposition": "REPLACE",
         "reason": "Replace repeated promotion with section-specific or single final booking module; sticky replaced"
+      },
+      {
+        "id": "legacy-mid",
+        "locator": "#cta-mid",
+        "text": "Book the volcano day\nReady for the full volcano day?\nSetumbu sunrise, the Borobudur climb, a Merapi jeep ride, and Prambanan in one long day with hotel pickup. Free cancellation up to 24 hours, reserve now and pay later: booking takes 2 minutes and costs nothing today.\nCheck live availability & prices →",
+        "links": [
+          "https://www.viator.com/tours/Yogyakarta/Borobudur-Sunrise-Merapi-Volcano-lava-tour-and-Prambanan-Full-Day-Tour/d22560-214335P1?pid=P00062370&mcid=42383&medium=link"
+        ],
+        "disposition": "REPLACE",
+        "reason": "Generic mid-article pitch replaced by section-specific coverage; no editorial children removed"
       }
     ],
     "oldLinks": [
@@ -3406,6 +3576,16 @@
         ],
         "disposition": "REPLACE",
         "reason": "Replace repeated promotion with section-specific or single final booking module; sticky replaced"
+      },
+      {
+        "id": "legacy-mid",
+        "locator": "#cta-mid",
+        "text": "Book the volcano day\nReady for the full volcano day?\nSetumbu sunrise, the Borobudur climb, a Merapi jeep ride, and Prambanan in one long day with hotel pickup. Free cancellation up to 24 hours, reserve now and pay later: booking takes 2 minutes and costs nothing today.\nCheck live availability & prices →",
+        "links": [
+          "https://www.viator.com/tours/Yogyakarta/Borobudur-Sunrise-Merapi-Volcano-lava-tour-and-Prambanan-Full-Day-Tour/d22560-214335P1?pid=P00062370&mcid=42383&medium=link"
+        ],
+        "disposition": "REPLACE",
+        "reason": "Generic mid-article pitch replaced by section-specific coverage; no editorial children removed"
       }
     ]
   },
@@ -3416,7 +3596,7 @@
     "url": "https://borobudurtempletour.org/blog/is-yogyakarta-worth-visiting/",
     "sourceHash": "5b777b0688c74d545df9f756b66ad4e5fd21cfb327209d419c88bd033f3676bd",
     "outputHash": "f74263879c8ad2c86a5bf920d64a53663f0fcb9394ab88f4c5b48302517220af",
-    "status": "rendered",
+    "status": "deployed with documented Viator provider fallback",
     "originalIntro": "\nAt about four in the afternoon Yogyakarta smells like clove smoke and frying shallots, and the becak drivers park in the shade on Jalan Malioboro and argue about football. I have lived with that sound for years and I still like it. It is also, I admit, not what most people picture when they book a holiday to Indonesia. Nobody arrives here for the view from a sun lounger, because there is not one.\n\nSo when someone emails asking whether this city is worth two days of a Bali trip, I try to answer it properly rather than sell it. Here is the properly.\n\n",
     "headings": [
       {
@@ -3508,6 +3688,16 @@
         ],
         "disposition": "REPLACE",
         "reason": "Replace repeated promotion with section-specific or single final booking module; sticky replaced"
+      },
+      {
+        "id": "legacy-mid",
+        "locator": "#cta-mid",
+        "text": "Book the day tour\nRather skip the 3am alarm?\nThe daytime Borobudur climb with Candi Mendut and Prambanan, no pre-dawn start, hotel pickup included. Free cancellation up to 24 hours, reserve now and pay later: booking takes 2 minutes and costs nothing today.\nCheck live availability & prices →",
+        "links": [
+          "https://www.viator.com/tours/Yogyakarta/Budha-Voyage/d22560-214335P5?pid=P00062370&mcid=42383&medium=link"
+        ],
+        "disposition": "REPLACE",
+        "reason": "Generic mid-article pitch replaced by section-specific coverage; no editorial children removed"
       }
     ],
     "oldLinks": [
@@ -3828,6 +4018,16 @@
         ],
         "disposition": "REPLACE",
         "reason": "Replace repeated promotion with section-specific or single final booking module; sticky replaced"
+      },
+      {
+        "id": "legacy-mid",
+        "locator": "#cta-mid",
+        "text": "Book the day tour\nRather skip the 3am alarm?\nThe daytime Borobudur climb with Candi Mendut and Prambanan, no pre-dawn start, hotel pickup included. Free cancellation up to 24 hours, reserve now and pay later: booking takes 2 minutes and costs nothing today.\nCheck live availability & prices →",
+        "links": [
+          "https://www.viator.com/tours/Yogyakarta/Budha-Voyage/d22560-214335P5?pid=P00062370&mcid=42383&medium=link"
+        ],
+        "disposition": "REPLACE",
+        "reason": "Generic mid-article pitch replaced by section-specific coverage; no editorial children removed"
       }
     ]
   },
@@ -3838,7 +4038,7 @@
     "url": "https://borobudurtempletour.org/blog/what-is-indonesia-famous-for/",
     "sourceHash": "643b200c328e419ab9f895411d1d4270b93ff5ed38214f65366500138acac297",
     "outputHash": "6ebd150754dba297fe08410713ae24444c8754e9e49474354835098a97c7c4e4",
-    "status": "rendered",
+    "status": "deployed with documented Viator provider fallback",
     "originalIntro": "\nThe question I get asked most often is not about Borobudur. It comes about twenty minutes into the drive back to Yogyakarta, when someone has run out of temple questions and starts looking out of the window at the rice terraces and the smoke from Merapi. \"So what else is Indonesia known for?\" they ask. And I always pause, because the honest answer is long, and because the person asking has usually just spent nine days on one island out of thousands.\n\nI have guided people here since 2022. Most of them arrived through Bali. Many of them are surprised to learn that they were never really in the part of Indonesia where most Indonesians live.\n\n",
     "headings": [
       {
@@ -3930,6 +4130,16 @@
         ],
         "disposition": "REPLACE",
         "reason": "Replace repeated promotion with section-specific or single final booking module; sticky replaced"
+      },
+      {
+        "id": "legacy-mid",
+        "locator": "#cta-mid",
+        "text": "Book the sunrise climb\nReady to book the sunrise climb?\nDawn from Punthuk Setumbu, then the Borobudur climb itself, with hotel pickup from Yogyakarta. Free cancellation up to 24 hours, reserve now and pay later: booking takes 2 minutes and costs nothing today.\nCheck live availability & prices →",
+        "links": [
+          "https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher"
+        ],
+        "disposition": "REPLACE",
+        "reason": "Generic mid-article pitch replaced by section-specific coverage; no editorial children removed"
       }
     ],
     "oldLinks": [
@@ -4240,6 +4450,16 @@
         ],
         "disposition": "REPLACE",
         "reason": "Replace repeated promotion with section-specific or single final booking module; sticky replaced"
+      },
+      {
+        "id": "legacy-mid",
+        "locator": "#cta-mid",
+        "text": "Book the sunrise climb\nReady to book the sunrise climb?\nDawn from Punthuk Setumbu, then the Borobudur climb itself, with hotel pickup from Yogyakarta. Free cancellation up to 24 hours, reserve now and pay later: booking takes 2 minutes and costs nothing today.\nCheck live availability & prices →",
+        "links": [
+          "https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher"
+        ],
+        "disposition": "REPLACE",
+        "reason": "Generic mid-article pitch replaced by section-specific coverage; no editorial children removed"
       }
     ]
   },
@@ -4250,7 +4470,7 @@
     "url": "https://borobudurtempletour.org/blog/where-to-go-instead-of-bali/",
     "sourceHash": "b6f3969772888d3b484ebe09e6842d326112596e177bea9a03bcd19fb4a83faf",
     "outputHash": "1ddee08d5bcdffedd26e71a2d6c2ddbcafa46f25ad3513c2381e81d357f95251",
-    "status": "rendered",
+    "status": "deployed with documented Viator provider fallback",
     "originalIntro": "\nA woman from Melbourne told me last dry season that she had come to Java because her flight to Bali was cancelled and she had picked the next thing on the departures board. She spent three days here. On the drive to the airport she said, without any prompting, that she was annoyed nobody had told her this existed. I hear a version of that sentence maybe once a month, and it always lands the same way: not as a compliment to Java, but as a small complaint about the map everyone gets handed.\n\nSo let me try to hand you a better one. And let me start by defending the island I am supposedly competing with.\n\n",
     "headings": [
       {
@@ -4342,6 +4562,16 @@
         ],
         "disposition": "REPLACE",
         "reason": "Replace repeated promotion with section-specific or single final booking module; sticky replaced"
+      },
+      {
+        "id": "legacy-mid",
+        "locator": "#cta-mid",
+        "text": "Book the sunrise climb\nReady to book the sunrise climb?\nDawn from Punthuk Setumbu, then the Borobudur climb itself, with hotel pickup from Yogyakarta. Free cancellation up to 24 hours, reserve now and pay later: booking takes 2 minutes and costs nothing today.\nCheck live availability & prices →",
+        "links": [
+          "https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher"
+        ],
+        "disposition": "REPLACE",
+        "reason": "Generic mid-article pitch replaced by section-specific coverage; no editorial children removed"
       }
     ],
     "oldLinks": [
@@ -4648,6 +4878,16 @@
         ],
         "disposition": "REPLACE",
         "reason": "Replace repeated promotion with section-specific or single final booking module; sticky replaced"
+      },
+      {
+        "id": "legacy-mid",
+        "locator": "#cta-mid",
+        "text": "Book the sunrise climb\nReady to book the sunrise climb?\nDawn from Punthuk Setumbu, then the Borobudur climb itself, with hotel pickup from Yogyakarta. Free cancellation up to 24 hours, reserve now and pay later: booking takes 2 minutes and costs nothing today.\nCheck live availability & prices →",
+        "links": [
+          "https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher"
+        ],
+        "disposition": "REPLACE",
+        "reason": "Generic mid-article pitch replaced by section-specific coverage; no editorial children removed"
       }
     ]
   },
@@ -4658,7 +4898,7 @@
     "url": "https://borobudurtempletour.org/guides/best-time-to-visit-borobudur/",
     "sourceHash": "250a38d7f9378cfb6bf16a29d5be4868a287bcf56d2cb4a2389c451ef9309bf2",
     "outputHash": "98b2c4ce61092093243245fe96c86fa9f4a53a364a5548d62b61005ecf99b943",
-    "status": "rendered",
+    "status": "deployed with documented Viator provider fallback",
     "originalIntro": "\n",
     "headings": [
       {
@@ -4730,6 +4970,16 @@
         ],
         "disposition": "REPLACE",
         "reason": "Replace repeated promotion with section-specific or single final booking module; sticky replaced"
+      },
+      {
+        "id": "legacy-mid",
+        "locator": "#cta-mid",
+        "text": "Book the sunrise climb\nReady to book the sunrise climb?\nDawn from Punthuk Setumbu, then the Borobudur climb itself, with hotel pickup from Yogyakarta. Free cancellation up to 24 hours, reserve now and pay later: booking takes 2 minutes and costs nothing today.\nCheck live availability & prices →",
+        "links": [
+          "https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher"
+        ],
+        "disposition": "REPLACE",
+        "reason": "Generic mid-article pitch replaced by section-specific coverage; no editorial children removed"
       }
     ],
     "oldLinks": [
@@ -4970,6 +5220,16 @@
         ],
         "disposition": "REPLACE",
         "reason": "Replace repeated promotion with section-specific or single final booking module; sticky replaced"
+      },
+      {
+        "id": "legacy-mid",
+        "locator": "#cta-mid",
+        "text": "Book the sunrise climb\nReady to book the sunrise climb?\nDawn from Punthuk Setumbu, then the Borobudur climb itself, with hotel pickup from Yogyakarta. Free cancellation up to 24 hours, reserve now and pay later: booking takes 2 minutes and costs nothing today.\nCheck live availability & prices →",
+        "links": [
+          "https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher"
+        ],
+        "disposition": "REPLACE",
+        "reason": "Generic mid-article pitch replaced by section-specific coverage; no editorial children removed"
       }
     ]
   },
@@ -4980,7 +5240,7 @@
     "url": "https://borobudurtempletour.org/guides/borobudur-from-yogyakarta/",
     "sourceHash": "f6045312b52b1f38fcd7efe8ee314f6ec9afcd374089ad1afbd8f96ba2171b68",
     "outputHash": "5a98beecbd3c03ca577ddc5b9a12f4179797efff45347c6c55ee13a09720cead",
-    "status": "rendered",
+    "status": "deployed with documented Viator provider fallback",
     "originalIntro": "\n",
     "headings": [
       {
@@ -5058,6 +5318,16 @@
         ],
         "disposition": "REPLACE",
         "reason": "Replace repeated promotion with section-specific or single final booking module; sticky replaced"
+      },
+      {
+        "id": "legacy-mid",
+        "locator": "#cta-mid",
+        "text": "Book the sunrise climb\nReady to book the sunrise climb?\nDawn from Punthuk Setumbu, then the Borobudur climb itself, with hotel pickup from Yogyakarta. Free cancellation up to 24 hours, reserve now and pay later: booking takes 2 minutes and costs nothing today.\nCheck live availability & prices →",
+        "links": [
+          "https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher"
+        ],
+        "disposition": "REPLACE",
+        "reason": "Generic mid-article pitch replaced by section-specific coverage; no editorial children removed"
       }
     ],
     "oldLinks": [
@@ -5322,6 +5592,16 @@
         ],
         "disposition": "REPLACE",
         "reason": "Replace repeated promotion with section-specific or single final booking module; sticky replaced"
+      },
+      {
+        "id": "legacy-mid",
+        "locator": "#cta-mid",
+        "text": "Book the sunrise climb\nReady to book the sunrise climb?\nDawn from Punthuk Setumbu, then the Borobudur climb itself, with hotel pickup from Yogyakarta. Free cancellation up to 24 hours, reserve now and pay later: booking takes 2 minutes and costs nothing today.\nCheck live availability & prices →",
+        "links": [
+          "https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher"
+        ],
+        "disposition": "REPLACE",
+        "reason": "Generic mid-article pitch replaced by section-specific coverage; no editorial children removed"
       }
     ]
   },
@@ -5332,7 +5612,7 @@
     "url": "https://borobudurtempletour.org/guides/borobudur-seven-wonders/",
     "sourceHash": "ae7dbd69284fdf67a1c5d2b96d7c38b77de18e3c40dab83a28c4bd470bcfe08e",
     "outputHash": "15ded3b08a96af24d6f154d7c5e22b73b3f2863e223c6dcaacc94589c7d00069",
-    "status": "rendered",
+    "status": "deployed with documented Viator provider fallback",
     "originalIntro": "\n",
     "headings": [
       {
@@ -5428,6 +5708,16 @@
         ],
         "disposition": "REPLACE",
         "reason": "Replace repeated promotion with section-specific or single final booking module; sticky replaced"
+      },
+      {
+        "id": "legacy-mid",
+        "locator": "#cta-mid",
+        "text": "Book the sunrise climb\nReady to book the sunrise climb?\nDawn from Punthuk Setumbu, then the Borobudur climb itself, with hotel pickup from Yogyakarta. Free cancellation up to 24 hours, reserve now and pay later: booking takes 2 minutes and costs nothing today.\nCheck live availability & prices →",
+        "links": [
+          "https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher"
+        ],
+        "disposition": "REPLACE",
+        "reason": "Generic mid-article pitch replaced by section-specific coverage; no editorial children removed"
       }
     ],
     "oldLinks": [
@@ -5721,6 +6011,16 @@
         ],
         "disposition": "REPLACE",
         "reason": "Replace repeated promotion with section-specific or single final booking module; sticky replaced"
+      },
+      {
+        "id": "legacy-mid",
+        "locator": "#cta-mid",
+        "text": "Book the sunrise climb\nReady to book the sunrise climb?\nDawn from Punthuk Setumbu, then the Borobudur climb itself, with hotel pickup from Yogyakarta. Free cancellation up to 24 hours, reserve now and pay later: booking takes 2 minutes and costs nothing today.\nCheck live availability & prices →",
+        "links": [
+          "https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher"
+        ],
+        "disposition": "REPLACE",
+        "reason": "Generic mid-article pitch replaced by section-specific coverage; no editorial children removed"
       }
     ]
   },
@@ -5731,7 +6031,7 @@
     "url": "https://borobudurtempletour.org/guides/borobudur-sunrise/",
     "sourceHash": "55c13dc0a9ba8f516f909a3b103251a434720e919de203b788085595a792c2c6",
     "outputHash": "74c3c890ef4d7af686ef2c391426efdaa316a8de9edc4fb649c870c7d45d0a10",
-    "status": "rendered",
+    "status": "deployed with documented Viator provider fallback",
     "originalIntro": "\n",
     "headings": [
       {
@@ -5833,6 +6133,16 @@
         ],
         "disposition": "REPLACE",
         "reason": "Replace repeated promotion with section-specific or single final booking module; sticky replaced"
+      },
+      {
+        "id": "legacy-mid",
+        "locator": "#cta-mid",
+        "text": "Book the sunrise climb\nReady to book the sunrise climb?\nDawn from Punthuk Setumbu, then the Borobudur climb itself, with hotel pickup from Yogyakarta. Free cancellation up to 24 hours, reserve now and pay later: booking takes 2 minutes and costs nothing today.\nCheck live availability & prices →",
+        "links": [
+          "https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher"
+        ],
+        "disposition": "REPLACE",
+        "reason": "Generic mid-article pitch replaced by section-specific coverage; no editorial children removed"
       }
     ],
     "oldLinks": [
@@ -6154,6 +6464,16 @@
         ],
         "disposition": "REPLACE",
         "reason": "Replace repeated promotion with section-specific or single final booking module; sticky replaced"
+      },
+      {
+        "id": "legacy-mid",
+        "locator": "#cta-mid",
+        "text": "Book the sunrise climb\nReady to book the sunrise climb?\nDawn from Punthuk Setumbu, then the Borobudur climb itself, with hotel pickup from Yogyakarta. Free cancellation up to 24 hours, reserve now and pay later: booking takes 2 minutes and costs nothing today.\nCheck live availability & prices →",
+        "links": [
+          "https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher"
+        ],
+        "disposition": "REPLACE",
+        "reason": "Generic mid-article pitch replaced by section-specific coverage; no editorial children removed"
       }
     ]
   },
@@ -6164,7 +6484,7 @@
     "url": "https://borobudurtempletour.org/guides/borobudur-tickets-and-prices/",
     "sourceHash": "6cecc9eea04e35380a0cdac11c0bd7e18c738d119429f7024c633ea36a3ebe4e",
     "outputHash": "e818f145e8ea8d85a38bba02c4438947848643489b3ffc632c2960e466a14949",
-    "status": "rendered",
+    "status": "deployed with documented Viator provider fallback",
     "originalIntro": "\n",
     "headings": [
       {
@@ -6266,6 +6586,16 @@
         ],
         "disposition": "REPLACE",
         "reason": "Replace repeated promotion with section-specific or single final booking module; sticky replaced"
+      },
+      {
+        "id": "legacy-mid",
+        "locator": "#cta-mid",
+        "text": "Book the sunrise climb\nReady to book the sunrise climb?\nDawn from Punthuk Setumbu, then the Borobudur climb itself, with hotel pickup from Yogyakarta. Free cancellation up to 24 hours, reserve now and pay later: booking takes 2 minutes and costs nothing today.\nCheck live availability & prices →",
+        "links": [
+          "https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher"
+        ],
+        "disposition": "REPLACE",
+        "reason": "Generic mid-article pitch replaced by section-specific coverage; no editorial children removed"
       }
     ],
     "oldLinks": [
@@ -6587,6 +6917,16 @@
         ],
         "disposition": "REPLACE",
         "reason": "Replace repeated promotion with section-specific or single final booking module; sticky replaced"
+      },
+      {
+        "id": "legacy-mid",
+        "locator": "#cta-mid",
+        "text": "Book the sunrise climb\nReady to book the sunrise climb?\nDawn from Punthuk Setumbu, then the Borobudur climb itself, with hotel pickup from Yogyakarta. Free cancellation up to 24 hours, reserve now and pay later: booking takes 2 minutes and costs nothing today.\nCheck live availability & prices →",
+        "links": [
+          "https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher"
+        ],
+        "disposition": "REPLACE",
+        "reason": "Generic mid-article pitch replaced by section-specific coverage; no editorial children removed"
       }
     ]
   },
@@ -6597,7 +6937,7 @@
     "url": "https://borobudurtempletour.org/guides/borobudur-vs-angkor-wat/",
     "sourceHash": "f5dc697414625c704304cdb51d1becde911a318ae64a7f019be925cd907744cd",
     "outputHash": "b62072acab1bceb6f81a0ae7e8460a5b6703b87800785282feb0def8201a9618",
-    "status": "rendered",
+    "status": "deployed with documented Viator provider fallback",
     "originalIntro": "\n",
     "headings": [
       {
@@ -6693,6 +7033,16 @@
         ],
         "disposition": "REPLACE",
         "reason": "Replace repeated promotion with section-specific or single final booking module; sticky replaced"
+      },
+      {
+        "id": "legacy-mid",
+        "locator": "#cta-mid",
+        "text": "Book the sunrise climb\nReady to book the sunrise climb?\nDawn from Punthuk Setumbu, then the Borobudur climb itself, with hotel pickup from Yogyakarta. Free cancellation up to 24 hours, reserve now and pay later: booking takes 2 minutes and costs nothing today.\nCheck live availability & prices →",
+        "links": [
+          "https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher"
+        ],
+        "disposition": "REPLACE",
+        "reason": "Generic mid-article pitch replaced by section-specific coverage; no editorial children removed"
       }
     ],
     "oldLinks": [
@@ -6991,6 +7341,16 @@
         ],
         "disposition": "REPLACE",
         "reason": "Replace repeated promotion with section-specific or single final booking module; sticky replaced"
+      },
+      {
+        "id": "legacy-mid",
+        "locator": "#cta-mid",
+        "text": "Book the sunrise climb\nReady to book the sunrise climb?\nDawn from Punthuk Setumbu, then the Borobudur climb itself, with hotel pickup from Yogyakarta. Free cancellation up to 24 hours, reserve now and pay later: booking takes 2 minutes and costs nothing today.\nCheck live availability & prices →",
+        "links": [
+          "https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher"
+        ],
+        "disposition": "REPLACE",
+        "reason": "Generic mid-article pitch replaced by section-specific coverage; no editorial children removed"
       }
     ]
   },
@@ -7001,7 +7361,7 @@
     "url": "https://borobudurtempletour.org/guides/climbing-borobudur/",
     "sourceHash": "8dd8bba24d007619ac311e6256c9fb79c711da79b58addba7c9f2b842a061538",
     "outputHash": "5513acd1ba49d4dfb82c043a4bd46ab2c86cee5a22992fb69783cc2bbe410ed8",
-    "status": "rendered",
+    "status": "deployed with documented Viator provider fallback",
     "originalIntro": "\n",
     "headings": [
       {
@@ -7103,6 +7463,16 @@
         ],
         "disposition": "REPLACE",
         "reason": "Replace repeated promotion with section-specific or single final booking module; sticky replaced"
+      },
+      {
+        "id": "legacy-mid",
+        "locator": "#cta-mid",
+        "text": "Book the sunrise climb\nReady to book the sunrise climb?\nDawn from Punthuk Setumbu, then the Borobudur climb itself, with hotel pickup from Yogyakarta. Free cancellation up to 24 hours, reserve now and pay later: booking takes 2 minutes and costs nothing today.\nCheck live availability & prices →",
+        "links": [
+          "https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher"
+        ],
+        "disposition": "REPLACE",
+        "reason": "Generic mid-article pitch replaced by section-specific coverage; no editorial children removed"
       }
     ],
     "oldLinks": [
@@ -7435,6 +7805,16 @@
         ],
         "disposition": "REPLACE",
         "reason": "Replace repeated promotion with section-specific or single final booking module; sticky replaced"
+      },
+      {
+        "id": "legacy-mid",
+        "locator": "#cta-mid",
+        "text": "Book the sunrise climb\nReady to book the sunrise climb?\nDawn from Punthuk Setumbu, then the Borobudur climb itself, with hotel pickup from Yogyakarta. Free cancellation up to 24 hours, reserve now and pay later: booking takes 2 minutes and costs nothing today.\nCheck live availability & prices →",
+        "links": [
+          "https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher"
+        ],
+        "disposition": "REPLACE",
+        "reason": "Generic mid-article pitch replaced by section-specific coverage; no editorial children removed"
       }
     ]
   },
@@ -7445,7 +7825,7 @@
     "url": "https://borobudurtempletour.org/guides/how-long-at-borobudur/",
     "sourceHash": "ba526311945a4527b8ddf7a570638abc6f2d045996d73eca50595fe65ca6cd4c",
     "outputHash": "a13c475a521cdfe65f0e457d9a7a412ac840d321ea1aeaee38fcf2c5dd8c2f13",
-    "status": "rendered",
+    "status": "deployed with documented Viator provider fallback",
     "originalIntro": "\n",
     "headings": [
       {
@@ -7517,6 +7897,16 @@
         ],
         "disposition": "REPLACE",
         "reason": "Replace repeated promotion with section-specific or single final booking module; sticky replaced"
+      },
+      {
+        "id": "legacy-mid",
+        "locator": "#cta-mid",
+        "text": "Book the sunrise climb\nReady to book the sunrise climb?\nDawn from Punthuk Setumbu, then the Borobudur climb itself, with hotel pickup from Yogyakarta. Free cancellation up to 24 hours, reserve now and pay later: booking takes 2 minutes and costs nothing today.\nCheck live availability & prices →",
+        "links": [
+          "https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher"
+        ],
+        "disposition": "REPLACE",
+        "reason": "Generic mid-article pitch replaced by section-specific coverage; no editorial children removed"
       }
     ],
     "oldLinks": [
@@ -7761,6 +8151,16 @@
         ],
         "disposition": "REPLACE",
         "reason": "Replace repeated promotion with section-specific or single final booking module; sticky replaced"
+      },
+      {
+        "id": "legacy-mid",
+        "locator": "#cta-mid",
+        "text": "Book the sunrise climb\nReady to book the sunrise climb?\nDawn from Punthuk Setumbu, then the Borobudur climb itself, with hotel pickup from Yogyakarta. Free cancellation up to 24 hours, reserve now and pay later: booking takes 2 minutes and costs nothing today.\nCheck live availability & prices →",
+        "links": [
+          "https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher"
+        ],
+        "disposition": "REPLACE",
+        "reason": "Generic mid-article pitch replaced by section-specific coverage; no editorial children removed"
       }
     ]
   },
@@ -7771,7 +8171,7 @@
     "url": "https://borobudurtempletour.org/guides/is-borobudur-worth-visiting/",
     "sourceHash": "1b2c5eb537c073e8a44f5acc12e471e8e9aaa73d618c254218cc202717c3a1e5",
     "outputHash": "d2092a2cce44bc8e422be06e77ca5a58498ccb7409c1edaf1eb6f159a6b06ebe",
-    "status": "rendered",
+    "status": "deployed with documented Viator provider fallback",
     "originalIntro": "\n",
     "headings": [
       {
@@ -7867,6 +8267,16 @@
         ],
         "disposition": "REPLACE",
         "reason": "Replace repeated promotion with section-specific or single final booking module; sticky replaced"
+      },
+      {
+        "id": "legacy-mid",
+        "locator": "#cta-mid",
+        "text": "Book the sunrise climb\nReady to book the sunrise climb?\nDawn from Punthuk Setumbu, then the Borobudur climb itself, with hotel pickup from Yogyakarta. Free cancellation up to 24 hours, reserve now and pay later: booking takes 2 minutes and costs nothing today.\nCheck live availability & prices →",
+        "links": [
+          "https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher"
+        ],
+        "disposition": "REPLACE",
+        "reason": "Generic mid-article pitch replaced by section-specific coverage; no editorial children removed"
       }
     ],
     "oldLinks": [
@@ -8165,6 +8575,16 @@
         ],
         "disposition": "REPLACE",
         "reason": "Replace repeated promotion with section-specific or single final booking module; sticky replaced"
+      },
+      {
+        "id": "legacy-mid",
+        "locator": "#cta-mid",
+        "text": "Book the sunrise climb\nReady to book the sunrise climb?\nDawn from Punthuk Setumbu, then the Borobudur climb itself, with hotel pickup from Yogyakarta. Free cancellation up to 24 hours, reserve now and pay later: booking takes 2 minutes and costs nothing today.\nCheck live availability & prices →",
+        "links": [
+          "https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher"
+        ],
+        "disposition": "REPLACE",
+        "reason": "Generic mid-article pitch replaced by section-specific coverage; no editorial children removed"
       }
     ]
   },
@@ -8175,7 +8595,7 @@
     "url": "https://borobudurtempletour.org/guides/what-to-wear-at-borobudur/",
     "sourceHash": "553f6bf525996b6c755ef375a66da75e5917190fd82f5eec84a1558ba6976e0a",
     "outputHash": "9f278f94a7f4ea21fc71b7e1492bdea7015d5215a3841c98009965fe961416e2",
-    "status": "rendered",
+    "status": "deployed with documented Viator provider fallback",
     "originalIntro": "\n",
     "headings": [
       {
@@ -8283,6 +8703,16 @@
         ],
         "disposition": "REPLACE",
         "reason": "Replace repeated promotion with section-specific or single final booking module; sticky replaced"
+      },
+      {
+        "id": "legacy-mid",
+        "locator": "#cta-mid",
+        "text": "Book the sunrise climb\nReady to book the sunrise climb?\nDawn from Punthuk Setumbu, then the Borobudur climb itself, with hotel pickup from Yogyakarta. Free cancellation up to 24 hours, reserve now and pay later: booking takes 2 minutes and costs nothing today.\nCheck live availability & prices →",
+        "links": [
+          "https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher"
+        ],
+        "disposition": "REPLACE",
+        "reason": "Generic mid-article pitch replaced by section-specific coverage; no editorial children removed"
       }
     ],
     "oldLinks": [
@@ -8612,6 +9042,16 @@
         ],
         "disposition": "REPLACE",
         "reason": "Replace repeated promotion with section-specific or single final booking module; sticky replaced"
+      },
+      {
+        "id": "legacy-mid",
+        "locator": "#cta-mid",
+        "text": "Book the sunrise climb\nReady to book the sunrise climb?\nDawn from Punthuk Setumbu, then the Borobudur climb itself, with hotel pickup from Yogyakarta. Free cancellation up to 24 hours, reserve now and pay later: booking takes 2 minutes and costs nothing today.\nCheck live availability & prices →",
+        "links": [
+          "https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher"
+        ],
+        "disposition": "REPLACE",
+        "reason": "Generic mid-article pitch replaced by section-specific coverage; no editorial children removed"
       }
     ]
   },
@@ -8622,7 +9062,7 @@
     "url": "https://borobudurtempletour.org/guides/why-was-borobudur-abandoned/",
     "sourceHash": "dfd7e3e1eeccd81b07333fd14ee03369e59da2ce50b58cb534d85fca01067298",
     "outputHash": "6cec5863257ce7122aab54af08c0979ea814469e49c693e7fa8f071fbca6ce9a",
-    "status": "rendered",
+    "status": "deployed with documented Viator provider fallback",
     "originalIntro": "\n",
     "headings": [
       {
@@ -8736,6 +9176,16 @@
         ],
         "disposition": "REPLACE",
         "reason": "Replace repeated promotion with section-specific or single final booking module; sticky replaced"
+      },
+      {
+        "id": "legacy-mid",
+        "locator": "#cta-mid",
+        "text": "Book the sunrise climb\nReady to book the sunrise climb?\nDawn from Punthuk Setumbu, then the Borobudur climb itself, with hotel pickup from Yogyakarta. Free cancellation up to 24 hours, reserve now and pay later: booking takes 2 minutes and costs nothing today.\nCheck live availability & prices →",
+        "links": [
+          "https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher"
+        ],
+        "disposition": "REPLACE",
+        "reason": "Generic mid-article pitch replaced by section-specific coverage; no editorial children removed"
       }
     ],
     "oldLinks": [
@@ -9081,6 +9531,16 @@
         ],
         "disposition": "REPLACE",
         "reason": "Replace repeated promotion with section-specific or single final booking module; sticky replaced"
+      },
+      {
+        "id": "legacy-mid",
+        "locator": "#cta-mid",
+        "text": "Book the sunrise climb\nReady to book the sunrise climb?\nDawn from Punthuk Setumbu, then the Borobudur climb itself, with hotel pickup from Yogyakarta. Free cancellation up to 24 hours, reserve now and pay later: booking takes 2 minutes and costs nothing today.\nCheck live availability & prices →",
+        "links": [
+          "https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/?partner_id=MME1WGW&utm_medium=online_publisher"
+        ],
+        "disposition": "REPLACE",
+        "reason": "Generic mid-article pitch replaced by section-specific coverage; no editorial children removed"
       }
     ]
   }

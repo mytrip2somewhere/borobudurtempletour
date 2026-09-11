@@ -51,3 +51,9 @@ No measured conversion lift or booking/revenue result is claimed. Existing GA4 r
 ## Release Gate
 
 Available structural, editorial and simulated-behavior checks passed. Provider-secret and unavailable physical-interaction limitations above remain explicit. Rollback deployment ID is saved in cloudflare-before.json. Release/live results are recorded separately after deployment. This record does not label the blocked Viator provider integration complete.
+
+## Published Result
+
+GitHub Actions run 34553370493 completed successfully for source commit 26caefbc7b9e9d8a69ae6f719519577ae316a5ee. Cloudflare deployment: f887e585-4094-4694-910c-317a2fb04dfc. All 23 public article routes returned 200, passed the structural/affiliate/end-order gate and retained indexability plus the existing GA4 identifier. The two published client assets exactly matched their reviewed local bytes. The invalid-product API request returned 400, while the valid product returned the expected 503 missing-secret fallback. No key was uploaded. The pending approval remains required to activate Viator schedules.
+
+Live verification used HTTP and parsed delivered HTML. Physical live browser checks could not continue after the Mac lock; this limitation is not reported as a passed browser test. All available pre-release browser observations and the simulated checks are described above. Final omission audit confirms that provider-secret activation is the remaining functional blocker; actual pointer/frame/keyboard interactions listed above remain unverified methods.

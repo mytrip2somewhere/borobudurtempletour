@@ -1,7 +1,7 @@
 [
   {
     "url": "https://borobudurtempletour.org/blog/borobudur-in-the-rain/",
-    "state": "reviewed; ready for authorized release with documented provider fallback",
+    "state": "deployed; live HTTP verified; Viator secret approval pending",
     "headingCount": 7,
     "coverage": [
       {
@@ -107,9 +107,9 @@
         "text": "Yes, and I would go further: a wet-season morning is one of the better ways to see it. You lose a view you were never guaranteed and gain a monument that looks the way it was carved to look, with a fraction of the crowd.The temple is a ninth-century Mahayana Buddhist monument, the largest Buddhist temple in the world, built from around 778 to 825 AD and carrying 1,460 narrative relief panels. It has stood through roughly 1,200 wet seasons. Rain is not an interruption to Borobudur, it is the climate that made the plain it sits on.What you are really deciding is which version you want. The dry-season one is bright, certain and crowded. The wet-season one is darker, quieter, riskier at dawn and better at the stone. The climbing guide covers the ascent itself in either. Bring the poncho, start early, and take the stairs like you mean it.",
         "product": "day",
         "tone": "curiosity",
-        "copy": "Compare Borobudur\u2019s carved terraces with Prambanan\u2019s towers on one private itinerary",
+        "copy": "Compare Borobudur’s carved terraces with Prambanan’s towers on one private itinerary",
         "label": "Discover A Two-Temple Rainy-Season Day",
-        "reason": "Section discusses Is Borobudur worth visiting in the rain?. Selected experience: Compare Borobudur\u2019s carved terraces with Prambanan\u2019s towers on one private itinerary. Evidence: https://www.viator.com/tours/Yogyakarta/Budha-Voyage/d22560-214335P5",
+        "reason": "Section discusses Is Borobudur worth visiting in the rain?. Selected experience: Compare Borobudur’s carved terraces with Prambanan’s towers on one private itinerary. Evidence: https://www.viator.com/tours/Yogyakarta/Budha-Voyage/d22560-214335P5",
         "position": "after final editorial and FAQ",
         "locator": "#cro-booking",
         "type": "consolidated closing Viator widget",
@@ -134,14 +134,14 @@
   },
   {
     "url": "https://borobudurtempletour.org/blog/borobudur-or-angkor-wat-which-to-visit/",
-    "state": "reviewed; ready for authorized release with documented provider fallback",
+    "state": "deployed; live HTTP verified; Viator secret approval pending",
     "headingCount": 6,
     "coverage": [
       {
         "id": "section-1",
         "level": 2,
         "heading": "Which is bigger, Borobudur or Angkor Wat?",
-        "text": "Angkor Wat, and it is not close. But the two hold different records and are not competing for the same one. Angkor Wat is the largest religious monument in the world, with a walled enclosure of 162.6 hectares. Borobudur is the largest Buddhist temple, on a base of roughly 123 by 123 metres.This is where almost every comparison online falls over, so it is worth slowing down. Those two superlatives are not rival claims to the same title. One is about total religious monuments, of any faith, measured by enclosure. The other is a category record within Buddhism. Both are true at once. A page that says \"Borobudur is bigger than Angkor Wat\" and a page that says \"Angkor Wat is bigger\" are usually both quoting real facts and both leaving out the qualifier that makes them make sense.The scale gap is genuinely enormous. Angkor Wat's enclosure alone is around 162.6 hectares. Borobudur's base is about 1.5 hectares. That is roughly a hundred to one. Then widen the frame again: the Angkor Archaeological Park covers something like 400 square kilometres of temples, reservoirs and forest, and Angkor Wat is one temple inside it.So Angkor wins on size by any honest measure. What Borobudur has is density, and that turns out to matter more for how you spend a day than the hectares do. Borobudur Angkor Wat The record it actually holds Largest Buddhist temple Largest religious monument Footprint ~123 x 123 m base (~1.5 ha) 162.6 ha walled enclosure Built 778 to c. 825 AD Early 12th century Under The Sailendra dynasty Suryavarman II Faith Mahayana Buddhist throughout Hindu, later Buddhist The wider site Compounds with Mendut and Pawon ~400 km\u00b2 archaeological park Nearest city Yogyakarta, ~1 hour away Siem Reap, 15 to 20 min away UNESCO Inscribed 1991 Inscribed 1992",
+        "text": "Angkor Wat, and it is not close. But the two hold different records and are not competing for the same one. Angkor Wat is the largest religious monument in the world, with a walled enclosure of 162.6 hectares. Borobudur is the largest Buddhist temple, on a base of roughly 123 by 123 metres.This is where almost every comparison online falls over, so it is worth slowing down. Those two superlatives are not rival claims to the same title. One is about total religious monuments, of any faith, measured by enclosure. The other is a category record within Buddhism. Both are true at once. A page that says \"Borobudur is bigger than Angkor Wat\" and a page that says \"Angkor Wat is bigger\" are usually both quoting real facts and both leaving out the qualifier that makes them make sense.The scale gap is genuinely enormous. Angkor Wat's enclosure alone is around 162.6 hectares. Borobudur's base is about 1.5 hectares. That is roughly a hundred to one. Then widen the frame again: the Angkor Archaeological Park covers something like 400 square kilometres of temples, reservoirs and forest, and Angkor Wat is one temple inside it.So Angkor wins on size by any honest measure. What Borobudur has is density, and that turns out to matter more for how you spend a day than the hectares do. Borobudur Angkor Wat The record it actually holds Largest Buddhist temple Largest religious monument Footprint ~123 x 123 m base (~1.5 ha) 162.6 ha walled enclosure Built 778 to c. 825 AD Early 12th century Under The Sailendra dynasty Suryavarman II Faith Mahayana Buddhist throughout Hindu, later Buddhist The wider site Compounds with Mendut and Pawon ~400 km² archaeological park Nearest city Yogyakarta, ~1 hour away Siem Reap, 15 to 20 min away UNESCO Inscribed 1991 Inscribed 1992",
         "product": "half",
         "tone": "curiosity",
         "copy": "A single-monument outing makes the compact Java visit tangible, including travel from Yogyakarta",
@@ -161,7 +161,7 @@
         "product": "day",
         "tone": "urgency",
         "copy": "Arrange the Buddhist and Hindu monuments together before allocating the rest of your history itinerary",
-        "label": "Check A Date For Java\u2019s Two Temples",
+        "label": "Check A Date For Java’s Two Temples",
         "reason": "Section discusses Which is older, Borobudur or Angkor Wat?. Selected experience: Arrange the Buddhist and Hindu monuments together before allocating the rest of your history itinerary. Evidence: https://www.viator.com/tours/Yogyakarta/Budha-Voyage/d22560-214335P5",
         "position": "end",
         "locator": "[data-coverage=\"section-2\"]",
@@ -221,7 +221,7 @@
         "id": "section-6",
         "level": 2,
         "heading": "Which should you visit, honestly?",
-        "text": "Both, if the trip allows, since they are different enough that neither substitutes for the other. If you must choose: Angkor if you have three days and want scale, ruin and empire. Borobudur if you have a morning, are already in Java, and want narrative density and a monument you can finish.Let me be as fair as I can while telling you what I think.Go to Angkor if the temples are the reason for the trip. It deserves the days, and if you go for one rushed morning you will have done it a disservice and probably still be glad you went. Go for the park, not the postcard.Come to Borobudur if you are in Indonesia, or could be. Java has Yogyakarta, which is a genuinely good city, and a 9th-century Hindu compound forty kilometres from the Buddhist one, and the whole thing costs you a morning. The two-faith story is the part nobody expects; I have pulled it apart in is Prambanan Hindu or Buddhist. If this is you Go Because Three days, temples are the trip Angkor The park needs the days and rewards them One morning, already in Java Borobudur It is complete in half a day, honestly You want scale and ruin Angkor 400 km\u00b2, forest, empire, collapse You want carving you can read Borobudur 1,460 narrative panels within arm's reach You want the temple plus a city Borobudur Yogyakarta and Prambanan in the same trip Travelling with people who tire Borobudur One monument, one morning, done You have been to one already The other They are not substitutes. Genuinely The comparison-shopping instinct behind this question is usually a proxy for a scheduling problem, and that is fine. If Borobudur is your morning rather than your pilgrimage, the Sunrise Climb & Prambanan tour is the efficient version, dawn from Punthuk Setumbu and a guaranteed climb ticket; you can check live availability & prices on GetYourGuide for your date. For the one-table version of the size question, the Borobudur vs Angkor Wat guide has it short. If you are still upstream of all this and asking whether the detour earns itself, is Borobudur worth visiting answers it without the sales voice.Three trips to Angkor and he still stood on my second gallery for forty minutes. That is the whole answer, really. These are not competing products with a winner. They are two entirely different things a civilisation can do with stone, three hundred years and a sea apart, and the only bad version of this decision is the one where you pick on a superlative that was never comparing them in the first place.",
+        "text": "Both, if the trip allows, since they are different enough that neither substitutes for the other. If you must choose: Angkor if you have three days and want scale, ruin and empire. Borobudur if you have a morning, are already in Java, and want narrative density and a monument you can finish.Let me be as fair as I can while telling you what I think.Go to Angkor if the temples are the reason for the trip. It deserves the days, and if you go for one rushed morning you will have done it a disservice and probably still be glad you went. Go for the park, not the postcard.Come to Borobudur if you are in Indonesia, or could be. Java has Yogyakarta, which is a genuinely good city, and a 9th-century Hindu compound forty kilometres from the Buddhist one, and the whole thing costs you a morning. The two-faith story is the part nobody expects; I have pulled it apart in is Prambanan Hindu or Buddhist. If this is you Go Because Three days, temples are the trip Angkor The park needs the days and rewards them One morning, already in Java Borobudur It is complete in half a day, honestly You want scale and ruin Angkor 400 km², forest, empire, collapse You want carving you can read Borobudur 1,460 narrative panels within arm's reach You want the temple plus a city Borobudur Yogyakarta and Prambanan in the same trip Travelling with people who tire Borobudur One monument, one morning, done You have been to one already The other They are not substitutes. Genuinely The comparison-shopping instinct behind this question is usually a proxy for a scheduling problem, and that is fine. If Borobudur is your morning rather than your pilgrimage, the Sunrise Climb & Prambanan tour is the efficient version, dawn from Punthuk Setumbu and a guaranteed climb ticket; you can check live availability & prices on GetYourGuide for your date. For the one-table version of the size question, the Borobudur vs Angkor Wat guide has it short. If you are still upstream of all this and asking whether the detour earns itself, is Borobudur worth visiting answers it without the sales voice.Three trips to Angkor and he still stood on my second gallery for forty minutes. That is the whole answer, really. These are not competing products with a winner. They are two entirely different things a civilisation can do with stone, three hundred years and a sea apart, and the only bad version of this decision is the one where you pick on a superlative that was never comparing them in the first place.",
         "product": "day",
         "tone": "urgency",
         "copy": "If one compact cultural day wins, combine the Borobudur climb and Prambanan from Yogyakarta",
@@ -251,7 +251,7 @@
   },
   {
     "url": "https://borobudurtempletour.org/blog/borobudur-sunrise-hill-or-temple/",
-    "state": "reviewed; ready for authorized release with documented provider fallback",
+    "state": "deployed; live HTTP verified; Viator secret approval pending",
     "headingCount": 7,
     "coverage": [
       {
@@ -384,7 +384,7 @@
   },
   {
     "url": "https://borobudurtempletour.org/blog/borobudur-with-kids/",
-    "state": "reviewed; ready for authorized release with documented provider fallback",
+    "state": "deployed; live HTTP verified; Viator secret approval pending",
     "headingCount": 8,
     "coverage": [
       {
@@ -423,7 +423,7 @@
         "id": "section-3",
         "level": 2,
         "heading": "How do children handle the heat at Borobudur?",
-        "text": "Badly, if you visit late. There is no shade anywhere on the structure or the terraces, and the pale stone holds the sun. Magelang's average October high sits around 33\u00b0C. Children overheat faster than adults and complain later than they should. The first slot of the day, from 08:30, is the single best decision you can make.This is the thing families underestimate most. You are on an exposed stone plateau near the equator with a monument that provides no cover by design. At half past eight the stone is still cool from the night and the light comes in sideways across the carvings, which is also when they look best. By eleven the same stairs are a different proposition entirely.Water and hats, then. Not fashionable hats. Actual brimmed ones. Age decides how much carrying you do. The start time decides whether anyone enjoys it.",
+        "text": "Badly, if you visit late. There is no shade anywhere on the structure or the terraces, and the pale stone holds the sun. Magelang's average October high sits around 33°C. Children overheat faster than adults and complain later than they should. The first slot of the day, from 08:30, is the single best decision you can make.This is the thing families underestimate most. You are on an exposed stone plateau near the equator with a monument that provides no cover by design. At half past eight the stone is still cool from the night and the light comes in sideways across the carvings, which is also when they look best. By eleven the same stairs are a different proposition entirely.Water and hats, then. Not fashionable hats. Actual brimmed ones. Age decides how much carrying you do. The start time decides whether anyone enjoys it.",
         "product": "gyg",
         "tone": "curiosity",
         "copy": "Compare pickup times and the all-inclusive climb option for the cooler part of the day",
@@ -439,7 +439,7 @@
         "id": "section-4",
         "level": 2,
         "heading": "Which Borobudur tour works best for a family?",
-        "text": "Usually the 8-hour day tour with a civilised start. The pre-dawn sunrise tours leave Yogyakarta around 03:30, which means waking children at 03:00 for a hill viewpoint they will not care about, then asking them to climb a temple. The day tour reaches the same stone with everyone rested.This is the part where I am supposed to sell you the most popular tour, and I am not going to, because for families it is often the wrong one. The 03:30 departure is what breaks family days. Not the stairs. Not the heat. The alarm. A tired six-year-old at a temple is a tired six-year-old wherever you put them, and no view fixes it. Tour Start Length Family reality Borobudur Climb & Prambanan Day Tour Civilised morning ~8 hours The default for families. Adds Candi Mendut. No 03:00 alarm Sunrise, Merapi Volcano & Prambanan ~03:30 ~12 hours Brutal start, but the Merapi jeep is the bit older kids talk about for years Borobudur Sunrise Climb & Prambanan ~03:30 Half to full day Best for couples and photographers, hardest sell to a nine-year-old The Merapi tour deserves an honest word, because it is the exception that keeps proving itself. Yes, it is twelve hours and it starts before dawn. But a jeep bouncing over volcanic rubble is, to a ten-year-old, unambiguously better than any temple, and I have watched families where the parents came for Borobudur and the children went home talking about the volcano. If your children nap in cars and love being thrown around, that trade can be worth it. You can check live availability & prices on GetYourGuide for the sunrise climb option if the dawn is genuinely what you want, remembering that its sunrise is watched from Punthuk Setumbu hill and the climb comes after, and the comparison page puts all three side by side without the marketing. Latest data What we can and cannot tell families right now No age limit or accessibility rule for the ordinary structure climb appears on any official page we could find, in English or Indonesian. Treat the stairs, not a rule, as the constraint. Child pricing exists at the domestic tier. No foreign child price for the climb is published anywhere public, and neither is the foreign adult price. Both surface only inside the booking flow. The structure is open 08:30 to 17:00 daily and the grounds 06:30 to 16:30, with the grounds ticket sold to domestic visitors only. Monday closures ended in the third week of July 2025. Magelang's average high in October runs around 33\u00b0C, and there is no shade on the structure or the summit terraces at any hour. Around 1.3 million people visited in 2024, roughly 200,000 of them international, against a 2025 target of 1.7 million. A current snapshot, kept refreshed. These numbers move, so treat them as recent rather than fixed.",
+        "text": "Usually the 8-hour day tour with a civilised start. The pre-dawn sunrise tours leave Yogyakarta around 03:30, which means waking children at 03:00 for a hill viewpoint they will not care about, then asking them to climb a temple. The day tour reaches the same stone with everyone rested.This is the part where I am supposed to sell you the most popular tour, and I am not going to, because for families it is often the wrong one. The 03:30 departure is what breaks family days. Not the stairs. Not the heat. The alarm. A tired six-year-old at a temple is a tired six-year-old wherever you put them, and no view fixes it. Tour Start Length Family reality Borobudur Climb & Prambanan Day Tour Civilised morning ~8 hours The default for families. Adds Candi Mendut. No 03:00 alarm Sunrise, Merapi Volcano & Prambanan ~03:30 ~12 hours Brutal start, but the Merapi jeep is the bit older kids talk about for years Borobudur Sunrise Climb & Prambanan ~03:30 Half to full day Best for couples and photographers, hardest sell to a nine-year-old The Merapi tour deserves an honest word, because it is the exception that keeps proving itself. Yes, it is twelve hours and it starts before dawn. But a jeep bouncing over volcanic rubble is, to a ten-year-old, unambiguously better than any temple, and I have watched families where the parents came for Borobudur and the children went home talking about the volcano. If your children nap in cars and love being thrown around, that trade can be worth it. You can check live availability & prices on GetYourGuide for the sunrise climb option if the dawn is genuinely what you want, remembering that its sunrise is watched from Punthuk Setumbu hill and the climb comes after, and the comparison page puts all three side by side without the marketing. Latest data What we can and cannot tell families right now No age limit or accessibility rule for the ordinary structure climb appears on any official page we could find, in English or Indonesian. Treat the stairs, not a rule, as the constraint. Child pricing exists at the domestic tier. No foreign child price for the climb is published anywhere public, and neither is the foreign adult price. Both surface only inside the booking flow. The structure is open 08:30 to 17:00 daily and the grounds 06:30 to 16:30, with the grounds ticket sold to domestic visitors only. Monday closures ended in the third week of July 2025. Magelang's average high in October runs around 33°C, and there is no shade on the structure or the summit terraces at any hour. Around 1.3 million people visited in 2024, roughly 200,000 of them international, against a 2025 target of 1.7 million. A current snapshot, kept refreshed. These numbers move, so treat them as recent rather than fixed.",
         "product": "half",
         "tone": "urgency",
         "copy": "Private Yogyakarta transport and the climb are bundled into a shorter outing",
@@ -533,7 +533,7 @@
   },
   {
     "url": "https://borobudurtempletour.org/blog/can-you-wear-shorts-at-borobudur/",
-    "state": "reviewed; ready for authorized release with documented provider fallback",
+    "state": "deployed; live HTTP verified; Viator secret approval pending",
     "headingCount": 8,
     "coverage": [
       {
@@ -608,7 +608,7 @@
         "product": "day",
         "tone": "curiosity",
         "copy": "Compare both monuments in person with one private day from Yogyakarta",
-        "label": "Discover Java\u2019s Buddhist And Hindu Temples",
+        "label": "Discover Java’s Buddhist And Hindu Temples",
         "reason": "Section discusses Why do people think Borobudur has a sarong rule? Blame Bali. Selected experience: Compare both monuments in person with one private day from Yogyakarta. Evidence: https://www.viator.com/tours/Yogyakarta/Budha-Voyage/d22560-214335P5",
         "position": "end",
         "locator": "[data-coverage=\"section-5\"]",
@@ -658,9 +658,9 @@
         "copy": "Choose the private two-temple day and confirm its operator requirements for your date",
         "label": "Discover The Exact Tour Before Packing",
         "reason": "Section discusses Do the tours have their own dress requirements?. Selected experience: Choose the private two-temple day and confirm its operator requirements for your date. Evidence: https://www.viator.com/tours/Yogyakarta/Budha-Voyage/d22560-214335P5",
-        "position": "end",
-        "locator": "[data-coverage=\"section-8\"]",
-        "type": "text pitch",
+        "position": "after final editorial and FAQ",
+        "locator": "#cro-booking",
+        "type": "consolidated closing Viator widget",
         "image": null,
         "destination": "https://www.viator.com/tours/Yogyakarta/Budha-Voyage/d22560-214335P5?pid=P00062370&mcid=42383&medium=link"
       }
@@ -682,7 +682,7 @@
   },
   {
     "url": "https://borobudurtempletour.org/blog/first-time-at-borobudur-what-to-expect/",
-    "state": "reviewed; ready for authorized release with documented provider fallback",
+    "state": "deployed; live HTTP verified; Viator secret approval pending",
     "headingCount": 8,
     "coverage": [
       {
@@ -705,7 +705,7 @@
         "id": "section-2",
         "level": 2,
         "heading": "Which Borobudur ticket can a foreign visitor actually buy?",
-        "text": "Two tickets exist: a cheaper grounds ticket and a structure-climb ticket. The grounds ticket is domestic-only, so as a foreign visitor your real option is the climb ticket. It includes access to the structure, a wristband, the Upanat sandals you keep, and a guide.This catches people out constantly, because half the blogs online still describe a foreign grounds price. The official operator's ticketing page lists the Borobudur Temple Ground ticket as \"Only For Domestic Tourist\". So the choice a foreign visitor faces is not cheap-versus-expensive. It is the climb ticket or the separate sunrise product, and that is the whole menu. Ticket Who can buy it Hours What comes with it Grounds / Pelataran Domestic visitors only 06:30\u201316:30 Park and gardens, no structure access Structure climb / Naik Struktur Everyone 08:30\u201317:00 Structure access, wristband, Upanat sandals to keep, tour guide Official Sunrise Everyone, capped at 100 a day 04:00 start Flashlight, Upanat, guide, breakfast at Manohara The domestic climb ticket is listed at IDR 150,000. The foreign climb price is not published on any public page; it appears only once you are inside the booking flow, which is annoying and is also simply the truth. Anyone quoting you a precise foreign figure is repeating a number from somewhere else. Our tickets and prices guide explains that gap in more detail, including why the figure Google shows should not be trusted.",
+        "text": "Two tickets exist: a cheaper grounds ticket and a structure-climb ticket. The grounds ticket is domestic-only, so as a foreign visitor your real option is the climb ticket. It includes access to the structure, a wristband, the Upanat sandals you keep, and a guide.This catches people out constantly, because half the blogs online still describe a foreign grounds price. The official operator's ticketing page lists the Borobudur Temple Ground ticket as \"Only For Domestic Tourist\". So the choice a foreign visitor faces is not cheap-versus-expensive. It is the climb ticket or the separate sunrise product, and that is the whole menu. Ticket Who can buy it Hours What comes with it Grounds / Pelataran Domestic visitors only 06:30–16:30 Park and gardens, no structure access Structure climb / Naik Struktur Everyone 08:30–17:00 Structure access, wristband, Upanat sandals to keep, tour guide Official Sunrise Everyone, capped at 100 a day 04:00 start Flashlight, Upanat, guide, breakfast at Manohara The domestic climb ticket is listed at IDR 150,000. The foreign climb price is not published on any public page; it appears only once you are inside the booking flow, which is annoying and is also simply the truth. Anyone quoting you a precise foreign figure is repeating a number from somewhere else. Our tickets and prices guide explains that gap in more detail, including why the figure Google shows should not be trusted.",
         "product": "gyg",
         "tone": "urgency",
         "copy": "Select the ticket bundle explicitly before comparing it with a transport-only quote",
@@ -772,9 +772,9 @@
         "text": "Three circular terraces holding seventy-two perforated stupas, each with a Buddha inside, around one large central stupa. It is open, exposed and quiet, with Merapi and the Menoreh hills on the horizon. This is the view in every photograph of Borobudur, and it is the part people linger over longest.The change in feeling as you come off the square galleries onto the circles is abrupt and, I think, deliberate. The walls fall away. The carvings stop. You are suddenly in the open with the plain around you. Whatever you believe, the building is making a point about ascent and it makes it physically.Give yourself twenty minutes up there. Sit down. Count Buddhas. Latest data Where Borobudur stands right now Around 1.3 million people visited in 2024, of whom roughly 200,000 were international. That was 87% of the operator's target, and the 2025 target was raised to 1.7 million. The temple is open every day. Monday closures ended in the third week of July 2025, and the operator reported Monday trial numbers of 3,000 to 4,000 climbers afterwards. No daily quota for the ordinary structure climb appears on any official page today. The one published cap is on the separate 04:00 sunrise product: 100 people a day. Upanat sandal production passed 4,000 pairs a day in early 2024, made by 45 craftspeople across 20 villages around the temple. Google reviewers currently score the temple 4.7 from 103,797 ratings. A current snapshot, kept refreshed. These numbers move, so treat them as recent rather than fixed.",
         "product": "half",
         "tone": "urgency",
-        "copy": "Choose the climb option to reach the monument\u2019s terraces on your travel date",
+        "copy": "Choose the climb option to reach the monument’s terraces on your travel date",
         "label": "Check Your Borobudur Morning",
-        "reason": "Section discusses What is at the top?. Selected experience: Choose the climb option to reach the monument\u2019s terraces on your travel date. Evidence: https://www.viator.com/tours/Yogyakarta/Budha-Voyage/d22560-214335P5",
+        "reason": "Section discusses What is at the top?. Selected experience: Choose the climb option to reach the monument’s terraces on your travel date. Evidence: https://www.viator.com/tours/Yogyakarta/Budha-Voyage/d22560-214335P5",
         "position": "end",
         "locator": "[data-coverage=\"section-6\"]",
         "type": "text pitch",
@@ -785,7 +785,7 @@
         "id": "section-7",
         "level": 2,
         "heading": "How long should you spend at Borobudur?",
-        "text": "Two hours does the temple justice for a first visit: fifteen minutes through the gardens, a circuit or two of the galleries with your guide, twenty minutes on the summit terraces, and the walk back. Under an hour and you have photographed it rather than seen it. Beyond three hours, in that heat, most people are finished.Here is the honest time budget, which is the thing tour listings never show you. Stage Realistic time What decides it Entrance to the base of the temple 10\u201315 min Gardens are pleasant, walk them Sandal swap and briefing 5\u201310 min Queue length at the base Galleries and panels 40\u201360 min Whether you circle each terrace or cut up Summit terraces and stupas 20\u201330 min Heat, and how long you sit Walk out, market, toilets 20 min The exit route is longer than you expect If you are on a combined tour, Prambanan comes after, usually in the afternoon. It is a ninth-century Hindu complex on the other side of Yogyakarta, tall and spiky where Borobudur is broad and solid, and that contrast is why the two are sold together. There is more on pacing in our guide to how long a visit takes.{{ tour_picks:sunrise-climb-prambanan,climb-day-tour,merapi-full-day }}",
+        "text": "Two hours does the temple justice for a first visit: fifteen minutes through the gardens, a circuit or two of the galleries with your guide, twenty minutes on the summit terraces, and the walk back. Under an hour and you have photographed it rather than seen it. Beyond three hours, in that heat, most people are finished.Here is the honest time budget, which is the thing tour listings never show you. Stage Realistic time What decides it Entrance to the base of the temple 10–15 min Gardens are pleasant, walk them Sandal swap and briefing 5–10 min Queue length at the base Galleries and panels 40–60 min Whether you circle each terrace or cut up Summit terraces and stupas 20–30 min Heat, and how long you sit Walk out, market, toilets 20 min The exit route is longer than you expect If you are on a combined tour, Prambanan comes after, usually in the afternoon. It is a ninth-century Hindu complex on the other side of Yogyakarta, tall and spiky where Borobudur is broad and solid, and that contrast is why the two are sold together. There is more on pacing in our guide to how long a visit takes.{{ tour_picks:sunrise-climb-prambanan,climb-day-tour,merapi-full-day }}",
         "product": "day",
         "tone": "curiosity",
         "copy": "See how the private eight-hour day uses the travel time to connect Borobudur and Prambanan",
@@ -807,9 +807,9 @@
         "copy": "Arrange the guided five-hour outing before filling the remainder of your Yogyakarta day",
         "label": "Check A First-Visit Climb Date",
         "reason": "Section discusses What surprises first-time visitors most?. Selected experience: Arrange the guided five-hour outing before filling the remainder of your Yogyakarta day. Evidence: https://www.viator.com/tours/Yogyakarta/Budha-Voyage/d22560-214335P5",
-        "position": "end",
-        "locator": "[data-coverage=\"section-8\"]",
-        "type": "text pitch",
+        "position": "after final editorial and FAQ",
+        "locator": "#cro-booking",
+        "type": "consolidated closing Viator widget",
         "image": null,
         "destination": "https://www.viator.com/tours/Yogyakarta/Budha-Voyage/d22560-214335P5?pid=P00062370&mcid=42383&medium=link"
       }
@@ -831,7 +831,7 @@
   },
   {
     "url": "https://borobudurtempletour.org/blog/history-of-borobudur/",
-    "state": "reviewed; ready for authorized release with documented provider fallback",
+    "state": "deployed; live HTTP verified; Viator secret approval pending",
     "headingCount": 7,
     "coverage": [
       {
@@ -842,7 +842,7 @@
         "product": "day",
         "tone": "curiosity",
         "copy": "Visit Buddhist Borobudur and Hindu Prambanan in the same private day",
-        "label": "Discover Java\u2019s Two Temple Traditions",
+        "label": "Discover Java’s Two Temple Traditions",
         "reason": "Section discusses When was Borobudur built, and who built it?. Selected experience: Visit Buddhist Borobudur and Hindu Prambanan in the same private day. Evidence: https://www.viator.com/tours/Yogyakarta/Budha-Voyage/d22560-214335P5",
         "position": "end",
         "locator": "[data-coverage=\"section-1\"]",
@@ -921,9 +921,9 @@
         "text": "No, and the word is worth pushing back on. In 1814 Thomas Stamford Raffles sent H.C. Cornelius with around 200 workers to clear vegetation and soil from a site local villagers already knew about and led them to. That is a clearing, and a documentation. Nobody in the Kedu Plain needed to be told the temple was there.Think about the geography for a second. This is a stone hill 35 metres high in the middle of a farmed plain, in one of the most densely populated agricultural regions of Java. The idea that it vanished from local knowledge does not survive contact with the landscape. It was overgrown, not absent.The written trail backs the villagers up. A Javanese court poem still mentions the site around 1365, four and a half centuries before Raffles. And when Cornelius arrived, the way he found the monument was by asking people who lived there.So \"rediscovery\" describes a European arrival, not the temple's status. Cornelius and his workers did real and valuable labour, and the 1814 clearing is genuinely the start of the site's modern documented life. But the honest sentence is that outsiders were shown something locals had never lost. I use the word \"cleared\" on tour, and I would encourage you to notice which word a source picks. It tells you whose knowledge that source counts.{{ tour_picks:sunrise-climb-prambanan,climb-day-tour,prambanan-sunset }}",
         "product": "half",
         "tone": "urgency",
-        "copy": "Arrange Borobudur\u2019s guided climb and private return transport as one half day",
+        "copy": "Arrange Borobudur’s guided climb and private return transport as one half day",
         "label": "Check A Date To See The Restored Monument",
-        "reason": "Section discusses Was Borobudur really rediscovered in 1814?. Selected experience: Arrange Borobudur\u2019s guided climb and private return transport as one half day. Evidence: https://www.viator.com/tours/Yogyakarta/Budha-Voyage/d22560-214335P5",
+        "reason": "Section discusses Was Borobudur really rediscovered in 1814?. Selected experience: Arrange Borobudur’s guided climb and private return transport as one half day. Evidence: https://www.viator.com/tours/Yogyakarta/Budha-Voyage/d22560-214335P5",
         "position": "end",
         "locator": "[data-coverage=\"section-6\"]",
         "type": "text pitch",
@@ -964,7 +964,7 @@
   },
   {
     "url": "https://borobudurtempletour.org/blog/is-it-rainy-season-in-indonesia/",
-    "state": "reviewed; ready for authorized release with documented provider fallback",
+    "state": "deployed; live HTTP verified; Viator secret approval pending",
     "headingCount": 6,
     "coverage": [
       {
@@ -1081,7 +1081,7 @@
   },
   {
     "url": "https://borobudurtempletour.org/blog/is-prambanan-hindu-or-buddhist/",
-    "state": "reviewed; ready for authorized release with documented provider fallback",
+    "state": "deployed; live HTTP verified; Viator secret approval pending",
     "headingCount": 6,
     "coverage": [
       {
@@ -1140,7 +1140,7 @@
         "product": "day",
         "tone": "urgency",
         "copy": "Set the paired visit before filling the rest of your cultural itinerary",
-        "label": "Check A Day For Java\u2019s Two Monuments",
+        "label": "Check A Day For Java’s Two Monuments",
         "reason": "Section discusses Did Hindus and Buddhists fight over Java?. Selected experience: Set the paired visit before filling the rest of your cultural itinerary. Evidence: https://www.viator.com/tours/Yogyakarta/Budha-Voyage/d22560-214335P5",
         "position": "end",
         "locator": "[data-coverage=\"section-4\"]",
@@ -1198,7 +1198,7 @@
   },
   {
     "url": "https://borobudurtempletour.org/blog/is-yogyakarta-worth-visiting/",
-    "state": "reviewed; ready for authorized release with documented provider fallback",
+    "state": "deployed; live HTTP verified; Viator secret approval pending",
     "headingCount": 8,
     "coverage": [
       {
@@ -1253,7 +1253,7 @@
         "id": "section-4",
         "level": 2,
         "heading": "How many days do you need in Yogyakarta?",
-        "text": "Two full days does the city properly: one for the temple loop, one for the Kraton, batik and Malioboro. Three if you want Merapi as well. One day is enough only if you accept it will be the temples and nothing else.Most of my guests arrive with a day and a half carved out of a Bali fortnight, which is tight but workable. The realistic shapes: Time you have What fits What you miss One day Borobudur climb + Prambanan on a single loop The city itself, entirely Two days The temple loop, plus Kraton, batik and Malioboro Merapi, the beaches to the south Three days Add Merapi jeeps or a sunrise start, at a human pace Not much that matters A week Solo, the south coast, deeper batik workshops You are now on a Java trip, not a detour Where you sleep matters less than people fear, because tours pick up across the city. Three bases my guests keep being happy with: The Phoenix, the city's colonial-era heritage hotel, now run under Accor's Handwritten Collection; the Hyatt Regency, the gardens-and-pool resort option on the city's edge; and Adhisthana in Prawirotaman, the guesthouse-budget pick in the cafe quarter. Rooms for all three are on Expedia:The Phoenix Hotel Yogyakarta Check rates \u203aHyatt Regency Yogyakarta Check rates \u203aAdhisthana Hotel Yogyakarta Check rates \u203aTwo is the number I would defend. One day is a raid. Three is comfortable. If you are debating whether the detour is worth making at all, I have argued that case at length in where to go instead of Bali.",
+        "text": "Two full days does the city properly: one for the temple loop, one for the Kraton, batik and Malioboro. Three if you want Merapi as well. One day is enough only if you accept it will be the temples and nothing else.Most of my guests arrive with a day and a half carved out of a Bali fortnight, which is tight but workable. The realistic shapes: Time you have What fits What you miss One day Borobudur climb + Prambanan on a single loop The city itself, entirely Two days The temple loop, plus Kraton, batik and Malioboro Merapi, the beaches to the south Three days Add Merapi jeeps or a sunrise start, at a human pace Not much that matters A week Solo, the south coast, deeper batik workshops You are now on a Java trip, not a detour Where you sleep matters less than people fear, because tours pick up across the city. Three bases my guests keep being happy with: The Phoenix, the city's colonial-era heritage hotel, now run under Accor's Handwritten Collection; the Hyatt Regency, the gardens-and-pool resort option on the city's edge; and Adhisthana in Prawirotaman, the guesthouse-budget pick in the cafe quarter. Rooms for all three are on Expedia:The Phoenix Hotel Yogyakarta Check rates ›Hyatt Regency Yogyakarta Check rates ›Adhisthana Hotel Yogyakarta Check rates ›Two is the number I would defend. One day is a raid. Three is comfortable. If you are debating whether the detour is worth making at all, I have argued that case at length in where to go instead of Bali.",
         "product": "half",
         "tone": "urgency",
         "copy": "The shorter Borobudur outing leaves time in a compact stay for the city itself",
@@ -1347,7 +1347,7 @@
   },
   {
     "url": "https://borobudurtempletour.org/blog/what-is-indonesia-famous-for/",
-    "state": "reviewed; ready for authorized release with documented provider fallback",
+    "state": "deployed; live HTTP verified; Viator secret approval pending",
     "headingCount": 8,
     "coverage": [
       {
@@ -1358,7 +1358,7 @@
         "product": "day",
         "tone": "curiosity",
         "copy": "The Borobudur climb and Prambanan show two temple traditions in one private day",
-        "label": "Discover Java\u2019s Monumental Side",
+        "label": "Discover Java’s Monumental Side",
         "reason": "Section discusses What is Indonesia actually famous for?. Selected experience: The Borobudur climb and Prambanan show two temple traditions in one private day. Evidence: https://www.viator.com/tours/Yogyakarta/Budha-Voyage/d22560-214335P5",
         "position": "end",
         "locator": "[data-coverage=\"section-1\"]",
@@ -1496,7 +1496,7 @@
   },
   {
     "url": "https://borobudurtempletour.org/blog/where-to-go-instead-of-bali/",
-    "state": "reviewed; ready for authorized release with documented provider fallback",
+    "state": "deployed; live HTTP verified; Viator secret approval pending",
     "headingCount": 8,
     "coverage": [
       {
@@ -1506,9 +1506,9 @@
         "text": "No. Bali is popular for reasons that hold up: excellent beaches, a living Hindu temple culture, world-class food and hotels, and fifty years of practice at looking after visitors. The problem is not quality. It is concentration. Nearly seven million foreign visitors landed on one island in 2025.I want to be straight about this, because guides from Java have a habit of running Bali down and it is unearned. If you want warm water, a good bed, a proper cocktail and someone who speaks your language, Bali does all of that better than anywhere else in Indonesia. That is not an accident and it is not a con.What has changed is the density. Bali recorded 6,948,754 direct foreign arrivals in 2025, almost 10% up on the year before, on an island you can drive across in a few hours. The provincial government now charges every foreign visitor a tourism levy of IDR 150,000, brought in during February 2024, in part to fund the strain. Traffic in the south is the thing my Australian guests complain about most, and they are not complaining about the beaches.So the honest framing is not \"go somewhere better than Bali\". It is: work out what you actually wanted, then check whether Bali is the best place to get it. Often it is. Sometimes it very much is not. Pick by what you actually want, not by what came up first. Latest data How lopsided the map really is right now Bali took 6,948,754 direct foreign arrivals in 2025, a rise of 9.72% on 2024. Every foreign visitor to Bali pays a IDR 150,000 tourism levy, in force since February 2024. Komodo National Park drew roughly 432,000 visitors across 2025, well under a tenth of Bali's foreign traffic alone. Lombok recorded around 430,000 international arrivals in 2024, alongside more than 3.2 million domestic visitors. Borobudur, the world's largest Buddhist temple, saw about 1.3 million visitors in 2024, of whom only around 200,000 came from abroad. A current snapshot, kept refreshed. These numbers move, so treat them as recent rather than fixed.",
         "product": "heritage",
         "tone": "curiosity",
-        "copy": "A palace, market and batik day makes Yogyakarta\u2019s cultural appeal concrete",
+        "copy": "A palace, market and batik day makes Yogyakarta’s cultural appeal concrete",
         "label": "Discover A City-Based Java Alternative",
-        "reason": "Section discusses Is Bali actually overrated?. Selected experience: A palace, market and batik day makes Yogyakarta\u2019s cultural appeal concrete. Evidence: https://www.viator.com/tours/Yogyakarta/Yogyakarta-Heritage-Tour-and-Batik-Workshop/d22560-211441P10",
+        "reason": "Section discusses Is Bali actually overrated?. Selected experience: A palace, market and batik day makes Yogyakarta’s cultural appeal concrete. Evidence: https://www.viator.com/tours/Yogyakarta/Yogyakarta-Heritage-Tour-and-Batik-Workshop/d22560-211441P10",
         "position": "end",
         "locator": "[data-coverage=\"section-1\"]",
         "type": "text pitch",
@@ -1539,7 +1539,7 @@
         "product": "gyg",
         "tone": "curiosity",
         "copy": "Compare the Borobudur climb and sunrise options with hotel transport",
-        "label": "Discover Yogyakarta\u2019s Temple Routes",
+        "label": "Discover Yogyakarta’s Temple Routes",
         "reason": "Section discusses Why Yogyakarta instead of Bali?. Selected experience: Compare the Borobudur climb and sunrise options with hotel transport. Evidence: https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/",
         "position": "end",
         "locator": "[data-coverage=\"section-3\"]",
@@ -1555,7 +1555,7 @@
         "product": "day",
         "tone": "urgency",
         "copy": "Combine Buddhist Borobudur and Hindu Prambanan before allocating your remaining Java days",
-        "label": "Check A Date For Java\u2019s Two Temples",
+        "label": "Check A Date For Java’s Two Temples",
         "reason": "Section discusses What does Java have that Bali doesn't?. Selected experience: Combine Buddhist Borobudur and Hindu Prambanan before allocating your remaining Java days. Evidence: https://www.viator.com/tours/Yogyakarta/Budha-Voyage/d22560-214335P5",
         "position": "end",
         "locator": "[data-coverage=\"section-4\"]",
@@ -1645,7 +1645,7 @@
   },
   {
     "url": "https://borobudurtempletour.org/guides/best-time-to-visit-borobudur/",
-    "state": "reviewed; ready for authorized release with documented provider fallback",
+    "state": "deployed; live HTTP verified; Viator secret approval pending",
     "headingCount": 5,
     "coverage": [
       {
@@ -1668,7 +1668,7 @@
         "id": "section-2",
         "level": 2,
         "heading": "Is it rainy season in Indonesia right now?",
-        "text": "For Java, the calendar answers it: November to April is the rainy season, May to October the dry. The onset shifts a little each year with El Ni\u00f1o and La Ni\u00f1a, and other Indonesian regions run on different rhythms, but for a Borobudur trip the November-to-April wet rule is the one to plan by.People ask this as if it needed a live weather feed, but for Java the calendar answers it. If your visit falls between November and April, plan for rainy-season conditions: clear-ish mornings, building clouds, an afternoon downpour more days than not. Between May and October, plan for dry-season conditions and the occasional stray shower. The exact onset shifts a little each year with El Ni\u00f1o and La Ni\u00f1a, which is why Indonesia's meteorological agency BMKG publishes seasonal forecasts, but the broad November-to-April wet pattern for Java holds. One caveat for island-hoppers: Indonesia is enormous, and other regions run on different rhythms, so this rule of thumb is for Java, not for the whole country.",
+        "text": "For Java, the calendar answers it: November to April is the rainy season, May to October the dry. The onset shifts a little each year with El Niño and La Niña, and other Indonesian regions run on different rhythms, but for a Borobudur trip the November-to-April wet rule is the one to plan by.People ask this as if it needed a live weather feed, but for Java the calendar answers it. If your visit falls between November and April, plan for rainy-season conditions: clear-ish mornings, building clouds, an afternoon downpour more days than not. Between May and October, plan for dry-season conditions and the occasional stray shower. The exact onset shifts a little each year with El Niño and La Niña, which is why Indonesia's meteorological agency BMKG publishes seasonal forecasts, but the broad November-to-April wet pattern for Java holds. One caveat for island-hoppers: Indonesia is enormous, and other regions run on different rhythms, so this rule of thumb is for Java, not for the whole country.",
         "product": "gyg",
         "tone": "urgency",
         "copy": "Compare Setumbu and climb options against the month you will actually be in Java",
@@ -1684,7 +1684,7 @@
         "id": "section-3",
         "level": 2,
         "heading": "What time of day is best at the temple?",
-        "text": "Arrive at the 08:30 opening for the coolest climbing air, accept the midday heat if you want the crispest light on the relief carvings, or come late for warm light on the west face before the 17:00 close. The 04:00 sunrise slot on the monument itself is a separate product capped at 100 people a day.The verified windows first. The structure climb, the ticket foreign visitors actually buy, runs 08:30 to 17:00 every day. The wider grounds open 06:30 to 16:30, but the grounds-only ticket is sold to domestic visitors only, a quirk our tickets guide explains. Before all of that, at 04:00, there is the official sunrise product on the monument itself: IDR 1,000,000 for international visitors and capped at 100 people a day.Within the 08:30 to 17:00 window, each part of the day trades something for something. 04:00, sunrise slotThe official product on the monument itself; IDR 1,000,000 international, capped at 100 people/day 06:30, grounds openDomestic grounds-ticket holders come in; foreign visitors wait for the climb window 08:30, climb opensThe coolest air of the climbing day; the hour to pick if walking comfort matters most MiddayThe hottest stretch, and also the crispest, most direct light on the 1,460 relief panels Late afternoonWarm, low light on the west face, the classic photo hour, with the 17:00 close as the hard stop Early, right at opening, you get the coolest air of the climbing day. By afternoon the stone radiates heat, so if walking the terraces in comfort matters most, be at the gate for 08:30. Midday is the hottest stretch, and also, counterintuitively, the best light for the temple's 1,460 narrative relief panels: with the sun high, the carvings sit in crisp relief instead of flat shade, which is exactly what you want if the climb and the panels are your reason for coming. Late afternoon brings warm, low light onto the west face of the monument, the classic hour for photographs of the stupas against the light, with the 17:00 close as your hard stop.Day of the week is the other lever. Hard current numbers do not exist because the operator publishes no daily quota for the ordinary climb, but the pattern from the capped era, which ran through 2024, is instructive: Kompas reported in April 2024 that weekend demand hit the then-active 1,200-climber ceiling while weekdays drew 300 to 500. Public holidays are their own category; the operator told Antara the site logged a single-day peak of around 11,000 visitors on 29 December during the year-end holidays. **Climbers per day, capped era through 2024** Weekdays300 to 500 climbers WeekendsDemand hit the 1,200-a-day ceiling then in force Since July 2025The cap on the ordinary daytime climb is gone; only the 04:00 sunrise slot stays limited, at 100 people/day The 1,200 figure is historical, from the capped era that ended when daily climbing resumed in July 2025. It is not a current limit; the weekday-versus-weekend spread is the useful part. {: .small}And sunrise? Most \"sunrise\" tours from Yogyakarta, including the top-rated one we list (check live availability & prices on GetYourGuide), watch dawn from Punthuk Setumbu, a hill about 2.5 km from the monument that looks across the mist toward it, then climb the temple after 08:30. It is a beautiful morning, but it is a viewpoint, not the terraces, and our sunrise guide walks through which dawn suits which visitor. Dry seasonMay to October; July and August the driest months in the Yogyakarta and Magelang area Rainy seasonNovember to April; wettest December to February; rain mostly as afternoon downpours Structure climb hours08:30\u201317:00, every day Grounds hours06:30\u201316:30; grounds-only ticket is domestic-only Official sunrise product04:00 start on the monument, capped at 100 people/day Weekly closuresNone. The Monday closure ended in the third week of July 2025 Latest data What the seasons and crowds look like now Borobudur drew about 1.3 million visitors in 2024, 200,000 of them international, which was 87 percent of the operator's own target; the target for 2025 is 1.7 million. Year-end is the crush: the operator reported a single-day peak of around 11,000 visitors on 29 December, during the year-end holidays. Holiday surges land in the wet season too. The Eid week of 31 March to 6 April 2025 brought 67,536 visitors to Borobudur, per the operator's own figures. For the day-of-week pattern, capped-era data from 2024 showed weekends hitting the then-active 1,200-climber ceiling while ordinary weekdays drew 300 to 500. A current snapshot, kept refreshed. These numbers move, so treat them as recent rather than fixed. Borobudur seasons and the shape of a visiting day A twelve-month band showing the rainy season from November to April and the dry season from May to October, with July and August marked as the driest months. Below it, a timeline of the visiting day: the 04:00 sunrise slot, grounds opening at 06:30, the climb opening at 08:30, the best carving light at midday, and the climb closing at 17:00. .sn-lbl{font-family:\"Avenir Next\",Avenir,\"Segoe UI\",sans-serif;} .sn-h{font-size:19px;font-weight:700;} .sn-sub{font-size:13px;} .sn-m{font-size:14px;font-weight:700;} .sn-leg{font-size:13px;} .sn-tick{font-size:11px;font-weight:700;} .sn-tickd{font-size:11px;} When to visit Borobudur Central Java's two seasons, and the shape of a day at the temple DRIEST J F M A M J J A S O N D Dry season, May to October. July and August are the driest. Rainy season, November to April. Downpours cluster in the afternoon. The day at the temple 04:00 06:30 08:30 midday 17:00 sunrise slot grounds open climb opens best carving light climb closes Top: Central Java's dry season (May to October, gold) and rainy season (November to April, slate). Bottom: the verified daily windows at Borobudur.",
+        "text": "Arrive at the 08:30 opening for the coolest climbing air, accept the midday heat if you want the crispest light on the relief carvings, or come late for warm light on the west face before the 17:00 close. The 04:00 sunrise slot on the monument itself is a separate product capped at 100 people a day.The verified windows first. The structure climb, the ticket foreign visitors actually buy, runs 08:30 to 17:00 every day. The wider grounds open 06:30 to 16:30, but the grounds-only ticket is sold to domestic visitors only, a quirk our tickets guide explains. Before all of that, at 04:00, there is the official sunrise product on the monument itself: IDR 1,000,000 for international visitors and capped at 100 people a day.Within the 08:30 to 17:00 window, each part of the day trades something for something. 04:00, sunrise slotThe official product on the monument itself; IDR 1,000,000 international, capped at 100 people/day 06:30, grounds openDomestic grounds-ticket holders come in; foreign visitors wait for the climb window 08:30, climb opensThe coolest air of the climbing day; the hour to pick if walking comfort matters most MiddayThe hottest stretch, and also the crispest, most direct light on the 1,460 relief panels Late afternoonWarm, low light on the west face, the classic photo hour, with the 17:00 close as the hard stop Early, right at opening, you get the coolest air of the climbing day. By afternoon the stone radiates heat, so if walking the terraces in comfort matters most, be at the gate for 08:30. Midday is the hottest stretch, and also, counterintuitively, the best light for the temple's 1,460 narrative relief panels: with the sun high, the carvings sit in crisp relief instead of flat shade, which is exactly what you want if the climb and the panels are your reason for coming. Late afternoon brings warm, low light onto the west face of the monument, the classic hour for photographs of the stupas against the light, with the 17:00 close as your hard stop.Day of the week is the other lever. Hard current numbers do not exist because the operator publishes no daily quota for the ordinary climb, but the pattern from the capped era, which ran through 2024, is instructive: Kompas reported in April 2024 that weekend demand hit the then-active 1,200-climber ceiling while weekdays drew 300 to 500. Public holidays are their own category; the operator told Antara the site logged a single-day peak of around 11,000 visitors on 29 December during the year-end holidays. **Climbers per day, capped era through 2024** Weekdays300 to 500 climbers WeekendsDemand hit the 1,200-a-day ceiling then in force Since July 2025The cap on the ordinary daytime climb is gone; only the 04:00 sunrise slot stays limited, at 100 people/day The 1,200 figure is historical, from the capped era that ended when daily climbing resumed in July 2025. It is not a current limit; the weekday-versus-weekend spread is the useful part. {: .small}And sunrise? Most \"sunrise\" tours from Yogyakarta, including the top-rated one we list (check live availability & prices on GetYourGuide), watch dawn from Punthuk Setumbu, a hill about 2.5 km from the monument that looks across the mist toward it, then climb the temple after 08:30. It is a beautiful morning, but it is a viewpoint, not the terraces, and our sunrise guide walks through which dawn suits which visitor. Dry seasonMay to October; July and August the driest months in the Yogyakarta and Magelang area Rainy seasonNovember to April; wettest December to February; rain mostly as afternoon downpours Structure climb hours08:30–17:00, every day Grounds hours06:30–16:30; grounds-only ticket is domestic-only Official sunrise product04:00 start on the monument, capped at 100 people/day Weekly closuresNone. The Monday closure ended in the third week of July 2025 Latest data What the seasons and crowds look like now Borobudur drew about 1.3 million visitors in 2024, 200,000 of them international, which was 87 percent of the operator's own target; the target for 2025 is 1.7 million. Year-end is the crush: the operator reported a single-day peak of around 11,000 visitors on 29 December, during the year-end holidays. Holiday surges land in the wet season too. The Eid week of 31 March to 6 April 2025 brought 67,536 visitors to Borobudur, per the operator's own figures. For the day-of-week pattern, capped-era data from 2024 showed weekends hitting the then-active 1,200-climber ceiling while ordinary weekdays drew 300 to 500. A current snapshot, kept refreshed. These numbers move, so treat them as recent rather than fixed. Borobudur seasons and the shape of a visiting day A twelve-month band showing the rainy season from November to April and the dry season from May to October, with July and August marked as the driest months. Below it, a timeline of the visiting day: the 04:00 sunrise slot, grounds opening at 06:30, the climb opening at 08:30, the best carving light at midday, and the climb closing at 17:00. .sn-lbl{font-family:\"Avenir Next\",Avenir,\"Segoe UI\",sans-serif;} .sn-h{font-size:19px;font-weight:700;} .sn-sub{font-size:13px;} .sn-m{font-size:14px;font-weight:700;} .sn-leg{font-size:13px;} .sn-tick{font-size:11px;font-weight:700;} .sn-tickd{font-size:11px;} When to visit Borobudur Central Java's two seasons, and the shape of a day at the temple DRIEST J F M A M J J A S O N D Dry season, May to October. July and August are the driest. Rainy season, November to April. Downpours cluster in the afternoon. The day at the temple 04:00 06:30 08:30 midday 17:00 sunrise slot grounds open climb opens best carving light climb closes Top: Central Java's dry season (May to October, gold) and rainy season (November to April, slate). Bottom: the verified daily windows at Borobudur.",
         "product": "half",
         "tone": "curiosity",
         "copy": "Choose a five-hour outing with the climb and hotel transport arranged together",
@@ -1722,9 +1722,9 @@
         "copy": "A focused half day gives Borobudur its own guided visit without committing to dawn",
         "label": "Discover The Shorter Climb Trip",
         "reason": "Section discusses Common questions. Selected experience: A focused half day gives Borobudur its own guided visit without committing to dawn. Evidence: https://www.viator.com/tours/Yogyakarta/Budha-Voyage/d22560-214335P5",
-        "position": "end",
-        "locator": "[data-coverage=\"section-5\"]",
-        "type": "text pitch",
+        "position": "after final editorial and FAQ",
+        "locator": "#cro-booking",
+        "type": "consolidated closing Viator widget",
         "image": null,
         "destination": "https://www.viator.com/tours/Yogyakarta/Budha-Voyage/d22560-214335P5?pid=P00062370&mcid=42383&medium=link"
       }
@@ -1746,14 +1746,14 @@
   },
   {
     "url": "https://borobudurtempletour.org/guides/borobudur-from-yogyakarta/",
-    "state": "reviewed; ready for authorized release with documented provider fallback",
+    "state": "deployed; live HTTP verified; Viator secret approval pending",
     "headingCount": 6,
     "coverage": [
       {
         "id": "section-1",
         "level": 2,
         "heading": "What is the closest city to Borobudur?",
-        "text": "Yogyakarta is the practical answer: the visitor hub with the airport, the hotels and every tour departure point, about an hour southeast of the temple by road. The monument itself stands in Magelang Regency, Central Java, near the small town of Muntilan, but almost every visitor stays in Yogyakarta and travels out for the day.Yogyakarta. The temple is not in the city, despite what a lot of tour marketing implies, but Yogyakarta is where the airport, the hotels and every tour departure point are, about an hour southeast of the monument by road. The temple itself stands in Magelang Regency, Central Java, and the nearest town of any size is Muntilan, which you pass on the drive up. In practice nobody plans around Muntilan. You stay in Yogyakarta and travel out for the day, or you sleep at one of the handful of hotels near the temple park if a dawn start matters to you.Two of those temple-side addresses are worth naming. Manohara sits inside the park itself, the only hotel from which the monument is a walk rather than a drive, and Plataran Borobudur is the resort option in the hills just outside it. Neither is the budget pick; both replace the 03:30 alarm with something far kinder.Manohara Borobudur Check rates \u203aPlataran Borobudur Resort & Spa Check rates \u203aThat geography shapes everything below. Whatever option you choose, you are committing to roughly two hours of round-trip travel, so it makes sense to decide how long you want at Borobudur itself before you pick how to get there.",
+        "text": "Yogyakarta is the practical answer: the visitor hub with the airport, the hotels and every tour departure point, about an hour southeast of the temple by road. The monument itself stands in Magelang Regency, Central Java, near the small town of Muntilan, but almost every visitor stays in Yogyakarta and travels out for the day.Yogyakarta. The temple is not in the city, despite what a lot of tour marketing implies, but Yogyakarta is where the airport, the hotels and every tour departure point are, about an hour southeast of the monument by road. The temple itself stands in Magelang Regency, Central Java, and the nearest town of any size is Muntilan, which you pass on the drive up. In practice nobody plans around Muntilan. You stay in Yogyakarta and travel out for the day, or you sleep at one of the handful of hotels near the temple park if a dawn start matters to you.Two of those temple-side addresses are worth naming. Manohara sits inside the park itself, the only hotel from which the monument is a walk rather than a drive, and Plataran Borobudur is the resort option in the hills just outside it. Neither is the budget pick; both replace the 03:30 alarm with something far kinder.Manohara Borobudur Check rates ›Plataran Borobudur Resort & Spa Check rates ›That geography shapes everything below. Whatever option you choose, you are committing to roughly two hours of round-trip travel, so it makes sense to decide how long you want at Borobudur itself before you pick how to get there.",
         "product": "day",
         "tone": "curiosity",
         "copy": "The private outing starts at your city hotel and connects both monuments",
@@ -1801,7 +1801,7 @@
         "id": "section-4",
         "level": 2,
         "heading": "Option three: the public bus",
-        "text": "The public bus is the cheapest route: Trans Jogja to Jombor terminal for about IDR 3,600, then a regional bus or DAMRI shuttle on to Borobudur for roughly IDR 20,000 to 50,000. Budget 90 minutes to two hours each way, and remember the last buses back leave in the afternoon.Cheap, slow, and genuinely doable. The classic route has two legs. First, a Trans Jogja city bus to Jombor terminal on the northern edge of Yogyakarta; the flat fare was about IDR 3,600 at the time of writing. From Jombor, regional buses and DAMRI shuttles run on toward Borobudur, with recent traveler reports putting that leg anywhere from IDR 20,000 to 50,000 depending on the service. Some DAMRI departures also leave from central points near Malioboro, which skips the Jombor transfer entirely.Count on 90 minutes to two hours each way once transfers and waiting are included. The bus drops you at the Borobudur stop in the village, a short walk or a cheap becak ride from the park gate. Two honest caveats. Timetables are limited and shift around, so check the DAMRI or Traveloka apps for live departures rather than trusting a blog schedule, including this one. And the last buses back run in the afternoon, which rules the bus out for any sunrise plan. Distance and drive timeAbout 1 hour northwest of Yogyakarta by road, in Magelang Regency, Central Java Tour with pickupDoor to door, ticket and guide handled, usually bundled with Prambanan into an 8 to 12 hour day Private driverAdvertised at roughly US$25 to 45 per vehicle for the round trip; agree the price and waiting time first Public busTrans Jogja to Jombor, then a regional bus or DAMRI shuttle; 90 min to 2 h each way; check live times in the DAMRI or Traveloka apps Ride-hailingWorks outbound (reported IDR 200,000 to 300,000 one way in 2025); return pickups from the rural temple area can be slow Bus and ride-hailing figures come from traveler reports and operator listings from 2024 and 2025, not from a published official fare table, so confirm current prices in the apps or at the terminal. Rupiah fares in particular move often. {: .small}Whichever way you travel, the clock that matters is the temple's own. The structure climb runs 08:30 to 17:00, per the operator's official ticketing page, so working backward from an 08:30 arrival gives you a departure time for each option. **Door-to-door time****Leave Yogyakarta by, for the 08:30 climb opening** Tour with pickupAbout 1 h each wayPickup time is set by the operator; sunrise versions collect you before dawn for Punthuk Setumbu Private driver or ride-hailingAbout 1 h each wayAround 07:15, leaving a margin for traffic and the walk in from parking Public bus via Jombor90 min to 2 h each wayAround 06:15, to cover the slow end of the range and the transfer wait The return legThe same in reverseNo deadline by car or tour; by bus, the last afternoon departures are your hard stop Latest data How people are actually getting there Transport guides updated in 2025 put the road distance at about 40 km from central Yogyakarta, driven in 1 to 1.5 hours, and about 60 km from Yogyakarta International Airport. DAMRI listings from 2025 show direct shuttles to Borobudur from the airport at IDR 20,000 and from city points such as the UGM roundabout at IDR 30,000, with the airport run taking around 2.5 hours. Demand on the far end keeps growing: Borobudur drew about 1.3 million visitors in 2024, including 200,000 international travellers, and the operator is targeting 1.7 million for 2025. During the capped era that ran through 2024, weekend climb demand hit the 1,200-a-day ceiling while weekdays saw 300 to 500 climbers, a spread worth remembering when you pick your travel day. A current snapshot, kept refreshed. These numbers move, so treat them as recent rather than fixed. Three ways from Yogyakarta to Borobudur A route diagram with three lanes. A tour with hotel pickup goes direct in about one hour with everything handled. A private driver does the same drive and waits at the temple. The public bus runs from a Trans Jogja stop to Jombor terminal, then a regional bus to the Borobudur stop, taking 90 minutes to two hours. .rt-lbl{font-family:\"Avenir Next\",Avenir,\"Segoe UI\",sans-serif;} .rt-h{font-size:19px;font-weight:700;} .rt-sub{font-size:13px;} .rt-pill{font-size:12px;font-weight:700;letter-spacing:.05em;} .rt-stop{font-size:13px;} .rt-time{font-size:13px;font-weight:700;} Three ways from Yogyakarta to Borobudur The temple is about an hour northwest of the city by road TOUR WITH PICKUP EASIEST Hotel pickup Temple, ticket handled \u2248 1 h each way PRIVATE DRIVER Your hotel Temple, driver waits \u2248 1 h, your schedule PUBLIC BUS CHEAPEST Trans Jogja Jombor terminal Regional bus Borobudur stop \u2248 1.5\u20132 h The three routes from Yogyakarta to Borobudur compared: a tour with pickup, a private driver, and the two-leg public bus via Jombor terminal.",
+        "text": "The public bus is the cheapest route: Trans Jogja to Jombor terminal for about IDR 3,600, then a regional bus or DAMRI shuttle on to Borobudur for roughly IDR 20,000 to 50,000. Budget 90 minutes to two hours each way, and remember the last buses back leave in the afternoon.Cheap, slow, and genuinely doable. The classic route has two legs. First, a Trans Jogja city bus to Jombor terminal on the northern edge of Yogyakarta; the flat fare was about IDR 3,600 at the time of writing. From Jombor, regional buses and DAMRI shuttles run on toward Borobudur, with recent traveler reports putting that leg anywhere from IDR 20,000 to 50,000 depending on the service. Some DAMRI departures also leave from central points near Malioboro, which skips the Jombor transfer entirely.Count on 90 minutes to two hours each way once transfers and waiting are included. The bus drops you at the Borobudur stop in the village, a short walk or a cheap becak ride from the park gate. Two honest caveats. Timetables are limited and shift around, so check the DAMRI or Traveloka apps for live departures rather than trusting a blog schedule, including this one. And the last buses back run in the afternoon, which rules the bus out for any sunrise plan. Distance and drive timeAbout 1 hour northwest of Yogyakarta by road, in Magelang Regency, Central Java Tour with pickupDoor to door, ticket and guide handled, usually bundled with Prambanan into an 8 to 12 hour day Private driverAdvertised at roughly US$25 to 45 per vehicle for the round trip; agree the price and waiting time first Public busTrans Jogja to Jombor, then a regional bus or DAMRI shuttle; 90 min to 2 h each way; check live times in the DAMRI or Traveloka apps Ride-hailingWorks outbound (reported IDR 200,000 to 300,000 one way in 2025); return pickups from the rural temple area can be slow Bus and ride-hailing figures come from traveler reports and operator listings from 2024 and 2025, not from a published official fare table, so confirm current prices in the apps or at the terminal. Rupiah fares in particular move often. {: .small}Whichever way you travel, the clock that matters is the temple's own. The structure climb runs 08:30 to 17:00, per the operator's official ticketing page, so working backward from an 08:30 arrival gives you a departure time for each option. **Door-to-door time****Leave Yogyakarta by, for the 08:30 climb opening** Tour with pickupAbout 1 h each wayPickup time is set by the operator; sunrise versions collect you before dawn for Punthuk Setumbu Private driver or ride-hailingAbout 1 h each wayAround 07:15, leaving a margin for traffic and the walk in from parking Public bus via Jombor90 min to 2 h each wayAround 06:15, to cover the slow end of the range and the transfer wait The return legThe same in reverseNo deadline by car or tour; by bus, the last afternoon departures are your hard stop Latest data How people are actually getting there Transport guides updated in 2025 put the road distance at about 40 km from central Yogyakarta, driven in 1 to 1.5 hours, and about 60 km from Yogyakarta International Airport. DAMRI listings from 2025 show direct shuttles to Borobudur from the airport at IDR 20,000 and from city points such as the UGM roundabout at IDR 30,000, with the airport run taking around 2.5 hours. Demand on the far end keeps growing: Borobudur drew about 1.3 million visitors in 2024, including 200,000 international travellers, and the operator is targeting 1.7 million for 2025. During the capped era that ran through 2024, weekend climb demand hit the 1,200-a-day ceiling while weekdays saw 300 to 500 climbers, a spread worth remembering when you pick your travel day. A current snapshot, kept refreshed. These numbers move, so treat them as recent rather than fixed. Three ways from Yogyakarta to Borobudur A route diagram with three lanes. A tour with hotel pickup goes direct in about one hour with everything handled. A private driver does the same drive and waits at the temple. The public bus runs from a Trans Jogja stop to Jombor terminal, then a regional bus to the Borobudur stop, taking 90 minutes to two hours. .rt-lbl{font-family:\"Avenir Next\",Avenir,\"Segoe UI\",sans-serif;} .rt-h{font-size:19px;font-weight:700;} .rt-sub{font-size:13px;} .rt-pill{font-size:12px;font-weight:700;letter-spacing:.05em;} .rt-stop{font-size:13px;} .rt-time{font-size:13px;font-weight:700;} Three ways from Yogyakarta to Borobudur The temple is about an hour northwest of the city by road TOUR WITH PICKUP EASIEST Hotel pickup Temple, ticket handled ≈ 1 h each way PRIVATE DRIVER Your hotel Temple, driver waits ≈ 1 h, your schedule PUBLIC BUS CHEAPEST Trans Jogja Jombor terminal Regional bus Borobudur stop ≈ 1.5–2 h The three routes from Yogyakarta to Borobudur compared: a tour with pickup, a private driver, and the two-leg public bus via Jombor terminal.",
         "product": "half",
         "tone": "urgency",
         "copy": "Compare a five-hour private climb outing with your planned bus connections and ticket costs",
@@ -1863,7 +1863,7 @@
   },
   {
     "url": "https://borobudurtempletour.org/guides/borobudur-seven-wonders/",
-    "state": "reviewed; ready for authorized release with documented provider fallback",
+    "state": "deployed; live HTTP verified; Viator secret approval pending",
     "headingCount": 9,
     "coverage": [
       {
@@ -2028,7 +2028,7 @@
   },
   {
     "url": "https://borobudurtempletour.org/guides/borobudur-sunrise/",
-    "state": "reviewed; ready for authorized release with documented provider fallback",
+    "state": "deployed; live HTTP verified; Viator secret approval pending",
     "headingCount": 10,
     "coverage": [
       {
@@ -2051,7 +2051,7 @@
         "id": "section-2",
         "level": 2,
         "heading": "The two dawns, plainly",
-        "text": "Tours sell the hill dawn: Punthuk Setumbu at first light, then the drive over for the climb. The operator sells the monument dawn: a 04:00 entry onto the structure itself, capped at 100 people, at IDR 1,000,000 international. Same sun, different places to stand, very different tickets. **Hill dawn (what tours include)****Monument dawn (official product)** Where you standPunthuk Setumbu, ~2.5 km from the templeOn Borobudur's upper structure PriceInside the tour priceIDR 1,000,000 international \u00b7 750,000 domestic CapNone published for the hill100 people per day IncludesPer tour: transport, guide, the later climbWristband, flashlight, Upanat sandals, guide, breakfast at Manohara Sold byDewi's tours, via GetYourGuide and ViatorThe site operator, on its official sunrise page The hill dawn is what the Sunrise Climb & Prambanan tour and the Merapi full-day tour include: sunrise from Punthuk Setumbu, then the drive to Borobudur for the climb while the morning is still cool. You experience the view of the temple at dawn and the temple itself in the best light for its carvings, in that order.The monument dawn is the site operator's own product. It puts you on the structure in the dark at 04:00, capped at 100 people a day, at IDR 1,000,000 for international visitors and 750,000 domestic, with a flashlight, the Upanat sandals, a guide, and breakfast at the Manohara restaurant afterward. It exists, it is real, and the tours on this site are not it. If watching first light from between the stupas is the specific thing you want, book that product through the operator's official channels and treat any third-party \"temple sunrise\" package priced far above it with appropriate suspicion; we found resellers charging US$95 to US$136 against the official ticket's roughly US$62.",
+        "text": "Tours sell the hill dawn: Punthuk Setumbu at first light, then the drive over for the climb. The operator sells the monument dawn: a 04:00 entry onto the structure itself, capped at 100 people, at IDR 1,000,000 international. Same sun, different places to stand, very different tickets. **Hill dawn (what tours include)****Monument dawn (official product)** Where you standPunthuk Setumbu, ~2.5 km from the templeOn Borobudur's upper structure PriceInside the tour priceIDR 1,000,000 international · 750,000 domestic CapNone published for the hill100 people per day IncludesPer tour: transport, guide, the later climbWristband, flashlight, Upanat sandals, guide, breakfast at Manohara Sold byDewi's tours, via GetYourGuide and ViatorThe site operator, on its official sunrise page The hill dawn is what the Sunrise Climb & Prambanan tour and the Merapi full-day tour include: sunrise from Punthuk Setumbu, then the drive to Borobudur for the climb while the morning is still cool. You experience the view of the temple at dawn and the temple itself in the best light for its carvings, in that order.The monument dawn is the site operator's own product. It puts you on the structure in the dark at 04:00, capped at 100 people a day, at IDR 1,000,000 for international visitors and 750,000 domestic, with a flashlight, the Upanat sandals, a guide, and breakfast at the Manohara restaurant afterward. It exists, it is real, and the tours on this site are not it. If watching first light from between the stupas is the specific thing you want, book that product through the operator's official channels and treat any third-party \"temple sunrise\" package priced far above it with appropriate suspicion; we found resellers charging US$95 to US$136 against the official ticket's roughly US$62.",
         "product": "vip",
         "tone": "urgency",
         "copy": "Select the separate VIP morning before comparing it with a hill-view tour",
@@ -2115,7 +2115,7 @@
         "id": "section-6",
         "level": 2,
         "heading": "Honest advice for choosing",
-        "text": "Default to the hill dawn plus the morning climb if it is your first visit; skip dawn entirely if sleep matters more than mist; pay for the official monument dawn only if standing among the stupas at first light is the specific dream. All three are good mornings; they are just different purchases.If this is your one visit and you want the classic experience, the hill dawn plus the morning climb is the right default, which is why it is the region's most-booked tour: the Sunrise Climb & Prambanan, where you can check live availability & prices on GetYourGuide. If dawn does not move you, skip it entirely with a clear conscience: the day tour reads the relief panels in better light and lets you sleep. And if the monument dawn is the dream, buy the official 04:00 ticket and enjoy being one of a hundred people on a ninth-century summit in the dark, which is, we will say plainly, a remarkable thing no hill can replicate.Whichever you choose, know what part of the price is entry itself; the tickets guide breaks that down.There is one more lever nobody mentions: sleep next to the temple instead of in Yogyakarta. Manohara, the hotel inside the park itself, exists for exactly this, and it turns the dawn logistics into a short walk.Manohara Borobudur Check rates \u203a",
+        "text": "Default to the hill dawn plus the morning climb if it is your first visit; skip dawn entirely if sleep matters more than mist; pay for the official monument dawn only if standing among the stupas at first light is the specific dream. All three are good mornings; they are just different purchases.If this is your one visit and you want the classic experience, the hill dawn plus the morning climb is the right default, which is why it is the region's most-booked tour: the Sunrise Climb & Prambanan, where you can check live availability & prices on GetYourGuide. If dawn does not move you, skip it entirely with a clear conscience: the day tour reads the relief panels in better light and lets you sleep. And if the monument dawn is the dream, buy the official 04:00 ticket and enjoy being one of a hundred people on a ninth-century summit in the dark, which is, we will say plainly, a remarkable thing no hill can replicate.Whichever you choose, know what part of the price is entry itself; the tickets guide breaks that down.There is one more lever nobody mentions: sleep next to the temple instead of in Yogyakarta. Manohara, the hotel inside the park itself, exists for exactly this, and it turns the dawn logistics into a short walk.Manohara Borobudur Check rates ›",
         "product": "gyg",
         "tone": "urgency",
         "copy": "Confirm the Setumbu and all-inclusive climb bundle before scheduling the early pickup",
@@ -2209,7 +2209,7 @@
   },
   {
     "url": "https://borobudurtempletour.org/guides/borobudur-tickets-and-prices/",
-    "state": "reviewed; ready for authorized release with documented provider fallback",
+    "state": "deployed; live HTTP verified; Viator secret approval pending",
     "headingCount": 10,
     "coverage": [
       {
@@ -2232,7 +2232,7 @@
         "id": "section-2",
         "level": 2,
         "heading": "What each ticket costs in 2026",
-        "text": "The domestic climb ticket is listed at IDR 150,000, the official sunrise product costs IDR 1,000,000 international and 750,000 domestic, and the foreign climb price appears only inside the official booking flow. Grounds-only entry is not sold to foreign visitors at any price.These are the figures published by the official operator, InJourney, at the time of writing. Prices move, and the foreign climb price in particular is shown only once you start a booking, so treat the confirmed number in the booking flow as final. Grounds ticket (Pelataran)Domestic visitors only. Not sold to foreign visitors. Structure climb, domestic adultIDR 150,000 (about US$9) Structure climb, foreign visitorShown in the booking flow. The operator does not publish a fixed foreign figure on a public page, so we do not print one here. See the note below. Sunrise product (04:00 start)IDR 1,000,000 international (about US$62) \u00b7 IDR 750,000 domestic \u00b7 capped at 100 people/day Opening hoursOpen every day. Structure climb 08:30\u201317:00. Grounds 06:30\u201316:30. USD figures are rough conversions and move with the exchange rate; the operator charges in rupiah. We deliberately do not publish a foreign climb price because the operator does not publish one on a public page, and the third-party figures floating around (you will see IDR 455,000 quoted) come from a source whose companion numbers we already found to be out of date. Confirming the live figure in the booking flow is the honest way to get it. {: .small} Latest data What the numbers say right now Borobudur drew about 1.3 million visitors in 2024, including 200,000 international travellers, and the operator is targeting 1.7 million for 2025. That 2024 figure landed at 87 percent of the operator's own target, so capacity pressure is real but not sold out. The heritage-park operator's revenue grew 17 percent from 2023 to 2024. The official sunrise and sunset slots get holiday promo pricing; February 2026 saw them at IDR 350,000 during Imlek. A current snapshot, kept refreshed. These numbers move, so treat them as recent rather than fixed.",
+        "text": "The domestic climb ticket is listed at IDR 150,000, the official sunrise product costs IDR 1,000,000 international and 750,000 domestic, and the foreign climb price appears only inside the official booking flow. Grounds-only entry is not sold to foreign visitors at any price.These are the figures published by the official operator, InJourney, at the time of writing. Prices move, and the foreign climb price in particular is shown only once you start a booking, so treat the confirmed number in the booking flow as final. Grounds ticket (Pelataran)Domestic visitors only. Not sold to foreign visitors. Structure climb, domestic adultIDR 150,000 (about US$9) Structure climb, foreign visitorShown in the booking flow. The operator does not publish a fixed foreign figure on a public page, so we do not print one here. See the note below. Sunrise product (04:00 start)IDR 1,000,000 international (about US$62) · IDR 750,000 domestic · capped at 100 people/day Opening hoursOpen every day. Structure climb 08:30–17:00. Grounds 06:30–16:30. USD figures are rough conversions and move with the exchange rate; the operator charges in rupiah. We deliberately do not publish a foreign climb price because the operator does not publish one on a public page, and the third-party figures floating around (you will see IDR 455,000 quoted) come from a source whose companion numbers we already found to be out of date. Confirming the live figure in the booking flow is the honest way to get it. {: .small} Latest data What the numbers say right now Borobudur drew about 1.3 million visitors in 2024, including 200,000 international travellers, and the operator is targeting 1.7 million for 2025. That 2024 figure landed at 87 percent of the operator's own target, so capacity pressure is real but not sold out. The heritage-park operator's revenue grew 17 percent from 2023 to 2024. The official sunrise and sunset slots get holiday promo pricing; February 2026 saw them at IDR 350,000 during Imlek. A current snapshot, kept refreshed. These numbers move, so treat them as recent rather than fixed.",
         "product": "gyg",
         "tone": "urgency",
         "copy": "Select both temple admissions before comparing a package with stand-alone ticket costs",
@@ -2312,7 +2312,7 @@
         "id": "section-7",
         "level": 2,
         "heading": "Which ticket applies to you",
-        "text": "Which Borobudur ticket you can buy A decision chart. Foreign visitors can buy the structure-climb ticket or the timed sunrise and sunset products, but not the grounds-only ticket. Domestic visitors can buy all options including the cheaper grounds ticket. .tk-lbl{font-family:\"Avenir Next\",Avenir,\"Segoe UI\",sans-serif;} .tk-q{font-size:19px;font-weight:700;} .tk-h{font-size:15px;font-weight:700;} .tk-t{font-size:13px;} .tk-pill{font-size:12px;font-weight:700;letter-spacing:.04em;} Where are you visiting from? FOREIGN VISITOR You can buy \u2713 Structure climb ticket \u2713 Sunrise slot (04:00, 100/day) \u2713 Sunset slot \u2715 Grounds-only ticket (not sold) DOMESTIC VISITOR You can buy \u2713 Grounds ticket (cheapest) \u2713 Structure climb, IDR 150,000 \u2713 Sunrise slot, IDR 750,000 \u2713 Sunset slot Every foreign entry option includes a guide and Upanat sandals. The climb ticket is the cheapest way for an overseas visitor onto the terraces. Which Borobudur ticket you can buy, by where you are visiting from. Foreign visitors cannot buy the grounds-only ticket.",
+        "text": "Which Borobudur ticket you can buy A decision chart. Foreign visitors can buy the structure-climb ticket or the timed sunrise and sunset products, but not the grounds-only ticket. Domestic visitors can buy all options including the cheaper grounds ticket. .tk-lbl{font-family:\"Avenir Next\",Avenir,\"Segoe UI\",sans-serif;} .tk-q{font-size:19px;font-weight:700;} .tk-h{font-size:15px;font-weight:700;} .tk-t{font-size:13px;} .tk-pill{font-size:12px;font-weight:700;letter-spacing:.04em;} Where are you visiting from? FOREIGN VISITOR You can buy ✓ Structure climb ticket ✓ Sunrise slot (04:00, 100/day) ✓ Sunset slot ✕ Grounds-only ticket (not sold) DOMESTIC VISITOR You can buy ✓ Grounds ticket (cheapest) ✓ Structure climb, IDR 150,000 ✓ Sunrise slot, IDR 750,000 ✓ Sunset slot Every foreign entry option includes a guide and Upanat sandals. The climb ticket is the cheapest way for an overseas visitor onto the terraces. Which Borobudur ticket you can buy, by where you are visiting from. Foreign visitors cannot buy the grounds-only ticket.",
         "product": "half",
         "tone": "curiosity",
         "copy": "Select the half-day variant on the listing for a focused climb visit",
@@ -2348,7 +2348,7 @@
         "product": "day",
         "tone": "curiosity",
         "copy": "Borobudur and Prambanan admission, the climb and hotel transport are bundled into the eight-hour day",
-        "label": "Discover The Private Day\u2019s Inclusions",
+        "label": "Discover The Private Day’s Inclusions",
         "reason": "Section discusses How the tour price compares to the ticket. Selected experience: Borobudur and Prambanan admission, the climb and hotel transport are bundled into the eight-hour day. Evidence: https://www.viator.com/tours/Yogyakarta/Budha-Voyage/d22560-214335P5",
         "position": "end",
         "locator": "[data-coverage=\"section-9\"]",
@@ -2363,9 +2363,9 @@
         "text": "How much is a Borobudur ticket for a foreign visitor?You buy the structure-climb ticket, which includes a guide and Upanat sandals. The operator shows the foreign price in the booking flow rather than on a public page, so we do not quote a fixed figure. For reference, the domestic climb ticket is listed at IDR 150,000, and the separate 04:00 sunrise product is IDR 1,000,000 for international visitors. Can foreign visitors buy the cheaper grounds-only ticket?No. The operator lists the grounds ticket as domestic-only. Your options as a foreign visitor are the structure-climb ticket or the timed sunrise and sunset products. Is there a daily limit on climbing Borobudur?The 04:00 sunrise product is capped at 100 people a day. For the ordinary daytime climb, the operator publishes no daily quota. The \"1,200 per day\" figure you will see on tour-seller pages is not supported by any current official source; in July 2025 the operator reported Monday trial numbers of 3,000 to 4,000 climbers, so treat the scarcity framing with caution. Do I have to wear the special sandals?Yes, everyone climbing the structure wears Upanat sandals, which protect the ancient stone. They come with the climb ticket and you keep them afterward. When you are ready to compare the actual tours, our tours hub lists them sorted by how many people have booked, and the comparison page picks a winner by visitor type.",
         "product": "day",
         "tone": "urgency",
-        "copy": "Use your party\u2019s actual quote and the cost comparison below before deciding",
+        "copy": "Use your party’s actual quote and the cost comparison below before deciding",
         "label": "Check The Total For Your Travel Date",
-        "reason": "Section discusses Common questions. Selected experience: Use your party\u2019s actual quote and the cost comparison below before deciding. Evidence: https://www.viator.com/tours/Yogyakarta/Budha-Voyage/d22560-214335P5",
+        "reason": "Section discusses Common questions. Selected experience: Use your party’s actual quote and the cost comparison below before deciding. Evidence: https://www.viator.com/tours/Yogyakarta/Budha-Voyage/d22560-214335P5",
         "position": "after final editorial and FAQ",
         "locator": "#cro-booking",
         "type": "consolidated closing Viator widget",
@@ -2390,7 +2390,7 @@
   },
   {
     "url": "https://borobudurtempletour.org/guides/borobudur-vs-angkor-wat/",
-    "state": "reviewed; ready for authorized release with documented provider fallback",
+    "state": "deployed; live HTTP verified; Viator secret approval pending",
     "headingCount": 9,
     "coverage": [
       {
@@ -2413,7 +2413,7 @@
         "id": "section-2",
         "level": 2,
         "heading": "The two temples side by side",
-        "text": "**Borobudur****Angkor Wat** Record heldLargest Buddhist templeLargest religious monument Footprint~123 \u00d7 123 m base (~1.5 ha)~162.6 ha walled enclosure Built778 AD to ~825 AD, Mahayana BuddhistEarly 12th century, Hindu, later Buddhist Nearest hubYogyakarta, ~1 hour awaySiem Reap, ~15 to 20 minutes away Foreign entryStructure-climb ticket, price shown in the booking flowUS$37 one-day Angkor pass Time it deservesOne morning covers it wellThe temple takes a morning; the park invites days Footprint figures follow UNESCO and standard archaeological references; the Angkor pass price is the official Angkor Enterprise rate at the time of writing. {: .small}",
+        "text": "**Borobudur****Angkor Wat** Record heldLargest Buddhist templeLargest religious monument Footprint~123 × 123 m base (~1.5 ha)~162.6 ha walled enclosure Built778 AD to ~825 AD, Mahayana BuddhistEarly 12th century, Hindu, later Buddhist Nearest hubYogyakarta, ~1 hour awaySiem Reap, ~15 to 20 minutes away Foreign entryStructure-climb ticket, price shown in the booking flowUS$37 one-day Angkor pass Time it deservesOne morning covers it wellThe temple takes a morning; the park invites days Footprint figures follow UNESCO and standard archaeological references; the Angkor pass price is the official Angkor Enterprise rate at the time of writing. {: .small}",
         "product": "gygangkor",
         "tone": "urgency",
         "copy": "Choose how widely you want to explore before allocating your Siem Reap stay",
@@ -2432,9 +2432,9 @@
         "text": "These are both magnificent, and if your trip allows both, take both. The traveller-relevant differences are about shape, not quality.Borobudur is the more concentrated experience. One monument, one route up, 1,460 relief panels read in sequence from base to summit, and a guide included with the climb ticket. You can arrive from Yogyakarta at dawn and be done, properly done, by lunch; the Sunrise Climb & Prambanan tour packages exactly that morning, and you can check live availability & prices on GetYourGuide. Whether that trip repays the effort is a fair question, and we answer it plainly in is Borobudur worth visiting.Angkor rewards time. Sitting minutes from Siem Reap with a park the size of a city around it, it is a multi-day destination by design. Doing Angkor Wat alone in a morning is possible; most visitors who cross the world for it stay two or three days and are glad they did. A guided first day through the headline temples is the usual anchor before wandering on your own pass; check availability here.Crowd patterns differ too. Angkor draws a famously dense sunrise scrum at the temple's reflecting pond. Borobudur's dawn crowd splits between the Punthuk Setumbu viewpoint, a hill about 2.5 km from the monument, and the temple's own capped 100-person sunrise product, so the monument itself at opening time feels calmer than its fame suggests.",
         "product": "day",
         "tone": "curiosity",
-        "copy": "A private eight-hour route combines Borobudur\u2019s terraces and Prambanan\u2019s towers",
-        "label": "Discover Java\u2019s Two-Temple Day",
-        "reason": "Section discusses Which one to visit, honestly. Selected experience: A private eight-hour route combines Borobudur\u2019s terraces and Prambanan\u2019s towers. Evidence: https://www.viator.com/tours/Yogyakarta/Budha-Voyage/d22560-214335P5",
+        "copy": "A private eight-hour route combines Borobudur’s terraces and Prambanan’s towers",
+        "label": "Discover Java’s Two-Temple Day",
+        "reason": "Section discusses Which one to visit, honestly. Selected experience: A private eight-hour route combines Borobudur’s terraces and Prambanan’s towers. Evidence: https://www.viator.com/tours/Yogyakarta/Budha-Voyage/d22560-214335P5",
         "position": "end",
         "locator": "[data-coverage=\"section-3\"]",
         "type": "text pitch",
@@ -2512,9 +2512,9 @@
         "text": "Borobudur is a single Buddhist monument you climb like a story, and its 1,460 relief panels are meant to be read in order from the base upward. I guide visitors through those panels most weeks, and watching a wall of carved stone turn into a narrative they can actually follow is the thing Angkor's scale does not replicate.I am a Borobudur guide, so I will speak to what I know first-hand. The monument is laid out as a path. You start at the bottom and walk clockwise, gallery by gallery, and the carvings tell the tale in sequence: the world of desire, then the Buddhist scriptures, then the open upper terraces with their bell-shaped stupas. It is one continuous reading, not a scattering of separate buildings, and a guide walking the panels with you changes it from pretty stone into a story you leave understanding.Angkor's gift is different, and I say this as an admirer rather than an expert on it: breadth. It is a landscape of temples to wander over days, with Angkor Wat, Angkor Thom, the Bayon's faces and the root-wrapped ruins of Ta Prohm spread across a park. That sprawl is exactly what Borobudur does not try to be. Java gives you one intact, legible monument that a single guided morning can genuinely complete, and that concentration is its own kind of rarity.{{ tour_picks:sunrise-climb-prambanan,climb-day-tour,angkor-day }}",
         "product": "merapi",
         "tone": "urgency",
-        "copy": "Allow twelve hours for Java\u2019s volcanic landscape and both monuments",
+        "copy": "Allow twelve hours for Java’s volcanic landscape and both monuments",
         "label": "Check The Temples And Merapi Jeep Day",
-        "reason": "Section discusses What does Java offer that Angkor does not?. Selected experience: Allow twelve hours for Java\u2019s volcanic landscape and both monuments. Evidence: https://www.viator.com/tours/Yogyakarta/Borobudur-Sunrise-Merapi-Volcano-lava-tour-and-Prambanan-Full-Day-Tour/d22560-214335P1",
+        "reason": "Section discusses What does Java offer that Angkor does not?. Selected experience: Allow twelve hours for Java’s volcanic landscape and both monuments. Evidence: https://www.viator.com/tours/Yogyakarta/Borobudur-Sunrise-Merapi-Volcano-lava-tour-and-Prambanan-Full-Day-Tour/d22560-214335P1",
         "position": "end",
         "locator": "[data-coverage=\"section-8\"]",
         "type": "text pitch",
@@ -2555,7 +2555,7 @@
   },
   {
     "url": "https://borobudurtempletour.org/guides/climbing-borobudur/",
-    "state": "reviewed; ready for authorized release with documented provider fallback",
+    "state": "deployed; live HTTP verified; Viator secret approval pending",
     "headingCount": 10,
     "coverage": [
       {
@@ -2594,7 +2594,7 @@
         "id": "section-3",
         "level": 2,
         "heading": "When you can actually be on the monument",
-        "text": "Three access products, three windows: the 04:00 sunrise slot on the monument, the ordinary structure climb from 08:30 to 17:00, and the grounds from 06:30 to 16:30, every day of the week. 04:00Official sunrise product, on the structure. Capped at 100 people, flashlight and Manohara breakfast included 06:30\u201316:30Grounds open (grounds-only entry is domestic-only) 08:30\u201317:00Structure climb for all climb-ticket holders, every day including Monday",
+        "text": "Three access products, three windows: the 04:00 sunrise slot on the monument, the ordinary structure climb from 08:30 to 17:00, and the grounds from 06:30 to 16:30, every day of the week. 04:00Official sunrise product, on the structure. Capped at 100 people, flashlight and Manohara breakfast included 06:30–16:30Grounds open (grounds-only entry is domestic-only) 08:30–17:00Structure climb for all climb-ticket holders, every day including Monday",
         "product": "half",
         "tone": "curiosity",
         "copy": "Review the pickup choices for the Borobudur-only outing from Yogyakarta",
@@ -2736,7 +2736,7 @@
   },
   {
     "url": "https://borobudurtempletour.org/guides/how-long-at-borobudur/",
-    "state": "reviewed; ready for authorized release with documented provider fallback",
+    "state": "deployed; live HTTP verified; Viator secret approval pending",
     "headingCount": 5,
     "coverage": [
       {
@@ -2775,7 +2775,7 @@
         "id": "section-3",
         "level": 2,
         "heading": "How tours turn it into a full day",
-        "text": "The guided days from Yogyakarta run roughly 8 to 12 hours door to door, but the temple itself stays a two-hour stop inside them. The rest is hotel pickup, Prambanan, and extras like a Punthuk Setumbu sunrise, a Merapi jeep ride or a Candi Mendut stop, with transport and tickets handled throughout.The guided days from Yogyakarta do not spend eight hours at Borobudur, and it would be a strange itinerary if they did. They spend about two hours at the temple and build a full Central Java day around it, transport and tickets handled. All three tours we list depart with hotel pickup, include the climb, and pair the temple with Prambanan.The day tour is the compact version, around 8 hours, adding a stop at Candi Mendut on the way. The sunrise climb tour, the most-reviewed of the three with 1,723 GetYourGuide reviews at 4.9 (check live availability & prices on GetYourGuide), starts pre-dawn with sunrise from Punthuk Setumbu, the hill viewpoint about 2.5 km from the monument, before the climb itself. The longest day, around 12 hours, keeps the Punthuk Setumbu sunrise and adds a Merapi jeep ride between the temples. If you want dawn on the monument itself rather than from the hill, that is a separate official product with a 04:00 start, capped at 100 people a day. **Length****What fills the extra hours** Day tourAbout 8 hoursThe Borobudur climb, a Candi Mendut stop, then Prambanan Sunrise climb tourHalf to a full day, pre-dawn startPunthuk Setumbu sunrise, then the climb and Prambanan Sunrise plus MerapiAbout 12 hoursPunthuk Setumbu sunrise, a Merapi jeep ride, the climb and Prambanan Temple onlyAbout 2 hours: the climb, a good walk of the relief galleries, the summit stupas Rushed minimumAbout 1 hour: up and down, most panels skipped Half day4 to 5 hours: adds the museum and a slow walk of the park grounds Guided tour day8 to 12 hours door to door from Yogyakarta, with Prambanan included; the temple is still a ~2 hour stop Daily windowStructure climb 08:30\u201317:00, every day Latest data How long visitors are really staying Traveler reports from early 2026 describe the climb running in timed slots of about 1.5 hours on the structure, which fits the two-hour on-site baseline once the walk in and out is added. Tour listings for 2026 put the guided portion on the monument itself at about an hour inside the longer stop. Borobudur drew about 1.3 million visitors in 2024, including 200,000 international travellers, 87 percent of the operator's target; the 2025 target is 1.7 million. Every climber wears Upanat sandals, and production capacity reached 4,000-plus pairs a day in 2024, so the sandal handout is not what slows a visit down on busy days. A current snapshot, kept refreshed. These numbers move, so treat them as recent rather than fixed. Borobudur time budgets compared A bar chart of four time budgets on a shared zero to twelve hour scale. A quick look takes about one hour. Doing the climb, panels and summit properly takes about two hours and is marked as the sweet spot. A half day with the museum and grounds takes four to five hours. A guided tour day from Yogyakarta runs eight to twelve hours door to door, within which the temple itself is still about a two hour stop. .tb-lbl{font-family:\"Avenir Next\",Avenir,\"Segoe UI\",sans-serif;} .tb-h{font-size:19px;font-weight:700;} .tb-sub{font-size:13px;} .tb-row{font-size:14px;font-weight:700;} .tb-note{font-size:13px;} .tb-tag{font-size:11px;font-weight:700;letter-spacing:.05em;} .tb-ax{font-size:11px;} How long people spend at Borobudur Four realistic time budgets, drawn to the same 12-hour scale Quick look \u2248 1 h: up and down, panels rushed The climb done right THE SWEET SPOT \u2248 2 h: climb, panels, summit stupas Half day 4\u20135 h: adds museum and grounds Guided tour from Yogyakarta 8 h door to door, with Prambanan up to 12 h 0 h 2 h 4 h 6 h 8 h 10 h 12 h Even on the longest tour day, the temple itself is about a two hour stop. Four Borobudur time budgets on one scale, from a rushed hour to a full guided day from Yogyakarta.",
+        "text": "The guided days from Yogyakarta run roughly 8 to 12 hours door to door, but the temple itself stays a two-hour stop inside them. The rest is hotel pickup, Prambanan, and extras like a Punthuk Setumbu sunrise, a Merapi jeep ride or a Candi Mendut stop, with transport and tickets handled throughout.The guided days from Yogyakarta do not spend eight hours at Borobudur, and it would be a strange itinerary if they did. They spend about two hours at the temple and build a full Central Java day around it, transport and tickets handled. All three tours we list depart with hotel pickup, include the climb, and pair the temple with Prambanan.The day tour is the compact version, around 8 hours, adding a stop at Candi Mendut on the way. The sunrise climb tour, the most-reviewed of the three with 1,723 GetYourGuide reviews at 4.9 (check live availability & prices on GetYourGuide), starts pre-dawn with sunrise from Punthuk Setumbu, the hill viewpoint about 2.5 km from the monument, before the climb itself. The longest day, around 12 hours, keeps the Punthuk Setumbu sunrise and adds a Merapi jeep ride between the temples. If you want dawn on the monument itself rather than from the hill, that is a separate official product with a 04:00 start, capped at 100 people a day. **Length****What fills the extra hours** Day tourAbout 8 hoursThe Borobudur climb, a Candi Mendut stop, then Prambanan Sunrise climb tourHalf to a full day, pre-dawn startPunthuk Setumbu sunrise, then the climb and Prambanan Sunrise plus MerapiAbout 12 hoursPunthuk Setumbu sunrise, a Merapi jeep ride, the climb and Prambanan Temple onlyAbout 2 hours: the climb, a good walk of the relief galleries, the summit stupas Rushed minimumAbout 1 hour: up and down, most panels skipped Half day4 to 5 hours: adds the museum and a slow walk of the park grounds Guided tour day8 to 12 hours door to door from Yogyakarta, with Prambanan included; the temple is still a ~2 hour stop Daily windowStructure climb 08:30–17:00, every day Latest data How long visitors are really staying Traveler reports from early 2026 describe the climb running in timed slots of about 1.5 hours on the structure, which fits the two-hour on-site baseline once the walk in and out is added. Tour listings for 2026 put the guided portion on the monument itself at about an hour inside the longer stop. Borobudur drew about 1.3 million visitors in 2024, including 200,000 international travellers, 87 percent of the operator's target; the 2025 target is 1.7 million. Every climber wears Upanat sandals, and production capacity reached 4,000-plus pairs a day in 2024, so the sandal handout is not what slows a visit down on busy days. A current snapshot, kept refreshed. These numbers move, so treat them as recent rather than fixed. Borobudur time budgets compared A bar chart of four time budgets on a shared zero to twelve hour scale. A quick look takes about one hour. Doing the climb, panels and summit properly takes about two hours and is marked as the sweet spot. A half day with the museum and grounds takes four to five hours. A guided tour day from Yogyakarta runs eight to twelve hours door to door, within which the temple itself is still about a two hour stop. .tb-lbl{font-family:\"Avenir Next\",Avenir,\"Segoe UI\",sans-serif;} .tb-h{font-size:19px;font-weight:700;} .tb-sub{font-size:13px;} .tb-row{font-size:14px;font-weight:700;} .tb-note{font-size:13px;} .tb-tag{font-size:11px;font-weight:700;letter-spacing:.05em;} .tb-ax{font-size:11px;} How long people spend at Borobudur Four realistic time budgets, drawn to the same 12-hour scale Quick look ≈ 1 h: up and down, panels rushed The climb done right THE SWEET SPOT ≈ 2 h: climb, panels, summit stupas Half day 4–5 h: adds museum and grounds Guided tour from Yogyakarta 8 h door to door, with Prambanan up to 12 h 0 h 2 h 4 h 6 h 8 h 10 h 12 h Even on the longest tour day, the temple itself is about a two hour stop. Four Borobudur time budgets on one scale, from a rushed hour to a full guided day from Yogyakarta.",
         "product": "gyg",
         "tone": "curiosity",
         "copy": "Compare climb and sunrise bundles when you want more than a single-monument morning",
@@ -2837,7 +2837,7 @@
   },
   {
     "url": "https://borobudurtempletour.org/guides/is-borobudur-worth-visiting/",
-    "state": "reviewed; ready for authorized release with documented provider fallback",
+    "state": "deployed; live HTTP verified; Viator secret approval pending",
     "headingCount": 9,
     "coverage": [
       {
@@ -3002,7 +3002,7 @@
   },
   {
     "url": "https://borobudurtempletour.org/guides/what-to-wear-at-borobudur/",
-    "state": "reviewed; ready for authorized release with documented provider fallback",
+    "state": "deployed; live HTTP verified; Viator secret approval pending",
     "headingCount": 11,
     "coverage": [
       {
@@ -3028,9 +3028,9 @@
         "text": "No covered-shoulders rule, no knee rule, no sarong handed out at the gate. The claim traces to third-party ticket resellers, and no general dress requirement appears on the operator's ticketing pages or in its Indonesian-language visitor rules, the places a real rule would live.The covered-shoulders-and-knees rule, complete with the free sarong at the entrance, appears on travel blogs with total confidence. Trace it and it leads to resellers, not to the operator. We checked the operator's ticketing pages and visitor information in English, then searched the Indonesian equivalents. No general dress requirement appears in any of it.The confusion has an understandable source. Bali's temples, where most Indonesia itineraries begin, are living places of worship where sarongs genuinely are required and provided. Visitors carry that expectation to Java. But Borobudur operates as an archaeological park and UNESCO site; worship happens there on specific occasions rather than continuously, and on those occasions the rules are event rules. During Waisak, the Buddhist festival, participants are asked to wear white. That is the pattern: specific requirements attach to specific ceremonies, not to Tuesday afternoon tourism.",
         "product": "half",
         "tone": "urgency",
-        "copy": "Choose the Borobudur-only variant before confirming the operator\u2019s clothing requirements",
+        "copy": "Choose the Borobudur-only variant before confirming the operator’s clothing requirements",
         "label": "Check The Actual Climb Option",
-        "reason": "Section discusses The rule that does not. Selected experience: Choose the Borobudur-only variant before confirming the operator\u2019s clothing requirements. Evidence: https://www.viator.com/tours/Yogyakarta/Budha-Voyage/d22560-214335P5",
+        "reason": "Section discusses The rule that does not. Selected experience: Choose the Borobudur-only variant before confirming the operator’s clothing requirements. Evidence: https://www.viator.com/tours/Yogyakarta/Budha-Voyage/d22560-214335P5",
         "position": "end",
         "locator": "[data-coverage=\"section-2\"]",
         "type": "text pitch",
@@ -3172,9 +3172,9 @@
         "text": "Can women wear shorts or sleeveless tops at Borobudur?Yes, no published rule forbids either, for anyone. The considerations are courtesy at a sacred site and the very real sun, both of which nudge most visitors toward light covering layers by choice. Will I be given a sarong at the entrance?No. The free-sarong claim comes from third-party reseller sites, not the operator. The only issued clothing item is the Upanat sandals with the climb ticket. What shoes should I bring?Whatever climbs stairs comfortably; you swap into the Upanat sandals on the structure anyway. Flip-flops make the outer grounds sweaty and the base stairs annoying, and that is the extent of the footwear stakes. Is the advice different for the sunrise slots?Only by temperature. The 04:00 official slot and the Punthuk Setumbu hill wait are genuinely cool, so bring a layer you can shed by 07:00, when the day's real climate takes over.",
         "product": "half",
         "tone": "curiosity",
-        "copy": "Review the half-day option\u2019s inclusions and the operator\u2019s requirements together",
+        "copy": "Review the half-day option’s inclusions and the operator’s requirements together",
         "label": "Discover The Guided Climb Package",
-        "reason": "Section discusses Common questions. Selected experience: Review the half-day option\u2019s inclusions and the operator\u2019s requirements together. Evidence: https://www.viator.com/tours/Yogyakarta/Budha-Voyage/d22560-214335P5",
+        "reason": "Section discusses Common questions. Selected experience: Review the half-day option’s inclusions and the operator’s requirements together. Evidence: https://www.viator.com/tours/Yogyakarta/Budha-Voyage/d22560-214335P5",
         "position": "after final editorial and FAQ",
         "locator": "#cro-booking",
         "type": "consolidated closing Viator widget",
@@ -3199,7 +3199,7 @@
   },
   {
     "url": "https://borobudurtempletour.org/guides/why-was-borobudur-abandoned/",
-    "state": "reviewed; ready for authorized release with documented provider fallback",
+    "state": "deployed; live HTTP verified; Viator secret approval pending",
     "headingCount": 12,
     "coverage": [
       {
@@ -3209,9 +3209,9 @@
         "text": "Borobudur opened around 825 AD as the ceremonial heart of a Buddhist kingdom on the Kedu Plain. Roughly a century later, that kingdom left. Inscriptions record that Mpu Sindok moved the Mataram court east to the Brantas River valley around 929 AD, and Central Java's great temple-building age simply stopped. Why the court moved is itself debated: volcanic activity and pressure from the rival Srivijaya empire are both proposed, neither settled. What is not debated is the effect. A monument on Borobudur's scale needed a royal engine of money, monks and maintenance, and after the move that engine was hundreds of kilometres away.",
         "product": "half",
         "tone": "curiosity",
-        "copy": "A local guided climb lets you explore the stone that remains after Java\u2019s political center moved",
+        "copy": "A local guided climb lets you explore the stone that remains after Java’s political center moved",
         "label": "Discover The Surviving Monument",
-        "reason": "Section discusses The one thing the sources actually document. Selected experience: A local guided climb lets you explore the stone that remains after Java\u2019s political center moved. Evidence: https://www.viator.com/tours/Yogyakarta/Budha-Voyage/d22560-214335P5",
+        "reason": "Section discusses The one thing the sources actually document. Selected experience: A local guided climb lets you explore the stone that remains after Java’s political center moved. Evidence: https://www.viator.com/tours/Yogyakarta/Budha-Voyage/d22560-214335P5",
         "position": "end",
         "locator": "[data-coverage=\"section-1\"]",
         "type": "contextual image card",
@@ -3242,7 +3242,7 @@
         "product": "day",
         "tone": "curiosity",
         "copy": "Compare Borobudur and Prambanan in the same private day",
-        "label": "Discover Java\u2019s Buddhist And Hindu Monuments",
+        "label": "Discover Java’s Buddhist And Hindu Monuments",
         "reason": "Section discusses Islam, and a slow fading rather than an exodus. Selected experience: Compare Borobudur and Prambanan in the same private day. Evidence: https://www.viator.com/tours/Yogyakarta/Budha-Voyage/d22560-214335P5",
         "position": "end",
         "locator": "[data-coverage=\"section-3\"]",
@@ -3274,7 +3274,7 @@
         "product": "gyg",
         "tone": "curiosity",
         "copy": "Choose the all-inclusive option to visit the terraces and continue to Prambanan",
-        "label": "Discover The Restored Monument\u2019s Climb",
+        "label": "Discover The Restored Monument’s Climb",
         "reason": "Section discusses 1814: cleared, not \"discovered\". Selected experience: Choose the all-inclusive option to visit the terraces and continue to Prambanan. Evidence: https://www.getyourguide.com/yogyakarta-l349/yogyakarta-borobudur-climbup-guarantee-and-prambanan-tour-t516797/",
         "position": "end",
         "locator": "[data-coverage=\"section-5\"]",
@@ -3286,7 +3286,7 @@
         "id": "section-6",
         "level": 2,
         "heading": "The timeline at a glance",
-        "text": "~825 ADMonument completed and in active use, Mahayana Buddhist ~929 ADMpu Sindok moves the Mataram court to East Java; patronage ends 1006Major Merapi eruption; role in the abandonment is hypothesis, not proof ~1365Nagarakretagama still mentions \"the vihara in Budur\" 13th\u201316th c.Islam spreads through Java; Hindu-Buddhist kingdoms decline 1814Raffles sends H.C. Cornelius; two months of clearing expose the temple 1991UNESCO inscribes the Borobudur Temple Compounds Dating follows UNESCO and the epigraphic record; where scholars disagree, we say so above rather than pick a side. {: .small}",
+        "text": "~825 ADMonument completed and in active use, Mahayana Buddhist ~929 ADMpu Sindok moves the Mataram court to East Java; patronage ends 1006Major Merapi eruption; role in the abandonment is hypothesis, not proof ~1365Nagarakretagama still mentions \"the vihara in Budur\" 13th–16th c.Islam spreads through Java; Hindu-Buddhist kingdoms decline 1814Raffles sends H.C. Cornelius; two months of clearing expose the temple 1991UNESCO inscribes the Borobudur Temple Compounds Dating follows UNESCO and the epigraphic record; where scholars disagree, we say so above rather than pick a side. {: .small}",
         "product": "half",
         "tone": "urgency",
         "copy": "The five-hour outing connects the historical timeline with a guided monument visit",

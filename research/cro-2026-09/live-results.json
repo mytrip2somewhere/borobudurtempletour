@@ -1,0 +1,243 @@
+{
+  "at": "2026-09-11T02:08:05.969Z",
+  "method": "live HTTP and parsed HTML; not physical browser behavior",
+  "articles": [
+    {
+      "url": "https://borobudurtempletour.org/blog/borobudur-or-angkor-wat-which-to-visit/",
+      "status": 200,
+      "primary": "day",
+      "coverage": 6,
+      "widgetMounts": 2,
+      "oneClosingLink": true,
+      "sha256": "392c7f1ea59bc9a07e8c7adfaf50c0dd9289d1cd2e9fed26ad0f30f3f1440bd4"
+    },
+    {
+      "url": "https://borobudurtempletour.org/blog/borobudur-sunrise-hill-or-temple/",
+      "status": 200,
+      "primary": "vip",
+      "coverage": 7,
+      "widgetMounts": 2,
+      "oneClosingLink": true,
+      "sha256": "48255ff738f99ccef6f1a8fb2ad117c372f179fe79061dff7c05536b47c8198d"
+    },
+    {
+      "url": "https://borobudurtempletour.org/blog/borobudur-with-kids/",
+      "status": 200,
+      "primary": "half",
+      "coverage": 8,
+      "widgetMounts": 2,
+      "oneClosingLink": true,
+      "sha256": "7b233403934f52afa5ca2196daaf3394691a80eb3889d0bb2fcaacc1aaa50874"
+    },
+    {
+      "url": "https://borobudurtempletour.org/blog/borobudur-in-the-rain/",
+      "status": 200,
+      "primary": "day",
+      "coverage": 7,
+      "widgetMounts": 2,
+      "oneClosingLink": true,
+      "sha256": "a0d05c5da76b2a998d80b7ce27003dbb2f2de27ffcea1f8e541e3b7a201b74cf"
+    },
+    {
+      "url": "https://borobudurtempletour.org/blog/first-time-at-borobudur-what-to-expect/",
+      "status": 200,
+      "primary": "half",
+      "coverage": 8,
+      "widgetMounts": 2,
+      "oneClosingLink": true,
+      "sha256": "6827f0b8ec7385351d6fd2a11cf7f5e452007b57225ea06c88e4fb6ef76b8e23"
+    },
+    {
+      "url": "https://borobudurtempletour.org/blog/can-you-wear-shorts-at-borobudur/",
+      "status": 200,
+      "primary": "day",
+      "coverage": 8,
+      "widgetMounts": 2,
+      "oneClosingLink": true,
+      "sha256": "035e3f05823ad146abc7b266e9bf19d0cff883f0d146ed28cdac35413b11701c"
+    },
+    {
+      "url": "https://borobudurtempletour.org/blog/is-it-rainy-season-in-indonesia/",
+      "status": 200,
+      "primary": "day",
+      "coverage": 6,
+      "widgetMounts": 2,
+      "oneClosingLink": true,
+      "sha256": "8d5a68b578285d9c6936b47aef76f098cdc94f74a61d3c4b2ab0a046ebe7fed5"
+    },
+    {
+      "url": "https://borobudurtempletour.org/blog/history-of-borobudur/",
+      "status": 200,
+      "primary": "half",
+      "coverage": 7,
+      "widgetMounts": 2,
+      "oneClosingLink": true,
+      "sha256": "47063fdc54c85ee2234c74c90dcf9d24337995b4675561c177293ef7bc5c1d3a"
+    },
+    {
+      "url": "https://borobudurtempletour.org/blog/is-yogyakarta-worth-visiting/",
+      "status": 200,
+      "primary": "day",
+      "coverage": 8,
+      "widgetMounts": 2,
+      "oneClosingLink": true,
+      "sha256": "752ee67cb4368d85c462d17534cf6e831e03b35adf506b1f47aa962f9430212c"
+    },
+    {
+      "url": "https://borobudurtempletour.org/blog/where-to-go-instead-of-bali/",
+      "status": 200,
+      "primary": "day",
+      "coverage": 8,
+      "widgetMounts": 2,
+      "oneClosingLink": true,
+      "sha256": "ef0ad638388b652fd3ef63e3c1163a20b75f1fe65c2c12cd2cb77ddc9408774d"
+    },
+    {
+      "url": "https://borobudurtempletour.org/blog/is-prambanan-hindu-or-buddhist/",
+      "status": 200,
+      "primary": "day",
+      "coverage": 6,
+      "widgetMounts": 2,
+      "oneClosingLink": true,
+      "sha256": "83a01615634006517cbd00714c0e9e210dc6d4ba10901c0b050ed1e07b197155"
+    },
+    {
+      "url": "https://borobudurtempletour.org/blog/what-is-indonesia-famous-for/",
+      "status": 200,
+      "primary": "day",
+      "coverage": 8,
+      "widgetMounts": 2,
+      "oneClosingLink": true,
+      "sha256": "7e59f5fea55428dbc2a7223ec2c10a641f23a67a81b8e989fd42af6f7e3fba9b"
+    },
+    {
+      "url": "https://borobudurtempletour.org/guides/borobudur-sunrise/",
+      "status": 200,
+      "primary": "vip",
+      "coverage": 10,
+      "widgetMounts": 2,
+      "oneClosingLink": true,
+      "sha256": "36cb6ca8ff2b623571480e14d6a48be4bdb04670d6e428cd297c55639ce36d16"
+    },
+    {
+      "url": "https://borobudurtempletour.org/guides/best-time-to-visit-borobudur/",
+      "status": 200,
+      "primary": "half",
+      "coverage": 5,
+      "widgetMounts": 2,
+      "oneClosingLink": true,
+      "sha256": "e45e3e5096ba59e7bb85511ee4389acb36d2e83b3b9ab37e633076c3803e1859"
+    },
+    {
+      "url": "https://borobudurtempletour.org/guides/borobudur-from-yogyakarta/",
+      "status": 200,
+      "primary": "day",
+      "coverage": 6,
+      "widgetMounts": 2,
+      "oneClosingLink": true,
+      "sha256": "dada00e6f5c8e174d10488088cd68560e11b4f19b78ab3992d7a8556e1e37faa"
+    },
+    {
+      "url": "https://borobudurtempletour.org/guides/borobudur-seven-wonders/",
+      "status": 200,
+      "primary": "half",
+      "coverage": 9,
+      "widgetMounts": 2,
+      "oneClosingLink": true,
+      "sha256": "da88bdea1478e84ed536514023e635bb51766df6df01c4c8e2c421c3863fa535"
+    },
+    {
+      "url": "https://borobudurtempletour.org/guides/borobudur-vs-angkor-wat/",
+      "status": 200,
+      "primary": "day",
+      "coverage": 9,
+      "widgetMounts": 2,
+      "oneClosingLink": true,
+      "sha256": "a695ff9434b59f9afd409b1a6f78ccd7fc5112f9c8d94a50072037c2e5034554"
+    },
+    {
+      "url": "https://borobudurtempletour.org/guides/how-long-at-borobudur/",
+      "status": 200,
+      "primary": "half",
+      "coverage": 5,
+      "widgetMounts": 2,
+      "oneClosingLink": true,
+      "sha256": "86fce7e23debe42c67088e93efc0dd8f9abcc133653ad9995cfdc0ce6c0a518a"
+    },
+    {
+      "url": "https://borobudurtempletour.org/guides/climbing-borobudur/",
+      "status": 200,
+      "primary": "half",
+      "coverage": 10,
+      "widgetMounts": 2,
+      "oneClosingLink": true,
+      "sha256": "1498c362dda4acc11903e9d9bcc37656d909c34c0c4485cf0ee9cfdfbacd841e"
+    },
+    {
+      "url": "https://borobudurtempletour.org/guides/borobudur-tickets-and-prices/",
+      "status": 200,
+      "primary": "day",
+      "coverage": 10,
+      "widgetMounts": 2,
+      "oneClosingLink": true,
+      "sha256": "3a3ae212d86d72767f33e6aafa851a58e3b9b7f9340cca57aeb5cb77443c7bac"
+    },
+    {
+      "url": "https://borobudurtempletour.org/guides/why-was-borobudur-abandoned/",
+      "status": 200,
+      "primary": "half",
+      "coverage": 12,
+      "widgetMounts": 2,
+      "oneClosingLink": true,
+      "sha256": "db2362aeadebc6b411232e25724e1e0a946cf02f3d500ba460d175f6c9164d70"
+    },
+    {
+      "url": "https://borobudurtempletour.org/guides/what-to-wear-at-borobudur/",
+      "status": 200,
+      "primary": "half",
+      "coverage": 11,
+      "widgetMounts": 2,
+      "oneClosingLink": true,
+      "sha256": "eb8a39f3e0ea4d90c7e54522a7b5c24ae4215b34a8122186f9d52fe329faf29c"
+    },
+    {
+      "url": "https://borobudurtempletour.org/guides/is-borobudur-worth-visiting/",
+      "status": 200,
+      "primary": "half",
+      "coverage": 9,
+      "widgetMounts": 2,
+      "oneClosingLink": true,
+      "sha256": "42a1b34c79469d76d6c3b481eebb512aeeb9d4da84e81dfdec94952cf216e8f7"
+    }
+  ],
+  "assets": [
+    {
+      "path": "assets/cro/article.js",
+      "status": 200,
+      "sha256": "61cf7b0e67e7ded84b13d1917ed7fbab47e17e21e3709ff96df08e197581f982"
+    },
+    {
+      "path": "assets/cro/article.css",
+      "status": 200,
+      "sha256": "83cf73678d0f97cc186c3b67406d282ba889bab863480040dc464a6cee5fcf38"
+    }
+  ],
+  "api": [
+    {
+      "product": "214335P5",
+      "status": 503,
+      "body": {
+        "error": "Schedule temporarily unavailable"
+      }
+    },
+    {
+      "product": "INVALID",
+      "status": 400,
+      "body": {
+        "error": "Unknown product"
+      }
+    }
+  ],
+  "liveArticlesPassed": 23,
+  "providerState": "503 tested missing-secret fallback; approval pending"
+}

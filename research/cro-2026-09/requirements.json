@@ -340,8 +340,11 @@
       "build-tests.json",
       "behavior-tests.json",
       "scope-and-links.json",
-      "cloudflare-before.json"
+      "cloudflare-before.json",
+      "deployment.json",
+      "cloudflare-after.json",
+      "live-results.json"
     ],
-    "status": "scope guard passed; deployment pending"
+    "status": "passed scope, deployment and live HTTP; physical live browser unavailable after Mac lock"
   }
 ]
