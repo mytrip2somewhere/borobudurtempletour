@@ -35,7 +35,7 @@ for(const m of manifest){
  $('#cta-mid, .tour-picks, .blog-cta, .cta-banner, #stickyCta').remove();
  $('body').addClass('cro-page'); $('main').attr('data-cro-article','true');
  const raw=copy[m.slug];if(!raw||raw.length!==m.headings.length)throw Error('Plan mismatch '+m.slug);
- const primary=primaryFor(m);const choices=[...new Set([primary,'half','day',...raw.map(x=>x.split('|')[0]).filter(x=>x!=='none')])];
+ const primary=raw.at(-1).split('|')[0];const choices=[...new Set([primary,'half','day',...raw.map(x=>x.split('|')[0]).filter(x=>x!=='none')])];
  const plan={...m,primary,choices,slug:m.slug,sections:[],status:'planned',selector:{time:'hours including local travel',ages:'all supplied ages must fall within published bands; gaps are unknown',endpoint:'exact base only',language:'English only verified',mobility:'no step-free shortlist',month:'wet season ranks daytime only when no explicit experience chosen'},oldSurfaces:m.surfaces};
  const nodes=prose.find('h2,h3,h4,h5,h6').toArray();
  if(nodes.length!==m.headings.length)throw Error(`Original headings changed: ${m.slug} ${nodes.length}/${m.headings.length}`);

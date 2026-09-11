@@ -26,6 +26,7 @@ Detailed source edits: editorial-corrections.json plus git diff. Full source con
 Corrections made after the initial rendered build:
 
 - Nested H3s in the ticket-inclusions section initially put the parent pitch after its children, breaking reading-order alternation. Moved the parent coverage immediately before its nested subsections while retaining its answer first. Added the normal-build tone check.
+- A final omission audit found three endings with different variants of the same Viator product. Aligned their initial recommendation with the article’s authored closing choice, then consolidated them too.
 - Consolidated the last same-product recommendation with the final Viator module, after all editorial/FAQ content. Removed the neighboring duplicate closing CTA.
 - Limited native GYG calendars to one mid-article placement per page; other relevant GYG references remain concise contextual actions.
 - Collapsed the attributed native-widget fallback beneath the provider calendar to avoid two visible authored booking actions.

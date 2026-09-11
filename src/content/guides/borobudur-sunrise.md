@@ -152,7 +152,7 @@ The exact minutes shift with the season, your hotel's distance from the plain, a
 | ~06:30 | Transfer to Borobudur, roughly ten minutes down off the hill |
 | 08:30 or later | The climb itself, up onto the monument while the morning is still cool and the carvings read well |
 
-Note what that last line is and is not. The climb puts you on the structure after full daylight, not at the monument's own 04:00 sunrise, which is a separate official ticket entirely. The hill gave you the famous view; the climb gives you the temple up close. Two different moments, one morning, and both are inside the tour price.
+Note what that last line is and is not. The climb puts you on the structure after full daylight, not at the monument's own 04:00 sunrise, which is a separate official ticket entirely. The hill gave you the famous view; the climb gives you the temple up close. Two different moments, one morning. Select the all-inclusive hill-sunrise and climb bundle to include both.
 
 ## How does the hill dawn compare with the official monument dawn, side by side?
 
